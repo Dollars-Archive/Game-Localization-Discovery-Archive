@@ -21,7 +21,6 @@ PS2 시대의 일본 전용·마이너 게임을 직접 발굴하면서 **평점
 | [Izayoi Renka: Kami Furusato](games/izayoi-renka-kami-furusato.md) | 2004 | 일본풍 전기·연애 ADV | ⭐⭐⭐½☆ | GAMEMAN 5.2/10 (리뷰 0건) / Joko 3.2 | 확인 못함 | PC/DVD-PG 계열 → PS2 확장 | 🟢 플레이 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei wa Mahoutsukai!~](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐½ | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
 | [Mahou Sensei Negima! 2-Jikanme ~Tatakau Otometachi! Mahora Daiundokai SP!~](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐½ | GameFAQs 4.11/5 (19표) / GAMEMAN 8.0/10 / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
-| [Negima!? Dream Tactic: Yumemiru Otome wa Princess](games/negima-dream-tactic-yumemiru-otome-princess.md) | 2007 | 턴제 택티컬 SLG | ⭐⭐⭐⭐☆ | GameFAQs 4.03/5 (18표) / GAMEMAN 8.3/10 / Famitsu 24/40 | 확인 못함 | PS2 전용 | 💎 우선 확보 |
 
 ## 상태 기준
 
