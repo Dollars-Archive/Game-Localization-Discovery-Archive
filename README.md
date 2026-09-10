@@ -14,6 +14,11 @@ PS2 시대의 일본 전용·마이너 게임을 직접 발굴하면서 **평점
 | [Nettai Teikiatsu Shoujo](games/nettai-teikiatsu-shoujo.md) | 2007 | 학원 러브코미디 ADV | ⭐⭐⭐½☆ | GAMEMAN 7.6/10 | 확인 못함 | PC 성인판 / Android 기록 | 🟢 플레이 후보 |
 | [Rune Princess](games/rune-princess.md) | 2005 | 판타지 학원 연애 ADV | ⭐⭐⭐½☆ | 피코피코대백과 3.8/5 (4표) | 확인 못함 | 게임판 PS2 전용 | 🟢 플레이 후보 |
 | [Sorairo no Organ Remix](games/sorairo-no-organ-remix.md) | 2005 | 판타지·이세계 연애 ADV | ⭐⭐⭐½☆ | 피코피코대백과 3.8/5 (6표) | 확인 못함 | Windows 원작 → PS2 Remix | 🟢 플레이 후보 |
+| [Guardian Angel](games/guardian-angel.md) | 2003 | SF 미스터리·추리 ADV | ⭐⭐⭐⭐½ | 피코피코대백과 4.0/5 (3건) / GAMEMAN 9.2/10 (리뷰 0건) | 확인 못함 | 현재 PS2판만 확인 | 💎 우선 확보 |
+| [Kyuuketsu Hime Yui: Senyasyo](games/kyuuketsu-hime-yui-senyasyo.md) | 2003 | 호러·미스터리 비주얼노벨 | ⭐⭐⭐⭐½ | GameFAQs Great (17표) / GAMEMAN 9.6/10 (리뷰 0건) | 확인 못함 | PS2 → Windows 확장 이식 | 💎 우선 확보 |
+| [Shirogane no Soleil: Contract to the Future](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐⭐☆ | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 💎 우선 확보 |
+| [Sekai no Subete: Two of Us](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐⭐☆ | GAMEMAN 8.6/10 (리뷰 0건) / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 💎 우선 확보 |
+| [Izayoi Renka: Kami Furusato](games/izayoi-renka-kami-furusato.md) | 2004 | 일본풍 전기·연애 ADV | ⭐⭐⭐½☆ | GAMEMAN 5.2/10 (리뷰 0건) / Joko 3.2 | 확인 못함 | PC/DVD-PG 계열 → PS2 확장 | 🟢 플레이 후보 |
 
 ## 상태 기준
 
