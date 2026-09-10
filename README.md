@@ -18,7 +18,6 @@ PS2 시대의 일본 전용·마이너 게임을 직접 발굴하면서 **평점
 | [Kyuuketsu Hime Yui: Senyasyo](games/kyuuketsu-hime-yui-senyasyo.md) | 2003 | 호러·미스터리 비주얼노벨 | ⭐⭐⭐⭐½ | GameFAQs Great (17표) / GAMEMAN 9.6/10 (리뷰 0건) | 확인 못함 | PS2 → Windows 확장 이식 | 💎 우선 확보 |
 | [Shirogane no Soleil: Contract to the Future](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐⭐☆ | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 💎 우선 확보 |
 | [Sekai no Subete: Two of Us](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐⭐☆ | GAMEMAN 8.6/10 (리뷰 0건) / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 💎 우선 확보 |
-| [Izayoi Renka: Kami Furusato](games/izayoi-renka-kami-furusato.md) | 2004 | 일본풍 전기·연애 ADV | ⭐⭐⭐½☆ | GAMEMAN 5.2/10 (리뷰 0건) / Joko 3.2 | 확인 못함 | PC/DVD-PG 계열 → PS2 확장 | 🟢 플레이 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei wa Mahoutsukai!~](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐½ | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
 | [Mahou Sensei Negima! 2-Jikanme ~Tatakau Otometachi! Mahora Daiundokai SP!~](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐½ | GameFAQs 4.11/5 (19표) / GAMEMAN 8.0/10 / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
 
