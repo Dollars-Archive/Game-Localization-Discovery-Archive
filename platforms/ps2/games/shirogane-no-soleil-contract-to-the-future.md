@@ -1,4 +1,4 @@
-# Shirogane no Soleil: Contract to the Future
+# Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)
 
 > 원제: **白銀のソレイユ -Contract to the Future- 未来への契約**  
 > 상태: 💎 우선 후보  
@@ -10,6 +10,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 白銀のソレイユ -Contract to the Future- 未来への契約 |
+| 한글 제목 | 백은의 솔레이유 -Contract to the Future- 미래로의 계약 |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2008-10-23 (일본) |
 | 개발사 / 발매사 | Russell |
