@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-12**  
-> 등록 후보: **17개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **7개**
+> 등록 후보: **18개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **7개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -30,6 +30,7 @@
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 💎 우선 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 (리뷰 0건) | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
 | [Yatohime Zankikou: Tsurugi no Maki (야도희참귀행 -검의 권-)](games/yatohime-zankikou-tsurugi-no-maki.md) | 2007 | 현대 전기·이능 배틀 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.20/5 (5표) / Joko 3.0/5 (1건) | 확인 못함 | PC 원작 → PS2 이식·추가 CG | 🟢 후보 |
+| [Kyuuketsu Kitan Moonties (흡혈기담 문타이즈)](games/kyuuketsu-kitan-moonties.md) | 2008 | 흡혈귀·현대 전기 배틀 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 3.6/5 (5건) / GameFAQs 3.07/5 (7표) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC `Draculius` 원작 → PS2 확장·완성판 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
 | [Nettai Teikiatsu Shoujo (열대저기압소녀)](games/nettai-teikiatsu-shoujo.md) | 2007 | 학원 러브코미디 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 7.6/10 | 확인 못함 | PS2 원작 / PC 성인판 / Android 기록 | 🟢 후보 |
 | [Rune Princess (룬 프린세스)](games/rune-princess.md) | 2005 | 판타지 학원 연애 ADV | ⭐⭐⭐½☆ | C | 피코피코대백과 3.8/5 (4표) | 확인 못함 | 게임판 PS2 전용 | 🟢 후보 |
@@ -46,7 +47,7 @@
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
 - **B**: 한글화 가치는 충분하지만 다른 판본, 예상 검수량, 작품 우선순위를 함께 비교해야 하는 작품
-- **C**: 후보는 유지하지만 현재 A/B급보다 한글화 프로젝트 우선순위가 낮은 작품
+- **C**: 후보는 유지하지만 현재 A/B급보다 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **기술 난이도 점수와 별개**입니다. 파일을 실제 분석하지 않은 게임은 기술 난이도를 `미확인`으로 둡니다.
 
