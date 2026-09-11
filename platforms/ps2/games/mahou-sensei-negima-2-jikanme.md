@@ -103,11 +103,15 @@
 
 ## 대표 스크린샷
 
+GAME Watch에 공개된 개발 중 실제 PS2 게임 화면을 포함해 3장을 외부 원본으로 임베드한다.
+
 ![Negima 2-Jikanme - training](https://s.pacn.ws/1/p/PA.31738.009.jpg?v=ii2g9u&width=800)
+
+![Negima 2-Jikanme - school gameplay](https://game.watch.impress.co.jp/docs/20050519/negi03.jpg)
 
 ![Negima 2-Jikanme - gameplay](https://game.watch.impress.co.jp/docs/20050519/negi04.jpg)
 
-3. [Juegomania 전체 크기 화면](https://www.juegomania.org/galeria/ps2/3499/85608)
+- [GAME Watch 원본 기사](https://game.watch.impress.co.jp/docs/20050519/negi.htm)
 
 ## 한줄평
 
