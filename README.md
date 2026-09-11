@@ -3,7 +3,7 @@
 PS2 시대의 일본 전용·마이너 게임을 직접 발굴하면서 **평점, 시놉시스, 장단점, 한국어화 여부, 타 기종 이식 여부, 대표 스크린샷**을 정리하는 개인 아카이브입니다.
 
 > 현재 등록 기준: 큐레이션 추천도 **3.5/5 이상** 중 플레이 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-09-10**  
+> 한글패치 확인 기준일: **2026-09-11**  
 > 외부 평점은 표본이 매우 작은 일본/해외 사용자 DB가 많으므로 **참고값**으로만 사용합니다.
 
 ## 현재 후보
@@ -21,6 +21,7 @@ PS2 시대의 일본 전용·마이너 게임을 직접 발굴하면서 **평점
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐½ | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐½ | GameFAQs 4.11/5 (19표) / GAMEMAN 8.0/10 / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 확보 |
 | [Juujigen Rippoutai Cipher: Game of Survival](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐½ | Joko 4.0/5 (4건) / GAMEMAN 6.6/10 (리뷰 0건) / Bangumi 7.0/10 (36표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 추가판 | 💎 우선 확보 |
+| [EVE: New Generation](games/eve-new-generation.md) | 2006 | 멀티사이트 미스터리 ADV | ⭐⭐⭐⭐½ | GameFAQs 4.13/5 (15표) / 피코피코대백과 4.8/5 (6건) / Famitsu 26/40 | 확인 못함 | PS2 원판 → Windows `new generation X` | 💎 우선 확보 |
 
 ## 상태 기준
 
