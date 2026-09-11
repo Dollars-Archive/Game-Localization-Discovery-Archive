@@ -1,4 +1,4 @@
-# EVE: New Generation
+# EVE: New Generation (이브 뉴 제네레이션)
 
 > 원제: **EVE new generation / イブ・ニュージェネレーション**  
 > 상태: 💎 우선 후보  
@@ -10,6 +10,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | EVE new generation / イブ・ニュージェネレーション |
+| 한글 제목 | 이브 뉴 제네레이션 |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2006-08-31 (일본) |
 | 개발 / 발매 | Kadokawa Shoten 계열 제작 / 각천서점 발매 |
