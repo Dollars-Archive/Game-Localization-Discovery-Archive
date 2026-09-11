@@ -1,4 +1,4 @@
-# Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ~싸우는 소녀들! 마호라 대운동회 SP~)
+# Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)
 
 > 상태: 💎 우선 후보  
 > 발굴 추천도: ⭐⭐⭐⭐½ (4.5/5)  
@@ -9,7 +9,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 魔法先生ネギま！ 2時間目 戦う乙女たち！ 麻帆良大運動会SP！ |
-| 한글 제목 | 마법선생 네기마! 2교시 ~싸우는 소녀들! 마호라 대운동회 SP~ |
+| 한글 제목 | 마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～ |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2005-07-28 (일본) |
 | 개발사 | Aquria |
