@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-12**  
-> 등록 후보: **22개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
+> 등록 후보: **23개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -31,6 +31,7 @@
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 (리뷰 0건) | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애·일본사·신화 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.2/5 (6건) / Joko 약 3.63/5 (8건) / GameFAQs 2.94/5 (8표) | 확인 못함 | PC 원작 → PS2 재구성·사유키 추가 엔딩 | 🟢 후보 |
+| [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
 | [Soul Link EXTENSION (소울 링크 익스텐션)](games/soul-link-extension.md) | 2006 | 근미래 SF·폐쇄공간 서바이벌 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 3.4/5 (7건) / Joko 약 3.6/5 (10건) / Bangumi 6.4/10 (약 300표) | 확인 못함 | PC 원작 → PS2 확장 → PC `ULTIMATE` 리메이크 | 🟢 후보 |
 | [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 🟢 후보 |
 | [Yatohime Zankikou: Tsurugi no Maki (야도희참귀행 -검의 권-)](games/yatohime-zankikou-tsurugi-no-maki.md) | 2007 | 현대 전기·이능 배틀 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.20/5 (5표) / Joko 3.0/5 (1건) | 확인 못함 | PC 원작 → PS2 이식·추가 CG | 🟢 후보 |
