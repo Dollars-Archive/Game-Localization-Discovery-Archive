@@ -103,9 +103,13 @@ PS2판은 독자적인 시나리오·CG 확장판이고, 2012 Windows판은 원�
 
 ## 대표 스크린샷
 
-1. [PSX DataCenter - PS2 실제 게임 화면](https://psxdatacenter.com/psx2/games2/SLPM-66544.html)
-2. [LaunchBox - Gameplay Screenshot](https://gamesdb.launchbox-app.com/games/images/396683-sekai-no-subete-two-of-us)
-3. [Kotaku / IGDB - Screenshots & Videos](https://kotaku.com/games/sekai-no-subete-two-of-us)
+직접 이미지 핫링크가 안정적이지 않아 **실제 PS2 게임 화면 개별 페이지 2개 + 다수 실기 화면이 포함된 원본 페이지 1개**를 연결한다. 박스아트는 대표 스크린샷으로 세지 않는다.
+
+1. [Juegomania - PS2 실제 게임 화면 1](https://www.juegomania.org/galeria/ps2/3960/86681)
+2. [Juegomania - PS2 실제 게임 화면 2](https://www.juegomania.org/galeria/ps2/3960/86682)
+3. [PSX DataCenter - PS2 실제 게임 화면 다수](https://psxdatacenter.com/psx2/games2/SLPM-66544.html)
+
+추가로 [LaunchBox Gameplay Screenshot](https://gamesdb.launchbox-app.com/games/images/396683-sekai-no-subete-two-of-us)에서도 실제 화면을 확인할 수 있다.
 
 ## 한줄평
 
