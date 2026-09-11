@@ -14,7 +14,7 @@
 | 한글 제목 | 야도희참귀행 -검의 권- |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2007-07-26 (일본) |
-| 개발 | Terios / PS2판 개발·판매 Nine's fox |
+| 개발 | Terios |
 | 발매 | Nine's fox |
 | 제품 코드 | SLPM-66598 (통상판) / SLPM-66597 (초회한정판) |
 | 장르 | 현대 전기·이능 배틀 ADV / 비주얼노벨 |
@@ -28,7 +28,7 @@
 | 한글화 난이도 | 미확인 |
 | 현재 추천 버전 | PS2판. 원작의 성인 콘텐츠 자체를 중시하면 2005 Windows판도 비교 |
 
-> 국내 자료에서는 원제 `夜刀姫斬鬼行`을 **야도희참귀행**으로 표기한 사례가 확인된다. PS2 부제 `剣の巻`은 여기서는 뜻을 살려 `검의 권`으로 적었다.
+> 국내 자료에서는 원제 `夜刀姫斬鬼行`을 **야도희참귀행**으로 표기한 사례가 확인된다. PS2 부제 `剣の巻`은 여기서는 뜻을 살려 `검의 권`으로 적었다. 일본어 자료에 명시된 독음은 `つるぎのまき`이므로 로마자 표기는 **Tsurugi no Maki**를 기준으로 한다.
 
 ## 스포일러 최소 시놉시스
 
@@ -65,9 +65,11 @@
 
 | 출처 | 점수 | 표본 수 | 비고 |
 |---|---:|---:|---|
-| GameFAQs | Great | 5표 | 이용자 평가. 플레이타임은 3명 평균 약 20시간 |
+| GameFAQs | **4.20/5** | **5표** | 사이트 표기는 `Great`; 플레이타임은 3명 평균 약 20시간 |
 | Joko | 3.0/5 | 1건 | 캐릭터·영상·성우·분량은 호평, 표본은 매우 작음 |
+| Famitsu.com | 평균 `-` | 수치 미집계 | 타이틀 페이지에 리뷰 평균 점수가 등록되어 있지 않음 |
 | GAMEMAN | 점수 없음 | 리뷰 0건 | 게임 정보만 참고 |
+| Bangumi | 정확 수치 확인 못함 | 10명 미만 | 2005 PC 원작 기준이며 PS2판 별도 집계는 확인하지 못함 |
 
 > 외부 평점 표본이 극히 적다. 이 작품은 숫자 평점보다 당시 장문 감상과 루트 구조 평가를 함께 보는 편이 낫다.
 
@@ -128,7 +130,6 @@ MobyGames에 등록된 **PS2판 실제 게임 화면** 중 대화·이벤트·�
 1. [PS2 실제 대화 화면 - 유마의 방에서 사쿠라코와 대화](https://www.mobygames.com/game/69969/yatohime-zankiko-tsurugi-no-maki/screenshots/ps2/746905/)
 2. [PS2 실제 대화 화면 - 킨코·긴코 장면](https://www.mobygames.com/game/69969/yatohime-zankiko-tsurugi-no-maki/screenshots/ps2/746919/)
 3. [PS2 실제 플레이 화면 - 밤길 귀가 장면](https://www.mobygames.com/game/69969/yatohime-zankiko-tsurugi-no-maki/screenshots/ps2/746923/)
-
 - [MobyGames PS2 스크린샷 전체 갤러리](https://www.mobygames.com/game/69969/yatohime-zankiko-tsurugi-no-maki/screenshots/)
 
 ## 한줄평
@@ -138,9 +139,11 @@ MobyGames에 등록된 **PS2판 실제 게임 화면** 중 대화·이벤트·�
 ## 참고 자료
 
 - [GameFAQs - PS2 기본 정보 / 평점 / 플레이타임](https://gamefaqs.gamespot.com/ps2/935262-yatohime-zankikou)
+- [GameFAQs - 사용자 평점 순위](https://gamefaqs.gamespot.com/games/rankings?dlc=1&game_id=959569&list_type=rate&min_votes=2&page=2&platform=94)
 - [GameFAQs - 발매 정보 / 제품 코드](https://gamefaqs.gamespot.com/ps2/935262-yatohime-zankikou/data)
 - [MobyGames - PS2판 개요 / 원작 관계 / 스크린샷](https://www.mobygames.com/game/69969/yatohime-zankiko-tsurugi-no-maki/)
 - [Joko - PS2 사용자 리뷰](https://www.joko.jp/ps2/review/ti2252.html)
+- [Famitsu.com - PS2 타이틀 페이지](https://www.famitsu.com/game/title/3659/videos/page/1)
 - [GAMEMAN - PS2 제품 정보](https://www.gameman.jp/item/20402.html)
 - [게오 온라인 - PS2판 상품 설명 / 루트 해금 구조](https://ec.geo-online.co.jp/shop/g/g001362702/)
 - [키노쿠니야 - 공식 비주얼 가이드북 / PS2 추가 이벤트 CG](https://www.kinokuniya.co.jp/f/dsg-01-9784861764431)
