@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-12**  
-> 등록 후보: **15개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **6개**
+> 등록 후보: **16개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **7개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -29,6 +29,7 @@
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.6/5 (7건) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 💎 우선 후보 |
 | [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐½ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 (리뷰 0건) / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 (리뷰 0건) | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
+| [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐½ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
 
 ## 발굴 상태 기준
 
