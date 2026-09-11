@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <title>Game Localization Discovery Archive</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body data-page="index">
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="./">Dollars Archive</a>
+      <a class="github-link" href="https://github.com/Dollars-Archive/Game-Localization-Discovery-Archive" target="_blank" rel="noreferrer">GitHub ↗</a>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">GAME LOCALIZATION DISCOVERY ARCHIVE</p>
+      <h1>한글화 후보 게임 아카이브</h1>
+      <p class="hero-copy">개발자 화면은 치우고, 후보를 고르는 데 필요한 정보만 읽기 좋게 모았습니다.</p>
+      <div class="stats" id="stats" aria-live="polite"></div>
+    </section>
+
+    <section class="panel">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">PLAYSTATION 2</p>
+          <h2>현재 후보</h2>
+        </div>
+        <div class="toolbar">
+          <label class="searchbox">
+            <span>검색</span>
+            <input id="search" type="search" placeholder="게임명 · 장르 · 버전" autocomplete="off" />
+          </label>
+        </div>
+      </div>
+
+      <div class="sortbar" aria-label="정렬">
+        <span class="sort-label">정렬</span>
+        <button class="sort-btn active" data-sort="priority">한글화 우선도</button>
+        <button class="sort-btn" data-sort="rating">발굴 추천도</button>
+        <button class="sort-btn" data-sort="year">발매연도</button>
+        <button class="sort-btn" data-sort="title">이름</button>
+      </div>
+
+      <div id="status" class="status">후보 목록을 불러오는 중…</div>
+      <div class="table-wrap" id="table-wrap" hidden>
+        <table class="candidate-table">
+          <thead>
+            <tr>
+              <th>게임</th>
+              <th>발매</th>
+              <th>장르</th>
+              <th>발굴 추천도</th>
+              <th>한글화 우선도</th>
+              <th>타 기종 / 다른 버전</th>
+              <th>상태</th>
+            </tr>
+          </thead>
+          <tbody id="candidate-body"></tbody>
+        </table>
+      </div>
+      <p class="footnote">원본 데이터는 저장소의 <code>platforms/ps2/README.md</code>에서 실시간으로 읽습니다. README가 갱신되면 이 화면도 자동으로 따라갑니다.</p>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
