@@ -104,9 +104,16 @@ Windows판에는 그래픽 향상과 `千沙` 관련 추가 스토리가 확인�
 
 ## 대표 스크린샷
 
-1. [GAME Watch - 유이 교내 이벤트 화면](https://game.watch.impress.co.jp/docs/20030514/cyber03.htm)
-2. [피코피코대백과 - 타이틀 및 플레이 화면](https://www.gavas.jp/products/detail.php?product_id=13991)
-3. [최근 PS2 실플레이 후기](https://gameflame.seesaa.net/article/501859547.html)
+피코피코대백과에 공개된 PS2판 실제 플레이 화면 3장을 외부 원본으로 임베드한다.
+
+![Kyuuketsu Hime Yui PS2 gameplay screenshot 1](https://www.gavas.jp/upload/save_image/13991_1.jpg)
+
+![Kyuuketsu Hime Yui PS2 gameplay screenshot 2](https://www.gavas.jp/upload/save_image/13991_2.jpg)
+
+![Kyuuketsu Hime Yui PS2 gameplay screenshot 3](https://www.gavas.jp/upload/save_image/13991_3.jpg)
+
+- [피코피코대백과 원본 플레이 화면](https://www.gavas.jp/products/detail.php?product_id=13991)
+- [GAME Watch 추가 화면](https://game.watch.impress.co.jp/docs/20030514/cyber03.htm)
 
 ## 한줄평
 
