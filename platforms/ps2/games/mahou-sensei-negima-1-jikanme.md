@@ -1,4 +1,4 @@
-# Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～
+# Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ~꼬마 선생님은 마법사!~)
 
 > 상태: 💎 우선 후보  
 > 발굴 추천도: ⭐⭐⭐⭐½ (4.5/5)  
@@ -9,6 +9,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 魔法先生ネギま！ 1時間目 ～お子ちゃま先生は魔法使い！～ |
+| 한글 제목 | 마법선생 네기마! 1교시 ~꼬마 선생님은 마법사!~ |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2005-01-20 (일본) |
 | 개발사 | Aquria |
