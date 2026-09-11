@@ -1,4 +1,4 @@
-# Juujigen Rippoutai Cipher: Game of Survival
+# Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)
 
 > 원제: **十次元立方体サイファー ～ゲーム・オブ・サバイバル～**  
 > 상태: 💎 우선 후보  
@@ -10,6 +10,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 十次元立方体サイファー ～ゲーム・オブ・サバイバル～ |
+| 한글 제목 | 십차원 입방체 사이퍼: 게임 오브 서바이벌 |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2007-06-28 (일본) |
 | 개발사 | Abel Software |
