@@ -99,9 +99,15 @@ PS2판은 PC 성인 요소를 제거하는 대신 일부 시나리오와 캐릭�
 
 ## 대표 스크린샷
 
-1. [GAME Watch - 캐릭터 대화/이벤트 화면](https://game.watch.impress.co.jp/docs/news/474822.html)
-2. [4Gamer - PSP 스크린샷](https://www.4gamer.net/games/139/G013957/)
-3. [Bahamut - 게임 화면/캐릭터 소개](https://gnn.gamer.com.tw/detail.php?sn=59991)
+PSP판은 PS2판을 기반으로 한 후기 이식판이다. 아래 3장은 GAME Watch에 공개된 실제 게임 화면이며, 저작권 이미지는 저장소에 복제하지 않고 외부 원본을 임베드한다.
+
+![Konneko gameplay screenshot 1](https://asset.watch.impress.co.jp/img/gmw/docs/474/822/neko04_s.gif)
+
+![Konneko gameplay screenshot 2](https://asset.watch.impress.co.jp/img/gmw/docs/474/822/neko05_s.gif)
+
+![Konneko gameplay screenshot 3](https://asset.watch.impress.co.jp/img/gmw/docs/474/822/neko06_s.gif)
+
+- [GAME Watch 원본 기사 / 스크린샷](https://game.watch.impress.co.jp/docs/news/474822.html)
 
 ## 한줄평
 
