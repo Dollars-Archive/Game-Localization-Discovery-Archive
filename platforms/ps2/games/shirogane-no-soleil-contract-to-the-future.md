@@ -100,9 +100,16 @@ PS2판은 성인 요소를 제거하는 대신 원작보다 루트·엔딩·CG·
 
 ## 대표 스크린샷
 
-1. [캐릭터 대화 화면](https://www.mobygames.com/game/64206/shirogane-no-soleil-mirai-e-no-keiyaku/screenshots/ps2/697732/)
-2. [발키리 솔 등장 화면](https://www.mobygames.com/game/64206/shirogane-no-soleil-mirai-e-no-keiyaku/screenshots/ps2/697728/)
-3. [카드 기반 전투 화면](https://www.mobygames.com/game/64206/shirogane-no-soleil-mirai-e-no-keiyaku/screenshots/ps2/697724/)
+실제 PS2판 이벤트/전투 화면 3장을 외부 원본으로 임베드한다.
+
+![Shirogane no Soleil PS2 event screenshot 1](https://game.watch.impress.co.jp/docs/20080212/soleil07.gif)
+
+![Shirogane no Soleil PS2 event screenshot 2](https://game.watch.impress.co.jp/docs/20080212/soleil08.gif)
+
+![Shirogane no Soleil PS2 card battle screenshot](https://cdn.mobygames.com/screenshots/9039005-shirogane-no-soleil-mirai-e-no-keiyaku-playstation-2-card-battle.jpg)
+
+- [GAME Watch 원본 기사](https://game.watch.impress.co.jp/docs/20080212/soleil.htm)
+- [MobyGames PS2 스크린샷](https://www.mobygames.com/game/64206/shirogane-no-soleil-contract-to-the-future/screenshots/)
 
 ## 한줄평
 
