@@ -100,9 +100,14 @@ Windows판은 PS2 원작을 성인용으로 재구성한 버전이다. Android�
 
 ## 대표 스크린샷
 
-1. [MobyGames - 태풍이 도쿄로 향하는 게임 화면](https://www.mobygames.com/game/62933/nettaiteikiatsu-shojo/screenshots/ps2/693950/)
-2. [MobyGames - PS2 스크린샷 갤러리](https://www.mobygames.com/game/62933/nettaiteikiatsu-shojo/screenshots/ps2/)
-3. [LaunchBox - 실제 게임플레이 이미지](https://gamesdb.launchbox-app.com/games/images/392185-nettai-teikiatsu-shoujo)
+MobyGames의 PS2 실제 게임 화면 가운데 핫링크가 확인되는 화면은 직접 임베드하고, 나머지는 개별 스크린샷 원본 페이지를 연결한다.
+
+![Nettai Teikiatsu Shoujo PS2 - typhoon gameplay](https://cdn.mobygames.com/screenshots/8967328-nettaiteikiatsu-shojo-playstation-2-typhoon-seems-to-be-heading-.jpg)
+
+2. [MobyGames PS2 실제 화면 - 이전 장면](https://www.mobygames.com/game/62933/nettaiteikiatsu-shojo/screenshots/ps2/693949/)
+3. [MobyGames PS2 실제 화면 - 다음 장면](https://www.mobygames.com/game/62933/nettaiteikiatsu-shojo/screenshots/ps2/693951/)
+
+추가 화면은 [LaunchBox 실제 게임플레이 이미지](https://gamesdb.launchbox-app.com/games/images/392185-nettai-teikiatsu-shoujo)와 [PSX DataCenter](https://psxdatacenter.com/psx2/games2/SLPM-66861.html)에서도 확인할 수 있다.
 
 ## 한줄평
 
