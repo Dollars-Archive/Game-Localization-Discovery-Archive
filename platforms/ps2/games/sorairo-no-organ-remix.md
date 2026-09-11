@@ -1,4 +1,4 @@
-# Sorairo no Organ Remix
+# Sorairo no Organ Remix (하늘색 풍금 ~Remix~)
 
 > 원제: **空色の風琴 ～Remix～**  
 > 상태: 🟢 후보  
@@ -10,6 +10,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 空色の風琴 ～Remix～ |
+| 한글 제목 | 하늘색 풍금 ~Remix~ |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2005-07-07 (일본) |
 | 개발사 | The Lotus |
