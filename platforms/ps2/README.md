@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-12**  
-> 등록 후보: **20개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **8개**
+> 등록 후보: **20개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -30,7 +30,7 @@
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐½ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 💎 우선 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 (리뷰 0건) | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
-| [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 💎 우선 후보 |
+| [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 🟢 후보 |
 | [Yatohime Zankikou: Tsurugi no Maki (야도희참귀행 -검의 권-)](games/yatohime-zankikou-tsurugi-no-maki.md) | 2007 | 현대 전기·이능 배틀 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.20/5 (5표) / Joko 3.0/5 (1건) | 확인 못함 | PC 원작 → PS2 이식·추가 CG | 🟢 후보 |
 | [Kyuuketsu Kitan Moonties (흡혈기담 문타이즈)](games/kyuuketsu-kitan-moonties.md) | 2008 | 흡혈귀·현대 전기 배틀 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 3.6/5 (5건) / GameFAQs 3.07/5 (7표) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC `Draculius` 원작 → PS2 확장·완성판 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
@@ -40,15 +40,15 @@
 
 ## 발굴 상태 기준
 
-- 💎 **우선 후보**: 게임 자체 가치가 높아 확보·플레이·분석 우선순위가 높은 작품
-- 🟢 **후보**: 충분히 검토할 가치가 있으나 상대적 우선순위가 낮은 작품
+- 💎 **우선 후보**: 실제 확보·분석·한글화 검토 우선순위가 높은 게임
+- 🟢 **후보**: 충분히 검토할 가치가 있으나 상대적 우선순위가 낮은 게임
 - 🟡 **보류**: 장점은 있지만 평가·볼륨·접근성·기술 부담 등으로 후순위
 - 🔴 **패스**: 취향 또는 프로젝트 조건에 맞지 않아 제외
 
 ## 한글화 우선도 기준
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
-- **B**: 한글화 가치는 충분하지만 다른 판본, 예상 검수량, 상대 우선순위를 함께 비교해야 하는 작품
+- **B**: 충분히 한글화할 가치가 있지만 판본 선택·검수량·상대 우선순위를 함께 비교해야 하는 작품
 - **C**: 후보는 유지하지만 현재 A/B급보다 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **기술 난이도 점수와 별개**입니다. 파일을 실제 분석하지 않은 게임은 기술 난이도를 `미확인`으로 둡니다.
