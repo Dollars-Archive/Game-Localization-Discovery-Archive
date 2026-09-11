@@ -55,7 +55,7 @@ h1, h2, h3 { line-height: 1.25; letter-spacing: -.035em; }
 .table-wrap { overflow-x: auto; }
 .candidate-table { width: 100%; border-collapse: collapse; min-width: 980px; }
 .candidate-table th, .candidate-table td { padding: 16px 14px; border-top: 1px solid var(--line); text-align: left; vertical-align: middle; }
-.candidate-table th { position: sticky; top: 53px; z-index: 5; background: #f8f4ec; color: var(--muted); font-size: 12px; font-weight: 800; letter-spacing: .02em; }
+.candidate-table th { position: static; background: #f8f4ec; color: var(--muted); font-size: 12px; font-weight: 800; letter-spacing: .02em; }
 .candidate-table tbody tr:hover { background: #fbf7f0; }
 .game-link { color: var(--ink); font-weight: 800; text-decoration: none; }
 .game-link:hover { color: var(--accent); text-decoration: underline; }
