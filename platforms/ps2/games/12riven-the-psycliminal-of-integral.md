@@ -126,9 +126,16 @@ PS2와 Windows판이 기본 원형이고, **PSP판이 실질적인 후기 개선
 
 ## 대표 스크린샷
 
-1. [MobyGames - PS2 공식 플레이 화면 1](https://www.mobygames.com/game/82477/12riven-the-%CF%88climinal-of-integral/promo/group-113737/image-884267/)
-2. [MobyGames - PS2 공식 플레이 화면 4](https://www.mobygames.com/game/12riven-the-climinal-of-integral/promo/promoImageId%2C884270/)
-3. [4Gamer - PC판 실제 게임 화면 52장 갤러리](https://www.4gamer.net/games/047/G004737/20080331026/)
+4Gamer에 공개된 Windows판 실제 게임 화면 3장을 외부 원본으로 임베드한다. PS2/Windows판은 기본 원형이 같은 작품이며, 판본 표시는 혼동하지 않도록 명시한다.
+
+![12RIVEN PC gameplay screenshot 1](https://www.4gamer.net/games/047/G004737/20080331026/TN/001.jpg)
+
+![12RIVEN PC gameplay screenshot 2](https://www.4gamer.net/games/047/G004737/20080331026/TN/002.jpg)
+
+![12RIVEN PC gameplay screenshot 3](https://www.4gamer.net/games/047/G004737/20080331026/TN/003.jpg)
+
+- [4Gamer 원본 스크린샷 갤러리](https://www.4gamer.net/games/047/G004737/20080331026/)
+- [MobyGames PS2 공식 플레이 화면](https://www.mobygames.com/game/82477/12riven-the-%CF%88climinal-of-integral/promo/group-113737/)
 
 ## 한줄평
 
