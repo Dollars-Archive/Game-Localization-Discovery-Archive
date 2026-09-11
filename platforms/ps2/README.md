@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-12**  
-> 등록 후보: **18개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **7개**
+> 등록 후보: **19개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -23,6 +23,7 @@
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐½ | 🔥 A | Joko 4.0/5 (4건) / Bangumi 7.0/10 (36표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 추가판 | 💎 우선 후보 |
 | [EVE: New Generation (이브 뉴 제네레이션)](games/eve-new-generation.md) | 2006 | 멀티사이트 미스터리 ADV | ⭐⭐⭐⭐½ | 🔥 A | GameFAQs 4.13/5 (15표) / 피코피코대백과 4.8/5 (6건) / Famitsu 26/40 | 확인 못함 | PS2 원판 → Windows `new generation X` | 💎 우선 후보 |
 | [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐½ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 (리뷰 0건) / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
+| [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐⭐½ | 🔥 A | 피코피코대백과 4.5/5 (6건) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 💎 우선 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐½ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
 | [Sekai no Subete: Two of Us (세계의 전부 ～two of us～)](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐⭐☆ | B | GAMEMAN 8.6/10 (리뷰 0건) / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 💎 우선 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐½ | B | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
@@ -46,7 +47,7 @@
 ## 한글화 우선도 기준
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
-- **B**: 한글화 가치는 충분하지만 다른 판본, 예상 검수량, 작품 우선순위를 함께 비교해야 하는 작품
+- **B**: 한글화 가치는 충분하지만 다른 판본, 예상 검수량, 상대 우선순위를 함께 비교해야 하는 작품
 - **C**: 후보는 유지하지만 현재 A/B급보다 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **기술 난이도 점수와 별개**입니다. 파일을 실제 분석하지 않은 게임은 기술 난이도를 `미확인`으로 둡니다.
