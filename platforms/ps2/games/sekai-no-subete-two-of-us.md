@@ -1,4 +1,4 @@
-# Sekai no Subete: Two of Us
+# Sekai no Subete: Two of Us (세계의 전부 ~two of us~)
 
 > 원제: **世界ノ全テ ～two of us～**  
 > 상태: 💎 우선 후보  
@@ -10,6 +10,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | 世界ノ全テ ～two of us～ |
+| 한글 제목 | 세계의 전부 ~two of us~ |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2006-09-28 (일본) |
 | 개발사 / 발매사 | Yeti |
