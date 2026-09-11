@@ -5,8 +5,8 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-09-11**  
-> 등록 후보: **12개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
+> 한글패치 확인 기준일: **2026-09-12**  
+> 등록 후보: **13개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -26,6 +26,7 @@
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐½ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐½ | 🔥 A | Joko 4.0/5 (4건) / Bangumi 7.0/10 (36표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 추가판 | 💎 우선 후보 |
 | [EVE: New Generation (이브 뉴 제네레이션)](games/eve-new-generation.md) | 2006 | 멀티사이트 미스터리 ADV | ⭐⭐⭐⭐½ | 🔥 A | GameFAQs 4.13/5 (15표) / 피코피코대백과 4.8/5 (6건) / Famitsu 26/40 | 확인 못함 | PS2 원판 → Windows `new generation X` | 💎 우선 후보 |
+| [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.6/5 (7건) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 💎 우선 후보 |
 
 ## 발굴 상태 기준
 
