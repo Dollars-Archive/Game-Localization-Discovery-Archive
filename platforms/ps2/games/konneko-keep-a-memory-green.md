@@ -1,4 +1,4 @@
-# Konneko: Keep a Memory Green
+# Konneko: Keep a Memory Green (코네코: Keep a Memory Green)
 
 > 상태: 🟢 후보  
 > 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)  
@@ -9,6 +9,7 @@
 | 항목 | 내용 |
 |---|---|
 | 원제 | こねこねこねこ / Konneko: Keep a Memory Green |
+| 한글 제목 | 코네코: Keep a Memory Green |
 | 플랫폼 | PlayStation 2 |
 | 발매일 | 2005-10-27 (일본) |
 | 개발사 / 발매사 | Yeti |
