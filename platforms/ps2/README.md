@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **27개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
+> 등록 후보: **28개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -30,6 +30,7 @@
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 (리뷰 0건) | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 (리뷰 0건) | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
+| [Kazoku Keikaku: Kokoro no Kizuna (가족계획 ～마음의 인연～)](games/kazoku-keikaku-kokoro-no-kizuna.md) | 2005 | 군상형 휴먼드라마·연애 ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.9/5 (7건) / Joko 약 4.20/5 (공개 20건) / GameFAQs Great (15표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 강화판 / `Re:紡ぐ糸` 리메이크 | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애·일본사·신화 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.2/5 (6건) / Joko 약 3.63/5 (8건) / GameFAQs 2.94/5 (8표) | 확인 못함 | PC 원작 → PS2 재구성·사유키 추가 엔딩 | 🟢 후보 |
 | [Izumo 2: Gakuen Kyousoukyoku - Double Tact (이즈모2 학원광상곡 더블 택트)](games/izumo2-gakuen-kyousoukyoku-double-tact.md) | 2008 | 학원 러브코미디·루프형 후일담 ADV | ⭐⭐⭐½☆ | B | GameFAQs Great (6표) / GAMEMAN 8.5/10 (리뷰 0건) | 확인 못함 | PC 후일담 원작 → PS2 추가 CG·시나리오 | 🟢 후보 |
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
