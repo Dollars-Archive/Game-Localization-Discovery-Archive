@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-13**  
-> 등록 후보: **25개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
+> 등록 후보: **26개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -38,6 +38,7 @@
 | [Yatohime Zankikou: Tsurugi no Maki (야도희참귀행 -검의 권-)](games/yatohime-zankikou-tsurugi-no-maki.md) | 2007 | 현대 전기·이능 배틀 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.20/5 (5표) / Joko 3.0/5 (1건) | 확인 못함 | PC 원작 → PS2 이식·추가 CG | 🟢 후보 |
 | [Kyuuketsu Kitan Moonties (흡혈기담 문타이즈)](games/kyuuketsu-kitan-moonties.md) | 2008 | 흡혈귀·현대 전기 배틀 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 3.6/5 (5건) / GameFAQs 3.07/5 (7표) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC `Draculius` 원작 → PS2 확장·완성판 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
+| [Mahoromatic: Moetto ≠ KiraKira Maid-San (마호로매틱 더 모에≠반짝반짝 메이드 씨.)](games/mahoromatic-moetto-kirakira-maid-san.md) | 2003 | 캐릭터 ADV·미니게임 | ⭐⭐⭐½☆ | C | 피코피코대백과 4.3/5 (4건) / Joko 약 3.71/5 (7건) / GAMEMAN 8.7/10 (리뷰 0건) | 확인 못함 | PS2 오리지널 게임 / 직접 이식 확인 못함 | 🟢 후보 |
 | [Nettai Teikiatsu Shoujo (열대저기압소녀)](games/nettai-teikiatsu-shoujo.md) | 2007 | 학원 러브코미디 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 7.6/10 | 확인 못함 | PS2 원작 / PC 성인판 / Android 기록 | 🟢 후보 |
 | [Rune Princess (룬 프린세스)](games/rune-princess.md) | 2005 | 판타지 학원 연애 ADV | ⭐⭐⭐½☆ | C | 피코피코대백과 3.8/5 (4표) | 확인 못함 | 게임판 PS2 전용 | 🟢 후보 |
 | [Secret Game -KILLER QUEEN- (시크릿 게임 -킬러 퀸-)](games/secret-game-killer-queen.md) | 2008 | 폐쇄공간·데스게임·서스펜스 ADV | ⭐⭐⭐½☆ | C | Joko 공개 17건 단순평균 약 4.41/5 / Bangumi 6.2/10 (약 226표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | 동인 원작 → PS2 전면 리메이크 → PC `DEPTH` / PSP / Switch | 🟢 후보 |
