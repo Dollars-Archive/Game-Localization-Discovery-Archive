@@ -142,13 +142,16 @@ PS2판은 PC판의 성인 장면을 가정용 기준에 맞게 삭제·조정하
 
 ## 대표 스크린샷
 
-직접 안정적으로 확인 가능한 PS2 개별 스크린샷 원본 페이지가 부족해, **실제 PS2 플레이 영상 + 동일 시나리오 PC판 실제 플레이 화면**을 구분해서 연결한다.
+PS2판의 안정적인 개별 캡처 원본이 부족해, 아래 3장은 **동일 시나리오의 PC판 실제 플레이 화면**으로 보강한다. PS2 Double Tact는 기본 시나리오·캐릭터를 공유하지만 독자 CG·추가 시나리오가 있으므로 판본은 구분해서 본다.
 
-1. [PS2 SLPM-66908 실제 플레이 영상](https://www.dailymotion.com/video/x1aa9tc)
-2. [PC판 실제 플레이 화면 다수 / 장문 플레이 기록](https://alice0103.hatenablog.com/entry/2022/07/29/093000)
-3. [PC판 공식 게임 페이지 / 작품 화면·캐릭터 자료](https://www.studio-ego.jp/game/izumo2p/index.html)
+![IZUMO2 학원광상곡 실제 플레이 화면 1 - PC판](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alice0103/20220728/20220728230914.jpg)
 
-> PS2판과 PC판은 기본 시나리오·캐릭터를 공유하지만, PS2에는 별도 추가 CG·시나리오가 있으므로 화면 판본을 혼동하지 않는다.
+![IZUMO2 학원광상곡 실제 플레이 화면 2 - PC판](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alice0103/20220728/20220728231132.jpg)
+
+![IZUMO2 학원광상곡 실제 플레이 화면 3 - PC판](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alice0103/20220728/20220728231313.jpg)
+
+- [PC판 실제 플레이 화면 원본 / 장문 플레이 기록](https://alice0103.hatenablog.com/entry/2022/07/29/093000)
+- [PS2 SLPM-66908 실제 플레이 영상](https://www.dailymotion.com/video/x1aa9tc)
 
 ## 한줄평
 
