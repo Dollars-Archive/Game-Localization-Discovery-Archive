@@ -5,8 +5,8 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-09-13**  
-> 등록 후보: **26개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
+> 한글패치 확인 기준일: **2026-09-14**  
+> 등록 후보: **27개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -37,6 +37,7 @@
 | [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 🟢 후보 |
 | [Yatohime Zankikou: Tsurugi no Maki (야도희참귀행 -검의 권-)](games/yatohime-zankikou-tsurugi-no-maki.md) | 2007 | 현대 전기·이능 배틀 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.20/5 (5표) / Joko 3.0/5 (1건) | 확인 못함 | PC 원작 → PS2 이식·추가 CG | 🟢 후보 |
 | [Kyuuketsu Kitan Moonties (흡혈기담 문타이즈)](games/kyuuketsu-kitan-moonties.md) | 2008 | 흡혈귀·현대 전기 배틀 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 3.6/5 (5건) / GameFAQs 3.07/5 (7표) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC `Draculius` 원작 → PS2 확장·완성판 | 🟢 후보 |
+| [Quilt: Anata to Tsumugu Yume to Koi no Dress (키루토 ～당신과 엮어가는 꿈과 사랑의 드레스～)](games/quilt-anata-to-tsumugu-yume-to-koi-no-dress.md) | 2007 | 의상 제작·연애 ADV/SLG | ⭐⭐⭐½☆ | B | Joko 4.0/5 (2건) / GameFAQs Playable (1표) / GAMEMAN 8.0/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 신규 히로인·루트·시나리오·의상 확장 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
 | [Mahoromatic: Moetto ≠ KiraKira Maid-San (마호로매틱 더 모에≠반짝반짝 메이드 씨.)](games/mahoromatic-moetto-kirakira-maid-san.md) | 2003 | 캐릭터 ADV·미니게임 | ⭐⭐⭐½☆ | C | 피코피코대백과 4.3/5 (4건) / Joko 약 3.71/5 (7건) / GAMEMAN 8.7/10 (리뷰 0건) | 확인 못함 | PS2 오리지널 게임 / 직접 이식 확인 못함 | 🟢 후보 |
 | [Nettai Teikiatsu Shoujo (열대저기압소녀)](games/nettai-teikiatsu-shoujo.md) | 2007 | 학원 러브코미디 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 7.6/10 | 확인 못함 | PS2 원작 / PC 성인판 / Android 기록 | 🟢 후보 |
