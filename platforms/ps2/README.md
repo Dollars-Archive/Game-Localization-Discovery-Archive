@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **55개** / 발굴 우선 후보: **15개** / 한글화 A급 후보: **9개**
+> 등록 후보: **56개** / 발굴 우선 후보: **16개** / 한글화 A급 후보: **9개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -57,6 +57,7 @@
 | [Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)](games/strawberry-panic-girls-school-in-fullbloom.md) | 2006 | 백합·학원 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (11표) / Joko 3.6/5 (5건) / Bangumi 7.8/10 (4표) / 게임카탈로그 クソゲー | 공개적으로 확인되지 않음 | PS2 통상/초회한정 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [School Rumble Ni-Gakki (스쿨럼블 2학기)](games/school-rumble-ni-gakki.md) | 2006 | 학원 러브코미디·캐릭터 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (19표) / Gavas 통상판 4.5/5 (2건) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | 2005 PS2 전작 → 2006 본작 / 초회한정·Best Collection | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
+| [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 (리뷰 0건) / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 CG·시나리오 대량 추가 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
 | [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
 | [Cross Channel: To All People (크로스 채널 ～To all people～)](games/cross-channel-to-all-people.md) | 2004 | SF·심리·루프 학원 ADV | ⭐⭐⭐⭐☆ | C | 피코피코대백과 4.9/5 (8건) / Joko 4.16/5 (10건 이상) / Bangumi 8.5/10 (약 4,260표, 작품 통합) / Famitsu 24/40 | 공개적으로 확인되지 않음 | PC 원작 → PS2 수정·추가 → PSP / X360 / PS3·Vita / Final Complete / Switch | 💎 우선 후보 |
