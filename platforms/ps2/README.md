@@ -22,8 +22,8 @@
 | [Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 🟢 후보 |
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐☆ | 🔥 A | Joko 4.0/5 (4건) / Bangumi 7.0/10 (36표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 추가판 | 💎 우선 후보 |
 | [EVE: New Generation (이브 뉴 제네레이션)](games/eve-new-generation.md) | 2006 | 멀티사이트 미스터리 ADV | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 4.13/5 (15표) / 피코피코대백과 4.8/5 (6건) / Famitsu 26/40 | 확인 못함 | PS2 원판 → Windows `new generation X` | 💎 우선 후보 |
-| [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 (리뷰 0건) / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
-| [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.5/5 (6건) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 🟢 후보 |
+| [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
+| [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.5/5 (6표) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
 | [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.4/5 (5건) / GameFAQs Good (8표) / Bangumi 7.8/10 (약 22표, 작품 통합) / GAMEMAN 9.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 💎 우선 후보 |
 | [Sekai no Subete: Two of Us (세계의 전부 ～two of us～)](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐½☆ | B | GAMEMAN 8.6/10 (리뷰 0건) / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 🟢 후보 |
@@ -44,7 +44,7 @@
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.0/5 (4건) / Joko 4.0/5 (공개 5건) / GAMEMAN 8.9/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 신규 히로인·시나리오·CG·합체공격 확장 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
 | [Routes PE (루츠 PE)](games/routes-pe.md) | 2007 | 스파이·액션·미스터리 비주얼노벨 | ⭐⭐⭐½☆ | B | GAMEMAN 7.1/10 (리뷰 0건) / Bangumi 6.6/10 (29표, 작품 통합) / Joko 공개 확인 2건 5/5·4/5 | 공개적으로 확인되지 않음 | PC 원작 → PS2/PSP 확장 이식 / PC 한국어화 공개 사례 | 🟢 후보 |
-| [Metal Wolf REV (메탈 울프-rev)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
+| [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
 | [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0/10 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
@@ -67,14 +67,14 @@
 
 - 💎 **우선 후보**: 발굴 추천도 4.0 이상인 작품
 - 🟢 **후보**: 발굴 추천도 3.5인 작품
-- 🟡 **보류**: 장점은 있지만 평가·볼륨·접근성·기술 부담 등으로 후순위
+- 🟡 **보류**: 장점은 있지만 볼륨·평가·기술 부담 등으로 후순위
 - 🔴 **패스**: 객관적 작품 평가 또는 프로젝트 조건상 제외
 
 ## 한글화 우선도 기준
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
 - **B**: 충분히 한글화할 가치가 있지만 판본 선택·검수량·상대 우선순위를 함께 비교해야 하는 작품
-- **C**: 후보는 유지하지만 현재 A/B급보다 한글화 프로젝트 우선순위가 낮은 작품
+- **C**: 후보는 유지하지만 현재 A/B급보다 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **발굴 추천도 및 기술 난이도와 별개**입니다. 3.5점 작품도 판본 희소성·한국어 접근성·독자 콘텐츠 때문에 A급 한글화 후보일 수 있습니다. 파일을 실제 분석하지 않은 게임은 기술 난이도를 `미확인`으로 둡니다.
 
