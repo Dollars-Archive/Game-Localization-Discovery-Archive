@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **33개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **8개**
+> 등록 후보: **34개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -43,6 +43,7 @@
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
 | [Routes PE (루츠 PE)](games/routes-pe.md) | 2007 | 스파이·액션·미스터리 비주얼노벨 | ⭐⭐⭐½☆ | B | GAMEMAN 7.1/10 (리뷰 0건) / Bangumi 6.6/10 (29표, 작품 통합) / Joko 공개 확인 2건 5/5·4/5 | 공개적으로 확인되지 않음 | PC 원작 → PS2/PSP 확장 이식 / PC 한국어화 공개 사례 | 🟢 후보 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
+| [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0/10 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
 | [Ma-Gi: Marginal (마지 ～그때의 먼 약속을～)](games/ma-gi-marginal.md) | 2003 | 판타지·미스터리·연애 ADV | ⭐⭐⭐½☆ | C | Joko 4.0/5 (8건) / GameFAQs 3.33/5 (3표) / Bangumi 6.7/10 (33표) / GAMEMAN 5.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC/PS2 전연령 이식 → PC Material Collection / DVDPG / iOS | 🟢 후보 |
 | [Mahoromatic: Moetto ≠ KiraKira Maid-San (마호로매틱 더 모에≠반짝반짝 메이드 씨.)](games/mahoromatic-moetto-kirakira-maid-san.md) | 2003 | 캐릭터 ADV·미니게임 | ⭐⭐⭐½☆ | C | 피코피코대백과 4.3/5 (4건) / Joko 약 3.71/5 (7건) / GAMEMAN 8.7/10 (리뷰 0건) | 확인 못함 | PS2 오리지널 게임 / 직접 이식 확인 못함 | 🟢 후보 |
