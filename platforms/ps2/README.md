@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **40개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **8개**
+> 등록 후보: **41개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **8개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -48,6 +48,7 @@
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Yoake Mae yori Ruriiro na: Brighter than Dawning Blue (새벽녘보다 유리색인 ～Brighter than dawning blue～)](games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md) | 2006 | SF 설정·학원·연애 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 4.00/5 (4표) / Bangumi 6.9/10 (168표, 판본 통합) / Joko 공개 확인 20건 약 2.95/5 / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·루트·CG 확장 → PC 역이식 / PSP / Complete Pack | 🟢 후보 |
+| [Croket! Ban-King no Kiki o Sukue (코로케! 반왕의 위기를 구하라)](games/croket-ban-king-no-kiki-o-sukue.md) | 2004 | 3D 캐릭터 액션·어드벤처 | ⭐⭐⭐½☆ | C | GameFAQs 4.0/5 (8표) / 피코피코대백과 3.7/5 (3건) / GAMEMAN 8.8/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2/GC 동시발매 / GC판 GBA 링크 기능 | 🟢 후보 |
 | [Konneko: Keep a Memory Green (코네코: Keep a Memory Green)](games/konneko-keep-a-memory-green.md) | 2005 | 미소녀 연애 ADV | ⭐⭐⭐½☆ | C | GAMEMAN 8.0/10 / GameFAQs 약 3.30/5 | 확인 못함 | Windows 원작 / PSP 이식 | 🟢 후보 |
 | [Ma-Gi: Marginal (마지 ～그때의 먼 약속을～)](games/ma-gi-marginal.md) | 2003 | 판타지·미스터리·연애 ADV | ⭐⭐⭐½☆ | C | Joko 4.0/5 (8건) / GameFAQs 3.33/5 (3표) / Bangumi 6.7/10 (33표) / GAMEMAN 5.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC/PS2 전연령 이식 → PC Material Collection / DVDPG / iOS | 🟢 후보 |
 | [Mahoromatic: Moetto ≠ KiraKira Maid-San (마호로매틱 더 모에≠반짝반짝 메이드 씨.)](games/mahoromatic-moetto-kirakira-maid-san.md) | 2003 | 캐릭터 ADV·미니게임 | ⭐⭐⭐½☆ | C | 피코피코대백과 4.3/5 (4건) / Joko 약 3.71/5 (7건) / GAMEMAN 8.7/10 (리뷰 0건) | 확인 못함 | PS2 오리지널 게임 / 직접 이식 확인 못함 | 🟢 후보 |
