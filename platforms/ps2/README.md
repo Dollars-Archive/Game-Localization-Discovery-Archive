@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **45개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **9개**
+> 등록 후보: **46개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **9개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -45,11 +45,12 @@
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
 | [Routes PE (루츠 PE)](games/routes-pe.md) | 2007 | 스파이·액션·미스터리 비주얼노벨 | ⭐⭐⭐½☆ | B | GAMEMAN 7.1/10 (리뷰 0건) / Bangumi 6.6/10 (29표, 작품 통합) / Joko 공개 확인 2건 5/5·4/5 | 공개적으로 확인되지 않음 | PC 원작 → PS2/PSP 확장 이식 / PC 한국어화 공개 사례 | 🟢 후보 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
-| [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0/10 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
+| [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
+| [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
 | [Cross Channel: To All People (크로스 채널 ～To all people～)](games/cross-channel-to-all-people.md) | 2004 | SF·심리·루프 학원 ADV | ⭐⭐⭐⭐☆ | C | 피코피코대백과 4.9/5 (8건) / Joko 4.16/5 (10건 이상) / Bangumi 8.5/10 (약 4,260표, 작품 통합) / Famitsu 24/40 | 공개적으로 확인되지 않음 | PC 원작 → PS2 수정·추가 → PSP / X360 / PS3·Vita / Final Complete / Switch | 💎 우선 후보 |
 | [Yoake Mae yori Ruriiro na: Brighter than Dawning Blue (새벽녘보다 유리색인 ～Brighter than dawning blue～)](games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md) | 2006 | SF 설정·학원·연애 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 4.00/5 (4표) / Bangumi 6.9/10 (168표, 판본 통합) / Joko 공개 확인 20건 약 2.95/5 / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·루트·CG 확장 → PC 역이식 / PSP / Complete Pack | 🟢 후보 |
 | [Croket! Ban-King no Kiki o Sukue (코로케! 반왕의 위기를 구하라)](games/croket-ban-king-no-kiki-o-sukue.md) | 2004 | 3D 캐릭터 액션·어드벤처 | ⭐⭐⭐½☆ | C | GameFAQs 4.0/5 (8표) / 피코피코대백과 3.7/5 (3건) / GAMEMAN 8.8/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2/GC 동시발매 / GC판 GBA 링크 기능 | 🟢 후보 |
@@ -67,14 +68,14 @@
 
 - 💎 **우선 후보**: 발굴 추천도 4.0 이상인 작품
 - 🟢 **후보**: 발굴 추천도 3.5인 작품
-- 🟡 **보류**: 장점은 있지만 볼륨·평가·기술 부담 등으로 후순위
+- 🟡 **보류**: 장점은 있지만 평가·볼륨·접근성·기술 부담 등으로 후순위
 - 🔴 **패스**: 객관적 작품 평가 또는 프로젝트 조건상 제외
 
 ## 한글화 우선도 기준
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
 - **B**: 충분히 한글화할 가치가 있지만 판본 선택·검수량·상대 우선순위를 함께 비교해야 하는 작품
-- **C**: 후보는 유지하지만 현재 A/B급보다 프로젝트 우선순위가 낮은 작품
+- **C**: 후보는 유지하지만 현재 A/B급보다 한글화 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **발굴 추천도 및 기술 난이도와 별개**입니다. 3.5점 작품도 판본 희소성·한국어 접근성·독자 콘텐츠 때문에 A급 한글화 후보일 수 있습니다. 파일을 실제 분석하지 않은 게임은 기술 난이도를 `미확인`으로 둡니다.
 
