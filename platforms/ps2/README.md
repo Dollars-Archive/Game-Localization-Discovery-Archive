@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **52개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **9개**
+> 등록 후보: **53개** / 발굴 우선 후보: **15개** / 한글화 A급 후보: **9개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -53,7 +53,7 @@
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
 | [Shin Koihime Musou: Otome Ryouran Sangokushi Engi (진 연희몽상 ～을녀요란☆삼국지연의～)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi.md) | 2011 | 삼국지 재해석·순애 역사 ADV/간이 전투 | ⭐⭐⭐½☆ | B | Famitsu 27/40 (6/6/8/7) / GameFAQs Fair (8표) / GAMEMAN 8.0/10 (리뷰 0건) / Bangumi 6.6/10 (203표, PC 원작) | 공개적으로 확인되지 않음 | PC 원작 → PSP 3분할 확장 → PS2 3편 합본+추가 스토리·CG·신규 OP / `혁명` 3부작 재구축 | 🟢 후보 |
 | [Shoujo Yoshitsune-den Ni: Toki o Koeru Chigiri (소녀 요시츠네전·이 ～시간을 초월한 인연～)](games/shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri.md) | 2005 | 시간여행·역사 전쟁·연애 ADV/SRPG | ⭐⭐⭐½☆ | B | Joko 3.50/5 (16건) / GameFAQs 2.75/5 (2표) / GAMEMAN 8.4/10 (리뷰 0건) / Bangumi 5.0/10 (1표) | 공개적으로 확인되지 않음 | PS2 오리지널 속편 / 후대 이식·리마스터 확인 못함 | 🟢 후보 |
-| [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!아プリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
+| [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!アプリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 (리뷰 0건) / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 CG·시나리오 대량 추가 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
 | [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
@@ -71,6 +71,7 @@
 | [Canvas: Sepia-iro no Motif (캔버스 ～세피아색의 모티프～)](games/canvas-sepia-iro-no-motif.md) | 2003 | 미술·학원·연애 ADV | ⭐⭐⭐½☆ | C | 피코피코대백과 4.5/5 (6건) / Joko 공개 1페이지 10건 평균 약 2.9/5 / GAMEMAN 7.0/10 / Bangumi 6.8/10 (약 53표) | 공개적으로 확인되지 않음 | PC 원작 → DC 신규 히로인·스토리 → PC DVD 역이식·풀보이스 → PS2 | 🟢 후보 |
 | [Green Green: Kane no Oto Dynamic (그린 그린 ～카네노네 다이내믹～)](games/green-green-kane-no-oto-dynamic.md) | 2003 | 학원·우정·러브코미디 연애 ADV | ⭐⭐⭐½☆ | C | Famitsu 22/40 / GAMEMAN 7.1/10 (리뷰 0건) / Juegomania 8.00/10 (4표) / Bangumi 7.8/10 (16표, PC 원작) | 공개적으로 확인되지 않음 | PC 원작 → PS2 Dynamic/ Romantic 분할 확장 → PC `鐘ノ音ダイナティック` / 2013 `OVERDRIVE EDITION` 리메이크 | 🟢 후보 |
 | [Jewels Ocean: Star of Sierra Leone (주얼스 오션 ～Star of Sierra Leone～)](games/jewels-ocean-star-of-sierra-leone.md) | 2006 | 다크 판타지·소환 전술 SLG/연애 ADV | ⭐⭐⭐☆☆ | C | Famitsu 25/40 / Joko 2.0/5 (2건) / GameFAQs Unrated | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 시나리오·CG·엔딩·전투 개편 | 🟡 보류 |
+| [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
 
 ## 발굴 상태 기준
 
