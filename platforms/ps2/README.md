@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **43개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **8개**
+> 등록 후보: **44개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **9개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -25,6 +25,7 @@
 | [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 (리뷰 0건) / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
 | [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.5/5 (6건) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
+| [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.4/5 (5건) / GameFAQs Good (8표) / Bangumi 7.8/10 (약 22표, 작품 통합) / GAMEMAN 9.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 💎 우선 후보 |
 | [Sekai no Subete: Two of Us (세계의 전부 ～two of us～)](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐½☆ | B | GAMEMAN 8.6/10 (리뷰 0건) / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 🟢 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐☆ | B | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
@@ -65,7 +66,7 @@
 
 - 💎 **우선 후보**: 발굴 추천도 4.0 이상인 작품
 - 🟢 **후보**: 발굴 추천도 3.5인 작품
-- 🟡 **보류**: 장점은 있지만 평가·볼륨·접근성·기술 부담 등으로 후순위
+- 🟡 **보류**: 장점은 있지만 볼륨·평가·기술 부담 등으로 후순위
 - 🔴 **패스**: 객관적 작품 평가 또는 프로젝트 조건상 제외
 
 ## 한글화 우선도 기준
