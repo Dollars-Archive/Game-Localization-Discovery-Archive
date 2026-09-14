@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **48개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **9개**
+> 등록 후보: **49개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **9개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -50,6 +50,7 @@
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
 | [Shin Koihime Musou: Otome Ryouran Sangokushi Engi (진 연희몽상 ～을녀요란☆삼국지연의～)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi.md) | 2011 | 삼국지 재해석·순애 역사 ADV/간이 전투 | ⭐⭐⭐½☆ | B | Famitsu 27/40 (6/6/8/7) / GameFAQs Fair (8표) / GAMEMAN 8.0/10 (리뷰 0건) / Bangumi 6.6/10 (203표, PC 원작) | 공개적으로 확인되지 않음 | PC 원작 → PSP 3분할 확장 → PS2 3편 합본+추가 스토리·CG·신규 OP / `혁명` 3부작 재구축 | 🟢 후보 |
+| [Shoujo Yoshitsune-den Ni: Toki o Koeru Chigiri (소녀 요시츠네전·이 ～시간을 초월한 인연～)](games/shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri.md) | 2005 | 시간여행·역사 전쟁·연애 ADV/SRPG | ⭐⭐⭐½☆ | B | Joko 3.50/5 (16건) / GameFAQs 2.75/5 (2표) / GAMEMAN 8.4/10 (리뷰 0건) / Bangumi 5.0/10 (1표) | 공개적으로 확인되지 않음 | PS2 오리지널 속편 / 후대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
 | [Cross Channel: To All People (크로스 채널 ～To all people～)](games/cross-channel-to-all-people.md) | 2004 | SF·심리·루프 학원 ADV | ⭐⭐⭐⭐☆ | C | 피코피코대백과 4.9/5 (8건) / Joko 4.16/5 (10건 이상) / Bangumi 8.5/10 (약 4,260표, 작품 통합) / Famitsu 24/40 | 공개적으로 확인되지 않음 | PC 원작 → PS2 수정·추가 → PSP / X360 / PS3·Vita / Final Complete / Switch | 💎 우선 후보 |
