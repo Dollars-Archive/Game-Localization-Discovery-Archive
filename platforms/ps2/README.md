@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **59개** / 발굴 우선 후보: **16개** / 한글화 A급 후보: **9개**
+> 등록 후보: **60개** / 발굴 우선 후보: **17개** / 한글화 A급 후보: **9개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -59,9 +59,10 @@
 | [Kita e. Diamond Dust (북으로 ～Diamond Dust～)](games/kita-e-diamond-dust.md) | 2003 | 홋카이도 여행·연애 트래블 커뮤니케이션 ADV | ⭐⭐⭐½☆ | B | Gavas 4.6/5 (7건) / GameFAQs Outstanding (3표) / Bangumi 7.2/10 (10표) / Joko 공개 6건 만족도 평균 약 2.83/5 / GAMEMAN 5.8/10 | 공개적으로 확인되지 않음 | PS2 원판·Hudson the Best / `+ Kiss is Beginning.`은 별도 후속작 | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
+| [Phantom Brave: 2-shuume Hajimemashita. (팬텀 브레이브 2주차 시작했습니다.)](games/phantom-brave-2-shuume-hajimemashita.md) | 2006 | 그리드리스 전술 SRPG·육성 RPG | ⭐⭐⭐⭐☆ | C | Metacritic 81/100 (PS2 원작) / Famitsu 33/40 / GameSpot 7.5/10 / Gavas 4.0/5 (1건, 2주차판) | 공개적으로 확인되지 않음 | 2004 원작 → 2006 PS2 2주차 → Wii/PSP/PC/Switch/PS5 / 2024 Switch 공식 한국어 | 💎 우선 후보 |
 | [Izumo Complete (이즈모 컴플리트)](games/izumo-complete.md) | 2005 | 일본신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (7표) / Joko 3.25/5 (4건) / GAMEMAN 9.2/10 | 공개적으로 확인되지 않음 | PC 원작·완전판 → DC → PS2 Complete / 한국 PC판 정발 | 🟢 후보 |
 | [Aoi Sora no Neosphere: Nanoca Flanka Hatsumei Koubouki 2 (창공의 네오스피아)](games/aoi-sora-no-neosphere-nanoca-flanka-hatsumei-koubouki-2.md) | 2007 | 도시부흥·발명 시뮬레이션/ADV | ⭐⭐⭐½☆ | C | Famitsu 27/40 / Dengeki PS 90·90·75·80 / GameFAQs Good (8표) / Gavas 4.5/5 (2건) / Joko 3.0/5 (2건) | 공개적으로 확인되지 않음 | PC 원작·한국어판 → PS2 대폭 확장 → PSP 개선판 / 2027 Legacy 예정 | 🟢 후보 |
-| [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 (리뷰 0건) / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 CG·시나리오 대량 추가 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
+| [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 (리뷰 0건) / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 시나리오·CG·엔딩·전투 개편 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
 | [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
 | [Cross Channel: To All People (크로스 채널 ～To all people～)](games/cross-channel-to-all-people.md) | 2004 | SF·심리·루프 학원 ADV | ⭐⭐⭐⭐☆ | C | 피코피코대백과 4.9/5 (8건) / Joko 4.16/5 (10건 이상) / Bangumi 8.5/10 (약 4,260표, 작품 통합) / Famitsu 24/40 | 공개적으로 확인되지 않음 | PC 원작 → PS2 수정·추가 → PSP / X360 / PS3·Vita / Final Complete / Switch | 💎 우선 후보 |
 | [Yoake Mae yori Ruriiro na: Brighter than Dawning Blue (새벽녘보다 유리색인 ～Brighter than dawning blue～)](games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md) | 2006 | SF 설정·학원·연애 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 4.00/5 (4표) / Bangumi 6.9/10 (168표, 판본 통합) / Joko 공개 확인 20건 약 2.95/5 / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·루트·CG 확장 → PC 역이식 / PSP / Complete Pack | 🟢 후보 |
@@ -83,7 +84,7 @@
 
 - 💎 **우선 후보**: 발굴 추천도 4.0 이상인 작품
 - 🟢 **후보**: 발굴 추천도 3.5인 작품
-- 🟡 **보류**: 장점은 있지만 평가·볼륨·접근성·기술 부담 등으로 후순위
+- 🟡 **보류**: 장점은 있지만 볼륨·평가·기술 난이도·접근성 등의 이유로 후순위
 - 🔴 **패스**: 객관적 작품 평가 또는 프로젝트 조건상 제외
 
 ## 한글화 우선도 기준
