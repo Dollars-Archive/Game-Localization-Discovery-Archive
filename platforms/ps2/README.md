@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **80개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **13개**
+> 등록 후보: **81개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -95,6 +95,7 @@
 | [Canvas: Sepia-iro no Motif (캔버스 ～세피아색의 모티프～)](games/canvas-sepia-iro-no-motif.md) | 2003 | 미술·학원·연애 ADV | ⭐⭐⭐½☆ | C | 피코피코대백과 4.5/5 (6건) / Joko 공개 1페이지 10건 평균 약 2.9/5 / GAMEMAN 7.0/10 / Bangumi 6.8/10 (약 53표) | 공개적으로 확인되지 않음 | PC 원작 → DC 신규 히로인·스토리 → PC DVD 역이식·풀보이스 → PS2 | 🟢 후보 |
 | [Green Green: Kane no Oto Dynamic (그린 그린 ～카네노네 다이내믹～)](games/green-green-kane-no-oto-dynamic.md) | 2003 | 학원·우정·러브코미디 연애 ADV | ⭐⭐⭐½☆ | C | Famitsu 22/40 / GAMEMAN 7.1/10 / Juegomania 8.00/10 (4표) / Bangumi 7.8/10 (16표, PC 원작) | 공개적으로 확인되지 않음 | PC 원작 → PS2 Dynamic/ Romantic 분할 확장 → PC `鐘ノ音ダイナティック` / 2013 `OVERDRIVE EDITION` 리메이크 | 🟢 후보 |
 | [Green Green: Kane no Oto Romantic (그린 그린 ～카네노네 로맨틱～)](games/green-green-kane-no-oto-romantic.md) | 2003 | 학원·우정·감정극 러브코미디 연애 ADV | ⭐⭐⭐½☆ | C | Joko 공개 확인 20건 약 3.60/5 / Famitsu 22/40 (PS2 콘솔판 계열) | 공개적으로 확인되지 않음 | PC 원작 → PS2 Romantic/Dynamic 분할 확장 → 2006 PC 추가 4히로인 통합 / 2013 OVERDRIVE 리메이크·공개 한국어 팬번역 사례 | 🟢 후보 |
+| [Fantastic Fortune 2 (판타스틱 포츈2)](games/fantastic-fortune-2.md) | 2003 | 판타지·육성·여성향 연애 시뮬레이션/ADV | ⭐⭐⭐½☆ | C | Gavas 4.5/5 (8건) / Joko 3.72/5 (리뷰 10건 이상) / GameFAQs Good (15표) | 공개적으로 확인되지 않음 | PS2 원판 → PS2 `Triple Star` 시스템·UI·외전 강화 → Windows 이식 | 🟢 후보 |
 | [Jewels Ocean: Star of Sierra Leone (주얼스 오션 ～Star of Sierra Leone～)](games/jewels-ocean-star-of-sierra-leone.md) | 2006 | 다크 판타지·소환 전술 SLG/연애 ADV | ⭐⭐⭐☆☆ | C | Famitsu 25/40 / Joko 2.0/5 (2건) / GameFAQs Unrated | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 시나리오·CG·엔딩·전투 개편 | 🟡 보류 |
 | [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
 | [F: Fanatic (F ～파나틱～)](games/f-fanatic.md) | 2004 | 고딕 호러·미스터리 연애 ADV | ⭐⭐⭐½☆ | C | Joko 3.99/5 (리뷰 10건 이상) / Gavas 4.4/5 (8건) / GameFAQs Fair (7표) / Bangumi 6.8/10 (12표) | 공개적으로 확인되지 않음 | PS2 / Windows 동시 발매 / 후대 이식 확인 못함 | 🟢 후보 |
