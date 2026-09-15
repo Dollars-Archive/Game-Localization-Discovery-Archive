@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **74개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **12개**
+> 등록 후보: **75개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **12개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -67,6 +67,7 @@
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko 3.77/5 (리뷰 10건 이상) / Gavas 3.9/5 (8건) / GameFAQs 4.25/5 (4표) / GAMEMAN 7.4/10 | 공개적으로 확인되지 않음 | PS2 오리지널 타이인 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
 | [Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)](games/aikagi-nukumori-to-hidamari-no-naka-de.md) | 2003 | 동거·가족·일상 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.4/5 (10표) / 피코피코대백과 4.8/5 (4건) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 이식 → PS2 신규 CG·에피소드 확장 / Best판 | 🟢 후보 |
+| [Monochrome (모노크롬)](games/monochrome.md) | 2004 | 천사·기억·고딕 분위기 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.8/5 (8건) / GameFAQs Good (11표) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PS2 원작 → PS2 SuperLite / PSP 16:9·이벤트 고화질화 / 중국어·Windows판 이력 | 🟢 후보 |
 | [Koisuru Otome to Shugo no Tate: The Shield of AIGIS (사랑하는 소녀와 수호의 방패 -The shield of AIGIS-)](games/koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.md) | 2008 | 여장 잠입·요인 경호·학원 연애 ADV | ⭐⭐⭐½☆ | C | Joko 공개 10건 3.10/5 / GameFAQs Great (3표) / GAMEMAN 8.8/10 (리뷰 0건) | 있음 (v1.0.1, 나이카나, 2026-08-14) | PC 원작 → PS2 대폭 확장 → PSP 16:9 이식 / Re:boot는 PS2 추가 히로인 2명 미수록 | 🟢 후보 |
 | [Kuon no Kizuna: Sairinshou (구원의 반 재림조)](games/kuon-no-kizuna-sairinshou.md) | 2002 | 윤회전생·일본 전기·비극 로맨스 VN | ⭐⭐⭐⭐☆ | C | Joko 공개 40건 약 4.13/5 / Bangumi 7.7/10 (51표) / GameFAQs Good (2표) / 원작 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PS1 원작 → DC 재림조 → PS2 → PSP / PC 풀보이스 / 공식 100% 한국어 모바일판 | 💎 우선 후보 |
 | [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
