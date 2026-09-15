@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **75개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **12개**
+> 등록 후보: **76개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **12개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -94,6 +94,7 @@
 | [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
 | [F: Fanatic (F ～파나틱～)](games/f-fanatic.md) | 2004 | 고딕 호러·미스터리 연애 ADV | ⭐⭐⭐½☆ | C | Joko 3.99/5 (리뷰 10건 이상) / Gavas 4.4/5 (8건) / GameFAQs Fair (7표) / Bangumi 6.8/10 (12표) | 공개적으로 확인되지 않음 | PS2 / Windows 동시 발매 / 후대 이식 확인 못함 | 🟢 후보 |
 | [Aoishiro (아오이시로)](games/aoishiro.md) | 2008 | 일본식 전기·호러·백합 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 3.73/5 (20표) / Gavas 4.1/5 (7건) / Joko 3.50/5 (4건) / Bangumi 7.1/10 (81표, 판본 통합) | 공개적으로 확인되지 않음 | PS2 원판 → Windows 확장 → PS2 SuperLite 역이식 → 2023 HD Remaster / HD 리마스터 한국어 패치 제작 중 | 🟢 후보 |
+| [Shinseiki Genso: Spectral Souls II (신기환상 스펙트럴 소울즈 2)](games/shinseiki-genso-spectral-souls-ii.md) | 2005 | 판타지 전쟁·3세력 교차 시점 SRPG | ⭐⭐⭐½☆ | C | Gavas 4.5/5 (6건) / GameFAQs Good (19표) / GAMEMAN 6.8/10 | 공개적으로 확인되지 않음 | PS2 원판 → PSP `SSII Unlimited Side` 확장 / PSP 공식 한국어판 있음 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
