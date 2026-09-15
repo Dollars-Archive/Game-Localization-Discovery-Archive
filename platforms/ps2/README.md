@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **58개** / 발굴 우선 후보: **16개** / 한글화 A급 후보: **9개**
+> 등록 후보: **59개** / 발굴 우선 후보: **16개** / 한글화 A급 후보: **9개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -56,6 +56,7 @@
 | [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!アプリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
 | [Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)](games/strawberry-panic-girls-school-in-fullbloom.md) | 2006 | 백합·학원 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (11표) / Joko 3.6/5 (5건) / Bangumi 7.8/10 (4표) / 게임카탈로그 クソゲー | 공개적으로 확인되지 않음 | PS2 통상/초회한정 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [School Rumble Ni-Gakki (스쿨럼블 2학기)](games/school-rumble-ni-gakki.md) | 2006 | 학원 러브코미디·캐릭터 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (19표) / Gavas 통상판 4.5/5 (2건) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | 2005 PS2 전작 → 2006 본작 / 초회한정·Best Collection | 🟢 후보 |
+| [Kita e. Diamond Dust (북으로 ～Diamond Dust～)](games/kita-e-diamond-dust.md) | 2003 | 홋카이도 여행·연애 트래블 커뮤니케이션 ADV | ⭐⭐⭐½☆ | B | Gavas 4.6/5 (7건) / GameFAQs Outstanding (3표) / Bangumi 7.2/10 (10표) / Joko 공개 6건 만족도 평균 약 2.83/5 / GAMEMAN 5.8/10 | 공개적으로 확인되지 않음 | PS2 원판·Hudson the Best / `+ Kiss is Beginning.`은 별도 후속작 | 🟢 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Izumo Complete (이즈모 컴플리트)](games/izumo-complete.md) | 2005 | 일본신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (7표) / Joko 3.25/5 (4건) / GAMEMAN 9.2/10 | 공개적으로 확인되지 않음 | PC 원작·완전판 → DC → PS2 Complete / 한국 PC판 정발 | 🟢 후보 |
