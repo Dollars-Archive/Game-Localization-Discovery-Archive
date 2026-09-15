@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **72개** / 발굴 우선 후보: **17개** / 한글화 A급 후보: **12개**
+> 등록 후보: **73개** / 발굴 우선 후보: **17개** / 한글화 A급 후보: **12개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -71,6 +71,7 @@
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Izumo Complete (이즈모 컴플리트)](games/izumo-complete.md) | 2005 | 일본신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (7표) / Joko 3.25/5 (4건) / GAMEMAN 9.2/10 | 공개적으로 확인되지 않음 | PC 원작·완전판 → DC → PS2 Complete / 한국 PC판 정발 | 🟢 후보 |
+| [Taishou Mononoke Ibunroku (모노노케 이문록)](games/taishou-mononoke-ibunroku.md) | 2003 | 대정시대·요괴 육성·전략 SRPG | ⭐⭐⭐½☆ | C | Joko 3.46/5 / Gavas 4.1/5 (7건) / GameFAQs Playable (3표) | 해당 없음 (공식 한국어판 존재) | 일본판 `SLPM-65228` / 한국 정식판 `SLKA-25123` | 🟢 후보 |
 | [Aoi Sora no Neosphere: Nanoca Flanka Hatsumei Koubouki 2 (창공의 네오스피아)](games/aoi-sora-no-neosphere-nanoca-flanka-hatsumei-koubouki-2.md) | 2007 | 도시부흥·발명 시뮬레이션/ADV | ⭐⭐⭐½☆ | C | Famitsu 27/40 / Dengeki PS 90·90·75·80 / GameFAQs Good (8표) / Gavas 4.5/5 (2건) / Joko 3.0/5 (2건) | 공개적으로 확인되지 않음 | PC 원작·한국어판 → PS2 대폭 확장 → PSP 개선판 / 2027 Legacy 예정 | 🟢 후보 |
 | [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 CG·시나리오 대량 추가 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
 | [H2O+: Footprints in the Sand (H2O 플러스 ～Footprints in the Sand～)](games/h2o-plus-footprints-in-the-sand.md) | 2008 | 시골 학원·사회갈등·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (21표) / 피코피코대백과 3.6/5 (7건) / Bangumi 6.9/10 (약 577표, 작품 통합) | 공개적으로 확인되지 않음 | PC 원작 → PS2 추가 히로인·시나리오·CG / 2009 Complete Story Edition | 🟢 후보 |
