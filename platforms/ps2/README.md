@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-14**  
-> 등록 후보: **72개** / 발굴 우선 후보: **17개** / 한글화 A급 후보: **12개**
+> 등록 후보: **73개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **12개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -68,6 +68,7 @@
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
 | [Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)](games/aikagi-nukumori-to-hidamari-no-naka-de.md) | 2003 | 동거·가족·일상 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.4/5 (10표) / 피코피코대백과 4.8/5 (4건) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 이식 → PS2 신규 CG·에피소드 확장 / Best판 | 🟢 후보 |
 | [Kuon no Kizuna: Sairinshou (구원의 반 재림조)](games/kuon-no-kizuna-sairinshou.md) | 2002 | 윤회전생·일본 전기·비극 로맨스 VN | ⭐⭐⭐⭐☆ | C | Joko 공개 40건 약 4.13/5 / Bangumi 7.7/10 (51표) / GameFAQs Good (2표) / 원작 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PS1 원작 → DC 재림조 → PS2 → PSP / PC 풀보이스 / 공식 100% 한국어 모바일판 | 💎 우선 후보 |
+| [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Izumo Complete (이즈모 컴플리트)](games/izumo-complete.md) | 2005 | 일본신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (7표) / Joko 3.25/5 (4건) / GAMEMAN 9.2/10 | 공개적으로 확인되지 않음 | PC 원작·완전판 → DC → PS2 Complete / 한국 PC판 정발 | 🟢 후보 |
