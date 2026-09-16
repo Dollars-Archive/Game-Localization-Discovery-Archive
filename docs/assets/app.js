@@ -3,6 +3,10 @@ const REPO = 'Game-Localization-Discovery-Archive';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/`;
 const GITHUB_BASE = `https://github.com/${OWNER}/${REPO}/blob/${BRANCH}/`;
+const PLATFORMS = {
+  ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md' },
+  psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md' },
+};
 
 function escapeHtml(value = '') {
   return String(value)
@@ -30,6 +34,9 @@ function extractMarkdownTable(markdown, firstHeader = '게임') {
   }
   return rows;
 }
+function hasMarkdownTable(markdown, firstHeader = '게임') {
+  return markdown.split(/\r?\n/).some(line => line.trim().startsWith(`| ${firstHeader} |`));
+}
 function parseMdLink(value) {
   const m = String(value).match(/^\[([^\]]+)\]\(([^)]+)\)$/);
   return m ? { label: m[1], href: m[2] } : { label: value, href: '' };
@@ -49,9 +56,9 @@ function ratingValue(value) {
   const stars = (s.match(/⭐/g) || []).length;
   return stars + (s.includes('½') ? 0.5 : 0);
 }
-function localizeGamePath(href) {
+function localizeGamePath(href, platform) {
   if (!href) return '#';
-  const normalized = href.startsWith('games/') ? `platforms/ps2/${href}` : href.replace(/^\.\//, '');
+  const normalized = href.startsWith('games/') ? `platforms/${platform}/${href}` : href.replace(/^\.\//, '');
   return `game.html?file=${encodeURIComponent(normalized)}`;
 }
 function priorityBadge(value) {
@@ -71,38 +78,43 @@ async function initIndex() {
   const body = document.getElementById('candidate-body');
   const search = document.getElementById('search');
   const stats = document.getElementById('stats');
-  const sortButtons = [...document.querySelectorAll('.sort-btn')];
-  try {
-    const markdown = await fetchText(`${RAW_BASE}platforms/ps2/README.md`);
-    const rawRows = extractMarkdownTable(markdown, '게임');
-    if (!rawRows.length) throw new Error('후보 표를 찾지 못했습니다.');
-    const rows = rawRows.map(row => {
-      const game = parseMdLink(row['게임']);
-      return {
-        title: cleanText(game.label), href: game.href,
-        year: Number(cleanText(row['발매'])) || 0,
-        genre: cleanText(row['장르']),
-        rating: cleanText(row['발굴 추천도']), ratingValue: ratingValue(row['발굴 추천도']),
-        priority: cleanText(row['한글화 우선도']), priorityRank: priorityRank(row['한글화 우선도']),
-        versions: cleanText(row['타 기종 / 다른 버전']), state: cleanText(row['상태']),
-      };
+  const platformEyebrow = document.getElementById('platform-eyebrow');
+  const platformTitle = document.getElementById('platform-title');
+  const sourceNote = document.getElementById('source-note');
+  const platformButtons = [...document.querySelectorAll('.platform-btn')];
+  const sortButtons = [...document.querySelectorAll('.sort-btn[data-sort]')];
+  const params = new URLSearchParams(location.search);
+  let activePlatform = PLATFORMS[params.get('platform')] ? params.get('platform') : 'ps2';
+  let rows = [];
+  let sortKey = 'priority';
+  let ascending = true;
+
+  const updateStats = () => {
+    const aCount = rows.filter(r => r.priorityRank === 0).length;
+    const bCount = rows.filter(r => r.priorityRank === 1).length;
+    const cCount = rows.filter(r => r.priorityRank === 2).length;
+    stats.innerHTML = `<span class="stat">등록 후보 <strong>${rows.length}</strong></span><span class="stat">🔥 A <strong>${aCount}</strong></span><span class="stat">B <strong>${bCount}</strong></span><span class="stat">C <strong>${cCount}</strong></span>`;
+  };
+
+  const render = () => {
+    const q = (search.value || '').trim().toLocaleLowerCase('ko');
+    const filtered = rows.filter(row => `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority}`.toLocaleLowerCase('ko').includes(q));
+    const sorted = [...filtered].sort((a, b) => {
+      let result = 0;
+      if (sortKey === 'priority') result = a.priorityRank - b.priorityRank || b.ratingValue - a.ratingValue || a.title.localeCompare(b.title, 'ko');
+      if (sortKey === 'rating') result = b.ratingValue - a.ratingValue || a.priorityRank - b.priorityRank || a.title.localeCompare(b.title, 'ko');
+      if (sortKey === 'year') result = a.year - b.year || a.title.localeCompare(b.title, 'ko');
+      if (sortKey === 'title') result = a.title.localeCompare(b.title, 'ko');
+      return ascending ? result : -result;
     });
-    let sortKey = 'priority';
-    let ascending = true;
-    const render = () => {
-      const q = (search.value || '').trim().toLocaleLowerCase('ko');
-      const filtered = rows.filter(row => `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority}`.toLocaleLowerCase('ko').includes(q));
-      const sorted = [...filtered].sort((a, b) => {
-        let result = 0;
-        if (sortKey === 'priority') result = a.priorityRank - b.priorityRank || b.ratingValue - a.ratingValue || a.title.localeCompare(b.title, 'ko');
-        if (sortKey === 'rating') result = b.ratingValue - a.ratingValue || a.priorityRank - b.priorityRank || a.title.localeCompare(b.title, 'ko');
-        if (sortKey === 'year') result = a.year - b.year || a.title.localeCompare(b.title, 'ko');
-        if (sortKey === 'title') result = a.title.localeCompare(b.title, 'ko');
-        return ascending ? result : -result;
-      });
+
+    if (!sorted.length) {
+      const message = rows.length ? '검색 결과가 없습니다.' : `아직 등록된 ${PLATFORMS[activePlatform].short} 후보가 없습니다.`;
+      body.innerHTML = `<tr><td colspan="7" class="meta-muted">${escapeHtml(message)}</td></tr>`;
+    } else {
       body.innerHTML = sorted.map(row => `
         <tr>
-          <td><a class="game-link" href="${localizeGamePath(row.href)}">${escapeHtml(row.title)}</a></td>
+          <td><a class="game-link" href="${localizeGamePath(row.href, activePlatform)}">${escapeHtml(row.title)}</a></td>
           <td>${row.year || ''}</td>
           <td>${escapeHtml(row.genre)}</td>
           <td class="rating">${escapeHtml(row.rating)}</td>
@@ -110,27 +122,66 @@ async function initIndex() {
           <td class="meta-muted">${escapeHtml(row.versions)}</td>
           <td class="state">${escapeHtml(row.state)}</td>
         </tr>`).join('');
-      status.hidden = true;
-      wrap.hidden = false;
-    };
-    const aCount = rows.filter(r => r.priorityRank === 0).length;
-    const bCount = rows.filter(r => r.priorityRank === 1).length;
-    const cCount = rows.filter(r => r.priorityRank === 2).length;
-    stats.innerHTML = `<span class="stat">등록 후보 <strong>${rows.length}</strong></span><span class="stat">🔥 A <strong>${aCount}</strong></span><span class="stat">B <strong>${bCount}</strong></span><span class="stat">C <strong>${cCount}</strong></span>`;
-    search.addEventListener('input', render);
-    sortButtons.forEach(btn => btn.addEventListener('click', () => {
-      const nextKey = btn.dataset.sort;
-      if (sortKey === nextKey) ascending = !ascending;
-      else { sortKey = nextKey; ascending = true; }
-      sortButtons.forEach(b => b.classList.toggle('active', b === btn));
-      sortButtons.forEach(b => { b.textContent = b.textContent.replace(/\s[↑↓]$/, ''); });
-      btn.textContent = `${btn.textContent} ${ascending ? '↑' : '↓'}`;
+    }
+    status.hidden = true;
+    wrap.hidden = false;
+  };
+
+  const loadPlatform = async platform => {
+    activePlatform = PLATFORMS[platform] ? platform : 'ps2';
+    const config = PLATFORMS[activePlatform];
+    platformButtons.forEach(btn => btn.classList.toggle('active', btn.dataset.platform === activePlatform));
+    platformEyebrow.textContent = config.label;
+    platformTitle.textContent = '현재 후보';
+    sourceNote.innerHTML = `원본 데이터는 저장소의 <code>${escapeHtml(config.path)}</code>에서 실시간으로 읽습니다. README가 갱신되면 이 화면도 자동으로 따라갑니다.`;
+    search.value = '';
+    status.hidden = false;
+    status.textContent = '후보 목록을 불러오는 중…';
+    wrap.hidden = true;
+
+    const url = new URL(location.href);
+    url.searchParams.set('platform', activePlatform);
+    history.replaceState(null, '', url);
+
+    try {
+      const markdown = await fetchText(`${RAW_BASE}${config.path}`);
+      if (!hasMarkdownTable(markdown, '게임')) throw new Error('후보 표를 찾지 못했습니다.');
+      const rawRows = extractMarkdownTable(markdown, '게임');
+      rows = rawRows.map(row => {
+        const game = parseMdLink(row['게임']);
+        return {
+          title: cleanText(game.label), href: game.href,
+          year: Number(cleanText(row['발매'])) || 0,
+          genre: cleanText(row['장르']),
+          rating: cleanText(row['발굴 추천도']), ratingValue: ratingValue(row['발굴 추천도']),
+          priority: cleanText(row['한글화 우선도']), priorityRank: priorityRank(row['한글화 우선도']),
+          versions: cleanText(row['타 기종 / 다른 버전']), state: cleanText(row['상태']),
+        };
+      });
+      updateStats();
       render();
-    }));
+    } catch (err) {
+      rows = [];
+      updateStats();
+      wrap.hidden = true;
+      status.hidden = false;
+      status.textContent = `후보 목록을 불러오지 못했습니다: ${err.message}`;
+    }
+  };
+
+  search.addEventListener('input', render);
+  sortButtons.forEach(btn => btn.addEventListener('click', () => {
+    const nextKey = btn.dataset.sort;
+    if (sortKey === nextKey) ascending = !ascending;
+    else { sortKey = nextKey; ascending = true; }
+    sortButtons.forEach(b => b.classList.toggle('active', b === btn));
+    sortButtons.forEach(b => { b.textContent = b.textContent.replace(/\s[↑↓]$/, ''); });
+    btn.textContent = `${btn.textContent} ${ascending ? '↑' : '↓'}`;
     render();
-  } catch (err) {
-    status.textContent = `후보 목록을 불러오지 못했습니다: ${err.message}`;
-  }
+  }));
+  platformButtons.forEach(btn => btn.addEventListener('click', () => loadPlatform(btn.dataset.platform)));
+
+  await loadPlatform(activePlatform);
 }
 function resolveRelativeMarkdownLink(currentFile, href) {
   if (/^(https?:|mailto:|#)/i.test(href)) return href;
