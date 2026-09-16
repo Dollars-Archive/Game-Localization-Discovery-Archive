@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **82개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **83개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -101,6 +101,7 @@
 | [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
 | [F: Fanatic (F ～파나틱～)](games/f-fanatic.md) | 2004 | 고딕 호러·미스터리 연애 ADV | ⭐⭐⭐½☆ | C | Joko 3.99/5 (리뷰 10건 이상) / Gavas 4.4/5 (8건) / GameFAQs Fair (7표) / Bangumi 6.8/10 (12표) | 공개적으로 확인되지 않음 | PS2 / Windows 동시 발매 / 후대 이식 확인 못함 | 🟢 후보 |
 | [Aoishiro (아오이시로)](games/aoishiro.md) | 2008 | 일본식 전기·호러·백합 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 3.73/5 (20표) / Gavas 4.1/5 (7건) / Joko 3.50/5 (4건) / Bangumi 7.1/10 (81표, 판본 통합) | 공개적으로 확인되지 않음 | PS2 원판 → Windows 확장 → PS2 SuperLite 역이식 → 2023 HD Remaster / HD 리마스터 한국어 패치 제작 중 | 🟢 후보 |
+| [Fukakutei Sekai no Tantei Shinshi: Agyou Souma no Jiken File (불확정세계의 탐정신사 ～아교 소우마의 사건파일～)](games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md) | 2009 | 하드보일드 탐정·시간제한 수사 ADV | ⭐⭐⭐½☆ | C | Bangumi 7.2/10 (28표, 판본 통합) / GAMEMAN 8.9/10 (리뷰 0건) / 4Gamer 50/100 (1건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PC 원작 → DC/HardCore/Rebirth → PS2 사건007 추가 → 2026 현행기 일본어 이식 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
