@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **89개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **90개** / 발굴 우선 후보: **20개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -68,7 +68,7 @@
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko 3.77/5 (리뷰 10건 이상) / Gavas 3.9/5 (8건) / GameFAQs 4.25/5 (4표) / GAMEMAN 7.4/10 | 공개적으로 확인되지 않음 | PS2 오리지널 타이인 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
 | [Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)](games/aikagi-nukumori-to-hidamari-no-naka-de.md) | 2003 | 동거·가족·일상 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.4/5 (10표) / 피코피코대백과 4.8/5 (4건) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 이식 → PS2 신규 CG·에피소드 확장 / Best판 | 🟢 후보 |
-| [Monochrome (모노크롬)](games/monochrome.md) | 2004 | 천사·기억·고딕 분위기 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.8/5 (8건) / GameFAQs Good (11표) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PS2 원작 → PS2 SuperLite / PSP 16:9·이벤트 고화질화 / 중국어·Windows판 이력 | 🟢 후보 |
+| [Monochrome (모노크롬)](games/monochrome.md) | 2004 | 천사·기억·고딕 분위기 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.8/5 (8건) / GameFAQs Good (11표) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PS2 원판 → PS2 SuperLite / PSP 16:9·이벤트 고화질화 / 중국어·Windows판 이력 | 🟢 후보 |
 | [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | GameFAQs Great (14표) / Joko 공개 2건 3.5/5 / Juegomania 8.8/10 (3표) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
@@ -108,6 +108,7 @@
 | [Roommate Asami: Okusama wa Joshikousei (룸메이트 아사미 ～아내는 여고생～)](games/roommate-asami-okusama-wa-joshikousei.md) | 2002 | 실시간 연동형 동거 생활·연애 ADV | ⭐⭐⭐½☆ | C | Gavas 4.3/5 (6건) / GameFAQs Good (13표) / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PS2 원판·D-Collection / DC Director's Edition 그래픽·배경 강화 | 🟢 후보 |
 | [My Merry May (마이 메리 메이)](games/my-merry-may.md) | 2003 | SF·인공생명·성장 연애 ADV | ⭐⭐⭐½☆ | C | Gavas 3.5/5 (2건) / GameFAQs Playable (2표) / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | 2002 DC 원작 → 2003 PS2 이식 / 2005 PS2 `with be` 완전판 / 2026 HD 이식 | 🟢 후보 |
 | [Kino no Tabi: The Beautiful World (키노의 여행 -the Beautiful World-)](games/kino-no-tabi-the-beautiful-world.md) | 2003 | 디지털 노벨·여행 판타지 ADV | ⭐⭐⭐½☆ | C | Joko 3.28/5 / Wazap 83.4/100 (리뷰 9건 표기) / GAMEMAN 7.9/10 | 공개적으로 확인되지 않음 | PS2 원판·Dengeki SP / `II`는 별도 후속작 / 직접 현대 이식 확인 못함 | 🟢 후보 |
+| [Scarlett: Nichijou no Kyoukaisen (스칼렛 ～일상의 경계선～)](games/scarlett-nichijou-no-kyoukaisen.md) | 2008 | 현대 첩보·스파이 활극 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.3/5 (6건) / GameFAQs Great (12표) / Joko 공개 7건 약 3.43/5 / PC 원작 ErogameScape 중앙값 80 (1,399건) | 있음 (2026-08 공개 확인, 버전·완성도 미검증) | 2006 PC 원작 → PS2 신규 캐릭터·시나리오·CG·음성 확장 / 공식 후발 상위판 확인 못함 | 💎 우선 후보 |
 
 ## 발굴 상태 기준
 
