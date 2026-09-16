@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **18개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
+> 등록 후보: **19개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -28,6 +28,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ragnarok Tactics (라그나로크: 빛과 어둠의 황녀)](games/ragnarok-tactics.md) | 2011 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Good (161표) / Metacritic 65/100 (4개) / RPGFan 69/100 / 4Gamer 32/100 (2건) | 공개적으로 확인되지 않음 | PSP 원작 / 북미 공식 영어판 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [School Rumble: Anesan Jiken Desu! (스쿨럼블 언니 사건이에요!)](games/school-rumble-anesan-jiken-desu.md) | 2005 | 학원 러브코미디 ADV·풀보이스 전자 코믹 | ⭐⭐⭐½☆ | B | GameFAQs Great (24표) / Amazon 3.4/5 (11건) / GAMEMAN 6.2/10 | 공개적으로 확인되지 않음 | PSP 오리지널 / PS2 `ねる娘は育つ。` 및 2기 게임은 별도 작품 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Weiss Schwarz Portable: Boost Schwarz (바이스 슈바르츠 포터블: 부스트 슈바르츠)](games/weiss-schwarz-portable-boost-schwarz.md) | 2011 | 카드 시뮬레이터·턴제 카드 배틀·연애 ADV | ⭐⭐⭐½☆ | B | Famitsu 28/40 / GameFAQs Great (26표) / 4Gamer 62/100 (2건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | Boost Weiss 동시발매 / 양판 독점카드 없음 / 2027 Switch·Steam WSO는 별도 신작·공식 한국어 예정 | 🟢 후보 |
+| [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 끝에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 학원·섬 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | VNDB 7.25/10 (83~84표, 원작 계열) / ErogameScape 75점대 (약 748건) / DLsite 4.6/5 (233건) | 공개 PSP 한글패치 확인 못함 / PC 원작 한국어화 자료 기록 있음 | 2010 PC 원작 / 2012 PSP 신규 2히로인·7루트 확장판 / 2015 PS Vita 고해상도·연출 강화판 | 🟢 후보 |
 | [Busou Shinki Battle Masters (무장신희 배틀 마스터즈)](games/busou-shinki-battle-masters.md) | 2010 | 3D 배틀 액션·캐릭터 커스터마이즈 | ⭐⭐⭐½☆ | C | 4Gamer 72/100 (17건) / GameFAQs Great (35표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | 2010 PSP 원판 / 2011 Best / 2011 Mk.2 확장·후속판·공개 한국어 패치 기록 | 🟢 후보 |
 | [Class of Heroes (검과 마법과 학원물)](games/class-of-heroes.md) | 2008 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 24/40 / GameFAQs Good (314표) / Metacritic 61/100 (12개) / RPGFan 72/100 | 공개적으로 확인되지 않음 | PSP 원작·공식 영어판 / 2018 Switch Anniversary / 2024 Switch·PS5·PC HD 현행판 | 🟢 후보 |
