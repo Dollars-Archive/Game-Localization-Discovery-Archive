@@ -248,7 +248,26 @@ platforms/psp/README.md
 - PS2와 PSP는 사이트에서 플랫폼 버튼으로 전환되며 PSP 상세 링크는 `platforms/psp/games/<slug>.md`로 해석되어야 한다.
 - 일반 작품 등록 중에는 사이트 코드·HTML·CSS를 임의로 변경하지 않는다. 플랫폼 구조 자체를 바꾸는 별도 작업에서만 수정한다.
 
-### 7.3 충돌 방지와 저장
+### 7.3 루트 README Pages 진입 링크 보호 규칙
+
+이 항목은 **일반 게임 등록·집계 갱신 과정에서 절대 훼손하지 않는 고정 규칙**이다.
+
+루트 `README.md`의 `플랫폼별 현황` 표에 있는 `PS2 후보 보기`, `PSP 후보 보기`는 저장소 내부 Markdown 문서로 이동하는 링크가 아니라 **사용자가 GitHub Pages의 아카이브 UI로 들어가는 진입 링크**다.
+
+반드시 다음 주소를 유지한다.
+
+```text
+PS2 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2
+PSP 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp
+```
+
+- 집계 숫자, 후보 수, A급 수 등을 갱신할 때도 위 두 URL은 **문자 그대로 보존**한다.
+- `[PS2 후보 보기](platforms/ps2/README.md)` 또는 `[PSP 후보 보기](platforms/psp/README.md)` 같은 저장소 내부 상대 링크로 되돌리지 않는다.
+- 플랫폼 README 자체를 참고하거나 편집하는 것과, 사용자용 `후보 보기` 링크의 목적지는 서로 다른 개념이다.
+- 사용자가 **사이트 라우팅 변경을 명시적으로 요청한 경우가 아니면** Pages URL, `docs/index.html`, `docs/game.html`, `docs/assets/app.js`, `docs/assets/style.css`를 일반 후보 등록 작업의 편의상 수정하지 않는다.
+- 새 플랫폼을 추가할 때도 사용자용 `후보 보기`는 가능하면 Pages의 해당 플랫폼 화면으로 연결하고, 내부 Markdown 경로를 대신 사용하지 않는다.
+
+### 7.4 충돌 방지와 저장
 
 쓰기 직전에 변경 대상 파일의 최신 SHA를 다시 확인한다. 다른 작업자가 수정했으면 최신 내용을 재조회해 이번 변경만 반영한다.
 
@@ -266,6 +285,8 @@ platforms/psp/README.md
 - [ ] 표 열 수·링크·별점 기호가 사이트 파서와 호환된다.
 - [ ] A → B → C 정렬과 PSP 집계가 실제 고유 행 수와 맞는다.
 - [ ] 루트 README의 PSP 집계가 플랫폼 README와 일치한다.
+- [ ] 루트 README의 `PS2 후보 보기`와 `PSP 후보 보기`가 각각 고정된 GitHub Pages `?platform=ps2`, `?platform=psp` 주소를 그대로 유지한다.
+- [ ] 일반 후보 등록 작업에서 `docs/index.html`, `docs/game.html`, `docs/assets/app.js`, `docs/assets/style.css`를 의도치 않게 변경하지 않았다.
 - [ ] 기존 PS2 후보와 사용자 메모를 의도치 않게 변경하지 않았다.
 - [ ] 커밋 SHA는 실제 도구 결과에서 확인했다.
 
