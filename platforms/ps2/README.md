@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **91개** / 발굴 우선 후보: **20개** / 한글화 A급 후보: **13개**
+> 등록 후보: **92개** / 발굴 우선 후보: **20개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -110,6 +110,7 @@
 | [Kino no Tabi: The Beautiful World (키노의 여행 -the Beautiful World-)](games/kino-no-tabi-the-beautiful-world.md) | 2003 | 디지털 노벨·여행 판타지 ADV | ⭐⭐⭐½☆ | C | Joko 3.28/5 / Wazap 83.4/100 (리뷰 9건 표기) / GAMEMAN 7.9/10 | 공개적으로 확인되지 않음 | PS2 원판·Dengeki SP / `II`는 별도 후속작 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [Scarlett: Nichijou no Kyoukaisen (스칼렛 ～일상의 경계선～)](games/scarlett-nichijou-no-kyoukaisen.md) | 2008 | 현대 첩보·스파이 활극 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.3/5 (6건) / GameFAQs Great (12표) / Joko 공개 7건 약 3.43/5 / PC 원작 ErogameScape 중앙값 80 (1,399건) | 있음 (2026-08 공개 확인, 버전·완성도 미검증) | 2006 PC 원작 → PS2 신규 캐릭터·시나리오·CG·음성 확장 / 공식 후발 상위판 확인 못함 | 💎 우선 후보 |
 | [Ramune: Glass Bin ni Utsuru Umi (라무네 ～유리병에 비치는 바다～)](games/ramune-glass-bin-ni-utsuru-umi.md) | 2005 | 여름·소꿉친구·일상 연애 ADV | ⭐⭐⭐½☆ | C | Gavas 4.5/5 (4건) / GameFAQs Great (8표) / Joko 9건 약 3.33/5 / VNDB 7.35/10 (96표) | 있음 (2026-08-18 공개 확인, 버전·완성도 미검증) | 2004 PC 원작 → PS2 신규 히로인 2명·시나리오·CG 확장 / 공식 후발 상위판 확인 못함 | 🟢 후보 |
+| [SHUFFLE! On the Stage (셔플! 온 더 스테이지)](games/shuffle-on-the-stage.md) | 2005 | 학원·판타지 러브코미디 연애 비주얼노벨 | ⭐⭐⭐½☆ | C | Gavas 4.4/5 (7건) / Joko 공개 20건 약 2.90/5 / GameFAQs Great (7표) | 공개적으로 확인되지 않음 | 2004 PC 원작 → PS2 카레하·마유미 루트·신규 CG 확장 → 2009 Essence+ 추가 확장 / 2016 영문 PC 이식 판매 종료 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
