@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **90개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **89개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -75,7 +75,6 @@
 | [Fantastic Fortune 2 ☆☆☆ Triple Star (판타스틱 포츈2 ☆☆☆ 트리플 스타)](games/fantastic-fortune-2-triple-star.md) | 2005 | 판타지·육성·여성향 연애 시뮬레이션/ADV | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (7건) / Joko 공개 9건 약 3.89/5 / GameFAQs Good (8표) | 공개적으로 확인되지 않음 | 2003 무인판 → PS2 Triple Star 시스템·UI·외전 강화 → Windows 완전 이식 | 🟢 후보 |
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (6건) / Famitsu 28/40 / GAMEMAN 7.6/10 | 공개적으로 확인되지 않음 | 2002 GBA 별도 육성 ADV / PC 별도 게임 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / Gavas 4.0/5 (2건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 통상/한정 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
-| [Reveal Fantasia: Mariel to Yousei Monogatari (리벨 판타지아 ～마리엘과 요정 이야기～)](games/reveal-fantasia-mariel-to-yousei-monogatari.md) | 2002 | 하트워밍 RPG·3D 탐색 퍼즐 ADV | ⭐⭐⭐½☆ | B | Gavas 3.8/5 (8건) / GameFAQs Good (12표) / Joko 공개 1페이지 약 4.40/5 (10건) | 공개적으로 확인되지 않음 | PS2 원판·Victor the Best / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Koisuru Otome to Shugo no Tate: The Shield of AIGIS (사랑하는 소녀와 수호의 방패 -The shield of AIGIS-)](games/koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.md) | 2008 | 여장 잠입·요인 경호·학원 연애 ADV | ⭐⭐⭐½☆ | C | Joko 공개 10건 3.10/5 / GameFAQs Great (3표) / GAMEMAN 8.8/10 (리뷰 0건) | 있음 (v1.0.1, 나이카나, 2026-08-14) | PC 원작 → PS2 대폭 확장 → PSP 16:9 이식 / Re:boot는 PS2 추가 히로인 2명 미수록 | 🟢 후보 |
 | [Kuon no Kizuna: Sairinshou (구원의 반 재림조)](games/kuon-no-kizuna-sairinshou.md) | 2002 | 윤회전생·일본 전기·비극 로맨스 VN | ⭐⭐⭐⭐☆ | C | Joko 공개 40건 약 4.13/5 / Bangumi 7.7/10 (51표) / GameFAQs Good (2표) / 원작 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PS1 원작 → DC 재림조 → PS2 → PSP / PC 풀보이스 / 공식 100% 한국어 모바일판 | 💎 우선 후보 |
 | [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
