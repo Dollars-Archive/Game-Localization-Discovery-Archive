@@ -12,7 +12,7 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 97 | 22 | 13 | [PS2 후보 보기](platforms/ps2/README.md) |
-| PlayStation Portable | 15 | 3 | 3 | [PSP 후보 보기](platforms/psp/README.md) |
+| PlayStation Portable | 16 | 3 | 3 | [PSP 후보 보기](platforms/psp/README.md) |
 
 > [!NOTE]
 > PS2 등록 97개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
