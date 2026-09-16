@@ -26,8 +26,8 @@
     <section class="panel">
       <div class="section-head">
         <div>
-          <p class="eyebrow">PLAYSTATION 2</p>
-          <h2>현재 후보</h2>
+          <p class="eyebrow" id="platform-eyebrow">PLAYSTATION 2</p>
+          <h2 id="platform-title">현재 후보</h2>
         </div>
         <div class="toolbar">
           <label class="searchbox">
@@ -35,6 +35,12 @@
             <input id="search" type="search" placeholder="게임명 · 장르 · 버전" autocomplete="off" />
           </label>
         </div>
+      </div>
+
+      <div class="sortbar" aria-label="플랫폼">
+        <span class="sort-label">플랫폼</span>
+        <button class="sort-btn platform-btn active" data-platform="ps2">PS2</button>
+        <button class="sort-btn platform-btn" data-platform="psp">PSP</button>
       </div>
 
       <div class="sortbar" aria-label="정렬">
@@ -62,7 +68,7 @@
           <tbody id="candidate-body"></tbody>
         </table>
       </div>
-      <p class="footnote">원본 데이터는 저장소의 <code>platforms/ps2/README.md</code>에서 실시간으로 읽습니다. README가 갱신되면 이 화면도 자동으로 따라갑니다.</p>
+      <p class="footnote" id="source-note">원본 데이터는 저장소의 <code>platforms/ps2/README.md</code>에서 실시간으로 읽습니다. README가 갱신되면 이 화면도 자동으로 따라갑니다.</p>
     </section>
   </main>
 
