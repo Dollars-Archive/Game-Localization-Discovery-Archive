@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **87개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **88개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -28,7 +28,7 @@
 | [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.5/5 (6표) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
 | [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.4/5 (5건) / GameFAQs Good (8표) / Bangumi 7.8/10 (약 22표, 작품 통합) / GAMEMAN 9.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 💎 우선 후보 |
-| [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | 다크 판타지·카드배틀 ADV/VN | ⭐⭐⭐½☆ | 🔥 A | Joko 4.0/5 (4건) / GameFAQs 2.5/5 (4표) / Bangumi PC Alex 7.1/10 (44표) / GAMEMAN 8.9/10 | 공개적으로 확인되지 않음 | PC Alex/Platina 분할 → PS2 통합·시나리오/CG/연출 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
+| [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | 다크 판타지·카드배틀 ADV/VN | ⭐⭐⭐½☆ | 🔥 A | Joko 4.0/5 (4건) / GameFAQs 2.5/5 (4표) / Bangumi 7.1/10 (44표) / GAMEMAN 8.9/10 | 공개적으로 확인되지 않음 | PC Alex/Platina 분할 → PS2 통합·시나리오/CG/연출 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 3.97/5 (10건 이상) / Gavas 4.6/5 (5건) / GameFAQs Great (15표) / GAMEMAN 7.2/10 | 공개적으로 확인되지 않음 | 1996 원작 → 2001 PC Re-Cross 리메이크 → PS2 풀보이스·애니·추가 시나리오 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 로맨틱 라이트 미스터리·여행 ADV | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.6/5 (7건) / GameFAQs Great (5표) / Bangumi 7.4/10 (7표) / Famitsu 26/40 | 공개적으로 확인되지 않음 | PS2 전용 / Special Edition은 동봉물 차이 | 🟢 후보 |
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 세계관 미스터리 ADV·슈팅 혼합 | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 3건 약 4.33/5 / GameFAQs Great (4표) / GAMEMAN 9.0/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 전용 / II→III 정사 연결편 / 2026 Switch 트릴로지 미수록 | 🟢 후보 |
@@ -53,7 +53,7 @@
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
 | [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0/10 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
-| [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
+| [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
 | [Shin Koihime Musou: Otome Ryouran Sangokushi Engi (진 연희몽상 ～을녀요란☆삼국지연의～)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi.md) | 2011 | 삼국지 재해석·순애 역사 ADV/간이 전투 | ⭐⭐⭐½☆ | B | Famitsu 27/40 (6/6/8/7) / GameFAQs Fair (8표) / GAMEMAN 8.0/10 / Bangumi 6.6/10 (203표, PC 원작) | 공개적으로 확인되지 않음 | PC 원작 → PSP 3분할 확장 → PS2 3편 합본+추가 스토리·CG·신규 OP / `혁명` 3부작 재구축 | 🟢 후보 |
 | [Shoujo Yoshitsune-den Ni: Toki o Koeru Chigiri (소녀 요시츠네전·이 ～시간을 초월한 인연～)](games/shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri.md) | 2005 | 시간여행·역사 전쟁·연애 ADV/SRPG | ⭐⭐⭐½☆ | B | Joko 3.50/5 (16건) / GameFAQs 2.75/5 (2표) / GAMEMAN 8.4/10 / Bangumi 5.0/10 (1표) | 공개적으로 확인되지 않음 | PS2 오리지널 속편 / 후대 이식·리마스터 확인 못함 | 🟢 후보 |
@@ -106,6 +106,7 @@
 | [Fukakutei Sekai no Tantei Shinshi: Agyou Souma no Jiken File (불확정세계의 탐정신사 ～아교 소우마의 사건파일～)](games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md) | 2009 | 하드보일드 탐정·시간제한 수사 ADV | ⭐⭐⭐½☆ | C | Bangumi 7.2/10 (28표, 판본 통합) / GAMEMAN 8.9/10 (리뷰 0건) / 4Gamer 50/100 (1건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PC 원작 → DC/HardCore/Rebirth → PS2 사건007 추가 → 2026 현행기 일본어 이식 | 🟢 후보 |
 | [Mai-HiME: Unmei no Keitouju (마이히메 ～운명의 계통수～)](games/mai-hime-unmei-no-keitouju.md) | 2005 | 학원 전기·이능 배틀·로맨스 ADV | ⭐⭐⭐½☆ | C | Gavas 4.8/5 (8건) / Joko 3.51/5 (10건 이상) / GameFAQs Good (15표) / GAMEMAN 7.1/10 | 공개적으로 확인되지 않음 | PS2 원판 → 2006 Windows `修羅` 시나리오·엔딩·CG 대폭 확장 | 🟢 후보 |
 | [Roommate Asami: Okusama wa Joshikousei (룸메이트 아사미 ～아내는 여고생～)](games/roommate-asami-okusama-wa-joshikousei.md) | 2002 | 실시간 연동형 동거 생활·연애 ADV | ⭐⭐⭐½☆ | C | Gavas 4.3/5 (6건) / GameFAQs Good (13표) / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PS2 원판·D-Collection / DC Director's Edition 그래픽·배경 강화 | 🟢 후보 |
+| [My Merry May (마이 메리 메이)](games/my-merry-may.md) | 2003 | SF·인공생명·성장 연애 ADV | ⭐⭐⭐½☆ | C | Gavas 3.5/5 (2건) / GameFAQs Playable (2표) / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | 2002 DC 원작 → 2003 PS2 이식 / 2005 PS2 `with be` 완전판 / 2026 HD 이식 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
