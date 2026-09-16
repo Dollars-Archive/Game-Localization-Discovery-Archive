@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **84개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **85개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -29,7 +29,7 @@
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
 | [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.4/5 (5건) / GameFAQs Good (8표) / Bangumi 7.8/10 (약 22표, 작품 통합) / GAMEMAN 9.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 💎 우선 후보 |
 | [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | 다크 판타지·카드배틀 ADV/VN | ⭐⭐⭐½☆ | 🔥 A | Joko 4.0/5 (4건) / GameFAQs 2.5/5 (4표) / Bangumi PC Alex 7.1/10 (44표) / GAMEMAN 8.9/10 | 공개적으로 확인되지 않음 | PC Alex/Platina 분할 → PS2 통합·시나리오/CG/연출 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
-| [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 3.97/5 (10건 이상) / GameFAQs Great (15표) / Gavas 4.6/5 (5건) / GAMEMAN 7.2/10 | 공개적으로 확인되지 않음 | 1996 원작 → 2001 PC Re-Cross 리메이크 → PS2 풀보이스·애니·추가 시나리오 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
+| [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 3.97/5 (10건 이상) / Gavas 4.6/5 (5건) / GameFAQs Great (15표) / GAMEMAN 7.2/10 | 공개적으로 확인되지 않음 | 1996 원작 → 2001 PC Re-Cross 리메이크 → PS2 풀보이스·애니·추가 시나리오 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 로맨틱 라이트 미스터리·여행 ADV | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.6/5 (7건) / GameFAQs Great (5표) / Bangumi 7.4/10 (7표) / Famitsu 26/40 | 공개적으로 확인되지 않음 | PS2 전용 / Special Edition은 동봉물 차이 | 🟢 후보 |
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 세계관 미스터리 ADV·슈팅 혼합 | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 3건 약 4.33/5 / GameFAQs Great (4표) / GAMEMAN 9.0/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 전용 / II→III 정사 연결편 / 2026 Switch 트릴로지 미수록 | 🟢 후보 |
 | [Sekai no Subete: Two of Us (세계의 전부 ～two of us～)](games/sekai-no-subete-two-of-us.md) | 2006 | 장편 청춘·연애 ADV | ⭐⭐⭐½☆ | B | GAMEMAN 8.6/10 / GameFAQs Great (2표) | 확인 못함 | PC 원작 / 2012 PC 완전판 | 🟢 후보 |
@@ -73,6 +73,7 @@
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | GameFAQs Great (14표) / Joko 공개 2건 3.5/5 / Juegomania 8.8/10 (3표) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Fantastic Fortune 2 ☆☆☆ Triple Star (판타스틱 포츈2 ☆☆☆ 트리플 스타)](games/fantastic-fortune-2-triple-star.md) | 2005 | 판타지·육성·여성향 연애 시뮬레이션/ADV | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (7건) / Joko 공개 9건 약 3.89/5 / GameFAQs Good (8표) | 공개적으로 확인되지 않음 | 2003 무인판 → PS2 Triple Star 시스템·UI·외전 강화 → Windows 완전 이식 | 🟢 후보 |
+| [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (6건) / Famitsu 28/40 / GAMEMAN 7.6/10 | 공개적으로 확인되지 않음 | 2002 GBA 별도 육성 ADV / PC 별도 게임 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Koisuru Otome to Shugo no Tate: The Shield of AIGIS (사랑하는 소녀와 수호의 방패 -The shield of AIGIS-)](games/koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.md) | 2008 | 여장 잠입·요인 경호·학원 연애 ADV | ⭐⭐⭐½☆ | C | Joko 공개 10건 3.10/5 / GameFAQs Great (3표) / GAMEMAN 8.8/10 (리뷰 0건) | 있음 (v1.0.1, 나이카나, 2026-08-14) | PC 원작 → PS2 대폭 확장 → PSP 16:9 이식 / Re:boot는 PS2 추가 히로인 2명 미수록 | 🟢 후보 |
 | [Kuon no Kizuna: Sairinshou (구원의 반 재림조)](games/kuon-no-kizuna-sairinshou.md) | 2002 | 윤회전생·일본 전기·비극 로맨스 VN | ⭐⭐⭐⭐☆ | C | Joko 공개 40건 약 4.13/5 / Bangumi 7.7/10 (51표) / GameFAQs Good (2표) / 원작 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PS1 원작 → DC 재림조 → PS2 → PSP / PC 풀보이스 / 공식 100% 한국어 모바일판 | 💎 우선 후보 |
 | [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
