@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **81개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **13개**
+> 등록 후보: **82개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -78,6 +78,7 @@
 | [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
 | [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
+| [ToHeart (투하트)](games/toheart.md) | 2004 | 학원 러브코미디·연애 ADV/VN | ⭐⭐⭐⭐☆ | C | GameFAQs PS계보 3.5/5 (16표) / 게임카탈로그 良作 / 2025 리메이크 Steam 매우 긍정적 | 공개적으로 확인되지 않음 | PS판 → PSE → PS2 디럭스팩 전용 / PSP / 2025 Switch·Steam 3D 리메이크·공개 한국어 팬패치 | 💎 우선 후보 |
 | [Izumo Complete (이즈모 컴플리트)](games/izumo-complete.md) | 2005 | 일본신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (7표) / Joko 3.25/5 (4건) / GAMEMAN 9.2/10 | 공개적으로 확인되지 않음 | PC 원작·완전판 → DC → PS2 Complete / 한국 PC판 정발 | 🟢 후보 |
 | [Aoi Sora no Neosphere: Nanoca Flanka Hatsumei Koubouki 2 (창공의 네오스피아)](games/aoi-sora-no-neosphere-nanoca-flanka-hatsumei-koubouki-2.md) | 2007 | 도시부흥·발명 시뮬레이션/ADV | ⭐⭐⭐½☆ | C | Famitsu 27/40 / Dengeki PS 90·90·75·80 / GameFAQs Good (8표) / Gavas 4.5/5 (2건) / Joko 3.0/5 (2건) | 공개적으로 확인되지 않음 | PC 원작·한국어판 → PS2 대폭 확장 → PSP 개선판 / 2027 Legacy 예정 | 🟢 후보 |
 | [Izumo 2: Takeki Tsurugi no Senki (이즈모2 ～용맹한 검의 섬기～)](games/izumo2-takeki-tsurugi-no-senki.md) | 2006 | 일본 신화·이세계 전기 RPG/연애 ADV | ⭐⭐⭐½☆ | C | Joko 약 3.14/5 (7건) / GameFAQs Great (6표) / GAMEMAN 8.9/10 / Juegomania 5.0/10 (1표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 CG·시나리오 대량 추가 / 2008 PC 공식 한국어판 / 2015 PC 합본 | 🟢 후보 |
