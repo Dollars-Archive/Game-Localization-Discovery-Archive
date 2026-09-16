@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **88개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **89개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -107,6 +107,7 @@
 | [Mai-HiME: Unmei no Keitouju (마이히메 ～운명의 계통수～)](games/mai-hime-unmei-no-keitouju.md) | 2005 | 학원 전기·이능 배틀·로맨스 ADV | ⭐⭐⭐½☆ | C | Gavas 4.8/5 (8건) / Joko 3.51/5 (10건 이상) / GameFAQs Good (15표) / GAMEMAN 7.1/10 | 공개적으로 확인되지 않음 | PS2 원판 → 2006 Windows `修羅` 시나리오·엔딩·CG 대폭 확장 | 🟢 후보 |
 | [Roommate Asami: Okusama wa Joshikousei (룸메이트 아사미 ～아내는 여고생～)](games/roommate-asami-okusama-wa-joshikousei.md) | 2002 | 실시간 연동형 동거 생활·연애 ADV | ⭐⭐⭐½☆ | C | Gavas 4.3/5 (6건) / GameFAQs Good (13표) / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PS2 원판·D-Collection / DC Director's Edition 그래픽·배경 강화 | 🟢 후보 |
 | [My Merry May (마이 메리 메이)](games/my-merry-may.md) | 2003 | SF·인공생명·성장 연애 ADV | ⭐⭐⭐½☆ | C | Gavas 3.5/5 (2건) / GameFAQs Playable (2표) / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | 2002 DC 원작 → 2003 PS2 이식 / 2005 PS2 `with be` 완전판 / 2026 HD 이식 | 🟢 후보 |
+| [Kino no Tabi: The Beautiful World (키노의 여행 -the Beautiful World-)](games/kino-no-tabi-the-beautiful-world.md) | 2003 | 디지털 노벨·여행 판타지 ADV | ⭐⭐⭐½☆ | C | Joko 3.28/5 / Wazap 83.4/100 (리뷰 9건 표기) / GAMEMAN 7.9/10 | 공개적으로 확인되지 않음 | PS2 원판·Dengeki SP / `II`는 별도 후속작 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
