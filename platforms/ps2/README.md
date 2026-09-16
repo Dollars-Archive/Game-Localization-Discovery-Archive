@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **96개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **13개**
+> 등록 후보: **97개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -76,6 +76,7 @@
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (6건) / Famitsu 28/40 / GAMEMAN 7.6/10 | 공개적으로 확인되지 않음 | 2002 GBA 별도 육성 ADV / PC 별도 게임 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / Gavas 4.0/5 (2건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 통상/한정 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)](games/wizardry-xth-2-mugen-no-gakuto.md) | 2006 | 1인칭 3D 던전 RPG | ⭐⭐⭐½☆ | B | GameFAQs 3.58/5 (6표) / 게임카탈로그 良作 / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | PS2 원판·Wonder Price / 직접 강화 이식 확인 못함 / `Class of Heroes`·`Generation Xth`는 파생 계보 | 🟢 후보 |
+| [Akane Iro ni Somaru Saka: Parallel (노을빛으로 물드는 언덕 패러렐)](games/akane-iro-ni-somaru-saka-parallel.md) | 2008 | 학원·약혼·러브코미디 연애 VN | ⭐⭐⭐½☆ | C | GameFAQs 3.39/5 (9표) / Joko 약 3.38/5 (공개 16건) / GAMEMAN 7.7/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 전면 리뉴얼·카렌 추가 → PSP 동일 콘텐츠 / PC 원작 한국어화 기록 / 2026 Steam 영문판 예정 | 🟢 후보 |
 | [Baldr Force EXE (발더 포스 EXE)](games/baldr-force-exe.md) | 2005 | SF 사이버펑크 액션 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs 3.83/5 (12표) / Bangumi 8.0/10 (19명, PC·PS2 통합) / GAMEMAN 9.2/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC 원작·EXE → DC/PS2 전연령 → Windows Standard Edition / PC 한글패치 기록 | 💎 우선 후보 |
 | [Girls Bravo: Romance 15's (걸즈 브라보 Romance15's)](games/girls-bravo-romance-15s.md) | 2005 | 하렘계 연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ | C | Famitsu 27/40 / 피코피코대백과 3.5/5 (2건) / Joko 2.6/5 (5건) | 공개적으로 확인되지 않음 | PS2 전용 / DX Pack은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Kanon (카논)](games/kanon.md) | 2002 | 겨울·기억·기적·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.9/5 (7건) / GameFAQs Great (16표) / Famitsu 29/40 | 공개적으로 확인되지 않음 | PC 원작 → DC/PS2 풀보이스 콘솔판 → PSP / Switch HD / Steam HD / 구 PC 한국어 패치 | 💎 우선 후보 |
