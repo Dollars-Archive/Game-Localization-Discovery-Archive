@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **13개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
+> 등록 후보: **14개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -22,6 +22,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Boku wa Tomodachi ga Sukunai Portable (나는 친구가 적다 포터블)](games/boku-wa-tomodachi-ga-sukunai-portable.md) | 2012 | 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (34표) / 4Gamer 95/100 (1건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 독점 본편 / 수량한정판에 별도 PSP 게임 `きらめきスクールライフSP` 동봉 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)](games/ikki-tousen-xross-impact.md) | 2010 | 2D 벨트스크롤 액션·캐릭터 액션 | ⭐⭐⭐½☆ | B | GameFAQs 4.13/5 (65표) / Famitsu 25/40 / 4Gamer 70/100 (1건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 2011 Best Collection / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Koi to Senkyo to Chocolate Portable (사랑과 선거와 초콜릿 포터블)](games/koi-to-senkyo-to-chocolate-portable.md) | 2012 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (14표) / VNDB 7.3 (2585표, 원작 계열) / Steam 88% 긍정 (현대판 참고) | 공개적으로 확인되지 않음 | 2010 PC 원작 / 2012 PSP 확장 이식·노조미 신규 루트 / 2020 High Resolution / 2025 Steam 공식 영·중문 | 🟢 후보 |
 | [Summon Night 5 (서몬 나이트 5)](games/summon-night-5.md) | 2013 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs 4.05/5 (116표) / Famitsu 32/40 / 4Gamer 59/100 (12건) / RPG Site 7/10 | 공개적으로 확인되지 않음 | PSP 오리지널 / 북미 공식 영어판 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)](games/zhp-unlosing-ranger-vs-darkdeath-evilman.md) | 2010 | 로그라이크 던전 RPG·턴제 전술 RPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.13/5 (379표) / Famitsu 32/40 / 4Gamer 87/100 (2건) / Metacritic 81/100 (19개) | 공개적으로 확인되지 않음 / 한국 정발판은 일본어 | PSP 원작·한국 정발 / 북미 공식 영어판 / 2022 Switch·PC는 Dengeki 콜라보 대량 삭제 | 💎 우선 후보 |
 | [Ragnarok Tactics (라그나로크: 빛과 어둠의 황녀)](games/ragnarok-tactics.md) | 2011 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Good (161표) / Metacritic 65/100 (4개) / RPGFan 69/100 / 4Gamer 32/100 (2건) | 공개적으로 확인되지 않음 | PSP 원작 / 북미 공식 영어판 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
