@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **9개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
+> 등록 후보: **10개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -24,6 +24,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Summon Night 5 (서몬 나이트 5)](games/summon-night-5.md) | 2013 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs 4.05/5 (116표) / Famitsu 32/40 / 4Gamer 59/100 (12건) / RPG Site 7/10 | 공개적으로 확인되지 않음 | PSP 오리지널 / 북미 공식 영어판 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)](games/zhp-unlosing-ranger-vs-darkdeath-evilman.md) | 2010 | 로그라이크 던전 RPG·턴제 전술 RPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.13/5 (379표) / Famitsu 32/40 / 4Gamer 87/100 (2건) / Metacritic 81/100 (19개) | 공개적으로 확인되지 않음 / 한국 정발판은 일본어 | PSP 원작·한국 정발 / 북미 공식 영어판 / 2022 Switch·PC는 Dengeki 콜라보 대량 삭제 | 💎 우선 후보 |
 | [Ragnarok Tactics (라그나로크: 빛과 어둠의 황녀)](games/ragnarok-tactics.md) | 2011 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Good (161표) / Metacritic 65/100 (4개) / RPGFan 69/100 / 4Gamer 32/100 (2건) | 공개적으로 확인되지 않음 | PSP 원작 / 북미 공식 영어판 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Busou Shinki Battle Masters (무장신희 배틀 마스터즈)](games/busou-shinki-battle-masters.md) | 2010 | 3D 배틀 액션·캐릭터 커스터마이즈 | ⭐⭐⭐½☆ | C | 4Gamer 72/100 (17건) / GameFAQs Great (35표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | 2010 PSP 원판 / 2011 Best / 2011 Mk.2 확장·후속판·공개 한국어 패치 기록 | 🟢 후보 |
 | [Class of Heroes (검과 마법과 학원물)](games/class-of-heroes.md) | 2008 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 24/40 / GameFAQs Good (314표) / Metacritic 61/100 (12개) / RPGFan 72/100 | 공개적으로 확인되지 않음 | PSP 원작·공식 영어판 / 2018 Switch Anniversary / 2024 Switch·PS5·PC HD 현행판 | 🟢 후보 |
 | [Dungeon Travelers 2: Ouritsu Toshokan to Mamono no Fuuin (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2-ouritsu-toshokan-to-mamono-no-fuuin.md) | 2013 | 3D 던전 RPG·1인칭 파티형 DRPG | ⭐⭐⭐½☆ | C | Famitsu 30/40 / 4Gamer 70/100 (2건) / GameFAQs Good (22표) / 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PSP 원작 / Vita 고해상도·3D맵·UI 개선 / 2023 PC 공식 영문·번체중문 / Steam판 취소 | 🟢 후보 |
 
