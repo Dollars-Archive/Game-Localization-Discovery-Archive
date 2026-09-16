@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-16**  
-> 등록 후보: **86개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
+> 등록 후보: **87개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **13개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -105,6 +105,7 @@
 | [Aoishiro (아오이시로)](games/aoishiro.md) | 2008 | 일본식 전기·호러·백합 비주얼노벨 | ⭐⭐⭐½☆ | C | GameFAQs 3.73/5 (20표) / Gavas 4.1/5 (7건) / Joko 3.50/5 (4건) / Bangumi 7.1/10 (81표, 판본 통합) | 공개적으로 확인되지 않음 | PS2 원판 → Windows 확장 → PS2 SuperLite 역이식 → 2023 HD Remaster / HD 리마스터 한국어 패치 제작 중 | 🟢 후보 |
 | [Fukakutei Sekai no Tantei Shinshi: Agyou Souma no Jiken File (불확정세계의 탐정신사 ～아교 소우마의 사건파일～)](games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md) | 2009 | 하드보일드 탐정·시간제한 수사 ADV | ⭐⭐⭐½☆ | C | Bangumi 7.2/10 (28표, 판본 통합) / GAMEMAN 8.9/10 (리뷰 0건) / 4Gamer 50/100 (1건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PC 원작 → DC/HardCore/Rebirth → PS2 사건007 추가 → 2026 현행기 일본어 이식 | 🟢 후보 |
 | [Mai-HiME: Unmei no Keitouju (마이히메 ～운명의 계통수～)](games/mai-hime-unmei-no-keitouju.md) | 2005 | 학원 전기·이능 배틀·로맨스 ADV | ⭐⭐⭐½☆ | C | Gavas 4.8/5 (8건) / Joko 3.51/5 (10건 이상) / GameFAQs Good (15표) / GAMEMAN 7.1/10 | 공개적으로 확인되지 않음 | PS2 원판 → 2006 Windows `修羅` 시나리오·엔딩·CG 대폭 확장 | 🟢 후보 |
+| [Roommate Asami: Okusama wa Joshikousei (룸메이트 아사미 ～아내는 여고생～)](games/roommate-asami-okusama-wa-joshikousei.md) | 2002 | 실시간 연동형 동거 생활·연애 ADV | ⭐⭐⭐½☆ | C | Gavas 4.3/5 (6건) / GameFAQs Good (13표) / GAMEMAN 8.3/10 | 공개적으로 확인되지 않음 | PS2 원판·D-Collection / DC Director's Edition 그래픽·배경 강화 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
