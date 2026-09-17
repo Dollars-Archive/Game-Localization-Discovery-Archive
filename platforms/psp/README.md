@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **29개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
+> 등록 후보: **30개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -43,6 +43,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ken to Mahou to Gakuen Mono. 3 (검과 마법과 학원물 3)](games/ken-to-mahou-to-gakuen-mono-3.md) | 2010 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 26/40 / 4Gamer 80/100 (1건) / 게임카탈로그 밸런스 불안정 / Steam Remaster 67% 긍정 (52건) | 공개적으로 확인되지 않음 | 2010 PSP·PS3 동시판 / 2011 3D·Final 계열 / 2025 Switch·PS5·Steam Remaster 공식 영문 | 🟢 후보 |
 | [Dungeon Travelers 2: Ouritsu Toshokan to Mamono no Fuuin (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2-ouritsu-toshokan-to-mamono-no-fuuin.md) | 2013 | 3D 던전 RPG·1인칭 파티형 DRPG | ⭐⭐⭐½☆ | C | Famitsu 30/40 / 4Gamer 70/100 (2건) / GameFAQs Good (22표) / 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PSP 원작 / Vita 고해상도·3D맵·UI 개선 / 2023 PC 공식 영문·번체중문 / Steam판 취소 | 🟢 후보 |
 | [Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+ (마나 케미아2: 타락한 학원과 연금술사들 포터블 플러스)](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi-portable-plus.md) | 2009 | 학원 연금술 JRPG·턴제 RPG | ⭐⭐⭐½☆ | C | GameFAQs Great (47표) / 가격.com 3.0/5 (1건) / GAMEMAN 6.8/10 / PS2 Metacritic 70/100 (12개, 원판 참고) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 메뉴 부분패치 v0.2·프로젝트 중단 기록 | 2008 PS2 원작·북미 공식 영문 / 2009 PSP Portable+ 전투원양성소·미디어 인스톨 / 2013 PS2 Classics 일본판 | 🟢 후보 |
+| [Misshitsu no Sacrifice (밀실의 새크리파이스)](games/misshitsu-no-sacrifice.md) | 2010 | SF 서스펜스 탈출 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 21/40 / GameFAQs Fair (8표) / 4Gamer 80/100 (1건) / Steam 82% 긍정 (237건, 후발판) | 공개적으로 확인되지 않음 | 2010 PSP 원작 / 2020 Switch·Steam 강화이식·힌트·갤러리·그래픽 리파인·공식 영중문 | 🟢 후보 |
 | [Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Wei-Hen (진 연희몽상: 소녀요란 삼국지연의 위편)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi-wei-hen.md) | 2010 | 순애 역사 ADV·비주얼 노벨·간이 전투 | ⭐⭐⭐½☆ | C | Famitsu 6.5/10 / GAMEMAN 8.4/10 (작성 리뷰 0) / VNDB PC 원작 7.75/10 (약 360표) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC 원작 영어·중국어 번역 기록 | 2008 PC 원작 / 2010 PSP 위·오·촉 분할·대량 재작성 / 2011 PS2 3편+α 완전판 / 2017~19 PC Revolution | 🟢 후보 |
 | [Soreyuke! BurunyanMan Portable (가자! 부루냥맨 포터블)](games/soreyuke-burunyanman-portable.md) | 2012 | 2D 횡스크롤 탄막 슈팅·캐릭터 슈팅 | ⭐⭐⭐½☆ | C | Famitsu 7.0/10 / GameFAQs Great (35표) / PS Store 4.64/5 (164표) / Otaku's Study 7/10 | 공개 한글패치 완료 기록 있음 (텍스트 98%·그래픽 100%·영상 100%) | 2008 미니게임 / 2012 PC HARDCORE!!! / 2012 PSP 확장 이식 / 후발 PC えくすたしー!!! | 🟢 후보 |
 | [ToHeart2 Portable (투하트2 포터블)](games/toheart2-portable.md) | 2009 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs 3.50/5·Good (17표) / 게임카탈로그 판정 없음 | 공개 PSP 한글패치 확인 못함 / PC XRATED 한국어 패치 1.1 기록 있음 | 2004 PS2 원작 / 2005 PC XRATED 사사라 추가 / 2009 PSP 콘솔 최초 사사라 / 2011 PS3 DX PLUS 상위판 | 🟢 후보 |
