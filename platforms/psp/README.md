@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **35개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
+> 등록 후보: **36개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -20,7 +20,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Summon Night 3 (서몬 나이트 3)](games/summon-night-3.md) | 2012 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐⭐☆ | 🔥 A | Famitsu 31/40 / GameFAQs Great (38표) / 4Gamer 80/100 (2건) | 공개적으로 확인되지 않음 | 2003 PS2 원작 / 2012 PSP 강화리메이크 / 2014 PSP the Best 버그 수정 / 4편 시스템 데이터 연동 | 💎 우선 후보 |
 | [Summon Night 4 (서몬 나이트 4)](games/summon-night-4.md) | 2012 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 4.08/5 (32표) / Famitsu 31/40 / 4Gamer 75/100 (1건) | 공개적으로 확인되지 않음 | 2006 PS2 원작 / 2012 PSP 강화이식 / 2014 PSP the Best 버그 수정 / 중국어 팬번역 기록 | 💎 우선 후보 |
 | [Senritsu no Stratus (전율의 스트라터스)](games/senritsu-no-stratus.md) | 2011 | 드라마틱 섬멸 액션·액션 어드벤처 | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (29표) / Famitsu 실버 전당 / PS Store 3.78/5 (60표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 오리지널·일본 전용 / 제1화 배포판 연동 특전 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
-| [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 직접 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [77: Beyond the Milky Way (77: 비욘드 더 밀키 웨이)](games/77-beyond-the-milky-way.md) | 2010 | 학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Play-Asia 4/5 (13건) / Bangumi 원작 6.1/10 (약 90건대) / GAMEMAN 8.0/10 (작성 리뷰 0) | 공개적으로 확인되지 않음 | 2009 PC R18 원작 / 2010 PSP 전연령 확장 이식·신규 에피소드·신규 비주얼 40장 이상 / 2012 Best / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Blood: The Last Vampire (블러드 더 라스트 뱀파이어)](games/blood-the-last-vampire.md) | 2006 | 인터랙티브 애니메이션 ADV·호러 어드벤처 | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / 게임카탈로그 판정 없음 / Play-Asia 3/5 (3건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2000 PS2 상·하권 원작 / 2006 PSP 통합·강화이식 / 공식 번체중문 PSP판 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Boku wa Tomodachi ga Sukunai Portable (나는 친구가 적다 포터블)](games/boku-wa-tomodachi-ga-sukunai-portable.md) | 2012 | 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (34표) / 4Gamer 95/100 (1건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 독점 본편 / 수량한정판에 별도 PSP 게임 `きらめきスクールライフSP` 동봉 / 직접 후발 이식 확인 못함 | 🟢 후보 |
@@ -46,6 +46,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Class of Heroes 2 (검과 마법과 학원물 2)](games/class-of-heroes-2.md) | 2009 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Metacritic 77/100 (4개) / GameFAQs Good (85표) / RPGFan 80/100 / 4Gamer 40/100 (2건) | 공개적으로 확인되지 않음 | 2009 PSP 원작 / 북미 공식 영어판 / PS3 2G 확장판 / 2024 2G Remaster 현행판 | 🟢 후보 |
 | [Ken to Mahou to Gakuen Mono. 3 (검과 마법과 학원물 3)](games/ken-to-mahou-to-gakuen-mono-3.md) | 2010 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 26/40 / 4Gamer 80/100 (1건) / 게임카탈로그 밸런스 불안정 / Steam Remaster 67% 긍정 (52건) | 공개적으로 확인되지 않음 | 2010 PSP·PS3 동시판 / 2011 3D·Final 계열 / 2025 Switch·PS5·Steam Remaster 공식 영문 | 🟢 후보 |
 | [Dungeon Travelers 2: Ouritsu Toshokan to Mamono no Fuuin (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2-ouritsu-toshokan-to-mamono-no-fuuin.md) | 2013 | 3D 던전 RPG·1인칭 파티형 DRPG | ⭐⭐⭐½☆ | C | Famitsu 30/40 / 4Gamer 70/100 (2건) / GameFAQs Good (22표) / 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PSP 원작 / Vita 고해상도·3D맵·UI 개선 / 2023 PC 공식 영문·번체중문 / Steam판 취소 | 🟢 후보 |
+| [Eien no Aseria: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 소환 SRPG·ADV | ⭐⭐⭐½☆ | C | Famitsu 26/40 / GameFAQs Good (19표) / 게임카탈로그 원작 良作 / Steam 85% 긍정 (76건, PC 참고) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC 공식 영어판 있음 | 2003 PC 원작 / 2005 PS2 전연령판 / 2012 PSP 컷인·세이브·UI 보강 / Steam 공식 영문 | 🟢 후보 |
 | [Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+ (마나 케미아2: 타락한 학원과 연금술사들 포터블 플러스)](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi-portable-plus.md) | 2009 | 학원 연금술 JRPG·턴제 RPG | ⭐⭐⭐½☆ | C | GameFAQs Great (47표) / 가격.com 3.0/5 (1건) / GAMEMAN 6.8/10 / PS2 Metacritic 70/100 (12개, 원판 참고) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 메뉴 부분패치 v0.2·프로젝트 중단 기록 | 2008 PS2 원작·북미 공식 영문 / 2009 PSP Portable+ 전투원양성소·미디어 인스톨 / 2013 PS2 Classics 일본판 | 🟢 후보 |
 | [Misshitsu no Sacrifice (밀실의 새크리파이스)](games/misshitsu-no-sacrifice.md) | 2010 | SF 서스펜스 탈출 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 21/40 / GameFAQs Fair (8표) / 4Gamer 80/100 (1건) / Steam 82% 긍정 (237건, 후발판) | 공개적으로 확인되지 않음 | 2010 PSP 원작 / 2020 Switch·Steam 강화이식·힌트·갤러리·그래픽 리파인·공식 영중문 | 🟢 후보 |
 | [Seinaru Kana: Orichalcum no Na no Motoni (성스러운 카나: 오리할콘의 이름 아래에)](games/seinaru-kana-orichalcum-no-na-no-motoni.md) | 2012 | 전생신화 SRPG·ADV | ⭐⭐⭐½☆ | C | Famitsu 25/40 / GameFAQs 3.50/5 / 4Gamer 80/100 (1건) | 공개적으로 확인되지 않음 | 2007 PC 원작 / 2012 PSP 대폭 개수·신규 CG 35장 이상·전작 연동 / 2012 PC Special Edition 콘솔 추가·외전 흡수 / 2017 Steam 공식 영문 | 🟢 후보 |
