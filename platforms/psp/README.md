@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **38개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
+> 등록 후보: **39개** / 발굴 우선 후보: **6개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -19,6 +19,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 |---|---:|---|---:|---:|---|---|---|---|
 | [Summon Night 3 (서몬 나이트 3)](games/summon-night-3.md) | 2012 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐⭐☆ | 🔥 A | Famitsu 31/40 / GameFAQs Great (38표) / 4Gamer 80/100 (2건) | 공개적으로 확인되지 않음 | 2003 PS2 원작 / 2012 PSP 강화리메이크 / 2014 PSP the Best 버그 수정 / 4편 시스템 데이터 연동 | 💎 우선 후보 |
 | [Summon Night 4 (서몬 나이트 4)](games/summon-night-4.md) | 2012 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 4.08/5 (32표) / Famitsu 31/40 / 4Gamer 75/100 (1건) | 공개적으로 확인되지 않음 | 2006 PS2 원작 / 2012 PSP 강화이식 / 2014 PSP the Best 버그 수정 / 중국어 팬번역 기록 | 💎 우선 후보 |
+| [Infinite Loop: Kojou ga Miseta Yume (인피니트 루프: 고성이 보여준 꿈)](games/infinite-loop-kojou-ga-miseta-yume.md) | 2008 | 미스터리 판타지 ADV·루프형 비주얼 노벨 | ⭐⭐⭐⭐☆ | 🔥 A | Famitsu 33/40 / 게임카탈로그 良作 / GAMEMAN 8.4/10 / 4Gamer 65/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | PSP 오리지널 / 2009 The Best Price·DL판 / Disgaea Infinite는 시스템 재사용 별도 작품 / 현대 직접 이식 확인 못함 | 💎 우선 후보 |
 | [Senritsu no Stratus (전율의 스트라터스)](games/senritsu-no-stratus.md) | 2011 | 드라마틱 섬멸 액션·액션 어드벤처 | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (29표) / Famitsu 실버 전당 / PS Store 3.78/5 (60표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 오리지널·일본 전용 / 제1화 배포판 연동 특전 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [12Riven: The ΨCliminal of Integral (12리븐: 더 사이클리미널 오브 인테그랄)](games/12riven-the-psi-climinal-of-integral.md) | 2009 | SF 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs PSP 3.09/5 (16표) / VNDB 7.5/10 (134표, 작품 계열) / 게임카탈로그 판정 없음 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2008 PS2·PC 원작 / 2009 PSP 신규 OP·ED·이벤트 CG·추가 이벤트 / Infinity Plus Portable 수록 | 🟢 후보 |
