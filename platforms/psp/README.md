@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **49개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
+> 등록 후보: **50개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -45,6 +45,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sakurasou no Pet na Kanojo (사쿠라장의 애완그녀)](games/sakurasou-no-pet-na-kanojo.md) | 2013 | 게임 제작 시뮬레이션·연애 ADV | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GAMEMAN 8.1/10 / 4Gamer Vita 65/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬번역 v0.2.1 ALPHA 기록 | 2013 PSP·Vita 동시판 / 내용 거의 동일·Vita 그래픽·일부 터치 우위 / 6종 DLC / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Routes Portable (루츠 포터블)](games/routes-portable.md) | 2007 | 스파이 액션·학원물 비주얼 노벨 ADV | ⭐⭐⭐½☆ | B | GAMEMAN 8.2/10 / GameFAQs Playable (9표) / LaunchBox 3.50/5 (2표) / 게임카탈로그 판정 없음 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2003 PC 원작 / 2007 PS2 Routes PE·PSP 확장 이식 / 풀보이스·후미츠키 편·EXTRA MISSION / 2009 AquaPrice | 🟢 후보 |
 | [Twinkle Crusaders STARLIT BRAVE!! (트윙클☆크루세이더스 STARLIT BRAVE!!)](games/twinkle-crusaders-starlit-brave.md) | 2010 | 크로스오버 배틀 ADV·전략 타이밍 배틀 | ⭐⭐⭐½☆ | B | GameFAQs Outstanding (1표) / 게임카탈로그 GoGo！ 良作 / Seven Nights: 전투 호평·시나리오 비판 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2010 GoGo！豪華版 별도 UMD / 2012 PC XTREAM 개정이식·전격 게스트·스토리 삭제 | 🟢 후보 |
+| [Sengoku Efuda Yuugi: Hototogisu Tairan (센고쿠 에후다 유기: 호토토기스 대란)](games/sengoku-efuda-yuugi-hototogisu-tairan.md) | 2010 | 전국시대 TCG·턴제 전술 시뮬레이션 | ⭐⭐⭐½☆ | B | Famitsu 26/40 / 4Gamer 75/100 (2건) / GAMEMAN 8.0/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2008 PSP 전작 乱 / 2010 PSP 大乱 / 2012 모바일 파생작 / 2018 Switch 별도 서비스형 작품·2023 종료 | 🟢 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 비주얼 노벨·미스터리 | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (245표) / VNDB 8.40/10 (141표, 작품 계열) / GAMEMAN PSP 8.2/10 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2011 PSP 원작 / 2019 Vita 본편 추가 없음 / 2022 Switch 신규 OP·ED·구판 영상 선택 | 💎 우선 후보 |
