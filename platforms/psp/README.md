@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **42개** / 발굴 우선 후보: **7개** / 한글화 A급 후보: **5개**
+> 등록 후보: **43개** / 발굴 우선 후보: **7개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -27,7 +27,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [77: Beyond the Milky Way (77: 비욘드 더 밀키 웨이)](games/77-beyond-the-milky-way.md) | 2010 | 학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Play-Asia 4/5 (13건) / Bangumi 원작 6.1/10 (약 90건대) / GAMEMAN 8.0/10 (작성 리뷰 0) | 공개적으로 확인되지 않음 | 2009 PC R18 원작 / 2010 PSP 전연령 확장 이식·신규 에피소드·신규 비주얼 40장 이상 / 2012 Best / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Blood: The Last Vampire (블러드 더 라스트 뱀파이어)](games/blood-the-last-vampire.md) | 2006 | 인터랙티브 애니메이션 ADV·호러 어드벤처 | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / 게임카탈로그 판정 없음 / Play-Asia 3/5 (3건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2000 PS2 상·하권 원작 / 2006 PSP 통합·강화이식 / 공식 번체중문 PSP판 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Boku wa Tomodachi ga Sukunai Portable (나는 친구가 적다 포터블)](games/boku-wa-tomodachi-ga-sukunai-portable.md) | 2012 | 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (34표) / 4Gamer 95/100 (1건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 독점 본편 / 수량한정판에 별도 PSP 게임 `きらめきスクールライフSP` 동봉 / 직접 후발 이식 확인 못함 | 🟢 후보 |
-| [Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)](games/ikki-tousen-xross-impact.md) | 2010 | 2D 벨트스크롤 액션·캐릭터 액션 | ⭐⭐⭐½☆ | B | GameFAQs 4.13/5 (65표) / Famitsu 25/40 / 4Gamer 70/100 (1건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 2011 Best Collection / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)](games/ikki-tousen-xross-impact.md) | 2010 | 2D 벨트스크롤 액션·캐릭터 액션 | ⭐⭐⭐½☆ | B | GameFAQs 4.13/5 (65표) / Famitsu 25/40 / 4Gamer 70/100 (1건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 2011 Best Collection / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Koi to Senkyo to Chocolate Portable (사랑과 선거와 초콜릿 포터블)](games/koi-to-senkyo-to-chocolate-portable.md) | 2012 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (14표) / VNDB 7.3 (2585표, 원작 계열) / Steam 88% 긍정 (현대판 참고) | 공개적으로 확인되지 않음 | 2010 PC 원작 / 2012 PSP 확장 이식·노조미 신규 루트 / 2020 High Resolution / 2025 Steam 공식 영·중문 | 🟢 후보 |
 | [Summon Night 5 (서몬 나이트 5)](games/summon-night-5.md) | 2013 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs 4.05/5 (116표) / Famitsu 32/40 / 4Gamer 59/100 (12건) / RPG Site 7/10 | 공개적으로 확인되지 않음 | PSP 오리지널 / 북미 공식 영어판 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)](games/zhp-unlosing-ranger-vs-darkdeath-evilman.md) | 2010 | 로그라이크 던전 RPG·턴제 전술 RPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.13/5 (379표) / Famitsu 32/40 / 4Gamer 87/100 (2건) / Metacritic 81/100 (19개) | 공개적으로 확인되지 않음 / 한국 정발판은 일본어 | PSP 원작·한국 정발 / 북미 공식 영어판 / 2022 Switch·PC는 Dengeki 콜라보 대량 삭제 | 💎 우선 후보 |
@@ -46,6 +46,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Akatsuki no Goei Trinity (새벽의 호위 트리니티)](games/akatsuki-no-goei-trinity.md) | 2012 | 학원·보디가드 연애 ADV·비주얼 노벨 합본 | ⭐⭐⭐½☆ | C | GameFAQs Fair (14표) / GAMEMAN 8.6/10 / Bangumi 원작 6.9·FD 6.7·후속 7.0 | 공개 PSP 한글패치 확인 못함 / PC 첫 작품 준한글화 기록 있음 | 2008 본편·FD / 2010 후속작 / 2012 PSP·PS3 Trinity / 2014 PC Complete Edition | 🟢 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 끝에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 학원·섬 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | VNDB 7.25/10 (83~84표, 원작 계열) / ErogameScape 75점대 (약 748건) / DLsite 4.6/5 (233건) | 공개 PSP 한글패치 확인 못함 / PC 원작 한국어화 자료 기록 있음 | 2010 PC 원작 / 2012 PSP 신규 2히로인·7루트 확장판 / 2015 PS Vita 고해상도·연출 강화판 | 🟢 후보 |
 | [Busou Shinki Battle Masters (무장신희 배틀 마스터즈)](games/busou-shinki-battle-masters.md) | 2010 | 3D 배틀 액션·캐릭터 커스터마이즈 | ⭐⭐⭐½☆ | C | 4Gamer 72/100 (17건) / GameFAQs Great (35표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | 2010 PSP 원판 / 2011 Best / 2011 Mk.2 확장·후속판·공개 한국어 패치 기록 | 🟢 후보 |
+| [CHAOS;HEAD Love Chu☆Chu! (카오스;헤드 러브 츄☆츄!)](games/chaos-head-love-chu-chu.md) | 2011 | 연애 코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs Great (25표) / 게임카탈로그 판정 없음 / 4Gamer PSP 독자 리뷰 없음 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬번역 2026 진행 중 | 2010 Xbox 360 원작 / 2011 PSP 신규 OP·ED / 2014 Vita DUAL / 2025 Switch Double Pack | 🟢 후보 |
 | [Class of Heroes (검과 마법과 학원물)](games/class-of-heroes.md) | 2008 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 24/40 / GameFAQs Good (314표) / Metacritic 61/100 (12개) / RPGFan 72/100 | 공개적으로 확인되지 않음 | PSP 원작·공식 영어판 / 2018 Switch Anniversary / 2024 Switch·PS5·PC HD 현행판 | 🟢 후보 |
 | [Class of Heroes 2 (검과 마법과 학원물 2)](games/class-of-heroes-2.md) | 2009 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Metacritic 77/100 (4개) / GameFAQs Good (85표) / RPGFan 80/100 / 4Gamer 40/100 (2건) | 공개적으로 확인되지 않음 | 2009 PSP 원작 / 북미 공식 영어판 / PS3 2G 확장판 / 2024 2G Remaster 현행판 | 🟢 후보 |
 | [Ken to Mahou to Gakuen Mono. 3 (검과 마법과 학원물 3)](games/ken-to-mahou-to-gakuen-mono-3.md) | 2010 | 1인칭 3D 던전 RPG·학원 판타지 DRPG | ⭐⭐⭐½☆ | C | Famitsu 26/40 / 4Gamer 80/100 (1건) / 게임카탈로그 밸런스 불안정 / Steam Remaster 67% 긍정 (52건) | 공개적으로 확인되지 않음 | 2010 PSP·PS3 동시판 / 2011 3D·Final 계열 / 2025 Switch·PS5·Steam Remaster 공식 영문 | 🟢 후보 |
