@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **46개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
+> 등록 후보: **47개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -21,7 +21,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Summon Night 4 (서몬 나이트 4)](games/summon-night-4.md) | 2012 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 4.08/5 (32표) / Famitsu 31/40 / 4Gamer 75/100 (1건) | 공개적으로 확인되지 않음 | 2006 PS2 원작 / 2012 PSP 강화이식 / 2014 PSP the Best 버그 수정 / 중국어 팬번역 기록 | 💎 우선 후보 |
 | [Infinite Loop: Kojou ga Miseta Yume (인피니트 루프: 고성이 보여준 꿈)](games/infinite-loop-kojou-ga-miseta-yume.md) | 2008 | 미스터리 판타지 ADV·루프형 비주얼 노벨 | ⭐⭐⭐⭐☆ | 🔥 A | Famitsu 33/40 / 게임카탈로그 良作 / GAMEMAN 8.4/10 / 4Gamer 65/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | PSP 오리지널 / 2009 The Best Price·DL판 / Disgaea Infinite는 시스템 재사용 별도 작품 / 현대 직접 이식 확인 못함 | 💎 우선 후보 |
 | [Senritsu no Stratus (전율의 스트라터스)](games/senritsu-no-stratus.md) | 2011 | 드라마틱 섬멸 액션·액션 어드벤처 | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (29표) / Famitsu 실버 전당 / PS Store 3.78/5 (60표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 오리지널·일본 전용 / 제1화 배포판 연동 특전 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
-| [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 직접 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [1/2 summer+ (원사이드 서머 플러스)](games/1-2-summer-plus.md) | 2013 | 여름·학원·온천향 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 26/40 / GameFAQs 3.31/5·Good (31표) / VNDB 원작 6.91/10 (192표) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC 원작 한국어화 자료·복구 기록 있음 | 2012 PC R18 원작 / 2013 PSP 전연령 확장판·카즈하·마츠리 2루트·신규 CG 약 30장·대폭 개수 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [12Riven: The ΨCliminal of Integral (12리븐: 더 사이클리미널 오브 인테그랄)](games/12riven-the-psi-climinal-of-integral.md) | 2009 | SF 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs PSP 3.09/5 (16표) / VNDB 7.5/10 (134표, 작품 계열) / 게임카탈로그 판정 없음 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2008 PS2·PC 원작 / 2009 PSP 신규 OP·ED·이벤트 CG·추가 이벤트 / Infinity Plus Portable 수록 | 🟢 후보 |
 | [77: Beyond the Milky Way (77: 비욘드 더 밀키 웨이)](games/77-beyond-the-milky-way.md) | 2010 | 학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Play-Asia 4/5 (13건) / Bangumi 원작 6.1/10 (약 90건대) / GAMEMAN 8.0/10 (작성 리뷰 0) | 공개적으로 확인되지 않음 | 2009 PC R18 원작 / 2010 PSP 전연령 확장 이식·신규 에피소드·신규 비주얼 40장 이상 / 2012 Best / 현대 직접 이식 확인 못함 | 🟢 후보 |
@@ -42,6 +42,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Tantei Opera Milky Holmes (탐정 오페라 밀키 홈즈)](games/tantei-opera-milky-holmes.md) | 2010 | 탐정 로망 ADV·추리 어드벤처 | ⭐⭐⭐½☆ | B | GameFAQs Great (35표) / 4Gamer 47/100 (2건) / GAMEMAN 7.5/10 (작성 리뷰 0) / 전격온라인 호평 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬패치 v0.4 있음 | 2010 PSP 원작 / 2011~12 1.5 시나리오·CG·보이스 개수 / 2012 2 한정판에 1.5 UMD 동봉 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 3D 던전 RPG·턴제 JRPG | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (25표) / Famitsu 29/40 (3DS 동시판) / RPGamer 2/5 (3DS) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 부분 번역 V1 기록 | 2011 ReXX 전작 / 2012 PSP·3DS 동시판 / 공식 영문판 없음 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Twinkle Crusaders GoGo! (트윙클☆크루세이더스 GoGo!)](games/twinkle-crusaders-gogo.md) | 2010 | 학원 러브코미디 ADV·턴제 전투 SLG | ⭐⭐⭐½☆ | B | Famitsu 30/40 / 게임카탈로그 良作 / GAMEMAN 8.8/10 / GameFAQs 2.94/5 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2010 PSP 신규 2루트·배틀 개선 / 호화판 STARLIT BRAVE!! / 2012 PSS 후속·FD | 🟢 후보 |
+| [Sakurasou no Pet na Kanojo (사쿠라장의 애완그녀)](games/sakurasou-no-pet-na-kanojo.md) | 2013 | 게임 제작 시뮬레이션·연애 ADV | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GAMEMAN 8.1/10 / 4Gamer Vita 65/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬번역 v0.2.1 ALPHA 기록 | 2013 PSP·Vita 동시판 / 내용 거의 동일·Vita 그래픽·일부 터치 우위 / 6종 DLC / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 비주얼 노벨·미스터리 | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (245표) / VNDB 8.40/10 (141표, 작품 계열) / GAMEMAN PSP 8.2/10 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2011 PSP 원작 / 2019 Vita 본편 추가 없음 / 2022 Switch 신규 OP·ED·구판 영상 선택 | 💎 우선 후보 |
