@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **25개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **4개**
+> 등록 후보: **26개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -30,6 +30,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ragnarok Tactics (라그나로크: 빛과 어둠의 황녀)](games/ragnarok-tactics.md) | 2011 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Good (161표) / Metacritic 65/100 (4개) / RPGFan 69/100 / 4Gamer 32/100 (2건) | 공개적으로 확인되지 않음 | PSP 원작 / 북미 공식 영어판 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [School Rumble: Anesan Jiken Desu! (스쿨럼블 언니 사건이에요!)](games/school-rumble-anesan-jiken-desu.md) | 2005 | 학원 러브코미디 ADV·풀보이스 전자 코믹 | ⭐⭐⭐½☆ | B | GameFAQs Great (24표) / Amazon 3.4/5 (11건) / GAMEMAN 6.2/10 | 공개적으로 확인되지 않음 | PSP 오리지널 / PS2 `ねる娘は育つ。` 및 2기 게임은 별도 작품 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Suzumiya Haruhi no Tsuisou (스즈미야 하루히의 추상)](games/suzumiya-haruhi-no-tsuisou.md) | 2011 | 루프형 어드벤처·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 30/40 / GameFAQs 4.1/5 (20표) / GAMEMAN 6.8/10 | 공개적으로 확인되지 않음 | 2011 PSP·PS3 동시판 / 본편 내용 기본 동일·세이브 연동 / 현대 재이식 확인 못함 | 🟢 후보 |
+| [Tears to Tiara: Kakan no Daichi Portable (티어즈 투 티아라: 화관의 대지 포터블)](games/tears-to-tiara-kakan-no-daichi-portable.md) | 2010 | 판타지 ADV·시뮬레이션 RPG | ⭐⭐⭐½☆ | B | GameFAQs Great (24표) / Bangumi 7.1/10 (73표) / GAMEMAN 7.2/10 / 게임카탈로그 PS3 良作 | 공개적으로 확인되지 않음 | 2005 PC 원작 / 2008 PS3 전면 리메이크 / 2010 PSP 이식·DEVIL·전투 평가 추가 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Weiss Schwarz Portable: Boost Schwarz (바이스 슈바르츠 포터블: 부스트 슈바르츠)](games/weiss-schwarz-portable-boost-schwarz.md) | 2011 | 카드 시뮬레이터·턴제 카드 배틀·연애 ADV | ⭐⭐⭐½☆ | B | Famitsu 28/40 / GameFAQs Great (26표) / 4Gamer 62/100 (2건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | Boost Weiss 동시발매 / 양판 독점카드 없음 / 2027 Switch·Steam WSO는 별도 신작·공식 한국어 예정 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | 전략 RPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Great (400표) / Metacritic 64/100 (22개) / RPGFan 87/100 / 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PSP 오리지널 / 북미·유럽 공식 영어판 / PS Vita 하위 호환 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
