@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-17**  
-> 등록 후보: **33개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
+> 등록 후보: **34개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -35,6 +35,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Weiss Schwarz Portable: Boost Schwarz (바이스 슈바르츠 포터블: 부스트 슈바르츠)](games/weiss-schwarz-portable-boost-schwarz.md) | 2011 | 카드 시뮬레이터·턴제 카드 배틀·연애 ADV | ⭐⭐⭐½☆ | B | Famitsu 28/40 / GameFAQs Great (26표) / 4Gamer 62/100 (2건) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | Boost Weiss 동시발매 / 양판 독점카드 없음 / 2027 Switch·Steam WSO는 별도 신작·공식 한국어 예정 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | 전략 RPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Great (400표) / Metacritic 64/100 (22개) / RPGFan 87/100 / 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PSP 오리지널 / 북미·유럽 공식 영어판 / PS Vita 하위 호환 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Tantei Opera Milky Holmes (탐정 오페라 밀키 홈즈)](games/tantei-opera-milky-holmes.md) | 2010 | 탐정 로망 ADV·추리 어드벤처 | ⭐⭐⭐½☆ | B | GameFAQs Great (35표) / 4Gamer 47/100 (2건) / GAMEMAN 7.5/10 (작성 리뷰 0) / 전격온라인 호평 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬패치 v0.4 있음 | 2010 PSP 원작 / 2011~12 1.5 시나리오·CG·보이스 개수 / 2012 2 한정판에 1.5 UMD 동봉 / 직접 현대 이식 확인 못함 | 🟢 후보 |
+| [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 3D 던전 RPG·턴제 JRPG | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (25표) / Famitsu 29/40 (3DS 동시판) / RPGamer 2/5 (3DS) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 부분 번역 V1 기록 | 2011 ReXX 전작 / 2012 PSP·3DS 동시판 / 공식 영문판 없음 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Akatsuki no Goei Trinity (새벽의 호위 트리니티)](games/akatsuki-no-goei-trinity.md) | 2012 | 학원·보디가드 연애 ADV·비주얼 노벨 합본 | ⭐⭐⭐½☆ | C | GameFAQs Fair (14표) / GAMEMAN 8.6/10 / Bangumi 원작 6.9·FD 6.7·후속 7.0 | 공개 PSP 한글패치 확인 못함 / PC 첫 작품 준한글화 기록 있음 | 2008 본편·FD / 2010 후속작 / 2012 PSP·PS3 Trinity / 2014 PC Complete Edition | 🟢 후보 |
