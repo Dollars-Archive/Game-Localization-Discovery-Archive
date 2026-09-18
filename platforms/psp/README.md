@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **72개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
+> 등록 후보: **73개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -89,6 +89,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [ToHeart2 Portable (투하트2 포터블)](games/toheart2-portable.md) | 2009 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs 3.50/5·Good (17표) / 게임카탈로그 판정 없음 | 공개 PSP 한글패치 확인 못함 / PC XRATED 한국어 패치 1.1 기록 있음 | 2004 PS2 원작 / 2005 PC XRATED 사사라 추가 / 2009 PSP 콘솔 최초 사사라 / 2011 PS3 DX PLUS 상위판 | 🟢 후보 |
 | [Sora o Aogite Kumo Takaku Portable (소라오 아오기테 쿠모 타카쿠 Portable)](games/sora-o-aogite-kumo-takaku-portable.md) | 2013 | 드래곤 소녀 육성 액션 RPG·어드벤처 | ⭐⭐⭐½☆ | C | GameFAQs 3.58/5 (18표) / Steam 85% 긍정 (42건, PSP 기반) / VNDB 미러 6.93/10 (99표) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / Steam 공식 영·중문 있음 | 2010 PC 원작 / 2013 PSP 신규 CG 30장+·치비 리뉴얼 / 2016 Steam PSP 기반 공식 이식 | 🟢 후보 |
 | [Mystereet Portable: Yasogami Kaoru no Chousen! (미스테리트 PORTABLE: 야소가미 카오루의 도전!)](games/mystereet-portable.md) | 2008 | 본격 추리 ADV·미스터리 비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 원작 8.4/10 (15표)·도전 계열 7.1/10 (15표) / GAMEMAN 8.8/10 / PSP 완주 7.0/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 2025 리마스터도 일본어 | 2004 PC 원작 / 2006 PS2 풀보이스·맵개선 / 2008 PSP 단편집·브리지 / 2025 HD 리마스터 | 🟢 후보 |
+| [Koisuru Otome to Shugo no Tate Portable (사랑하는 소녀와 수호의 방패 Portable)](games/koisuru-otome-to-shugo-no-tate-portable.md) | 2010 | 여장 잠입 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs 2.25/5 (8표) / GAMEMAN 8.5/10 / VNDB 7.52/10 (407표, 작품 계열) / PSP 완주 75/100 | PSP 공개 한글패치 확인 못함 / PS2판 공개 한글패치 1.0.1 있음 | 2007 PC 원작 / 2008 PS2 2히로인·주인공 풀보이스·대폭 추가 / 2010 PSP 16:9 휴대기 이식 / 2020 Re:boot | 🟢 후보 |
 
 ## 발굴 상태 기준
 
