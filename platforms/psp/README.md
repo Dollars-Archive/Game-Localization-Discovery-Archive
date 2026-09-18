@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **54개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
+> 등록 후보: **55개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -53,6 +53,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 비주얼 노벨·미스터리 | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (245표) / VNDB 8.40/10 (141표, 작품 계열) / GAMEMAN PSP 8.2/10 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2011 PSP 원작 / 2019 Vita 본편 추가 없음 / 2022 Switch 신규 OP·ED·구판 영상 선택 | 💎 우선 후보 |
+| [Tenshin Ranman: Happy GO Lucky!! (천신란만 Happy GO Lucky!!)](games/tenshin-ranman-happy-go-lucky.md) | 2010 | 신과 보내는 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 6.7/10 (500표 이상) / GameFAQs PSP 3.17/5 / GAMEMAN 8.1/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PSP 간체중문 완전패치 있음 | 2009 PC 원작 / 2010 PSP 확장판 / 2021 Windows 공식 HD 역이식 | 🟢 후보 |
 | [Akatsuki no Goei Trinity (새벽의 호위 트리니티)](games/akatsuki-no-goei-trinity.md) | 2012 | 학원·보디가드 연애 ADV·비주얼 노벨 합본 | ⭐⭐⭐½☆ | C | GameFAQs Fair (14표) / GAMEMAN 8.6/10 / Bangumi 원작 6.9·FD 6.7·후속 7.0 | 공개 PSP 한글패치 확인 못함 / PC 첫 작품 준한글화 기록 있음 | 2008 본편·FD / 2010 후속작 / 2012 PSP·PS3 Trinity / 2014 PC Complete Edition | 🟢 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 끝에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 학원·섬 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | VNDB 7.25/10 (83~84표, 원작 계열) / ErogameScape 75점대 (약 748건) / DLsite 4.6/5 (233건) | 공개 PSP 한글패치 확인 못함 / PC 원작 한국어화 자료 기록 있음 | 2010 PC 원작 / 2012 PSP 신규 2히로인·7루트 확장판 / 2015 PS Vita 고해상도·연출 강화판 | 🟢 후보 |
 | [Busou Shinki Battle Masters (무장신희 배틀 마스터즈)](games/busou-shinki-battle-masters.md) | 2010 | 3D 배틀 액션·캐릭터 커스터마이즈 | ⭐⭐⭐½☆ | C | 4Gamer 72/100 (17건) / GameFAQs Great (35표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | 2010 PSP 원판 / 2011 Best / 2011 Mk.2 확장·후속판·공개 한국어 패치 기록 | 🟢 후보 |
