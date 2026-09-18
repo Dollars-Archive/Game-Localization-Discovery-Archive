@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **65개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **5개**
+> 등록 후보: **66개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -54,6 +54,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Princess Frontier Portable (프린세스 프론티어 포터블)](games/princess-frontier-portable.md) | 2011 | 판타지 변방 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Fair (8표) / VNDB 7.5/10 (50표, 작품 계열) / Play-Asia 5/5 (15리뷰) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2011 PSP 모니카·알에 그랜드루트·대규모 가필 / 2013 PC Renewal은 원작 재발매 | 🟢 후보 |
 | [Motto Nuga-Cel! (못토 누가셀!)](games/motto-nuga-cel.md) | 2010 | 국토점령 SRPG·턴제 RPG·육성 | ⭐⭐⭐½☆ | B | GameFAQs Outstanding (38표) / Famitsu 27/40 / 게임카탈로그 판정 없음 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PSP 간체중문 완전패치 기록 있음 | 2009 PS2 원작 / 2010 PSP 새 캐릭터·시나리오·CG·하드모드·시스템 개선 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Twelve: Sengoku Fuushinden (트웰브 전국봉신전)](games/twelve-sengoku-fuushinden.md) | 2005 | 전국 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs 3.76/5 (19표) / Amazon 3.4/5 (17리뷰) / 가격.com 4.0/5 (1건) / GAMEMAN 7.0/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 영문 매뉴얼·중문 한화 기록 있음 | PSP 오리지널 / 2006 Konami the Best / 현대 직접 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Kazoku Keikaku (가족계획)](games/kazoku-keikaku.md) | 2010 | 휴먼 드라마·하트풀 코미디 ADV·비주얼 노벨 | ⭐⭐⭐⭐½ | B | GameFAQs Great (27표) / Bangumi 8.3/10 (2,200표+, 작품 계열) / GAMEMAN 7.8/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 과거 PC 한글화 기록 있음 | 2001 PC 원작 / 2005 PS2 케이 루트 / 2010 PSP 신규 CG 20장+·연출·무비·음향 개선 / 2013~14 Re 풀리메이크 | 💎 우선 후보 |
 | [Kuon no Kizuna: Sairinsho -Portable- (구원의 반 재림조 포터블)](games/kuon-no-kizuna-sairin-mikotonori-portable.md) | 2011 | 시네마틱 노벨·전기 로맨스 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs 3.33/5 (6표) / Bangumi 7.7/10 (49표, 판본 통합) / 게임카탈로그 원작 良作 / GAMEMAN 9.6/10 (작성 리뷰 0) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 정식 한국어 스마트폰판 《구원의 반 재림조》 현행 원스토어 판매 | 1998 PS 원작 / 2000 DC 재림조 / 2002 PS2 완전판 / 2011 PSP 시계·알람 추가 / 2011 PC 풀보이스 / 2016 한국어 스마트폰판 | 💎 우선 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
