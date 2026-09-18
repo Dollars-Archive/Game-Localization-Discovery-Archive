@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **69개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
+> 등록 후보: **70개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -63,6 +63,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 비주얼 노벨·미스터리 | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (245표) / VNDB 8.40/10 (141표, 작품 계열) / GAMEMAN PSP 8.2/10 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2011 PSP 원작 / 2019 Vita 본편 추가 없음 / 2022 Switch 신규 OP·ED·구판 영상 선택 | 💎 우선 후보 |
 | [ToHeart Portable (투하트 포터블)](games/toheart-portable.md) | 2009 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs Good (16표) / 29시간 (8명) / GAMEMAN 9.6/10 / 게임카탈로그 PS판 良作 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 2025 리메이크 공식 한국어 미지원 | 1997 PC 원작 / 1999 PS 대폭 개수 / 2009 PSP W Pack / 2011 AquaPrice / 2025 PC·Switch 리메이크 | 💎 우선 후보 |
 | [Flowers: Le Volume sur Printemps (플라워즈 -봄편-)](games/flowers-le-volume-sur-printemps.md) | 2014 | 백합계 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Famitsu 31/40 / Bangumi 7.2/10 (약 1,500표) / Steam 92% 긍정 (1,700건대) / GameFAQs PSP Fair (8표) | PSP 한글패치 확인 못함 / 2023 STOVE PC 공식 한국어판 있음 | 2014 PC 원작·PSP·Vita / 2019 PS4·Switch 四季 합본 / 2023 STOVE 한국어 4편 컬렉션 | 💎 우선 후보 |
+| [Arcana Famiglia: La storia della Arcana Famiglia (아르카나 파밀리아: La storia della Arcana Famiglia)](games/arcana-famiglia-la-storia-della-arcana-famiglia.md) | 2011 | 이탈리안 판타지 오토메 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 7.3/10 (155표) / GameFAQs 3.21/5 (19표) / GAMEMAN 7.4/10 (작성 리뷰 0) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / Rinato 공식 영·일·중문·한국어 미지원 | 2011 PSP 원작 / 2015 Vita Ancora 고해상도·새 OP·SS·PSP 패스워드 시나리오 / 2025 Switch·2026 Steam Rinato | 🟢 후보 |
 | [Little Witch Parfait: Kuroneko Mahouten Monogatari (리틀 위치 파르페: 검은 고양이 마법 상점 이야기)](games/littlewitch-parfait-kuroneko-mahouten-monogatari.md) | 2012 | 마법상점 경영 ADV·경영 시뮬레이션·연애 ADV | ⭐⭐⭐½☆ | C | 4Gamer 호평 / GameFAQs Fair (8표) / Bangumi 6.7/10 (12표) / 게임카탈로그 판정 없음 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 1999 원작 공식 한국어판 《소녀 마법사 파르페》 있음 | 1999 PC 원작 / 2012 PSP 풀리메이크 / 2013 PC 역이식·현행 판매 / 2015 PSP DL 재배포 | 🟢 후보 |
 | [D.C. I & II P.S.P.: Da Capo I & II Plus Situation Portable (D.C. I & II P.S.P.: 다카포 I & II 플러스 시추에이션 포터블)](games/dc-i-and-ii-psp-da-capo-i-and-ii-plus-situation-portable.md) | 2010 | 학원 연애 ADV·비주얼 노벨 합본 | ⭐⭐⭐½☆ | C | GameFAQs Fair (8표) / GAMEMAN 8.1/10 / Play-Asia 5/5 (5건) / PS2 원작 2편 호평 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PC D.C.P.C·D.C.II P.C 공개 한국어화 기록 있음 | 2003 D.C.P.S. / 2008 D.C.II P.S. / 2010 PSP UMD 2장·27히로인 / 2025 D.C. Re:tune은 1편 별도 리메이크 | 🟢 후보 |
 | [Tenshin Ranman: Happy GO Lucky!! (천신란만 Happy GO Lucky!!)](games/tenshin-ranman-happy-go-lucky.md) | 2010 | 신과 보내는 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 6.7/10 (500표 이상) / GameFAQs PSP 3.17/5 / GAMEMAN 8.1/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PSP 간체중문 완전패치 있음 | 2009 PC 원작 / 2010 PSP 확장판 / 2021 Windows 공식 HD 역이식 | 🟢 후보 |
