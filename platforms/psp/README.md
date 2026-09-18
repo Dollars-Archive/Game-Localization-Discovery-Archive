@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-18**  
-> 등록 후보: **61개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
+> 등록 후보: **62개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -52,6 +52,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Deardrops Distortion (디어드롭스 디스토션)](games/deardrops-distortion.md) | 2011 | 청춘 연애 록앤롤 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | VNDB 미러 7.49/10 (2,312표, 작품 계열) / GameFAQs PSP 2.55/5 / GAMEMAN 8.3/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PC 원작 공식 영어판 있음 | 2010 PC 원작 / 2011 PSP 신규 시나리오 약 30%·CG 약 20장·ED 전면 교체 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Pastel Chime Continue (파스텔 차임 Continue)](games/pastel-chime-continue.md) | 2010 | 검과 마법의 연애 육성 RPG·학원 판타지 | ⭐⭐⭐½☆ | B | Famitsu 27/40 / GameFAQs 3.04/5 (13표) / GAMEMAN 8.3/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2005 PC 원작 / 2005 C++ / 2009 PC 저가판+C++ / 2010 PSP 신규 이벤트·풀보이스·C++ 일부 | 🟢 후보 |
 | [Princess Frontier Portable (프린세스 프론티어 포터블)](games/princess-frontier-portable.md) | 2011 | 판타지 변방 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Fair (8표) / VNDB 7.5/10 (50표, 작품 계열) / Play-Asia 5/5 (15리뷰) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2011 PSP 모니카·알에 그랜드루트·대규모 가필 / 2013 PC Renewal은 원작 재발매 | 🟢 후보 |
+| [Motto Nuga-Cel! (못토 누가셀!)](games/motto-nuga-cel.md) | 2010 | 국토점령 SRPG·턴제 RPG·육성 | ⭐⭐⭐½☆ | B | GameFAQs Outstanding (38표) / Famitsu 27/40 / 게임카탈로그 판정 없음 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PSP 간체중문 완전패치 기록 있음 | 2009 PS2 원작 / 2010 PSP 새 캐릭터·시나리오·CG·하드모드·시스템 개선 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 비주얼 노벨·미스터리 | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (245표) / VNDB 8.40/10 (141표, 작품 계열) / GAMEMAN PSP 8.2/10 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2011 PSP 원작 / 2019 Vita 본편 추가 없음 / 2022 Switch 신규 OP·ED·구판 영상 선택 | 💎 우선 후보 |
