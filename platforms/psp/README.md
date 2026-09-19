@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **91개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **5개**
+> 등록 후보: **92개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **5개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -110,6 +110,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [your diary+ (유어 다이어리+)](games/your-diary-plus.md) | 2013 | 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 30/40 / GameFAQs 2.95/5·13.78h / GAMEMAN 7.4/10 / Play-Asia 5/5 (5평가) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC your diary+H 한글화 프로젝트 기록 있음 | 2011 PC 원작 / 2013 PSP 3히로인·CG 30장+ 추가 / 2014 PC +H / 2018 Steam 영·중문 / 2019 PS4·Vita PSP판 이식 | 🟢 후보 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ | C | Famitsu 23/40·5.7/10 / GameFAQs 3.83/5·22h / 개인 완주 2/5 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | PSP 독점 보드게임 / 9인 개별 스토리·풀보이스 / 사용자 승인 예외 등록 | 🟡 보류 |
 | [Gakuen K: Wonderful School Days (학원 K -Wonderful School Days-)](games/gakuen-k-wonderful-school-days.md) | 2014 | 여성향 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 28/40 / GameFAQs Poor (14표)·12h (4표본) / GAMEMAN 7.4/10 / VNDB계열 6.16/10 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 7공략 캐릭터·26엔딩 / 2015 Vita V Edition 후일담·신규 CG 추가 상위판 | 🟢 후보 |
+| [Ren'ai 0 Kilometer Portable (연애 0킬로미터 포터블)](games/renai-0-kilometer-portable.md) | 2013 | 가족교환 러브코미디 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 28/40 / 2026 Steam 원작계열 약 90% 긍정 / 개인 PSP 완주평 개그 호평·루트 편차 | PSP 공개 한글패치 확인 못함 / PC 원작 MTL 기록 있음 | 2011 PC 5히로인 / 2013 PSP 9히로인·CG 30장+ / 2014 Vita PSP내용+HD / 2026 Steam·Switch | 🟢 후보 |
 
 ## 발굴 상태 기준
 
