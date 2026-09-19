@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **112개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **6개**
+> 등록 후보: **113개** / 발굴 우선 후보: **18개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -77,6 +77,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Hana to Otome ni Shukufuku o – Harukaze no Okurimono Portable (꽃과 소녀에게 축복을 ~봄바람의 선물~ 포터블)](games/hana-to-otome-ni-shukufuku-o-harukaze-no-okurimono-portable.md) | 2011 | 여장 잠입 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Bad (5표)·30h (2표본) / Bangumi 7.0/10 (9표, PS2·PSP 통합) / PSP 완주 정성평 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2009 PC 원작 / 2010 PS2 확장·사오리·나오·30CG+·FD 시나리오 / 2011 PSP 휴대 이식 | 🟢 후보 |
 | [Onore no Shinzuru Michi wo Yuke (오노레노 신즈루 미치오 유케)](games/onore-no-shinzuru-michi-wo-yuke.md) | 2009 | 퍼즐 액션·스테이지 클리어형 액션·멀티플레이 | ⭐⭐⭐½☆ | B | Famitsu 34/40 / Play-Asia 5/5 (5평가) / 사용자 집계 6.86/10 / 개인 장문 52/100 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2009 PSP UMD 원작 / 2010 PSP DL판 / 직접 현대 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Accel World: Kasoku no Chouten (액셀 월드: 가속의 정점)](games/accel-world-kasoku-no-chouten.md) | 2013 | 가속세계 체험 시뮬레이션·ADV·육성·커맨드 배틀 | ⭐⭐⭐½☆ | B | Famitsu 29/40 / GameFAQs Good (22표)·13h (12표본) / Bangumi 5.3/10 (4표) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2012 전작 은빛 날개의 각성 → 2013 PSP·PS3 동시 후속편 / PS3 화질 우위 / 2017 AW VS SAO는 별도작 | 🟢 후보 |
+| [Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita. Portable: Gakuen Dog Ear Hen (코노 부시츠와 키타쿠시나이부가 센쿄시마시타. 포터블: 학원 도그 이어 편)](games/kono-bushitsu-wa-kitaku-shinai-bu-ga-senkyo-shimashita-portable-gakuen-dog-ear-hen.md) | 2012 | 귀가하지 않는 Live ADV·학원 러브코미디·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (13표)·12h (7표본) / GAMEMAN 7.4/10 / BicCamera 3/5 (1건) / Rakuten 5/5 (1건) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 Summer Wars 별도작 / 2012 Dog Ear 두 번째 독립 UMD·4개별 루트·Live2D / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가)](games/ore-wa-shoujo-mangaka.md) | 2012 | 도타바타 만화가 ADV·연애 어드벤처·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 게임카탈로그 良作 / 4Gamer 83 (3건) / GameFAQs Great (16표)·17h (8표본) / 전격 올클리어 강한 호평 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PSP 원작 / 2012 DL판·Vita 호환 일부 제한 / 2013 PC R 시나리오 동일·신규 CG·새 OP·고해상도 | 💎 우선 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·데스게임·군상극 비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Bangumi 7.3/10 (233표) / VNDB계열 약 7.5/10 (148표) / GameFAQs Fair (11표)·13h (4표본) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Switch 공식 일본어 전용 | 2011 PC CODE:Revise / 2013 PSP 시나리오 80% 재작성·분량 2배 / 2013 PC BOOSTED / 2015 모바일 / 2018 Switch | 💎 우선 후보 |
 | [Tobidase! Trouble Hanafuda Douchuuki (뛰어나가라! 트러블 화투 여행기)](games/tobidase-trouble-hanafuda-douchuuki.md) | 2007 | 화투·코이코이 카드게임·캐릭터 파티 미니게임 | ⭐⭐⭐½☆ | C | GameFAQs Good (14표)·9h (7표본) / MyGame8 5.0/5 (2리뷰) / Emuparadise 4.89/5 (9표) / 개인 완주 약 6h | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / 2025 Remastered도 한국어 미지원 | 2005 PC 원본 / 2006 EX / 2007 PSP 풀보이스·신규 팀·애드혹 / 2012 PSP DL 복각·별도 신작 / 2025 Remastered 화투 3계열 통합 | 🟢 후보 |
