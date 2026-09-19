@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-20**  
-> 등록 후보: **171개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
+> 등록 후보: **172개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -117,6 +117,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Suzunone Seven! Portable (스즈노네 세븐! 포터블)](games/suzunone-seven-portable.md) | 2014 | 마법 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 7.0/10 / EGS 원작 77점대 (1,068표) / VNDB 원작 7.17/10 (73표) | 2026-09-20 기준 공개 PSP 한글패치 확인 못함 / PC 원작 공개 한국어 패치 확인 | 2009 PC 원작 / 2010 PS2 Rebirth knot 6히로인 확장 / 2014 PSP 동내용 이식 / 팬디스크 별도 | 🟢 후보 |
 | [Kisaragi GOLD★STAR -NONSTOP GO GO!!- (키사라기 골드★스타 -NONSTOP GO GO!!-)](games/kisaragi-gold-star-nonstop-go-go.md) | 2013 | 이웃끼리의 청춘 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 29/40 / Bangumi PSP 7.5/10 (6표) / GameFAQs Poor (4표) | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PC 원작 / 2013 PSP 쿠온 미카 신규 루트·기존 히로인 추가 시나리오·CG / PC DL판·4본 세트 별도 | 🟢 후보 |
 | [Ouka Sengoku Portable (오우카 센고쿠 포터블)](games/ouka-sengoku-portable.md) | 2012 | 전국무장 미소녀 전생·학원 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.36/5 / Bangumi PSP 7.5/10 (4표) / EGS 원작 중앙값 80 (121표) | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PC 원작 / 2012 PSP 신규 3인·丙루트·기존 루트 가필·CG 40장+ | 🟢 후보 |
+| [Soukyuu no Fafner: Dead Aggressor (창궁의 파프너)](games/soukyuu-no-fafner-dead-aggressor.md) | 2005 | 3D 로봇 액션·슈팅 / ADV | ⭐⭐⭐½☆ | B | GameFAQs Great (21표)·약 3.76/5 / 11h (12표본) / GAMEMAN 7.8/10 | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2004 TV 애니 기반 / 2005 PSP 오리지널 분기·생존 전개 / 후발 직접 포트 확인 못함 | 🟢 후보 |
 | [Suzukaze no Melt: Days in the Sanctuary (스즈카제노 멜트: Days in the Sanctuary)](games/suzukaze-no-melt-days-in-the-sanctuary.md) | 2012 | 정령·토지신 판타지 연애 ADV | ⭐⭐⭐½☆ | C | Bangumi 약 6.7/10 (70표대, 작품계열) / EGS 원작 약 76 / GAMEMAN PSP 8.8 | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PC 원작 / 2011 PS3 추가 시나리오·CG / 2012 PSP PS3판 계승+클록 모드 / 2012 PC W-Pack | 🟢 후보 |
 | [Tasogare no Sinsemilla Portable (황혼의 신세미아 Portable)](games/tasogare-no-sinsemilla-portable.md) | 2013 | 화풍 전기·미스터리·연애 ADV | ⭐⭐⭐½☆ | C | Famitsu 23/40 / VNDB 약 7.96/10 (460표대, 원작계열) / Bangumi 약 7.5/10 (2,100표대, 원작계열) | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 / PC 원작 공개 한국어 패치 확인 | 2010 PC 원작 / 2013 PSP 수정 시나리오·신규 CG·전용 OP / PC 팬디스크·DL판 별도 | 🟢 후보 |
 | [Shinkyoku Soukai Polyphonica: 0-4 Hanashi Full Pack (신곡주계 폴리포니카 0~4화 풀 팩)](games/shinkyoku-soukai-polyphonica-0-4-hanashi-full-pack.md) | 2008 | 판타지·학원 키네틱 노벨 | ⭐⭐⭐½☆ | C | Bangumi 1&2화 7.2/10 (12표) / 3&4화 7.4/10 (12표) / Joko PS2 합본 만족도 1~3/5 (3건) | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2006~07 PC 원작 분할 / 2008 PS2·PSP 0~4화 합본 / 2013 PC F Perfect Edition 상위 통합판 | 🟢 후보 |
