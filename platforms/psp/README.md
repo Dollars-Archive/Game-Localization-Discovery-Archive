@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-20**  
-> 등록 후보: **166개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
+> 등록 후보: **167개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -115,6 +115,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Onigokko! Portable (오니곳코! 포터블)](games/onigokko-portable.md) | 2013 | 옛이야기 모티브 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 25/40 / GameFAQs 2.75/5·약 9.7h / Bangumi PSP 6.7/10 (6표) / PC 원작 6.7/10·700표대 / VNDB계열 약 7.09 | 2026-09-20 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / 2021 PC 원작 공식 영어판 있음 | 2011 PC 원작 / 2013 PSP 나즈나 신규루트·시나리오 가필 / v1.01 버그수정·선택지점프 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Shirokuma Belles Stars: Happy Holidays! (시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~)](games/shirokuma-belles-stars-happy-holidays.md) | 2012 | 크리스마스 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | ErogameScape 당시 중앙값 80 (141건) / Bangumi 6.5/10 (110표대) / 개인 완주평 8/10·90/100 / 4Gamer·Famitsu PSP 직접 리뷰 없음 | 2026-09-20 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / 2011 PC 중국어판 기록 | 2009 PC 원작 / 2012 PSP 추가시나리오·신규CG 약20장·16:9·신규무비 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Suzunone Seven! Portable (스즈노네 세븐! 포터블)](games/suzunone-seven-portable.md) | 2014 | 마법 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 7.0/10 / EGS 원작 77점대 (1,068표) / VNDB 원작 7.17/10 (73표) | 2026-09-20 기준 공개 PSP 한글패치 확인 못함 / PC 원작 공개 한국어 패치 확인 | 2009 PC 원작 / 2010 PS2 Rebirth knot 6히로인 확장 / 2014 PSP 동내용 이식 / 팬디스크 별도 | 🟢 후보 |
+| [Shinkyoku Soukai Polyphonica: 0-4 Hanashi Full Pack (신곡주계 폴리포니카 0~4화 풀 팩)](games/shinkyoku-soukai-polyphonica-0-4-hanashi-full-pack.md) | 2008 | 판타지·학원 키네틱 노벨 | ⭐⭐⭐½☆ | C | Bangumi 1&2화 7.2/10 (12표) / 3&4화 7.4/10 (12표) / Joko PS2 합본 만족도 1~3/5 (3건) | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2006~07 PC 원작 분할 / 2008 PS2·PSP 0~4화 합본 / 2013 PC F Perfect Edition 상위 통합판 | 🟢 후보 |
 | [Flowers: Le Volume sur Été (플라워즈 -여름편-)](games/flowers-le-volume-sur-ete.md) | 2015 | 백합계 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐⭐½ | C | Famitsu 33/40·평균 8.25 / Bangumi 8.1/10 (1200표+) / Steam 99% 긍정 (1200건대) | PSP 한글패치 확인 못함 / 2023 STOVE PC 공식 한국어 지원 | 2015 PC 원작·PSP/Vita / 2019 PS4·Switch 四季 4편 합본 / STOVE 한국어 단품 | 💎 우선 후보 |
 | [Ayakashibito: Genyou Ibunroku Portable (아야카시비토 환요이문록 포터블)](games/ayakashibito-genyou-ibunroku-portable.md) | 2009 | 학원 청춘 연애 전기 배틀 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs PSP 3.79/5 (7표)·50h (3표본) / VNDB계열 약 7.6/10·1000표+ / Bangumi 콘솔 6.0/10 (2표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PS2 한국어 패치·PC 한국어 MTL·영어 팬패치 존재 | 2005 PC 원작 / 2006 PS2 호우난 신규 공략 / 2009 PSP PS2 내용+화면비 모드 / 2012 PSP ChronoBelt 별도 | 💎 우선 후보 |
 | [Solfege: Sweet Harmony (솔페쥬 ~Sweet harmony~)](games/solfege-sweet-harmony.md) | 2008 | 뮤직 ADV·백합 비주얼 노벨·리듬 액션 | ⭐⭐⭐½☆ | C | GameFAQs 3.6/5 (10표)·30.7h (3표본) / Bangumi PSP 6.3/10 (3표) / 게임카탈로그 판정 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / PC 원작 중국어 공식판 기록 있음 | 2007 PC 원작 / 2008 PSP 후일담·코토미 공략·미우/오리카·신곡 추가 / 2009 PC La finale가 PSP 내용+최종 시나리오 통합 | 🟢 후보 |
