@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **83개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
+> 등록 후보: **84개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -89,6 +89,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [UnchainBlades ReXX (언체인 블레이즈 렉스)](games/unchainblades-rexx.md) | 2011 | 1인칭 3D 던전 RPG·턴제 JRPG | ⭐⭐⭐½☆ | C | Famitsu 31/40 / GameFAQs Great (173표) / 4Gamer 30/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / XSEED 공식 영어 PSP판 있음 | 2011 PSP·3DS 원작 / 2012 북미 PSP 공식 영문·새 영어 음성 / 2012 EXXiV 후속작 | 🟢 후보 |
 | [Seinaru Kana: Orichalcum no Na no Motoni (성스러운 카나: 오리할콘의 이름 아래에)](games/seinaru-kana-orichalcum-no-na-no-motoni.md) | 2012 | 전생신화 SRPG·ADV | ⭐⭐⭐½☆ | C | Famitsu 25/40 / GameFAQs 3.50/5 / 4Gamer 80/100 (1건) | 공개적으로 확인되지 않음 | 2007 PC 원작 / 2012 PSP 대폭 개수·신규 CG 35장 이상·전작 연동 / 2012 PC Special Edition 콘솔 추가·외전 흡수 / 2017 Steam 공식 영문 | 🟢 후보 |
 | [Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Wei-Hen (진 연희몽상: 소녀요란 삼국지연의 위편)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi-wei-hen.md) | 2010 | 순애 역사 ADV·비주얼 노벨·간이 전투 | ⭐⭐⭐½☆ | C | Famitsu 6.5/10 / GAMEMAN 8.4/10 (작성 리뷰 0) / VNDB PC 원작 7.75/10 (약 360표) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC 원작 영어·중국어 번역 기록 | 2008 PC 원작 / 2010 PSP 위·오·촉 분할·대량 재작성 / 2011 PS2 3편+α 완전판 / 2017~19 PC Revolution | 🟢 후보 |
+| [Shin Koihime Musou: Otome Ryouran Sangokushi Engi - Wu-Hen (진 연희몽상: 소녀요란 삼국지연의 오편)](games/shin-koihime-musou-otome-ryouran-sangokushi-engi-wu-hen.md) | 2010 | 순애 역사 ADV·비주얼 노벨·간이 전투 | ⭐⭐⭐½☆ | C | Famitsu 6.5/10 / GameFAQs Fair (9표)·27h (3표본) / GAMEMAN 8.5/10 / 게임카탈로그 판정 없음 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2010 PSP 오편 신규 CG 50%+·엔딩 증가 / 2011 PS2 3편+α 합본 / 2018 Revolution 오 재구성 | 🟢 후보 |
 | [SNOW Portable (스노우 포터블)](games/snow-portable.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐½☆ | C | GameFAQs Fair (12표) / GAMEMAN 7.7/10 (작성 리뷰 1건) / 4Gamer 독자평 없음 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC Plus Edition 영어 팬번역 있음 | 2003 PC 원작 / 2006 Plus Edition / 2007 PSP 신규 스토리·그래픽·재녹음 음성 / 2008 PC Standard가 PSP 추가 요소 흡수 | 🟢 후보 |
 | [Soreyuke! BurunyanMan Portable (가자! 부루냥맨 포터블)](games/soreyuke-burunyanman-portable.md) | 2012 | 2D 횡스크롤 탄막 슈팅·캐릭터 슈팅 | ⭐⭐⭐½☆ | C | Famitsu 7.0/10 / GameFAQs Great (35표) / PS Store 4.64/5 (164표) / Otaku's Study 7/10 | 공개 한글패치 완료 기록 있음 (텍스트 98%·그래픽 100%·영상 100%) | 2008 미니게임 / 2012 PC HARDCORE!!! / 2012 PSP 확장 이식 / 후발 PC えくすたしー!!! | 🟢 후보 |
 | [Tears to Tiara Gaiden: Avalon no Nazo Portable (티어즈 투 티아라 외전: 아발론의 수수께끼 포터블)](games/tears-to-tiara-gaiden-avalon-no-nazo-portable.md) | 2010 | 판타지 ADV·시뮬레이션 RPG | ⭐⭐⭐½☆ | C | GameFAQs Good (17표) / PS3 Famitsu 26/40 / GAMEMAN 7.0/10 (작성 리뷰 0) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2009 PS3 외전 / 2010 PSP DEVIL·미디어 인스톨·CG 저장 추가 / 현대 직접 이식 확인 못함 | 🟢 후보 |
