@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **2개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
+> 등록 후보: **3개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -19,6 +19,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS Vita 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
+| [Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2.md) | 2014 | 1인칭 던전 RPG / 직업 육성 | ⭐⭐⭐⭐☆ 4.0/5 | B | RPGFan 80/100 / Gamecritics 8.5/10 / Kresnik 7.5/10 / Vita 리뷰 3건 | 2026-09-20 공개 확인 못함 / 투하트2 PC 패치는 다른 작품 | PSP 원작 개선 이식 / PC 2023 / 2-2는 별도 후속작 | 💎 우선 후보 |
 | [Lost Dimension (로스트 디멘션)](games/lost-dimension.md) | 2014 | 전술 RPG / 배신자 추리 | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 72/100·요약 28건(목록 29건 표시) / Vita 실플레이 리뷰 3곳 대조 | 2026-09-20 공개 확인 못함 | PS3 동시 발매 / PC 2017 일부 고해상도 아트·입력 지원 개선 | 🟢 후보 |
 | [Hyperdimension Neptunia Re;Birth1 (초차차원게임 넵튠 Re;Birth1)](games/hyperdimension-neptunia-rebirth1.md) | 2013 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 8/10 / oprainfall 4.5/5 / Vita 리뷰 3곳 대조 | 공식 한국어판 있음(CFK, 2014-06-26) / 유저 패치와 구분 | PS3 원작 리메이크 / PC·PS4+·PS5 ReVerse·Switch / Vita 공식 한국어판 | 🟢 후보 |
 
@@ -36,10 +37,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 2 |
-| 발굴 우선 후보: 4.0 이상 | 0 |
+| 등록 후보 | 3 |
+| 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 1 |
+| 한글화 우선도 B | 2 |
 | 한글화 우선도 C | 1 |
 
-최근 조사·등록: **2026-09-20, Hyperdimension Neptunia Re;Birth1**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-20, Dungeon Travelers 2: The Royal Library & the Monster Seal**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
