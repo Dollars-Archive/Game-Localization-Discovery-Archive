@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **103개** / 발굴 우선 후보: **15개** / 한글화 A급 후보: **6개**
+> 등록 후보: **105개** / 발굴 우선 후보: **16개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -73,6 +73,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Marriage Royale: Prism Story (마리지 로얄 ～프리즘 스토리～)](games/marriage-royale-prism-story.md) | 2010 | 하렘 러브코미디 연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5·17.2h / Bangumi 7.0/10 (7표) / GAMEMAN 5.9/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | PSP 독점 / 12화이트 루트 + 6컬러 루트 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Narcissu: Moshimo Ashita ga Aru Nara Portable (나르키소스 ～만약 내일이 있다면～ 포터블)](games/narcissu-moshimo-ashita-ga-aru-nara-portable.md) | 2010 | 옴니버스 노벨·비주얼노벨 | ⭐⭐⭐⭐½ | B | Bangumi 8.2/10 (약 181표) / GameFAQs Good (13표)·27h / GAMEMAN 7.8/10 / GAME Watch 호평 | PSP 완성 한글패치 확인 못함 / PC 1·2 한국어 팬번역 기록 | 1·2·3 통합 + PSP 신규 최종장·에필로그·100CG·Classic Mode / 10th Anthology 후발 | 💎 우선 후보 |
 | [Bullet Butlers: Juudan no Kanata (불릿 버틀러스 ～총탄의 저편～)](games/bullet-butlers-juudan-no-kanata.md) | 2012 | 총·마법·집사 판타지 배틀 ADV | ⭐⭐⭐½☆ | B | PC GameFAQs Good (7표)·26h / Bangumi 6.9/10 (42표) / VNDB계열 7.23/10 (80표) / PSP GAMEMAN 6.5/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2007 PC 원작 → 2012 PSP 원작자 감수 추가 에피소드·신규 CG / ChronoBelt 별도 후속 크로스오버 | 🟢 후보 |
+| [Tobidase! Trouble Hanafuda Douchuuki (뛰어나가라! 트러블 화투 여행기)](games/tobidase-trouble-hanafuda-douchuuki.md) | 2007 | 화투·코이코이 카드게임·캐릭터 파티 미니게임 | ⭐⭐⭐½☆ | C | GameFAQs Good (14표)·9h (7표본) / MyGame8 5.0/5 (2리뷰) / Emuparadise 4.89/5 (9표) / 개인 완주 약 6h | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / 2025 Remastered도 한국어 미지원 | 2005 PC 원본 / 2006 EX / 2007 PSP 풀보이스·신규 팀·애드혹 / 2012 PSP DL 복각·별도 신작 / 2025 Remastered 화투 3계열 통합 | 🟢 후보 |
 | [Kono Aozora ni Yakusoku o – Tenohira no Rakuen (이 푸른 하늘에 약속을 ~손 안의 낙원~)](games/kono-aozora-ni-yakusoku-o-tenohira-no-rakuen.md) | 2009 | 학원·기숙사 청춘 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Bangumi 7.8/10 (69표) / GAMEMAN 7.7/10 / GameFAQs Playable (5표)·30h (2표본) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / 2006 PC 원작·2024 Refine PC 팬 한국어 패치 있음 | 2006 PC 원작 / 2007 PS2 / 2009 PSP 치히로+FOSSETTE 4편 / 2015 Vita 마루토 5편·치히로 제외 / 2024 Refine 풀리메이크 | 💎 우선 후보 |
 | [Tsuyo Kiss 3 Gakki Portable (츠요키스 3학기 Portable)](games/tsuyo-kiss-3-gakki-portable.md) | 2012 | 학원 러브코미디 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs Playable (16표)·16h (5표본) / Bangumi 7.0/10 (31표, 작품계열) / VNDB계열 약 7.47/10·100표+ / PSP 완주 85/100 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Windows 원작 ATCode·MTL 자료 있음 | 2011 PC 원작 / 2012 PSP 가필·오마케·전 캐릭터 풀보이스 / 2013 PC Full Edition / 2016 CHRONICLE ~COMPLETE~ | 🟢 후보 |
 | [Durarara!! 3way Standoff -alley- (듀라라라!! 3way standoff -alley-)](games/durarara-3way-standoff-alley.md) | 2011 | 이케부쿠로 질주 ADV·비주얼 노벨·캐릭터 어드벤처 | ⭐⭐⭐½☆ | C | Famitsu 28/40 / GameFAQs Good (9표)·40h (4표본) / GAMEMAN 7.0/10 / Play-Asia 5/5 (10리뷰) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2010 PSP 전작 / 2011 -alley- 시나리오 2배+·3루트 추가 / 2013 Dengeki SP / 2014 Vita V 고해상도·풀보이스·DLC 포함 | 🟢 후보 |
