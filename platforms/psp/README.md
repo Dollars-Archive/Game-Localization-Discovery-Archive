@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **115개** / 발굴 우선 후보: **19개** / 한글화 A급 후보: **6개**
+> 등록 후보: **116개** / 발굴 우선 후보: **20개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -80,6 +80,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita. Portable: Gakuen Dog Ear Hen (코노 부시츠와 키타쿠시나이부가 센쿄시마시타. 포터블: 학원 도그 이어 편)](games/kono-bushitsu-wa-kitaku-shinai-bu-ga-senkyo-shimashita-portable-gakuen-dog-ear-hen.md) | 2012 | 귀가하지 않는 Live ADV·학원 러브코미디·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (13표)·12h (7표본) / GAMEMAN 7.4/10 / BicCamera 3/5 (1건) / Rakuten 5/5 (1건) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 Summer Wars 별도작 / 2012 Dog Ear 두 번째 독립 UMD·4개별 루트·Live2D / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Tsugi no Giseisha o Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami o (츠기노 기세이샤오 오시라세시마스: 키미토 코노 하테루 코토나이 쿠라야미오)](games/tsugi-no-giseisha-o-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-o.md) | 2011 | 클로즈드 서클 서스펜스 ADV·데스게임·비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 6.0/10 (98표) / GAMEMAN 7.7/10 (작성 리뷰 0) / Wazap! 4.0/5 (리뷰 1건) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2011~12 PSP 3권 연작 / 2013 Complete Box 1~3권 동봉 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Sekai de Ichiban NG na Koi: Full House (세상에서 가장 NG인 사랑 풀하우스)](games/sekai-de-ichiban-ng-na-koi-full-house.md) | 2011 | 나이 차 커플 홈코미디 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | B | 미소녀게임 어워드 순애계 금상·시나리오 은상 / Bangumi 7.5/10 (약 800표, 원작) / VNDB계열 7.61/10 (1,250표+) / GAMEMAN PSP 9.0/10 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / PC 원작 준한글화·공식 영어판 있음 | 2007 PC 원작 / 2011 PSP 각 히로인 신규 이벤트·에필로그·CG 약 30장 / 2018 Happiness Motion / 2019 PC 공식 영어 | 💎 우선 후보 |
+| [R.U.R.U.R.: Petit Prince (R.U.R.U.R: 쁘띠 프린스)](games/rurur-petit-prince.md) | 2010 | 먼 미래 SF 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | B | GameFAQs Good (18표)·13h (12표본) / GAMEMAN 8.8/10 / Bangumi 7.3/10 (작품계열) / PC 원작 2007 사용자투표 시나리오 상위권 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2007 PC 원작 / 2010 PSP 스토리·그래픽 40%+ 변경·신규 3캐릭터·베니바나 신엔딩·그랜드 루트 / 2013 PSP DL 재배포 | 💎 우선 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가)](games/ore-wa-shoujo-mangaka.md) | 2012 | 도타바타 만화가 ADV·연애 어드벤처·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 게임카탈로그 良作 / 4Gamer 83 (3건) / GameFAQs Great (16표)·17h (8표본) / 전격 올클리어 강한 호평 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PSP 원작 / 2012 DL판·Vita 호환 일부 제한 / 2013 PC R 시나리오 동일·신규 CG·새 OP·고해상도 | 💎 우선 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·데스게임·군상극 비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Bangumi 7.3/10 (233표) / VNDB계열 약 7.5/10 (148표) / GameFAQs Fair (11표)·13h (4표본) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Switch 공식 일본어 전용 | 2011 PC CODE:Revise / 2013 PSP 시나리오 80% 재작성·분량 2배 / 2013 PC BOOSTED / 2015 모바일 / 2018 Switch | 💎 우선 후보 |
 | [Tobidase! Trouble Hanafuda Douchuuki (뛰어나가라! 트러블 화투 여행기)](games/tobidase-trouble-hanafuda-douchuuki.md) | 2007 | 화투·코이코이 카드게임·캐릭터 파티 미니게임 | ⭐⭐⭐½☆ | C | GameFAQs Good (14표)·9h (7표본) / MyGame8 5.0/5 (2리뷰) / Emuparadise 4.89/5 (9표) / 개인 완주 약 6h | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / 2025 Remastered도 한국어 미지원 | 2005 PC 원본 / 2006 EX / 2007 PSP 풀보이스·신규 팀·애드혹 / 2012 PSP DL 복각·별도 신작 / 2025 Remastered 화투 3계열 통합 | 🟢 후보 |
