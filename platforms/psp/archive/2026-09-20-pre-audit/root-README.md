@@ -12,12 +12,12 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 97 | 22 | 13 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 149 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 172 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 
 > [!NOTE]
 > PS2 등록 97개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 등록 149개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> PSP 등록 172개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 
@@ -127,6 +127,3 @@
 ---
 
 이 아카이브는 게임 원본, 롬 이미지, 실행 파일, 추출된 전체 스크립트 등 저작권 자산을 배포하기 위한 저장소가 아닙니다. 스크린샷은 작품 식별과 조사 기록을 위해 출처를 명시해 링크하거나 임베드합니다.
-## PSP 후보 재심사 (2026-09-20)
-
-PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·자료 보류 9작품·중복 1행을 활성 후보표에서 분리했습니다. 4.0 이상 25작품과 사용자 승인 3.0 예외 1작품은 유지합니다. [검토 범위와 판정](platforms/psp/reassessments/2026-09-20-3-5-audit.md)
