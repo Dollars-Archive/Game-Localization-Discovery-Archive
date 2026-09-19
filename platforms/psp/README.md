@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **141개** / 발굴 우선 후보: **23개** / 한글화 A급 후보: **6개**
+> 등록 후보: **142개** / 발굴 우선 후보: **23개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -96,6 +96,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [ARMEN NOIR portable (아멘 느와르 포터블)](games/armen-noir-portable.md) | 2012 | 디스토피아 배틀 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 6.4/10 (70표) / GameFAQs 2.97/5·23.33h / 4Gamer 독자 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2010 PS2 원작 / 2012 PSP 전 공략대상 희망엔딩·대규모 가필·30장+ CG·보이스 강화 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)](games/arcana-famiglia-vascello-phantasma-no-majutsushi.md) | 2012 | 오토메 비주얼 노벨·팬디스크/후속편 | ⭐⭐⭐½☆ | B | Bangumi 7.3/10 (58표) / Play-Asia 4/5 (4리뷰) / 완주평 16~20h | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2011 PSP 원작 후속 / 애쉬 신규 공략·조슈아·8루트 / 2015 Ancora·2025/26 Rinato는 원작 현대판으로 본작 미포함 | 🟢 후보 |
 | [Hoshigari Empusa Portable (호시가리 엠푸사 포터블)](games/hoshigari-empusa-portable.md) | 2009 | 학원 연애 쟁탈 시뮬레이션·보드게임·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (14표)·9h (11표본) / 4Gamer 리뷰 0 / PSP 장문 풀컴프 호평·반복/운 지적 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2004 PC 원형 / 2008 PS2 / 2009 PSP 유스풀모드·PS2 연동·음성 재녹음 강화 / 직접 현대 이식 확인 못함 | 🟢 후보 |
+| [D.C.III Plus ~Da Capo III~ (D.C.III Plus ~다 카포 III~)](games/dc-iii-plus-da-capo-iii.md) | 2013 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 28/40·평균 7.0 / Bangumi PSP 6.2/10 (16표) / GAMEMAN 8.8/10·리뷰 0 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC 공식 영·중문·2023 PS4·Switch 현대판 존재 | 2012 PC 원작·Ver1.3 / 2013 PSP Ver1.3 그대로 이식 / 2013 R / 2023 P.S. Plus Story 상위판 | 🟢 후보 |
 | [Saihate no Ima Portable (가장 끝자락의 이마 포터블)](games/saihate-no-ima-portable.md) | 2012 | 주브나일 ADV·SF·심리 비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Bangumi 8.5/10 (458표, 작품계열) / VNDB계열 8.51/10 (272표) / GameFAQs PSP Poor (4표)·26h (2표본) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Windows COMPLETE 한글패치 자료 있음 | 2005 PC 원작 / 2007 Full Voice / 2012 PSP 신규 장면·CG / 2015 COMPLETE가 Full Voice+PSP 신규장면 통합 | 💎 우선 후보 |
 | [Shutsugeki!! Otometachi no Senjou 2: Ikusabana no Kizuna (출격!! 소녀들의 전장 2 ~하늘을 달리는 충격의 인연~)](games/shutsugeki-otometachi-no-senjou-2-ikusabana-no-kizuna.md) | 2011 | 미소녀 밀리터리 시뮬레이션+ADV·턴제 전략 SLG | ⭐⭐⭐½☆ | C | GameFAQs Good (19표)·47h (11표본) / GAMEMAN 7.7/10·리뷰 0 / PS3 Famitsu 6.2 비교참고 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2009 PC 1편 계승 신작 / 2011 PSP 4히로인 원판 / 2012 PS3 에스텔·신규 시나리오·로딩 개선 확장판 | 🟢 후보 |
 | [Sengoku Hime 4: Souha Hyakkei, Hana Mamoru Chikai (센고쿠히메 4 ~쟁패백계 꽃을 지키기 위해~)](games/sengoku-hime-4-souha-hyakkei-hana-mamoru-chikai.md) | 2014 | 전국 시뮬레이션·미소녀 ADV | ⭐⭐⭐½☆ | C | Famitsu 26/40·평균 6.5 / GAMEMAN 7.7/10·리뷰 0 / Bangumi 6.6/10 (26표, 작품계열) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PC 원작 / 2014 PSP 하시바 루트·7시나리오·신규 이벤트CG / 2014 PS3 8시나리오 / 2014 Vita 9시나리오 / 2019 PC Ultra Deluxe | 🟢 후보 |
