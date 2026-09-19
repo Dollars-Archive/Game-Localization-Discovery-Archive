@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 97 | 22 | 13 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 149 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 4 | 1 | 0 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 5 | 1 | 0 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
 > PS2 등록 97개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -74,7 +74,7 @@
 작품의 매력, 한국어 접근성, 기존 한국어화 여부, 대체 가능한 다른 버전, 예상 검수 부담 등을 함께 보고 실제 프로젝트 후보로서의 우선순위를 판단합니다.
 
 - 🔥 **A**: 실제 프로젝트 후보로 먼저 파일 구조를 분석할 가치가 큰 작품
-- **B**: 충분히 한글화할 가치가 있지만 판본 선택·검수량·상대 우선순위를 함께 비교해야 하는 작품
+- **B**: 충분히 한글화할 가치가 있지만 판본 선택·검수량·상대 우선순위를 비교해야 하는 작품
 - **C**: 후보로 유지하지만 현재 A/B급보다 한글화 프로젝트 우선순위가 낮은 작품
 
 > 한글화 우선도는 **발굴 추천도 및 한글화 기술 난이도와 별개**입니다. A급이라도 작품 별점은 3.5일 수 있고, C급이라도 게임 자체 완성도는 높을 수 있습니다.
