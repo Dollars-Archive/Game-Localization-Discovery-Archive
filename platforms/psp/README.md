@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **132개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
+> 등록 후보: **133개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -90,6 +90,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Tiger & Bunny: On-Air Jack! (타이거 & 버니 온에어 잭!)](games/tiger-bunny-on-air-jack.md) | 2012 | TV쇼 액션·액션 어드벤처 | ⭐⭐⭐½☆ | B | Famitsu 32/40 / GameFAQs Fair (9표)·16h (3표본) / Bangumi 6.3 (4표) / 4Gamer 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 영어판 확인 못함 | 2012 PSP 오리지널 게임 / 2013 HERO'S DAY는 별도 ADV / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [TIGER & BUNNY: On-Air Jack! (타이거 앤 버니 온에어 잭!)](games/tiger-and-bunny-on-air-jack.md) | 2012 | TV 쇼 액션·액션 어드벤처 | ⭐⭐⭐½☆ | B | Famitsu 32/40 / Rakuten 3.83/5 (6건) / 4Gamer 독자 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 오리지널 캐릭터 액션 / 2013 HERO'S DAY는 별도 작품 / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [Secret Game: Killer Queen Portable (시크릿 게임: 킬러 퀸 포터블)](games/secret-game-killer-queen-portable.md) | 2010 | 서스펜스 ADV·데스게임·비주얼 노벨 | ⭐⭐⭐½☆ | B | 게임카탈로그 良作 / GAMEMAN 9.4/10·리뷰 0 / Bangumi 6.2/10 (226명) / VNDB계열 6.98/10 (203표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC판 한글패치 자료 존재 | 2006 PC 동인 원작 / 2008 PS2 대폭 개작 / 2009 PC Depth Edition / 2010 PSP 신규 OP·ED·BET / 2018 Switch | 🟢 후보 |
+| [Sengoku Hime 4: Souha Hyakkei, Hana Mamoru Chikai (센고쿠히메 4 ~쟁패백계 꽃을 지키기 위해~)](games/sengoku-hime-4-souha-hyakkei-hana-mamoru-chikai.md) | 2014 | 전국 시뮬레이션·미소녀 ADV | ⭐⭐⭐½☆ | C | Famitsu 26/40·평균 6.5 / GAMEMAN 7.7/10·리뷰 0 / Bangumi 6.6/10 (26표, 작품계열) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PC 원작 / 2014 PSP 하시바 루트·7시나리오·신규 이벤트CG / 2014 PS3 8시나리오 / 2014 Vita 9시나리오 / 2019 PC Ultra Deluxe | 🟢 후보 |
 | [Te to Te Try On! Tropical (손에 손 트라이온! TROPICAL)](games/te-to-te-try-on-tropical.md) | 2012 | 한여름 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | 미소녀게임어워드2008 시나리오 우수상 / Bangumi 원작 6.4/10 (37표) / 독립 리뷰 67/100 / 완주 B+ | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / PC 원작 공개 한국어 패치 있음 | 2008 PC 원작 / 2012 PSP 히로인별 추가 에피소드·신규CG·6엔딩 / 현대 상위호환판 확인 못함 | 🟢 후보 |
 | [Chuumon Shiyouze! Oretachi no Sekai / Adventures to Go! (주문하자! 우리들의 세계)](games/chuumon-shiyouze-oretachi-no-sekai.md) | 2008 | 던전 주문형 SRPG·RPG | ⭐⭐⭐½☆ | C | Famitsu 31/40 / Metacritic 58 (7개) / GameFAQs Good (132표)·38.1h (28표본) / RPGamer 2/5 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 영어판 존재 / 한국 PS Store 영어판 유통 기록 | 2008 일본판 / 2009~2010 Adventures to Go! 영문판 / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [Shiei no Sona-Nyl Refrain: What a Beautiful Memories (자영의 소나닐 Refrain ~What a beautiful memories~)](games/shiei-no-sona-nyl-refrain-what-a-beautiful-memories.md) | 2014 | 스팀펑크·고딕 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Famitsu 30/40 / Bangumi 작품계열 7.7대 (450표+) / VNDB 8.1대 (400표+) / Steam Refrain 100% (30건대) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 2023 PC 공식 영어판·한국어 미지원 | 2010 PC 원작 / 2014 PSP·Xbox360 Refrain 가필·추가CG·결말수정 / 2023 PC Refrain 공식 영문 | 💎 우선 후보 |
