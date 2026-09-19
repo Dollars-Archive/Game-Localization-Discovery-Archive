@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **80개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
+> 등록 후보: **81개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -61,6 +61,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sucre Portable (슈크레 포터블)](games/sucre-portable.md) | 2012 | 카페 재건 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | PSP 완주 70/100 / GAMEMAN 8.2/10 (작성 리뷰 0) / Play-Asia 5/5 (5리뷰) / VNDB 작품계열 7.31/10 (76표) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2011 PC 원작 / 2012 PSP 후타바 신규 루트·기존 루트 증보·CG 20장+·새 OP·치즈루 추가 엔딩 / 2025 Switch 기본 작품 현행판 | 🟢 후보 |
 | [Antiphona no Seikahime: Tenshi no Gakufu Op.A (안티포나의 성가희: 천사의 악보 Op.A)](games/antiphona-no-seikahime-tenshi-no-gakufu-op-a.md) | 2009 | 미ュ지컬 RPG·판타지 커맨드 RPG | ⭐⭐⭐½☆ | B | GameFAQs 3.66/5 (19표) / Famitsu 6.7/10 / GAMEMAN 7.6/10 / 게임카탈로그 판정 없음 | 2026-09-18 기준 공개 PSP 한국어 패치 확인 못함 / 완성 영어패치도 확인 못함 | 마ール 왕국 정식 계보·수백 년 후 / PSP 독점 작품 / 2회차 토로·쿠로 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Suigetsu Portable (수월 포터블)](games/suigetsu-portable.md) | 2008 | 전기·민속학 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.17/5 (15표) / GAMEMAN 8.1/10 / 게임카탈로그 원작 良作 / GITD 76/100 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2002 PC 원작 / 2004 DC·PS2 迷心 / 2008 PSP 풀보이스·신규 CG·みずかべ·16:9 / 2023 Grand Package | 🟢 후보 |
+| [Hayate no Gotoku!! Nightmare Paradise (하야테처럼!! 나이트메어 파라다이스)](games/hayate-no-gotoku-nightmare-paradise.md) | 2009 | 시네마틱 어드벤처·캐릭터 비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.83/5·Great (21표) / 19.5h (15명) / Wazap 89.5점·서술 6리뷰 / 개인평: 탐색 반복·짧은 시나리오 지적 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / 러시아어 미완성 번역 프로젝트 기록 | PSP 오리지널 게임화 3탄 / 6개 꿈 시나리오·미카게 / 특판 UMD VIDEO / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Kuon no Kizuna: Sairinsho -Portable- (구원의 반 재림조 포터블)](games/kuon-no-kizuna-sairin-mikotonori-portable.md) | 2011 | 시네마틱 노벨·전기 로맨스 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs 3.33/5 (6표) / Bangumi 7.7/10 (49표, 판본 통합) / 게임카탈로그 원작 良作 / GAMEMAN 9.6/10 (작성 리뷰 0) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 정식 한국어 스마트폰판 《구원의 반 재림조》 현행 원스토어 판매 | 1998 PS 원작 / 2000 DC 재림조 / 2002 PS2 완전판 / 2011 PSP 시계·알람 추가 / 2011 PC 풀보이스 / 2016 한국어 스마트폰판 | 💎 우선 후보 |
 | [Dies irae ~Amantes amentes~ (디에스 이레: 아만테스 아멘테스)](games/dies-irae-amantes-amentes.md) | 2012 | 학원 전기 배틀 오페라 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 전격온라인 강한 추천 / GameFAQs 2.21/5 (19표) / Steam 87% 긍정 (746건, 후발판) / VNDB DX 8.13/10 (3814표, 후발판) | PSP 공개 한글패치 확인 못함 / Windows Amantes·DX 공개 한국어 패치 기록 있음 | 2009 Acta est Fabula / 2012 PSP 확장 이식·신규 약 10시간·드라마CD 5종 / 2017 Windows HD·공식 영문 / 2018 Switch 전일담 추가 | 💎 우선 후보 |
 | [Kanon (카논)](games/kanon.md) | 2007 | 연애 ADV·비주얼 노벨·나키게 | ⭐⭐⭐⭐☆ | C | ErogameScape 중앙값 82/100 (약 2500건, 원작 계열) / GameFAQs PSP 3.57/5 (15표) / Steam 98% 긍정 (375건, 현대판) | 공개 PSP 한글패치 확인 못함 / PC Standard Edition 한국어 패치 기록 있음 | 1999 PC 원작 / 2007 PSP 유이치 보이스·재녹음 파트보이스 / 2023 Switch·2024 Steam HD·공식 영문 | 💎 우선 후보 |
