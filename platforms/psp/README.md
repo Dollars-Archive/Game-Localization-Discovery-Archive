@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **158개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
+> 등록 후보: **159개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -177,6 +177,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ren'ai 0 Kilometer Portable (연애 0킬로미터 포터블)](games/renai-0-kilometer-portable.md) | 2013 | 가족교환 러브코미디 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 28/40 / 2026 Steam 원작계열 약 90% 긍정 / 개인 PSP 완주평 개그 호평·루트 편차 | PSP 공개 한글패치 확인 못함 / PC 원작 MTL 기록 있음 | 2011 PC 5히로인 / 2013 PSP 9히로인·CG 30장+ / 2014 Vita PSP내용+HD / 2026 Steam·Switch | 🟢 후보 |
 | [Comic Party Portable (코믹파티 포터블)](games/comic-party-portable.md) | 2005 | 동인지 제작 시뮬레이션·연애 ADV | ⭐⭐⭐½☆ | C | GameFAQs Great (20표)·24h (11표본) / GAMEMAN 8.9/10 / Amazon 4.2/5 (10건) / 게임카탈로그 판정 없음 | PSP 한국어 없음 / 중국어 완역 1.01 있음 (초회한정 ULJS-00027 대응) | 1999 PC → 2001 DC 스바루·풀보이스 → 2003 DCE → 2005 PSP 새 OP·16:9·커맨드 방식 | 🟢 후보 |
 | [Like Life every hour (라이크 라이프 에브리 아워)](games/like-life-every-hour.md) | 2009 | 사물 의인화 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs Good (14표)·11h (6표본) / GAMEMAN 6.2/10 / Bangumi 작품계열 약 5.8~6.1/10 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC 원작 한국어 패치 있음 | 2004 PC 원작 / 2005 PS2 개정 / 2007 PC 신장판 / 2009 PSP 氷庫版·特別編·신규CG·시계 | 🟢 후보 |
+| [Wand of Fortune: Mirai e no Prologue Portable (완드 오브 포츈 ~미래로의 프롤로그~ 포터블)](games/wand-of-fortune-mirai-e-no-prologue-portable.md) | 2010 | 여성향 학원 연애 ADV·오토메 팬디스크 | ⭐⭐⭐½☆ | C | Bangumi 7.3/10 (43표) / GameFAQs Playable (6표)·8h (1표본) / 4Gamer·Famitsu PSP 리뷰 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2010 PS2 FD / 2010 PSP 추가 대화·CG코멘트 / 2016 Vita R 본편+FD 합본 / 2023 Switch R | 🟢 후보 |
 
 ## 발굴 상태 기준
 
