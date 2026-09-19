@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **124개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
+> 등록 후보: **125개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -84,6 +84,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Gallery Fake (갤러리 페이크)](games/gallery-fake.md) | 2005 | 미술품 미스터리 ADV·추리 비주얼 노벨 | ⭐⭐⭐½☆ | B | Amazon 4.0/5 (14건) / GameFAQs Good (6표) / PSP攻略정보 스토리 호평·재플레이성 비판 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 중국어 완역 Ver.2.00 기록 | PSP 오리지널 게임화·대부분 게임 오리지널 8장 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Dead End: Orchestral Manoeuvres in the Dead End (데드엔드: Orchestral Manoeuvres in the Dead End)](games/dead-end-orchestral-manoeuvres-in-the-dead-end.md) | 2011 | 디지털 게임북·호러/오컬트 ADV | ⭐⭐⭐½☆ | B | Famitsu 28/40 / Play-Asia 5/5 (5건) / Rakuten 5.0/5 (3건) / GameFAQs 2.0/5 소표본 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 오리지널 / 蠅声の王 제작진 계보 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Pri-Saga! Portable (프리사가! 포터블)](games/pri-saga-portable.md) | 2009 | 마법학원 육성 SLG·연애 ADV | ⭐⭐⭐½☆ | B | PSP 완주평 약 5h·빠르고 재미있음 / PS2 GAMEMAN 8.8 참고 / PSP 4Gamer·GAMEMAN 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2006 PC 원작 / 2007 PS2 2히로인 추가 / 2009 PSP 7대 불가사의 추가 / 현대 직접 이식 확인 못함 | 🟢 후보 |
+| [Shirogane no Cal to Aoi no Joou (백은의 칼과 창공의 여왕)](games/shirogane-no-cal-to-aoi-no-joou.md) | 2011 | 학생 첩보원 ADV·미스터리 비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 24/40 / 4Gamer 시나리오·세계관 호평 / GAMEMAN 8.8·리뷰0 / Bangumi 10표 미만 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PC 원작 / 2011 PSP 신규CG·신규 OP·ED·시스템 개편 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Shiei no Sona-Nyl Refrain: What a Beautiful Memories (자영의 소나닐 Refrain ~What a beautiful memories~)](games/shiei-no-sona-nyl-refrain-what-a-beautiful-memories.md) | 2014 | 스팀펑크·고딕 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Famitsu 30/40 / Bangumi 작품계열 7.7대 (450표+) / VNDB 8.1대 (400표+) / Steam Refrain 100% (30건대) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 2023 PC 공식 영어판·한국어 미지원 | 2010 PC 원작 / 2014 PSP·Xbox360 Refrain 가필·추가CG·결말수정 / 2023 PC Refrain 공식 영문 | 💎 우선 후보 |
 | [Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome (절대미궁 그림 ~일곱 개의 열쇠와 낙원의 소녀~)](games/zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.md) | 2010 | 메르헨 고딕 오토메 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 7.0/10 (186표) / GameFAQs 3.33/5 / 첫 엔딩 약 12h 호평 / PSP 풀컴프 시스템 비판 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PSP 원작 / 2013 Karin Best / 2011 PC Director's Cut 추가 시나리오·스틸·엔딩 | 🟢 후보 |
 | [Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu (쾌도천사 트윈엔젤 시간과 세계의 미궁)](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md) | 2011 | 액티브 슬롯 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 25/40 / GameFAQs Good (9표)·10h (4표본) / 가격.com 5.0/5 (1건) / Steam Re:light 100% (10건) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 2025 PC판도 한국어 미지원 | 2011 PSP 원작 / 2025 PC Re:light 풀HD·영중문·슬롯배틀 삭제 / Re:light+ 풀보이스 | 🟢 후보 |
