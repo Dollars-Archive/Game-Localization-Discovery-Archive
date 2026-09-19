@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **137개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
+> 등록 후보: **138개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -94,6 +94,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Tanteibu: The Detective Club - Shissou to Hangeki to Daidanen (탄테이부 THE DETECTIVE CLUB: 실종과 반격과 대단원)](games/tanteibu-the-detective-club-shissou-to-hangeki-to-daidanen.md) | 2011 | 학원 탐정 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 26/40·평균 6.5 / GAMEMAN 8.5/10·리뷰 0 / 개인 완주평 2/5·약 4~5h | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | PSP 4부작 최종권 / 2013 Complete Box는 기존 4권 동봉 세트 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Desert Kingdom Portable (데저트 킹덤 포터블)](games/desert-kingdom-portable.md) | 2013 | 아라비안 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 7.1/10 (35표) / GameFAQs Fair (9표)·40h (6표본) / GAMEMAN 8.8/10·리뷰 0 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2010 PS2 원작 / 2013 PSP 후일담·추가 에피소드·신규 CG·보이스 강화 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [ARMEN NOIR portable (아멘 느와르 포터블)](games/armen-noir-portable.md) | 2012 | 디스토피아 배틀 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 6.4/10 (70표) / GameFAQs 2.97/5·23.33h / 4Gamer 독자 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2010 PS2 원작 / 2012 PSP 전 공략대상 희망엔딩·대규모 가필·30장+ CG·보이스 강화 / 직접 현대 이식 확인 못함 | 🟢 후보 |
+| [Shutsugeki!! Otometachi no Senjou 2: Ikusabana no Kizuna (출격!! 소녀들의 전장 2 ~하늘을 달리는 충격의 인연~)](games/shutsugeki-otometachi-no-senjou-2-ikusabana-no-kizuna.md) | 2011 | 미소녀 밀리터리 시뮬레이션+ADV·턴제 전략 SLG | ⭐⭐⭐½☆ | C | GameFAQs Good (19표)·47h (11표본) / GAMEMAN 7.7/10·리뷰 0 / PS3 Famitsu 6.2 비교참고 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2009 PC 1편 계승 신작 / 2011 PSP 4히로인 원판 / 2012 PS3 에스텔·신규 시나리오·로딩 개선 확장판 | 🟢 후보 |
 | [Sengoku Hime 4: Souha Hyakkei, Hana Mamoru Chikai (센고쿠히메 4 ~쟁패백계 꽃을 지키기 위해~)](games/sengoku-hime-4-souha-hyakkei-hana-mamoru-chikai.md) | 2014 | 전국 시뮬레이션·미소녀 ADV | ⭐⭐⭐½☆ | C | Famitsu 26/40·평균 6.5 / GAMEMAN 7.7/10·리뷰 0 / Bangumi 6.6/10 (26표, 작품계열) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PC 원작 / 2014 PSP 하시바 루트·7시나리오·신규 이벤트CG / 2014 PS3 8시나리오 / 2014 Vita 9시나리오 / 2019 PC Ultra Deluxe | 🟢 후보 |
 | [Te to Te Try On! Tropical (손에 손 트라이온! TROPICAL)](games/te-to-te-try-on-tropical.md) | 2012 | 한여름 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | 미소녀게임어워드2008 시나리오 우수상 / Bangumi 원작 6.4/10 (37표) / 독립 리뷰 67/100 / 완주 B+ | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / PC 원작 공개 한국어 패치 있음 | 2008 PC 원작 / 2012 PSP 히로인별 추가 에피소드·신규CG·6엔딩 / 현대 상위호환판 확인 못함 | 🟢 후보 |
 | [Chuumon Shiyouze! Oretachi no Sekai / Adventures to Go! (주문하자! 우리들의 세계)](games/chuumon-shiyouze-oretachi-no-sekai.md) | 2008 | 던전 주문형 SRPG·RPG | ⭐⭐⭐½☆ | C | Famitsu 31/40 / Metacritic 58 (7개) / GameFAQs Good (132표)·38.1h (28표본) / RPGamer 2/5 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 영어판 존재 / 한국 PS Store 영어판 유통 기록 | 2008 일본판 / 2009~2010 Adventures to Go! 영문판 / 현대 직계 이식 확인 못함 | 🟢 후보 |
