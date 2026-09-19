@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **129개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
+> 등록 후보: **130개** / 발굴 우선 후보: **22개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -88,6 +88,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Toaru Kagaku no Railgun (어떤 과학의 초전자포)](games/toaru-kagaku-no-railgun.md) | 2011 | 수사 ADV·추리·QTE 액션 | ⭐⭐⭐½☆ | B | Bangumi 6.4/10 (82표) / Rakuten 한정판 4.5/5 (8건) / 전격 실플레이 템포 호평 / 완주 약 12h | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 중국어 완역·영어 완역 존재 | PSP 오리지널 스토리 / 2013 the Best 동일판 / 2013 군주활극은 별도 작품 / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [Dice Dice Fantasia (다이스 다이스 판타지아)](games/dice-dice-fantasia.md) | 2009 | 판타지 보드게임·카드배틀 | ⭐⭐⭐½☆ | B | Famitsu 27/40 / 전격PS 75/100 / GameFAQs Great (10표)·10h (2표본) / GAMEMAN 8.0·리뷰0 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 외국어판 확인 못함 | 2009 PSP 오리지널 / 2010 PS Store 다운로드판 / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [Tiger & Bunny: On-Air Jack! (타이거 & 버니 온에어 잭!)](games/tiger-bunny-on-air-jack.md) | 2012 | TV쇼 액션·액션 어드벤처 | ⭐⭐⭐½☆ | B | Famitsu 32/40 / GameFAQs Fair (9표)·16h (3표본) / Bangumi 6.3 (4표) / 4Gamer 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 영어판 확인 못함 | 2012 PSP 오리지널 게임 / 2013 HERO'S DAY는 별도 ADV / 현대 직계 이식 확인 못함 | 🟢 후보 |
+| [Te to Te Try On! Tropical (손에 손 트라이온! TROPICAL)](games/te-to-te-try-on-tropical.md) | 2012 | 한여름 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | 미소녀게임어워드2008 시나리오 우수상 / Bangumi 6.4·37표(원작) / 독립 리뷰 67/100 / 완주 B+ | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2008 PC 원작 / 2012 PSP 히로인별 추가 에피소드·신규CG·6엔딩 / 현대 상위호환판 확인 못함 | 🟢 후보 |
 | [Chuumon Shiyouze! Oretachi no Sekai / Adventures to Go! (주문하자! 우리들의 세계)](games/chuumon-shiyouze-oretachi-no-sekai.md) | 2008 | 던전 주문형 SRPG·RPG | ⭐⭐⭐½☆ | C | Famitsu 31/40 / Metacritic 58 (7개) / GameFAQs Good (132표)·38.1h (28표본) / RPGamer 2/5 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 공식 영어판 존재 / 한국 PS Store 영어판 유통 기록 | 2008 일본판 / 2009~2010 Adventures to Go! 영문판 / 현대 직계 이식 확인 못함 | 🟢 후보 |
 | [Shiei no Sona-Nyl Refrain: What a Beautiful Memories (자영의 소나닐 Refrain ~What a beautiful memories~)](games/shiei-no-sona-nyl-refrain-what-a-beautiful-memories.md) | 2014 | 스팀펑크·고딕 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Famitsu 30/40 / Bangumi 작품계열 7.7대 (450표+) / VNDB 8.1대 (400표+) / Steam Refrain 100% (30건대) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 2023 PC 공식 영어판·한국어 미지원 | 2010 PC 원작 / 2014 PSP·Xbox360 Refrain 가필·추가CG·결말수정 / 2023 PC Refrain 공식 영문 | 💎 우선 후보 |
 | [Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome (절대미궁 그림 ~일곱 개의 열쇠와 낙원의 소녀~)](games/zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.md) | 2010 | 메르헨 고딕 오토메 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 7.0/10 (186표) / GameFAQs 3.33/5 / 첫 엔딩 약 12h 호평 / PSP 풀컴프 시스템 비판 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2010 PSP 원작 / 2013 Karin Best / 2011 PC Director's Cut 추가 시나리오·스틸·엔딩 | 🟢 후보 |
