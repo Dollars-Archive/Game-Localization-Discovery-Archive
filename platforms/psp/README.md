@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **94개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **5개**
+> 등록 후보: **95개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **5개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -69,6 +69,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Canvas 3: Nanairo no Kiseki (캔버스3 ～칠색의 기적～)](games/canvas-3-nanairo-no-kiseki.md) | 2010 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GAMEMAN 8.7/10 / Play-Asia 5/5 (5리뷰) / PSP 개인평 7/10 / 작품계열 Bangumi 6.1/10 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2009 PC 5히로인 / 2009 PS2 칸나 추가 / 2010 PSP 히이라기 추가·7기적 완성 | 🟢 후보 |
 | [Moe Moe 2-Ji Daisenryaku 2 [chu~♪] (모에모에 2차대전략 2 [chu~♪])](games/moe-moe-2-ji-daisenryaku-2.md) | 2010 | 제2차 세계대전 전략 시뮬레이션·캐릭터 ADV | ⭐⭐⭐½☆ | B | GameFAQs Great (20표)·35h (13표본) / Famitsu 6.0/10 / GAMEMAN 8.8/10 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 일본해군·소련·버마 3전선 / 소련편 PSP 독점 / Xbox 360 합본은 다른 시나리오 구성 | 🟢 후보 |
 | [L no Kisetsu: Double Pocket (L의 계절 더블 포켓)](games/l-no-kisetsu-double-pocket.md) | 2009 | 학원 판타지 노벨·연애 ADV·미스터리 | ⭐⭐⭐½☆ | B | 4Gamer 75/100 (1건) / GAMEMAN 8.8/10 (작성 리뷰 0) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 1999 PS 원작 + 2008 PS2 정식 후속작을 2009 PSP 한 장에 합본 / 18히로인·공식 100시간+ / 현대 후발판 확인 못함 | 🟢 후보 |
+| [Marriage Royale: Prism Story (마리지 로얄 ～프리즘 스토리～)](games/marriage-royale-prism-story.md) | 2010 | 하렘 러브코미디 연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5·17.2h / Bangumi 7.0/10 (7표) / GAMEMAN 5.9/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | PSP 독점 / 12화이트 루트 + 6컬러 루트 / 직접 후발 이식 확인 못함 | 🟢 후보 |
 | [Himawari no Kyoukai to Nagai Natsuyasumi: Extra Vacation (해바라기의 교회와 긴 여름방학 -extra vacation-)](games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md) | 2013 | 여름·향수·청춘 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Bangumi 7.1/10 (68표) / GameFAQs Good (11표)·17h (6표본) / 원작 萌えゲーアワード2013 BGM 금상 / 2026 Steam 약 95% 긍정 (원작 기반) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC 원작 준한글화 기록 있음 | 2013 PC 원작 / 2013 PSP·PS3 Extra Vacation 츠키코 루트·신규 CG·ED / 2026 Steam 공식 영·중문판은 원작 기반·츠키코 미수록 | 🟢 후보 |
 | [Yoake Mae Yori Ruriiro na Portable (새벽녘보다 유리색인 PORTABLE)](games/yoake-mae-yori-ruriiro-na-portable.md) | 2010 | 공주 홈스테이 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs Fair (8표)·21h (4명) / Bangumi 6.9/10 (168표) / Joko 3.27/5 (리뷰 10건+) / GAMEMAN 7.2/10 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Windows Brighter 한국어 패치 기록 있음 | 2005 PC 원작 / 2006 PS2 미도리·에스텔 추가 / 2009 PC 역이식 / 2010 PSP 16:9·스크린샷·내비 / 2020 Complete Pack | 🟢 후보 |
 | [Kuon no Kizuna: Sairinsho -Portable- (구원의 반 재림조 포터블)](games/kuon-no-kizuna-sairin-mikotonori-portable.md) | 2011 | 시네마틱 노벨·전기 로맨스 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs 3.33/5 (6표) / Bangumi 7.7/10 (49표, 판본 통합) / 게임카탈로그 원작 良作 / GAMEMAN 9.6/10 (작성 리뷰 0) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 정식 한국어 스마트폰판 《구원의 반 재림조》 현행 원스토어 판매 | 1998 PS 원작 / 2000 DC 재림조 / 2002 PS2 완전판 / 2011 PSP 시계·알람 추가 / 2011 PC 풀보이스 / 2016 한국어 스마트폰판 | 💎 우선 후보 |
