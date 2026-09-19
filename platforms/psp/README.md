@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **87개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **5개**
+> 등록 후보: **88개** / 발굴 우선 후보: **13개** / 한글화 A급 후보: **5개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -105,6 +105,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Moe Moe Daisensou: Gendaiban+ (모에모에 대전쟁 현대판+)](games/moe-moe-daisensou-gendaiban-plus.md) | 2011 | 현대전 전략 시뮬레이션·캐릭터 ADV | ⭐⭐⭐½☆ | C | GameFAQs 3.80/5·Great (22표) / Famitsu 26/40 / 게임카탈로그 후발판 판정 없음 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2011 PC 원판 / PSP 베트남 전선·신규 5캐릭터 / 2012 PS3·Vita Plus Plus 완전판 | 🟢 후보 |
 | [Princess Evangile Portable (프린세스 에반젤 포터블)](games/princess-evangile-portable.md) | 2012 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | GameFAQs Good (18표) / GAMEMAN 7.7/10 / Amazon 3.5/5 (12건) / Steam 본편 92% 긍정 (PC 참고) | PSP 공개 한글패치 확인 못함 / 과거 공식 한국어 모바일판·W Happiness 한국어판 기록 있음 | 2011 PC 원작 / 2012 PSP 신규 CG·전용 OP / 2012 W Happiness 5서브히로인 루트 / PC 공식 영어판 현행 | 🟢 후보 |
 | [Aoi Sora no Neosphere Portable: Nanoca Flanka Hatsumei Koubouki 2 (푸른 하늘의 네오스피어 포터블: 나노카 프랑카 발명공방기 2)](games/aoi-sora-no-neosphere-portable-nanoca-flanka-hatsumei-koubouki-2.md) | 2012 | 도시부흥·발명 경영 ADV·시뮬레이션 | ⭐⭐⭐½☆ | C | GameFAQs 2.92/5 / Famitsu 실버 전당 / LaunchBox 3.0/5 (4표) / 원작 4Gamer 호평 | PSP 공개 한글패치 확인 못함 / 2008 PC 공식 한국어판 「창공의 네오스피아」 기록 | 2005 PC 원작 / 2007 PS2 / 2012 PSP 16:9·조작성 개선 / 2027 Legacy 리마스터 예정 | 🟢 후보 |
+| [Clock Zero: Shuuen no Ichibyou Portable (CLOCK ZERO ~종언의 1초~ Portable)](games/clock-zero-shuuen-no-ichibyou-portable.md) | 2011 | SF 미스터리·오토메 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs 3.04/5 (13표) / Bangumi 7.6/10 (약 205표, 작품계열) / Play-Asia 4/5 (13건) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2010 PS2 원작 / 2011 PSP 개선·후일담 추가 / 2015 Vita ExTime 확장 / 2019 Switch Devote 완전판·중학생편 / 2025 Switch 번체중문판 | 💎 우선 후보 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ | C | Famitsu 23/40·5.7/10 / GameFAQs 3.83/5·22h / 개인 완주 2/5 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | PSP 독점 보드게임 / 9인 개별 스토리·풀보이스 / 사용자 승인 예외 등록 | 🟡 보류 |
 
 ## 발굴 상태 기준
