@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 97 | 22 | 13 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 149 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 0 | 0 | 0 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 1 | 0 | 0 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
 > PS2 등록 97개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -22,7 +22,7 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 구역은 **2026-09-20**에 개설했습니다. 현재는 빈 목록이며, 사용자가 보내는 제목을 PS Vita판 기준으로 조사한 뒤 기준 통과작부터 등록합니다.
+> PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, 기준을 통과한 후보를 누적합니다.
 
 이후 다른 플랫폼도 후보가 생기는 시점에 `platforms/<platform>/` 아래에 같은 구조로 추가합니다.
 
