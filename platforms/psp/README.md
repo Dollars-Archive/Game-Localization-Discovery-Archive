@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **145개** / 발굴 우선 후보: **23개** / 한글화 A급 후보: **6개**
+> 등록 후보: **146개** / 발굴 우선 후보: **24개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -97,6 +97,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)](games/arcana-famiglia-vascello-phantasma-no-majutsushi.md) | 2012 | 오토메 비주얼 노벨·팬디스크/후속편 | ⭐⭐⭐½☆ | B | Bangumi 7.3/10 (58표) / Play-Asia 4/5 (4리뷰) / 완주평 16~20h | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2011 PSP 원작 후속 / 애쉬 신규 공략·조슈아·8루트 / 2015 Ancora·2025/26 Rinato는 원작 현대판으로 본작 미포함 | 🟢 후보 |
 | [Hoshigari Empusa Portable (호시가리 엠푸사 포터블)](games/hoshigari-empusa-portable.md) | 2009 | 학원 연애 쟁탈 시뮬레이션·보드게임·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (14표)·9h (11표본) / 4Gamer 리뷰 0 / PSP 장문 풀컴프 호평·반복/운 지적 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2004 PC 원형 / 2008 PS2 / 2009 PSP 유스풀모드·PS2 연동·음성 재녹음 강화 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [Gaku Ou: The Royal Seven Stars + Meteor (학☆왕 -THE ROYAL SEVEN STARS- +METEOR)](games/gaku-ou-the-royal-seven-stars-plus-meteor.md) | 2013 | 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 26/40·평균 6.5 / GameFAQs Playable (9표)·17h (3표본) / GAMEMAN 7.9/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2012 PC 원작·팬디스크 별도 / 2013 PSP 소라노 신규 공략·신규 OP / 직접 현대 이식 확인 못함 | 🟢 후보 |
+| [Ayakashibito: Genyou Ibunroku Portable (아야카시비토 환요이문록 포터블)](games/ayakashibito-genyou-ibunroku-portable.md) | 2009 | 학원 청춘 연애 전기 배틀 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs PSP 3.79/5 (7표)·50h (3표본) / VNDB계열 약 7.6/10·1000표+ / Bangumi 콘솔 6.0/10 (2표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PS2 한국어 패치·PC 한국어 MTL·영어 팬패치 존재 | 2005 PC 원작 / 2006 PS2 호우난 신규 공략 / 2009 PSP PS2 내용+화면비 모드 / 2012 PSP ChronoBelt 별도 | 💎 우선 후보 |
 | [Solfege: Sweet Harmony (솔페쥬 ~Sweet harmony~)](games/solfege-sweet-harmony.md) | 2008 | 뮤직 ADV·백합 비주얼 노벨·리듬 액션 | ⭐⭐⭐½☆ | C | GameFAQs 3.6/5 (10표)·30.7h (3표본) / Bangumi PSP 6.3/10 (3표) / 게임카탈로그 판정 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / PC 원작 중국어 공식판 기록 있음 | 2007 PC 원작 / 2008 PSP 후일담·코토미 공략·미우/오리카·신곡 추가 / 2009 PC La finale가 PSP 내용+최종 시나리오 통합 | 🟢 후보 |
 | [Shinkyoku Soukai Polyphonica: After School (신곡주계 폴리포니카 애프터스쿨)](games/shinkyoku-soukai-polyphonica-after-school.md) | 2011 | 판타지·학원 키네틱 노벨 | ⭐⭐⭐½☆ | C | Bangumi PC Perfect 7.1/10 (14표) / Famitsu PSP 리뷰 없음 / 약 10h 작품계열 참고 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2009 PC After School / 2010 PS2 풀보이스·CG 보강 / 2011 PSP 편의 기능 / 2013 F Perfect가 1~4화·AS·Plus·F 통합 | 🟢 후보 |
 | [D.C.III Plus ~Da Capo III~ (D.C.III Plus ~다 카포 III~)](games/dc-iii-plus-da-capo-iii.md) | 2013 | 학원 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 28/40·평균 7.0 / Bangumi PSP 6.2/10 (16표) / GAMEMAN 8.8/10·리뷰 0 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PC 공식 영·중문·2023 PS4·Switch 현대판 존재 | 2012 PC 원작·Ver1.3 / 2013 PSP Ver1.3 그대로 이식 / 2013 R / 2023 P.S. Plus Story 상위판 | 🟢 후보 |
