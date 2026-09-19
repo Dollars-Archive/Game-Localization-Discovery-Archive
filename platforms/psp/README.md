@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **157개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
+> 등록 후보: **158개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -107,6 +107,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Tsuku Monogatari (츠쿠모노가타리)](games/tsuku-monogatari.md) | 2011 | 학원 오컬트 ADV·RPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / 4Gamer 독자 57/100 (2건) / Bangumi 5.4/10 (12표) / 가격.com 4.0/5 (1집계) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 오리지널 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Itsuka Tenma no Kuro Usagi Portable (언젠가 천마의 검은 토끼 포터블)](games/itsuka-tenma-no-kuro-usagi-portable.md) | 2011 | 학생회 라이프 ADV·학원 배틀 액션 | ⭐⭐⭐½☆ | B | GameFAQs 3.28/5 / GAMEMAN 6.9/10 / Play-Asia 5/5 (5건) / 전문 리뷰 희소 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | PSP 오리지널 게임 / 15종+ 엔딩·50h+ / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Boku wa Kimi Dake o Mitsumeru: I Gaze at Only You (나는 너만을 바라본다)](games/boku-wa-kimi-dake-o-mitsumeru.md) | 2011 | 하드보일드 서스펜스 사운드 노벨·비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 원작 7.1/10 (13표) / Game*Spark 2026 PSP 추천·복선회수·라스트 호평 / Famitsu PSP 리뷰 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / 2015 PC 리메이크 중국어 팬번역 있음 | 2006 PC 동인 원작 / 2011 PSP 전연령 DL전용 / 2015 PC 전면 리메이크 | 🟢 후보 |
+| [Arcana Famiglia 2 (아르카나 파밀리아 2)](games/arcana-famiglia-2.md) | 2013 | 여성향 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 평균 7.7·실버 전당 / GameFAQs Fair (14표)·36h (5표본) / Bangumi 6.4/10 (24~25표) / GAMEMAN 7.4/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / 영어 블로그 번역 존재 | 2011 1편 / 2012 유령선 / 2013 PSP 정식 완결편 / 2025 Switch·2026 PC Rinato는 1편만 이식 | 🟢 후보 |
 | [Flowers: Le Volume sur Été (플라워즈 -여름편-)](games/flowers-le-volume-sur-ete.md) | 2015 | 백합계 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐⭐½ | C | Famitsu 33/40·평균 8.25 / Bangumi 8.1/10 (1200표+) / Steam 99% 긍정 (1200건대) | PSP 한글패치 확인 못함 / 2023 STOVE PC 공식 한국어 지원 | 2015 PC 원작·PSP/Vita / 2019 PS4·Switch 四季 4편 합본 / STOVE 한국어 단품 | 💎 우선 후보 |
 | [Ayakashibito: Genyou Ibunroku Portable (아야카시비토 환요이문록 포터블)](games/ayakashibito-genyou-ibunroku-portable.md) | 2009 | 학원 청춘 연애 전기 배틀 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs PSP 3.79/5 (7표)·50h (3표본) / VNDB계열 약 7.6/10·1000표+ / Bangumi 콘솔 6.0/10 (2표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PS2 한국어 패치·PC 한국어 MTL·영어 팬패치 존재 | 2005 PC 원작 / 2006 PS2 호우난 신규 공략 / 2009 PSP PS2 내용+화면비 모드 / 2012 PSP ChronoBelt 별도 | 💎 우선 후보 |
 | [Solfege: Sweet Harmony (솔페쥬 ~Sweet harmony~)](games/solfege-sweet-harmony.md) | 2008 | 뮤직 ADV·백합 비주얼 노벨·리듬 액션 | ⭐⭐⭐½☆ | C | GameFAQs 3.6/5 (10표)·30.7h (3표본) / Bangumi PSP 6.3/10 (3표) / 게임카탈로그 판정 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / PC 원작 중국어 공식판 기록 있음 | 2007 PC 원작 / 2008 PSP 후일담·코토미 공략·미우/오리카·신곡 추가 / 2009 PC La finale가 PSP 내용+최종 시나리오 통합 | 🟢 후보 |
