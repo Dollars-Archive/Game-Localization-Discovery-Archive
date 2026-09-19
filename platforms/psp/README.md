@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **120개** / 발굴 우선 후보: **21개** / 한글화 A급 후보: **6개**
+> 등록 후보: **121개** / 발굴 우선 후보: **21개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -83,6 +83,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [R.U.R.U.R.: Petit Prince (R.U.R.U.R: 쁘띠 프린스)](games/rurur-petit-prince.md) | 2010 | 먼 미래 SF 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | B | GameFAQs Good (18표)·13h (12표본) / GAMEMAN 8.8/10 / Bangumi 7.3/10 (작품계열) / PC 원작 2007 사용자투표 시나리오 상위권 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2007 PC 원작 / 2010 PSP 스토리·그래픽 40%+ 변경·신규 3캐릭터·베니바나 신엔딩·그랜드 루트 / 2013 PSP DL 재배포 | 💎 우선 후보 |
 | [Gallery Fake (갤러리 페이크)](games/gallery-fake.md) | 2005 | 미술품 미스터리 ADV·추리 비주얼 노벨 | ⭐⭐⭐½☆ | B | Amazon 4.0/5 (14건) / GameFAQs Good (6표) / PSP攻略정보 스토리 호평·재플레이성 비판 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 중국어 완역 Ver.2.00 기록 | PSP 오리지널 게임화·대부분 게임 오리지널 8장 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Dead End: Orchestral Manoeuvres in the Dead End (데드엔드: Orchestral Manoeuvres in the Dead End)](games/dead-end-orchestral-manoeuvres-in-the-dead-end.md) | 2011 | 디지털 게임북·호러/오컬트 ADV | ⭐⭐⭐½☆ | B | Famitsu 28/40 / Play-Asia 5/5 (5건) / Rakuten 5.0/5 (3건) / GameFAQs 2.0/5 소표본 | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 오리지널 / 蠅声の王 제작진 계보 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu (쾌도천사 트윈엔젤 시간과 세계의 미궁)](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md) | 2011 | 액티브 슬롯 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 25/40 / GameFAQs Good (9표)·10h (4표본) / 가격.com 5.0/5 (1건) / Steam Re:light 100% (10건) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / 2025 PC판도 한국어 미지원 | 2011 PSP 원작 / 2025 PC Re:light 풀HD·영중문·슬롯배틀 삭제 / Re:light+ 풀보이스 | 🟢 후보 |
 | [Ore no Kanojo no Uraomote: Pure Sweet Heart (내 여자친구의 겉과 속 ~Pure Sweet Heart~)](games/ore-no-kanojo-no-uraomote-pure-sweet-heart.md) | 2013 | 학원 러브코미디 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | C | Famitsu 27/40 / GameFAQs Great (12표)·10h (5표본) / VNDB 계열 6.93/10 (119표) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 / PC 원작 한국어 패치 기록 있음 | 2012 PC 원작 / 2013 PSP 신규 인물·미유키 루트·CG 25장+·가필 / 2014 스마트폰 Pure Sweet Heart 현행 | 🟢 후보 |
 | [Himawari: Pebble in the Sky Portable (히마와리 -Pebble in the Sky- Portable)](games/himawari-pebble-in-the-sky-portable.md) | 2010 | SF 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | Play-Asia 5/5 (5건) / GameFAQs 2.7/5 (5표) / 전격 완주 호평 / Steam 후발판 88% (176건) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / Steam 한국어 미지원 | 2007 PC 동인 원작 / 2010 PSP 외전 2편·음성·CG 증량 / 2015 Vita 리메이크 / 2016 PC·Steam 공식 영·중문 | 💎 우선 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가)](games/ore-wa-shoujo-mangaka.md) | 2012 | 도타바타 만화가 ADV·연애 어드벤처·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | 게임카탈로그 良作 / 4Gamer 83 (3건) / GameFAQs Great (16표)·17h (8표본) / 전격 올클리어 강한 호평 | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 | 2012 PSP 원작 / 2012 DL판·Vita 호환 일부 제한 / 2013 PC R 시나리오 동일·신규 CG·새 OP·고해상도 | 💎 우선 후보 |
