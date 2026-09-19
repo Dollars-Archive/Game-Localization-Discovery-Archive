@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **96개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **5개**
+> 등록 후보: **97개** / 발굴 우선 후보: **15개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -24,6 +24,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Infinite Loop: Kojou ga Miseta Yume (인피니트 루프: 고성이 보여준 꿈)](games/infinite-loop-kojou-ga-miseta-yume.md) | 2008 | 미스터리 판타지 ADV·루프형 비주얼 노벨 | ⭐⭐⭐⭐☆ | 🔥 A | Famitsu 33/40 / 게임카탈로그 良作 / GAMEMAN 8.4/10 / 4Gamer 65/100 (1건) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | PSP 오리지널 / 2009 The Best Price·DL판 / Disgaea Infinite는 시스템 재사용 별도 작품 / 현대 직접 이식 확인 못함 | 💎 우선 후보 |
 | [Senritsu no Stratus (전율의 스트라터스)](games/senritsu-no-stratus.md) | 2011 | 드라마틱 섬멸 액션·액션 어드벤처 | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (29표) / Famitsu 실버 전당 / PS Store 3.78/5 (60표) / 게임카탈로그 판정 없음 | 공개적으로 확인되지 않음 | PSP 오리지널·일본 전용 / 제1화 배포판 연동 특전 / 직접 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Sol Trigger (솔 트리거)](games/sol-trigger.md) | 2012 | 판타지 JRPG·턴제 커맨드 RPG | ⭐⭐⭐½☆ | 🔥 A | Famitsu 34/40 / GameFAQs Great (65표) / 4Gamer 47/100 (4건) | 공개적으로 확인되지 않음 | PSP 오리지널 / 영문 팬패치 v0.9 미완성 / 현대 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Juujigen Rippoutai Cipher Portable (십차원 입방체 사이퍼 포터블)](games/juujigen-rippoutai-cipher-portable.md) | 2009 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐☆ | 🔥 A | Bangumi 7.0/10 (36표, 판본 통합) / Joko PS2 4.0/5 (4건) / PSP GAMEMAN 4.4/10·리뷰 0 / 공식 50h+ | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | 2004 PC → 2007 PS2 풀보이스·후일담·개선 → 2009 PSP PS2전체+쇼트 미스터리 10문제 | 💎 우선 후보 |
 | [1/2 summer+ (원사이드 서머 플러스)](games/1-2-summer-plus.md) | 2013 | 여름·학원·온천향 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 26/40 / GameFAQs 3.31/5·Good (31표) / VNDB 원작 6.91/10 (192표) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / PC 원작 한국어화 자료·복구 기록 있음 | 2012 PC R18 원작 / 2013 PSP 전연령 확장판·카즈하·마츠리 2루트·신규 CG 약 30장·대폭 개수 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [12Riven: The ΨCliminal of Integral (12리븐: 더 사이클리미널 오브 인테그랄)](games/12riven-the-psi-climinal-of-integral.md) | 2009 | SF 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs PSP 3.09/5 (16표) / VNDB 7.5/10 (134표, 작품 계열) / 게임카탈로그 판정 없음 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2008 PS2·PC 원작 / 2009 PSP 신규 OP·ED·이벤트 CG·추가 이벤트 / Infinity Plus Portable 수록 | 🟢 후보 |
 | [77: Beyond the Milky Way (77: 비욘드 더 밀키 웨이)](games/77-beyond-the-milky-way.md) | 2010 | 학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | Play-Asia 4/5 (13건) / Bangumi 원작 6.1/10 (약 90건대) / GAMEMAN 8.0/10 (작성 리뷰 0) | 공개적으로 확인되지 않음 | 2009 PC R18 원작 / 2010 PSP 전연령 확장 이식·신규 에피소드·신규 비주얼 40장 이상 / 2012 Best / 현대 직접 이식 확인 못함 | 🟢 후보 |
