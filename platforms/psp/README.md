@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-09-19**  
-> 등록 후보: **162개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
+> 등록 후보: **163개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **6개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -111,6 +111,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ro-Kyu-Bu! Himitsu no Otoshimono (로큐브! 비밀의 분실물)](games/ro-kyu-bu-himitsu-no-otoshimono.md) | 2013 | 로리스포츠 스텔스 ADV·농구 육성·캐릭터 어드벤처 | ⭐⭐⭐½☆ | B | Famitsu 27/40·6.7 / GameFAQs Good (17표)·24h (12표본) / Bangumi 6.5/10 (6표) / GAMEMAN 8.5/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2011 PSP 전작 / 2013 PSP 정식 후속 / 2014 Vita 별도 3번째 게임 | 🟢 후보 |
 | [Kimi ga Aruji de Shitsuji ga Ore de: Otsukae Nikki Portable (네가 주인이고 집사가 나 ~시중 일기~ 포터블)](games/kimi-ga-aruji-de-shitsuji-ga-ore-de-otsukae-nikki-portable.md) | 2012 | 집사 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Fair (12표)·32h (6표본) / Bangumi 원작 6.5/10 (46표) / 이식판 6.5/10 (2표) / GAMEMAN 8.7/10 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / PC 중국어 AI 번역 기록 | 2007 PC 원작 / 2008 PS2 아게하·난토세·CG 대폭 추가 / 2012 PSP 탈출게임·신규CG·UI개선 | 🟢 후보 |
 | [Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! (검과 마법과 학원물 Final: 신입생은 공주님!)](games/ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.md) | 2011 | 1인칭 3D 던전 학원 RPG·턴제 DRPG | ⭐⭐⭐½☆ | B | 4Gamer 60/100 (1건) / GAMEMAN 5.8/10 / 게임카탈로그 판정 없음·시리즈 내 완성도 높은 축 / 40~60h (1표본) | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / Data Crystal 번역 요청 목록 | 2011 3DS 3D와 동일 스토리 / PSP Final 후발 개선판 / 2025 1·2·3 Remaster에 Final 미수록 | 🟢 후보 |
+| [Daiya no Kuni no Alice: Wonderful Wonder World (다이아 나라의 앨리스 ~Wonderful Wonder World~)](games/daiya-no-kuni-no-alice-wonderful-wonder-world.md) | 2012 | 판타지 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 27/40 / Bangumi 7.6/10 (37표) / GameFAQs 1.64/5·14h / GAMEMAN 7.1/10 / Rakuten 4.33/5 (3건) | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | PSP 오리지널 정식 후속 / 2013 Mirror World와 다이아 편 구성 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Flowers: Le Volume sur Été (플라워즈 -여름편-)](games/flowers-le-volume-sur-ete.md) | 2015 | 백합계 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐⭐½ | C | Famitsu 33/40·평균 8.25 / Bangumi 8.1/10 (1200표+) / Steam 99% 긍정 (1200건대) | PSP 한글패치 확인 못함 / 2023 STOVE PC 공식 한국어 지원 | 2015 PC 원작·PSP/Vita / 2019 PS4·Switch 四季 4편 합본 / STOVE 한국어 단품 | 💎 우선 후보 |
 | [Ayakashibito: Genyou Ibunroku Portable (아야카시비토 환요이문록 포터블)](games/ayakashibito-genyou-ibunroku-portable.md) | 2009 | 학원 청춘 연애 전기 배틀 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs PSP 3.79/5 (7표)·50h (3표본) / VNDB계열 약 7.6/10·1000표+ / Bangumi 콘솔 6.0/10 (2표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PS2 한국어 패치·PC 한국어 MTL·영어 팬패치 존재 | 2005 PC 원작 / 2006 PS2 호우난 신규 공략 / 2009 PSP PS2 내용+화면비 모드 / 2012 PSP ChronoBelt 별도 | 💎 우선 후보 |
 | [Solfege: Sweet Harmony (솔페쥬 ~Sweet harmony~)](games/solfege-sweet-harmony.md) | 2008 | 뮤직 ADV·백합 비주얼 노벨·리듬 액션 | ⭐⭐⭐½☆ | C | GameFAQs 3.6/5 (10표)·30.7h (3표본) / Bangumi PSP 6.3/10 (3표) / 게임카탈로그 판정 없음 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 / PC 원작 중국어 공식판 기록 있음 | 2007 PC 원작 / 2008 PSP 후일담·코토미 공략·미우/오리카·신곡 추가 / 2009 PC La finale가 PSP 내용+최종 시나리오 통합 | 🟢 후보 |
