@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **31개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **3개**
+> 등록 후보: **32개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -50,6 +50,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / 4Gamer 정성평가 / GameFAQs Great·1명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita·Switch 영문 팬패치 스크립트 약 94% | Vita 원작 / 2017 PS4·2022 Switch 1편+속 합본 | 🟢 후보 |
 | [The Lost Child (더 로스트 차일드)](games/the-lost-child.md) | 2017 | 1인칭 던전 RPG / 몬스터 수집 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu Vita 8.0 / GameFAQs Great·26명·61h / RPGFan 70 / RPG Site·Push Square 5/10 | 공식 Vita 한국어판 있음(CFK, 2017-11-02) / 별도 팬패치 필요성 낮음 | PS4·Vita 원판 / 2018 Switch 후발판 / El Shaddai 신화구상 연계 | 🟢 후보 |
 | [Superdimension Neptune VS Sega Hard Girls (초차원대전 넵튠 VS 세가 하드 걸즈 꿈의 합체 스페셜)](games/superdimension-neptune-vs-sega-hard-girls.md) | 2015 | 턴제 RPG / 시간 이동·던전 탐색 | ⭐⭐⭐½☆ 3.5/5 | C | RPG Site 7/10 / Kresnik 7.5/10 / Seafoam 9/10 / Rice 정성평가 / Vita 리뷰 4건 | 공식 한국어판 있음(CFK, 2016-06-16) / 별도 유저 패치와 구분 | Vita 원작 / PC 2017 그래픽 개선·공식 한국어 미지원 / Re;Birth와 별개 | 🟢 후보 |
+| [XBlaze Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | SF·전기 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 43·5평론 / Vita Review Network 8 / Steam 78%·69평가 | 국내 Vita 영문판 정식 유통 / 2026-09-21 공개 한국어 패치 확인 못함 | PS3·Vita 동일 본편 / Steam 2016 / 후속 Lost: Memories | 🟢 후보 |
 
 ## PS Vita 등록 운영
 
@@ -65,10 +66,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 31 |
+| 등록 후보 | 32 |
 | 발굴 우선 후보: 4.0 이상 | 8 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 19 |
+| 한글화 우선도 C | 20 |
 
-최근 조사·등록: **2026-09-21, Golden Time: Vivid Memories**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, XBlaze Code: Embryo**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
