@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **40개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **5개**
+> 등록 후보: **41개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -59,6 +59,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Mystery Chronicle: One Way Heroics (이상한 크로니클)](games/mystery-chronicle-one-way-heroics.md) | 2015 | 강제 횡스크롤 로그라이크 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 68·4평론 / Wccftech 8.8 / RPGamer 3.5/5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita·Steam 공식 영어 지원 | PS4·Vita 원판 / Steam 2016 / 원형 One Way Heroics + Plus 존재 | 🟢 후보 |
 | [Xenon Valkyrie+ (제논 발키리+)](games/xenon-valkyrie-plus.md) | 2017 | 2D 로그라이트 플랫폼 액션 / RPG | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 62·5평론 / Video Chums 8.4 / Vita Player 8 / GameFAQs user 8.0·14명 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam도 한국어 미지원 | PC 원작 / Vita가 첫 + 강화판 / PS4·Xbox·Switch·PS5 후발판 | 🟢 후보 |
 | [Sorcery Saga: Curse of the Great Curry God (성마도이야기)](games/sorcery-saga-curse-of-the-great-curry-god.md) | 2013 | 로그라이크 던전 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40 / MC Vita 65·17평론 / GameFAQs 3.49·166명 / Push Square·Pocket Gamer 8 | 공식 Vita 한국어판 있음(CFK, 2013-12-19, PCSH-00053) / Steam은 한국어 미지원 | Vita 원판·한글판 / 2018 Steam 후발 이식 / 한국어 플레이는 Vita판 우위 | 🟢 후보 |
+| [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 학원 쥬브나일 전기 / 비주얼노벨·전술 SRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40 / MC Vita 63·12평론 / GameFAQs Good·68명·32h / Daybreak MC 64·9평론 | 한국 PS Store판 PCSH-00089 존재·한국어 지원 미확인 / 공식 영어 Vita판·Daybreak 있음 | PS3·Vita 원판 / Daybreak 강화판 / Steam 2017·한국어 미지원 | 🟢 후보 |
 
 ## PS Vita 등록 운영
 
@@ -74,10 +75,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 40 |
+| 등록 후보 | 41 |
 | 발굴 우선 후보: 4.0 이상 | 9 |
 | 한글화 우선도 A | 5 |
 | 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 25 |
+| 한글화 우선도 C | 26 |
 
-최근 조사·등록: **2026-09-22, Sorcery Saga: Curse of the Great Curry God**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-22, Tokyo Twilight Ghost Hunters**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
