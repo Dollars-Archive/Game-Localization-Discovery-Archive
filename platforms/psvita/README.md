@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **20개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
+> 등록 후보: **21개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -27,6 +27,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Summon Night 6: Lost Borders (서몬 나이트 6: 로스트 보더즈)](games/summon-night-6-lost-borders.md) | 2016 | 전술 RPG / 동료 교류 | ⭐⭐⭐½☆ 3.5/5 | B | RPGFan Vita 80/100 / RPGamer 3/5·기종 병기 / RPG Site PS4 7/10 | 2026-09-20 공식 한국어판·본작 유저 패치 공개 확인 못함 | PS4·Vita 동시 발매 / 영어판 일본어 음성 선택 없음 / cross-save 발표 | 🟢 후보 |
 | [To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)](games/to-love-ru-darkness-true-princess.md) | 2015 | 연애 시뮬레이션 / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Dengeki 정성평가 / Play-Asia 5/5·10평점 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 공식 영어판 없음 / 영문 팬 번역 자료 존재 | PS Vita 독점 / Battle Ecstasy와 별개 / 후발 공식 이식 확인 못함 | 🟢 후보 |
 | [Fate/hollow ataraxia (페이트/할로우 아타락시아)](games/fate-hollow-ataraxia.md) | 2014 | 전기 비주얼 노벨 / 팬디스크·후속작 | ⭐⭐⭐⭐☆ 4.0/5 | C | 4Gamer Vita 90·1명 / GameFAQs Vita Great·10명 / PC 4.17·97명 / Remaster Steam 96% | 2026-09-21 공개 Vita 한글패치 확인 못함 / PC 원작·REMASTERED 유저 한글패치 존재 | PC 2005 원작 / Vita 풀보이스·Capsule Servant / 2025 REMASTERED는 HD·영어 지원·Capsule Servant 미수록 | 💎 우선 후보 |
+| [Bloodstained: Curse of the Moon (블러드스테인드: 커스 오브 더 문)](games/bloodstained-curse-of-the-moon.md) | 2018 | 8비트풍 2D 액션 플랫폼 | ⭐⭐⭐⭐☆ 4.0/5 | C | Vita PSprices MC 82·OC 80 / GameFAQs Great·58명 / Vita 사용자 리뷰 8/10 | 2026-09-21 공식 한국어·공개 Vita 한글패치 확인 못함 / Steam도 한국어 미지원 | Vita·PS4·Switch·PC 등 동일 본편 / Curse of the Moon 2는 별도 후속작·Vita 미출시 | 💎 우선 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
 | [Date A Live Twin Edition: Rio Reincarnation (데이트 어 라이브 트윈 에디션: 리오 리인카네이션)](games/date-a-live-twin-edition-rio-reincarnation.md) | 2015 | 연애 어드벤처 / 비주얼노벨 합본 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Vita Great·24명 / Play-Asia 5/5·20평점 / Nojima 4.7/5·3건 / HD MC 80·4평론 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita 영문 rePatch v0.95 / PC HD 유저 한글패치 존재 | PS3 2작+신규 Rio 합본 / 2017 PS4·2019 PC HD는 고해상도·특전·공식 영어 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Pocket Gamer 4/5 / GI 6.75 / Push Square 6/10 | 국내 정발 일본어 / 2026-09-21 공개 Vita 한글패치 확인 못함 | PS3 동시 발매 / The Nightmare Princess가 전 콘텐츠+확장 포함 | 🟢 후보 |
@@ -54,10 +55,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 20 |
-| 발굴 우선 후보: 4.0 이상 | 3 |
+| 등록 후보 | 21 |
+| 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 7 |
-| 한글화 우선도 C | 13 |
+| 한글화 우선도 C | 14 |
 
-최근 조사·등록: **2026-09-21, Muv-Luv**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Bloodstained: Curse of the Moon**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
