@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **12개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
+> 등록 후보: **13개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -28,6 +28,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Pocket Gamer 4/5 / GI 6.75 / Push Square 6/10 | 국내 정발 일본어 / 2026-09-21 공개 Vita 한글패치 확인 못함 | PS3 동시 발매 / The Nightmare Princess가 전 콘텐츠+확장 포함 | 🟢 후보 |
 | [Hyperdimension Neptunia Re;Birth1 (초차차원게임 넵튠 Re;Birth1)](games/hyperdimension-neptunia-rebirth1.md) | 2013 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 8/10 / oprainfall 4.5/5 / Vita 리뷰 3곳 대조 | 공식 한국어판 있음(CFK, 2014-06-26) / 유저 패치와 구분 | PS3 원작 리메이크 / PC·PS4+·PS5 ReVerse·Switch / Vita 공식 한국어판 | 🟢 후보 |
+| [Hyperdimension Neptunia Re;Birth2: Sisters Generation (초차차원게임 넵튠 Re;Birth2 SISTERS GENERATION)](games/hyperdimension-neptunia-rebirth2.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Push Square 8/10 / ZTGD 7.5 / CGM 7/10 | 공식 한국어판 있음(CFK, 2014-10-16) / 상용 한글 UI·대사 확인 | PS3 mk2 리메이크 / PC / 2024 Switch DLC 통합 후발판 | 🟢 후보 |
 | [Hyperdimension Neptunia Re;Birth3: V Generation (신차차원게임 넵튠 Re;Birth3 V CENTURY)](games/hyperdimension-neptunia-rebirth3.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Retro 101 7/10 / Blast Away 7/10 / GamingTrend 35/100 / Vita 리뷰 3건 | 공식 한국어판 있음(CFK, 2015-05-19) / 추가 콘텐츠 한국어화 기록 | PS3 Victory 리메이크 / PC·Switch·PS4 후발판 / ReVerse는 다른 1편 계열 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Michibiku 8/10 / Kresnik 6.5/10 / Aaron 정성평가 / Famitsu 34/40 간접 확인 | 2026-09-20 공개 한글패치 확인 못함 / 영어 UI 팬 패치 기록과 구분 | Vita 원작 / 2016 the Best 재판 / 기본 60곡과 DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
 | [Superdimension Neptune VS Sega Hard Girls (초차원대전 넵튠 VS 세가 하드 걸즈 꿈의 합체 스페셜)](games/superdimension-neptune-vs-sega-hard-girls.md) | 2015 | 턴제 RPG / 시간 이동·던전 탐색 | ⭐⭐⭐½☆ 3.5/5 | C | RPG Site 7/10 / Kresnik 7.5/10 / Seafoam 9/10 / Rice 정성평가 / Vita 리뷰 4건 | 공식 한국어판 있음(CFK, 2016-06-16) / 별도 유저 패치와 구분 | Vita 원작 / PC 2017 그래픽 개선·공식 한국어 미지원 / Re;Birth와 별개 | 🟢 후보 |
@@ -46,10 +47,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 12 |
+| 등록 후보 | 13 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 6 |
-| 한글화 우선도 C | 6 |
+| 한글화 우선도 C | 7 |
 
-최근 조사·등록: **2026-09-21, To Love-Ru Trouble Darkness: True Princess**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Hyperdimension Neptunia Re;Birth2: Sisters Generation**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
