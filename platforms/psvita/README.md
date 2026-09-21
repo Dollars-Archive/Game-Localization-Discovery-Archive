@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **7개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
+> 등록 후보: **8개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -22,6 +22,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2.md) | 2014 | 1인칭 던전 RPG / 직업 육성 | ⭐⭐⭐⭐☆ 4.0/5 | B | RPGFan 80/100 / Gamecritics 8.5/10 / Kresnik 7.5/10 / Vita 리뷰 3건 | 2026-09-20 공개 확인 못함 / 투하트2 PC 패치는 다른 작품 | PSP 원작 개선 이식 / PC 2023 / 2-2는 별도 후속작 | 💎 우선 후보 |
 | [Lost Dimension (로스트 디멘션)](games/lost-dimension.md) | 2014 | 전술 RPG / 배신자 추리 | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 72/100·요약 28건(목록 29건 표시) / Vita 실플레이 리뷰 3곳 대조 | 2026-09-20 공개 확인 못함 | PS3 동시 발매 / PC 2017 일부 고해상도 아트·입력 지원 개선 | 🟢 후보 |
 | [Summon Night 6: Lost Borders (서몬 나이트 6: 로스트 보더즈)](games/summon-night-6-lost-borders.md) | 2016 | 전술 RPG / 동료 교류 | ⭐⭐⭐½☆ 3.5/5 | B | RPGFan Vita 80/100 / RPGamer 3/5·기종 병기 / RPG Site PS4 7/10 | 2026-09-20 공식 한국어판·본작 유저 패치 공개 확인 못함 | PS4·Vita 동시 발매 / 영어판 일본어 음성 선택 없음 / cross-save 발표 | 🟢 후보 |
+| [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
 | [Hyperdimension Neptunia Re;Birth1 (초차차원게임 넵튠 Re;Birth1)](games/hyperdimension-neptunia-rebirth1.md) | 2013 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 8/10 / oprainfall 4.5/5 / Vita 리뷰 3곳 대조 | 공식 한국어판 있음(CFK, 2014-06-26) / 유저 패치와 구분 | PS3 원작 리메이크 / PC·PS4+·PS5 ReVerse·Switch / Vita 공식 한국어판 | 🟢 후보 |
 | [Hyperdimension Neptunia Re;Birth3: V Generation (신차차원게임 넵튠 Re;Birth3 V CENTURY)](games/hyperdimension-neptunia-rebirth3.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Retro 101 7/10 / Blast Away 7/10 / GamingTrend 35/100 / Vita 리뷰 3건 | 공식 한국어판 있음(CFK, 2015-05-19) / 추가 콘텐츠 한국어화 기록 | PS3 Victory 리메이크 / PC·Switch·PS4 후발판 / ReVerse는 다른 1편 계열 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Michibiku 8/10 / Kresnik 6.5/10 / Aaron 정성평가 / Famitsu 34/40 간접 확인 | 2026-09-20 공개 한글패치 확인 못함 / 영어 UI 팬 패치 기록과 구분 | Vita 원작 / 2016 the Best 재판 / 기본 60곡과 DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
@@ -41,10 +42,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 7 |
+| 등록 후보 | 8 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 3 |
-| 한글화 우선도 C | 4 |
+| 한글화 우선도 C | 5 |
 
-최근 조사·등록: **2026-09-20, IA/VT Colorful**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Arcana Heart 3: LOVE MAX!!!!!**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
