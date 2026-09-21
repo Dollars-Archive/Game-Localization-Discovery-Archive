@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **29개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **1개**
+> 등록 후보: **30개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **2개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -20,6 +20,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS Vita 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [Ore ni Hatarakette Iwaretemo Otsu HD (오레니 하타라켓테 이와레테모 오츠 HD)](games/ore-ni-hatarakette-iwaretemo-otsu-hd.md) | 2014 | 모험자 파견형 경영·육성 RPG | ⭐⭐⭐⭐☆ 4.0/5 | 🔥 A | 전격PS 90·80·85·85 / 전격 장문 호평 / 4Gamer 추천·중독성 호평 | 2026-09-21 공식 한국어·영어·공개 Vita 번역패치 확인 못함 | PSP 乙 결정판 / Vita HD·20배속 / 스마트폰 乙携는 DLC 포함·보이스 삭제 / 酉는 별도 후속작 | 💎 우선 후보 |
+| [Kantai Collection Kai (칸코레 개)](games/kantai-collection-kai.md) | 2016 | 턴제 함대 육성·병참 전략 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 29/40 / 4Gamer 독자 51·16명 / GAME Watch·4Gamer 장문 호평 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / WIP 영어 번역 프로젝트 존재 | PS Vita 독점 / 브라우저 원작 재설계 / 2017 판매 종료 / 공식 후발 이식 없음 | 🟢 후보 |
 | [Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2.md) | 2014 | 1인칭 던전 RPG / 직업 육성 | ⭐⭐⭐⭐☆ 4.0/5 | B | RPGFan 80/100 / Gamecritics 8.5/10 / Kresnik 7.5/10 / Vita 리뷰 3건 | 2026-09-20 공개 확인 못함 / 투하트2 PC 패치는 다른 작품 | PSP 원작 개선 이식 / PC 2023 / 2-2는 별도 후속작 | 💎 우선 후보 |
 | [Zero Escape: The Nonary Games (제로 이스케이프: 더 노나리 게임즈)](games/zero-escape-the-nonary-games.md) | 2017 | 탈출 ADV / 비주얼노벨·퍼즐 합본 | ⭐⭐⭐⭐☆ 4.0/5 | B | MC Vita 83·5평론 / GameFAQs 4.14/5·82명 / GiG 95 / GR 90 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Steam 999·VLR 유저 한글패치 존재·999 Novel 미번역 | 999 DS 리빌드 + Vita VLR 합본 / PS4·PC 동시판 / Xbox 2022 | 💎 우선 후보 |
 | [Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)](games/ar-nosurge-plus-ode-to-an-unborn-star.md) | 2014 | 7차원 RPG / 스토리 중심 JRPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 77·9평론 / RPGFan 78 / RPG Site 8/10 / Push Square 7/10 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 서구판 공식 영어 텍스트 | PS3 원작 강화판 / 2021 DX는 Plus 리마스터·일본어만 지원 | 🟢 후보 |
@@ -63,10 +64,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 29 |
+| 등록 후보 | 30 |
 | 발굴 우선 후보: 4.0 이상 | 8 |
-| 한글화 우선도 A | 1 |
+| 한글화 우선도 A | 2 |
 | 한글화 우선도 B | 9 |
 | 한글화 우선도 C | 19 |
 
-최근 조사·등록: **2026-09-21, Psycho-Pass: Mandatory Happiness**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Kantai Collection Kai**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
