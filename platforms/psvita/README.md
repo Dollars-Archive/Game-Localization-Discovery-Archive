@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **16개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개**
+> 등록 후보: **17개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -34,6 +34,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Hyperdimension Neptunia Re;Birth3: V Generation (신차차원게임 넵튠 Re;Birth3 V CENTURY)](games/hyperdimension-neptunia-rebirth3.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Retro 101 7/10 / Blast Away 7/10 / GamingTrend 35/100 / Vita 리뷰 3건 | 공식 한국어판 있음(CFK, 2015-05-19) / 추가 콘텐츠 한국어화 기록 | PS3 Victory 리메이크 / PC·Switch·PS4 후발판 / ReVerse는 다른 1편 계열 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Michibiku 8/10 / Kresnik 6.5/10 / Aaron 정성평가 / Famitsu 34/40 간접 확인 | 2026-09-20 공개 한글패치 확인 못함 / 영어 UI 팬 패치 기록과 구분 | Vita 원작 / 2016 the Best 재판 / 기본 60곡과 DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 건담 배틀 액션 / 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / 4Gamer 82·2명 / Mecha Damashii 7/10 / GameFAQs Great·103명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / REMASTERED 공식 영어·한국어 미지원 | Vita 원작 아드혹 협력·대전 / 2025 Switch·PC REMASTERED 그래픽·UI·락온 개선 | 🟢 후보 |
+| [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / 4Gamer 정성평가 / GameFAQs Great·1명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita·Switch 영문 팬패치 스크립트 약 94% | Vita 원작 / 2017 PS4·2022 Switch 1편+속 합본 | 🟢 후보 |
 | [Superdimension Neptune VS Sega Hard Girls (초차원대전 넵튠 VS 세가 하드 걸즈 꿈의 합체 스페셜)](games/superdimension-neptune-vs-sega-hard-girls.md) | 2015 | 턴제 RPG / 시간 이동·던전 탐색 | ⭐⭐⭐½☆ 3.5/5 | C | RPG Site 7/10 / Kresnik 7.5/10 / Seafoam 9/10 / Rice 정성평가 / Vita 리뷰 4건 | 공식 한국어판 있음(CFK, 2016-06-16) / 별도 유저 패치와 구분 | Vita 원작 / PC 2017 그래픽 개선·공식 한국어 미지원 / Re;Birth와 별개 | 🟢 후보 |
 
 ## PS Vita 등록 운영
@@ -50,10 +51,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 16 |
+| 등록 후보 | 17 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 6 |
-| 한글화 우선도 C | 10 |
+| 한글화 우선도 C | 11 |
 
-최근 조사·등록: **2026-09-21, Date A Live Twin Edition: Rio Reincarnation**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
