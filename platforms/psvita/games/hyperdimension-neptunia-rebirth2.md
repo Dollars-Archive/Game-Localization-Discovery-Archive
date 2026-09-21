@@ -188,11 +188,11 @@ Re;Birth2는 원작 mk2의 방향성을 유지하면서도 전투·템포·캐�
 
 [출처: 게임메카 / CFK 제공](https://www.gamemeca.com/view.php?gid=516531)
 
-### 3. PS Vita 전투 화면
+### 3. 한국어판 네프기어 대화 화면
 
-![Hyperdimension Neptunia Re;Birth2 PS Vita 전투 화면](https://images.pushsquare.com/screenshots/65871/large.jpg)
+![초차차원게임 넵튠 Re;Birth2 한국어판 네프기어 대화 화면](https://cdn.gamemeca.com/gmdata/0000/516/531/jong31_w20140905-008.jpg)
 
-[출처: Push Square PS Vita 리뷰](https://www.pushsquare.com/reviews/psvita/hyperdimension_neptunia_rebirth2_sisters_generation)
+[출처: 게임메카 / CFK 제공](https://www.gamemeca.com/view.php?gid=516531)
 
 ## 한줄평
 
