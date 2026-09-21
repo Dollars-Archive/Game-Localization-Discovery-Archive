@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **37개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **4개**
+> 등록 후보: **38개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -56,6 +56,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [XBlaze Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | SF·전기 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 43·5평론 / Vita Review Network 8 / Steam 78%·69평가 | 국내 Vita 영문판 정식 유통 / 2026-09-21 공개 한국어 패치 확인 못함 | PS3·Vita 동일 본편 / Steam 2016 / 후속 Lost: Memories | 🟢 후보 |
 | [Croixleur Sigma (크로와루르 시그마)](games/croixleur-sigma.md) | 2015 | 3D 아레나 핵앤슬래시 / 액션 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 71·2평론 / GameFAQs Fair·21명·27h / Reviews 2 Go 정성 호평 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam Deluxe도 한국어 미지원 | PS4·Vita 확장판 / Switch·Steam Deluxe 후발판 / 공식 영어 지원 | 🟢 후보 |
 | [Mystery Chronicle: One Way Heroics (이상한 크로니클)](games/mystery-chronicle-one-way-heroics.md) | 2015 | 강제 횡스크롤 로그라이크 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 68·4평론 / Wccftech 8.8 / RPGamer 3.5/5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita·Steam 공식 영어 지원 | PS4·Vita 원판 / Steam 2016 / 원형 One Way Heroics + Plus 존재 | 🟢 후보 |
+| [Xenon Valkyrie+ (제논 발키리+)](games/xenon-valkyrie-plus.md) | 2017 | 2D 로그라이트 플랫폼 액션 / RPG | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 62·5평론 / Video Chums 8.4 / Vita Player 8 / GameFAQs user 8.0·14명 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam도 한국어 미지원 | PC 원작 / Vita가 첫 + 강화판 / PS4·Xbox·Switch·PS5 후발판 | 🟢 후보 |
 
 ## PS Vita 등록 운영
 
@@ -71,10 +72,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 37 |
+| 등록 후보 | 38 |
 | 발굴 우선 후보: 4.0 이상 | 9 |
 | 한글화 우선도 A | 4 |
 | 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 23 |
+| 한글화 우선도 C | 24 |
 
-최근 조사·등록: **2026-09-21, Zanki Zero: Last Beginning**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-21, Xenon Valkyrie+**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
