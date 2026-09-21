@@ -28,7 +28,7 @@
 | 기술 난이도 | **미확인**. Vita 원본 파일 구조·폰트·스크립트·EBOOT를 직접 분석하지 않음 |
 | 현재 추천 버전 | 한국어는 Steam + 2026 공개 유저 한글패치 / 현대 휴대용 공식판은 2024 Switch Remastered |
 
-근거: [MAGES PS Vita 공식 페이지](https://game.mages.co.jp/muvluv/psv/), [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/182250-muv-luv-alternative), [Gematsu 서구 Vita 발매](https://www.gematsu.com/2018/05/muv-luv-and-muv-luv-alternative-for-ps-vita-launch-june-8-in-europe-june-12-in-north-america), [Nintendo Switch Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2601146.html).
+근거: [MAGES PS Vita 공식 페이지](https://game.mages.co.jp/muvluv/psv/), [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/182250-muv-luv-alternative), [Gematsu 서구 Vita 발매](https://www.gematsu.com/2018/05/muv-luv-and-muv-luv-alternative-for-ps-vita-launch-june-8-in-europe-june-12-in-north-america), [Nintendo Switch Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2603833.html).
 
 ## 스포일러 최소 시놉시스
 
@@ -113,7 +113,7 @@ PS Vita판은 2016년 일본판과 2018년 공식 영어판으로 이 장편을 
 - 2024 Switch Remastered: 공식 언어는 일본어·영어로 표기되며 공식 한국어는 확인되지 않는다.
 - 2026년 iOS판의 App Store 한국어 지원 표기는 공식 포털에서 오류로 정정됐으며 실제 지원 언어는 일본어·영어라고 공지됐다.
 
-자료: [한패 전체 목록](https://hanpe.net/hanguls/all?include_steam=1), [Steam 한국어 사용자 리뷰](https://steamcommunity.com/app/802890/reviews/?browsefilter=toprated&l=koreana), [Nintendo Switch Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2601146.html), [Muv-Luv Portal iOS 언어 정정 공지](https://muvluv.com/en/news/2026/03/24/ios-refund/).
+자료: [한패 전체 목록](https://hanpe.net/hanguls/all?include_steam=1), [Steam 한국어 사용자 리뷰](https://steamcommunity.com/app/802890/reviews/?browsefilter=toprated&l=koreana), [Nintendo Switch Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2603833.html), [Muv-Luv Portal iOS 언어 정정 공지](https://muvluv.com/en/news/2026/03/24/ios-refund/).
 
 ## 원작·이식·확장판 관계
 
@@ -228,7 +228,7 @@ Steam판 한국어 패치가 존재해 번역문 자산을 참고할 수 있다�
 - [Cubed3 PC 리뷰 9/10](https://www.cubed3.com/review/4128/1/muv-luv-alternative-pc.html)
 - [GameGrin Windows 리뷰 8.5/10](https://www.gamegrin.com/reviews/muv-luv-alternative-review/)
 - [Play-Asia PS Vita판·스크린샷](https://www.play-asia.com/en/muv-luv-alternative/13/70bw9z)
-- [Nintendo Switch Muv-Luv Alternative Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2601146.html)
+- [Nintendo Switch Muv-Luv Alternative Remastered](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Muv-Luv-Alternative-Remastered-2603833.html)
 - [Muv-Luv 공식 포털](https://muvluv.com/en/)
 - [한패 전체 목록 - Muv-Luv Alternative](https://hanpe.net/hanguls/all?include_steam=1)
 - [Steam 한국어 사용자 평가·팬 한국어 패치 언급](https://steamcommunity.com/app/802890/reviews/?browsefilter=toprated&l=koreana)
