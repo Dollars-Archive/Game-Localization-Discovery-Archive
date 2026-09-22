@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **44개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
+> 등록 후보: **45개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -42,6 +42,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Bloodstained: Curse of the Moon (블러드스테인드: 커스 오브 더 문)](games/bloodstained-curse-of-the-moon.md) | 2018 | 8비트풍 2D 액션 플랫폼 | ⭐⭐⭐⭐☆ 4.0/5 | C | Vita PSprices MC 82·OC 80 / GameFAQs Great·58명 / Vita 사용자 리뷰 8/10 | 2026-09-21 공식 한국어·공개 Vita 한글패치 확인 못함 / Steam도 한국어 미지원 | Vita·PS4·Switch·PC 등 동일 본편 / Curse of the Moon 2는 별도 후속작·Vita 미출시 | 💎 우선 후보 |
 | [Psychedelica of the Black Butterfly (검은 나비의 사이키델리카)](games/psychedelica-of-the-black-butterfly.md) | 2015 | 미스터리·서스펜스 여성향 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / MC Vita 78·5평론 / GameFAQs 3.7·28명 / Steam 84%·823평가 | 공식 Vita 한국어판 있음(Intragames, 2018-01-09) / Steam도 공식 한국어 | 일본 Vita 원작 / 한국·서구 Vita 후발 현지화 / Steam 2018 / Ashen Hawk는 별도 동반작 | 💎 우선 후보 |
 | [ISLAND (아일랜드)](games/island.md) | 2017 | SF·미스터리 연애 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / Steam 94%·약1.5k / VNDB계 7.8·약1.8k | 2026-09-22 공식·공개 Vita 한국어 확인 못함 / Switch 한글패치 공개 기록은 있으나 원배포 미검증 | PC 원작 / Vita 추가 에필로그·터치·색감보정 / PS4·Steam / Switch 일본어·영어 | 💎 우선 후보 |
+| [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
 | [Date A Live Twin Edition: Rio Reincarnation (데이트 어 라이브 트윈 에디션: 리오 리인카네이션)](games/date-a-live-twin-edition-rio-reincarnation.md) | 2015 | 연애 어드벤처 / 비주얼노벨 합본 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Vita Great·24명 / Play-Asia 5/5·20평점 / Nojima 4.7/5·3건 / HD MC 80·4평론 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita 영문 rePatch v0.95 / PC HD 유저 한글패치 존재 | PS3 2작+신규 Rio 합본 / 2017 PS4·2019 PC HD는 고해상도·특전·공식 영어 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Pocket Gamer 4/5 / GI 6.75 / Push Square 6/10 | 국내 정발 일본어 / 2026-09-21 공개 Vita 한글패치 확인 못함 | PS3 동시 발매 / The Nightmare Princess가 전 콘텐츠+확장 포함 | 🟢 후보 |
@@ -78,10 +79,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 44 |
+| 등록 후보 | 45 |
 | 발굴 우선 후보: 4.0 이상 | 10 |
 | 한글화 우선도 A | 5 |
 | 한글화 우선도 B | 11 |
-| 한글화 우선도 C | 28 |
+| 한글화 우선도 C | 29 |
 
-최근 조사·등록: **2026-09-22, The Legend of Dark Witch**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-22, Code: Realize ~Wintertide Miracles~**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
