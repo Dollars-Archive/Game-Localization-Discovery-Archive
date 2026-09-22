@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **42개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **5개**
+> 등록 후보: **41개** / 발굴 우선 후보: **9개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -30,7 +30,6 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Lost Dimension (로스트 디멘션)](games/lost-dimension.md) | 2014 | 전술 RPG / 배신자 추리 | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 72/100·요약 28건(목록 29건 표시) / Vita 실플레이 리뷰 3곳 대조 | 2026-09-20 공개 확인 못함 | PS3 동시 발매 / PC 2017 일부 고해상도 아트·입력 지원 개선 | 🟢 후보 |
 | [MIRACLE GIRLS FESTIVAL (미라클 걸즈 페스티벌)](games/miracle-girls-festival.md) | 2015 | 리듬 액션 / 애니메이션 크로스오버 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.96/5·35명 / Famitsu 7.7 / 4Gamer 90·1명 / KENT 70/100 | 2026-09-21 공개 한글패치 확인 못함 / 영어 패치 v0.3 80% 존재 | PS Vita 원작 / 패키지·DL 내용 동일 / 후발 이식 확인 못함 | 🟢 후보 |
 | [Psycho-Pass: Mandatory Happiness (사이코패스: 선택 없는 행복)](games/psycho-pass-mandatory-happiness.md) | 2016 | SF·범죄 비주얼노벨 / 선택형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 64·11평론 / RPG Site 8 / RPGFan 79 / Destructoid 7.5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / PC도 공식 한국어 미지원 | Xbox One 2015 원작 / PS4·Vita 2016 / PC 2017 | 🟢 후보 |
-| [Saki: Zenkoku-hen Plus (사키 -Saki- 전국편 Plus)](games/saki-zenkoku-hen.md) | 2016 | 미소녀 대전 마작 / 캐릭터 육성 | ⭐⭐⭐½☆ 3.5/5 | B | 가격.com Plus 4.33/5·3명 / GameFAQs 원판 Great·6명 / 게임카탈로그 良作 | 2026-09-22 공식·공개 Vita 한국어·영어 확인 못함 | 2015 원판 강화 재출시 / Plus v2.01 / 전국 티켓 온라인·서바이벌 / 2021 판매 종료 | 🟢 후보 |
 | [Summon Night 6: Lost Borders (서몬 나이트 6: 로스트 보더즈)](games/summon-night-6-lost-borders.md) | 2016 | 전술 RPG / 동료 교류 | ⭐⭐⭐½☆ 3.5/5 | B | RPGFan Vita 80/100 / RPGamer 3/5·기종 병기 / RPG Site PS4 7/10 | 2026-09-20 공식 한국어판·본작 유저 패치 공개 확인 못함 | PS4·Vita 동시 발매 / 영어판 일본어 음성 선택 없음 / cross-save 발표 | 🟢 후보 |
 | [To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)](games/to-love-ru-darkness-true-princess.md) | 2015 | 연애 시뮬레이션 / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Dengeki 정성평가 / Play-Asia 5/5·10평점 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 공식 영어판 없음 / 영문 팬 번역 자료 존재 | PS Vita 독점 / Battle Ecstasy와 별개 / 후발 공식 이식 확인 못함 | 🟢 후보 |
 | [Zanki Zero: Last Beginning (잔키 제로)](games/zanki-zero.md) | 2018 | 1인칭 생존 던전 RPG / 실시간 타일 전투 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40 / GameFAQs Vita 1.56·24명 / RPGFan 85·PS4 참고 / Steam 77%·650평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita 영문 정식판 없음 | 일본 Vita 원본 / v1.03 New Game+·UI 개선 / 서구 PS4·PC는 일부 CG·아동기 이벤트 변경 | 🟢 후보 |
@@ -76,10 +75,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 42 |
+| 등록 후보 | 41 |
 | 발굴 우선 후보: 4.0 이상 | 9 |
 | 한글화 우선도 A | 5 |
-| 한글화 우선도 B | 11 |
+| 한글화 우선도 B | 10 |
 | 한글화 우선도 C | 26 |
 
-최근 조사·갱신: **2026-09-22, Saki: Zenkoku-hen Plus**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-22, Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
