@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **47개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
+> 등록 후보: **48개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -41,6 +41,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Fate/hollow ataraxia (페이트/할로우 아타락시아)](games/fate-hollow-ataraxia.md) | 2014 | 전기 비주얼 노벨 / 팬디스크·후속작 | ⭐⭐⭐⭐☆ 4.0/5 | C | 4Gamer Vita 90·1명 / GameFAQs Vita Great·10명 / PC 4.17·97명 / Remaster Steam 96% | 2026-09-21 공개 Vita 한글패치 확인 못함 / PC 원작·REMASTERED 유저 한글패치 존재 | PC 2005 원작 / Vita 풀보이스·Capsule Servant / 2025 REMASTERED는 HD·영어 지원·Capsule Servant 미수록 | 💎 우선 후보 |
 | [Bloodstained: Curse of the Moon (블러드스테인드: 커스 오브 더 문)](games/bloodstained-curse-of-the-moon.md) | 2018 | 8비트풍 2D 액션 플랫폼 | ⭐⭐⭐⭐☆ 4.0/5 | C | Vita PSprices MC 82·OC 80 / GameFAQs Great·58명 / Vita 사용자 리뷰 8/10 | 2026-09-21 공식 한국어·공개 Vita 한글패치 확인 못함 / Steam도 한국어 미지원 | Vita·PS4·Switch·PC 등 동일 본편 / Curse of the Moon 2는 별도 후속작·Vita 미출시 | 💎 우선 후보 |
 | [Psychedelica of the Black Butterfly (검은 나비의 사이키델리카)](games/psychedelica-of-the-black-butterfly.md) | 2015 | 미스터리·서스펜스 여성향 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / MC Vita 78·5평론 / GameFAQs 3.7·28명 / Steam 84%·823평가 | 공식 Vita 한국어판 있음(Intragames, 2018-01-09) / Steam도 공식 한국어 | 일본 Vita 원작 / 한국·서구 Vita 후발 현지화 / Steam 2018 / Ashen Hawk는 별도 동반작 | 💎 우선 후보 |
+| [Psychedelica of the Ashen Hawk (잿빛 매의 사이키델리카)](games/psychedelica-of-the-ashen-hawk.md) | 2016 | 미스터리·다크 판타지 여성향 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 33/40 / MC Vita 78·4평론 / RPGFan 97 / Gaming Age 83 | 공식 Vita 한국어판 있음(Intragames, 2018-04-12) / Steam도 공식 한국어 | 일본 Vita 원판 / 한국·서구 Vita 현지화 / Steam 2019 공식 한국어 / Switch·PS4 이식 확인 못함 | 💎 우선 후보 |
 | [ISLAND (아일랜드)](games/island.md) | 2017 | SF·미스터리 연애 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / Steam 94%·약1.5k / VNDB계 7.8·약1.8k | 2026-09-22 공식·공개 Vita 한국어 확인 못함 / Switch 한글패치 공개 기록은 있으나 원배포 미검증 | PC 원작 / Vita 추가 에필로그·터치·색감보정 / PS4·Steam / Switch 일본어·영어 | 💎 우선 후보 |
 | [Nurse Love Syndrome (백의성 연애 증후군 RE:Therapy)](games/nurse-love-syndrome.md) | 2019 | 걸즈러브 비주얼노벨 / 의료·성장 드라마 | ⭐⭐⭐½☆ 3.5/5 | C | GameGrin Vita 8 / Gaming Age Vita 5 / Steam 92%·262평가 / oprainfall 9 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / Steam·PS4 공식 한국어 | PSP 원작·RE:Therapy / Vita 2019 리마스터 / Switch·Steam / PS4 한국판 2023 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
@@ -81,10 +82,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 46 |
-| 발굴 우선 후보: 4.0 이상 | 10 |
+| 등록 후보 | 48 |
+| 발굴 우선 후보: 4.0 이상 | 11 |
 | 한글화 우선도 A | 5 |
 | 한글화 우선도 B | 11 |
-| 한글화 우선도 C | 30 |
+| 한글화 우선도 C | 32 |
 
-최근 조사·등록: **2026-09-22, Nurse Love Syndrome**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 조사·등록: **2026-09-27, Psychedelica of the Ashen Hawk**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
