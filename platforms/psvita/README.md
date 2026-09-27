@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **46개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
+> 등록 후보: **54개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -65,6 +65,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [The Legend of Dark Witch (마신소녀)](games/the-legend-of-dark-witch.md) | 2015 | 2D 횡스크롤 액션 / 플랫폼 슈팅 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 29/40 / KENT 80 / Vita 리뷰 6·8 / Steam 원판 75%·195평가 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어·중국어 있음 / PS5·Steam Renovation 공식 한국어 | 3DS 원작 / Vita 이식 / Steam / 2019 Renovation / 2026 PS5 한국어 | 🟢 후보 |
 | [Sorcery Saga: Curse of the Great Curry God (성마도이야기)](games/sorcery-saga-curse-of-the-great-curry-god.md) | 2013 | 로그라이크 던전 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40 / MC Vita 65·17평론 / GameFAQs 3.49·166명 / Push Square·Pocket Gamer 8 | 공식 Vita 한국어판 있음(CFK, 2013-12-19, PCSH-00053) / Steam은 한국어 미지원 | Vita 원판·한글판 / 2018 Steam 후발 이식 / 한국어 플레이는 Vita판 우위 | 🟢 후보 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 학원 쥬브나일 전기 / 비주얼노벨·전술 SRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40 / MC Vita 63·12평론 / GameFAQs Good·68명·32h / Daybreak MC 64·9평론 | 한국 PS Store판 PCSH-00089 존재·한국어 지원 미확인 / 공식 영어 Vita판·Daybreak 있음 | PS3·Vita 원판 / Daybreak 강화판 / Steam 2017·한국어 미지원 | 🟢 후보 |
+| [Fernz Gate (펀즈 게이트)](games/fernz-gate.md) | 2018 | 턴제 JRPG / 파티 육성 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Vita 리뷰 3.5/10 / Nintendo Life 7/10 / Cubed3 7/10 / Switch Player 3/5 | 2026-09-27 공식 한국어·공개 Vita 한글패치 확인 못함 / 북미 Vita 공식 영어 | 2016 Android 원작 / 2017 iOS / 2018 PS4·Vita·Xbox·Switch·PC / 2024~25 PS5 | 🟢 후보 |
 
 ## PS Vita 등록 운영
 
