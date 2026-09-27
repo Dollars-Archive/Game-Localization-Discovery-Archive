@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **54개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
+> 등록 후보: **47개** / 발굴 우선 후보: **10개** / 한글화 A급 후보: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
