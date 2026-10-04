@@ -62,11 +62,6 @@
       "priority": "B"
     },
     {
-      "slug": "wind-a-breath-of-heart",
-      "title": "Wind -a breath of heart- (윈드 -a breath of heart-)",
-      "priority": "B"
-    },
-    {
       "slug": "men-at-work-3-ai-to-seishun-no-hunter-gakuen",
       "title": "Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)",
       "priority": "B"
@@ -165,6 +160,11 @@
       "slug": "wizardry-xth-2-mugen-no-gakuto",
       "title": "Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)",
       "priority": "B"
+    },
+    {
+      "slug": "mystereet-yasogami-kaoru-no-jiken-file",
+      "title": "Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)",
+      "priority": "B"
     }
   ],
   "removed_three_half": {
@@ -176,14 +176,14 @@
       "kyuuketsu-kitan-moonties",
       "quilt-anata-to-tsumugu-yume-to-koi-no-dress",
       "routes-pe",
-      "mystereet-yasogami-kaoru-no-jiken-file",
       "shin-koihime-musou-otome-ryouran-sangokushi-engi",
       "shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri",
       "kita-e-diamond-dust",
       "suzunone-seven-rebirth-knot",
       "sanyo-pachinko-paradise-9-shin-umi-okawari",
       "monochrome",
-      "fantastic-fortune-2-triple-star"
+      "fantastic-fortune-2-triple-star",
+      "wind-a-breath-of-heart"
     ],
     "C": [
       "akane-iro-ni-somaru-saka-parallel",
@@ -207,5 +207,18 @@
       "kino-no-tabi-the-beautiful-world",
       "shuffle-on-the-stage"
     ]
+  },
+  "rule_priority": [
+    "Exclude 3.5-star titles first when another platform/version already has a public Korean patch or official Korean release",
+    "Then compare version value, reception, Korean accessibility, and alternative versions"
+  ],
+  "korean_alternative_refilter": {
+    "removed": [
+      "wind-a-breath-of-heart"
+    ],
+    "promoted": [
+      "mystereet-yasogami-kaoru-no-jiken-file"
+    ],
+    "note": "A modern unrelated game titled Aikagi has Korean patches; it is not Aikagi: Nukumori to Hidamari no Naka de."
   }
 }
