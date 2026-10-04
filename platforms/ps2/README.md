@@ -39,7 +39,7 @@
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 약 3.90/5 (공개 20건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애·일본사·신화 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.2/5 (6건) / Joko 약 3.63/5 (8건) / GameFAQs 2.94/5 (8표) | 확인 못함 | PC 원작 → PS2 재구성·사유키 추가 엔딩 | 🟢 후보 |
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
-| [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 🟢 후보 |
+| [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.0/5 (4건) / Joko 4.0/5 (공개 5건) / GAMEMAN 8.9/10 | 확인 못함 | PC 원작 → PS2 신규 히로인·시나리오·CG·합체공격 확장 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
@@ -118,3 +118,9 @@
 3.5점에서는 한글화 우선도와 판본 가치, 외부 평가의 설득력, 대체판·한국어 접근성을 함께 비교했다. 탈락한 35개는 3.0으로 하향한 것이 아니라 **3.5 shortlist에서 제외**한 것이다.
 
 [3.5점 생존 30개·제외 35개 근거](reassessments/2026-10-04-3-5-core-30-prune.md) · [감사 원장 JSON](reassessments/2026-10-04-3-5-core-30-prune.json)
+
+### 한국어 대안 우선 재필터 (2026-10-04)
+
+- `Wind -a breath of heart-`: 2002 Windows판 공개 한국어 패치가 확인되어 3.5 활성 shortlist에서 제외.
+- `Mystereet: Yasogami Kaoru no Jiken File`: 공식·공개 한국어 대안이 확인되지 않아 기존 탈락군에서 승격.
+- 결과적으로 3.5점 활성 후보는 **30개 유지**.
