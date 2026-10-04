@@ -12,13 +12,13 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 51 | 20 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 149 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 56 | 25 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 48 | 11 | 5 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
 > PS2 등록 51개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 등록 149개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> PSP 등록 56개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
@@ -143,6 +143,10 @@ PS2의 **3.5점 후보만 65개 → 30개**로 압축했습니다. 4.0점 20개�
 ## PS2 후보 재심사 (2026-10-04)
 
 PS2 활성 후보를 **97개 → 86개**로 정리했습니다. 공개 PS2 한글패치 확인 4작품을 후보 종료하고, 3.5점 경계작 중 **2작품을 3.0 하향**, **4작품을 근거 부족 보류**, 단독판 1작품을 상위 완전판으로 통합했습니다. [검토 범위와 판정](platforms/ps2/reassessments/2026-10-04-candidate-audit.md)
+
+## PSP 3.5점 후보 압축 (2026-10-04)
+
+PSP의 **3.5점 후보만 123개 → 30개**로 압축했습니다. 4.0점 22개와 4.5점 3개는 전부 유지했습니다. **다른 플랫폼·판본의 한국어 패치/공식 한국어 대안을 최우선 제외 기준**으로 적용했고, 전체 활성 후보는 **56개**입니다. [3.5점 생존 30개와 제외 93개 근거](platforms/psp/reassessments/2026-10-04-3-5-core-30-prune.md)
 
 ## PSP 후보 재심사 (2026-09-20)
 
