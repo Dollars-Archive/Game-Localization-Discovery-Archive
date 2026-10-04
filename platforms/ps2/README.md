@@ -6,7 +6,9 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-04**  
-> 등록 후보: **30개** / 발굴 우선 후보: **14개** / 한글화 A급 후보: **12개**
+> 등록 후보: **51개** / 발굴 우선 후보: **20개** / 한글화 A급 후보: **12개**
+>
+> **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
 [← 전체 아카이브로 돌아가기](../../README.md)
 
@@ -31,22 +33,43 @@
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 세계관 미스터리 ADV·슈팅 혼합 | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 3건 약 4.33/5 / GameFAQs Great (4표) / GAMEMAN 9.0/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 전용 / II→III 정사 연결편 / 2026 Switch 트릴로지 미수록 | 🟢 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐☆ | B | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
+| [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
 | [Kazoku Keikaku: Kokoro no Kizuna (가족계획 ～마음의 인연～)](games/kazoku-keikaku-kokoro-no-kizuna.md) | 2005 | 군상형 휴먼드라마·연애 ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.9/5 (7건) / Joko 약 4.20/5 (공개 20건) / GameFAQs Great (15표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 강화판 / `Re:紡ぐ糸` 리메이크 | 💎 우선 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 약 3.90/5 (공개 20건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
+| [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애·일본사·신화 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.2/5 (6건) / Joko 약 3.63/5 (8건) / GameFAQs 2.94/5 (8표) | 확인 못함 | PC 원작 → PS2 재구성·사유키 추가 엔딩 | 🟢 후보 |
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
+| [Wind -a breath of heart- (윈드 -a breath of heart-)](games/wind-a-breath-of-heart.md) | 2003 | 현대 전기·초능력·학원 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5 (15표) / GAMEMAN 8.3/10 / Bangumi 6.6/10 (약 130표) | 확인 못함 | PC 원작 → DC/PS2 추가 엔딩·시나리오 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.0/5 (4건) / Joko 4.0/5 (공개 5건) / GAMEMAN 8.9/10 | 확인 못함 | PC 원작 → PS2 신규 히로인·시나리오·CG·합체공격 확장 | 🟢 후보 |
+| [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
+| [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.89/5 (9표) / Joko 약 3.67/5 (3건) / 피코피코대백과 3.3/5 (3건) / GAMEMAN 9.0/10 | 공개적으로 확인되지 않음 | PC 원작 → 2003 Renewal → PS2 신규 캐릭터·시나리오 확장 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
+| [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!アプリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
+| [Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)](games/strawberry-panic-girls-school-in-fullbloom.md) | 2006 | 백합·학원 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (11표) / Joko 3.6/5 (5건) / Bangumi 7.8/10 (4표) / 게임카탈로그 クソゲー | 공개적으로 확인되지 않음 | PS2 통상/초회한정 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [School Rumble Ni-Gakki (스쿨럼블 2학기)](games/school-rumble-ni-gakki.md) | 2006 | 학원 러브코미디·캐릭터 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (19표) / Gavas 통상판 4.5/5 (2건) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | 2005 PS2 전작 → 2006 본작 / 초회한정·Best Collection | 🟢 후보 |
+| [3LDK: Shiawase ni Narouyo (3LDK ～시아와세니 나로요～)](games/3ldk-shiawase-ni-narouyo.md) | 2004 | 동거 러브코미디·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.68/5 (11표) / Gavas 4.2/5 (6건) / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | 2003 PC 원작 → 2004 PS2 신규 시나리오·이벤트·그래픽·추가 히로인 확장 | 🟢 후보 |
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 현실·환상 분기형 학원 미스터리·연애 VN | ⭐⭐⭐½☆ | B | Amazon 일본 집계 4.3/5 (15건) / GameFAQs Playable (4표) / 価格.com 2.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 원작 / 통상·초회한정·Best Price / 후대 본편 이식 확인 못함 | 🟢 후보 |
+| [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko 3.77/5 (리뷰 10건 이상) / Gavas 3.9/5 (8건) / GameFAQs 4.25/5 (4표) / GAMEMAN 7.4/10 | 공개적으로 확인되지 않음 | PS2 오리지널 타이인 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
+| [Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)](games/aikagi-nukumori-to-hidamari-no-naka-de.md) | 2003 | 동거·가족·일상 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.4/5 (10표) / 피코피코대백과 4.8/5 (4건) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 이식 → PS2 신규 CG·에피소드 확장 / Best판 | 🟢 후보 |
+| [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
+| [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
+| [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | GameFAQs Great (14표) / Joko 공개 2건 3.5/5 / Juegomania 8.8/10 (3표) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
+| [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (6건) / Famitsu 28/40 / GAMEMAN 7.6/10 | 공개적으로 확인되지 않음 | 2002 GBA 별도 육성 ADV / PC 별도 게임 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
+| [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / Gavas 4.0/5 (2건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 통상/한정 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)](games/wizardry-xth-2-mugen-no-gakuto.md) | 2006 | 1인칭 3D 던전 RPG | ⭐⭐⭐½☆ | B | GameFAQs 3.58/5 (6표) / 게임카탈로그 良作 / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | PS2 원판·Wonder Price / 직접 강화 이식 확인 못함 / `Class of Heroes`·`Generation Xth`는 파생 계보 | 🟢 후보 |
+| [Baldr Force EXE (발더 포스 EXE)](games/baldr-force-exe.md) | 2005 | SF 사이버펑크 액션 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs 3.83/5 (12표) / Bangumi 8.0/10 (19명, PC·PS2 통합) / GAMEMAN 9.2/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PC 원작·EXE → DC/PS2 전연령 → Windows Standard Edition / PC 한글패치 기록 | 💎 우선 후보 |
+| [Kanon (카논)](games/kanon.md) | 2002 | 겨울·기억·기적·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.9/5 (7건) / GameFAQs Great (16표) / Famitsu 29/40 | 공개적으로 확인되지 않음 | PC 원작 → DC/PS2 풀보이스 콘솔판 → PSP / Switch HD / Steam HD / 구 PC 한국어 패치 | 💎 우선 후보 |
+| [Kuon no Kizuna: Sairinshou (구원의 반 재림조)](games/kuon-no-kizuna-sairinshou.md) | 2002 | 윤회전생·일본 전기·비극 로맨스 VN | ⭐⭐⭐⭐☆ | C | Joko 공개 40건 약 4.13/5 / Bangumi 7.7/10 (51표) / GameFAQs Good (2표) / 원작 게임카탈로그 良作 | 공개적으로 확인되지 않음 | PS1 원작 → DC 재림조 → PS2 → PSP / PC 풀보이스 / 공식 100% 한국어 모바일판 | 💎 우선 후보 |
+| [ef - a fairy tale of the two. (에프)](games/ef-a-fairy-tale-of-the-two.md) | 2010 | 군상극·로맨스 드라마 VN | ⭐⭐⭐⭐☆ | C | Bangumi 8.1/10 (약 493명) / GameFAQs Good (14표) / GAMEMAN 9.3/10 | 공개적으로 확인되지 않음 | PC `first/latter` 원작 → PS2 합본+신규 CG·일부 수정 / 2026 PC 원작 한글패치 | 💎 우선 후보 |
+| [Little Busters! Converted Edition (리틀 버스터즈! Converted Edition)](games/little-busters-converted-edition.md) | 2009 | 학원·우정·군상형 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Great (10표) / Bangumi 8.4/10 (약 238표, CE 통합) / GAMEMAN 6.6/10 | 공개적으로 확인되지 않음 | PC `EX` 기반 → PS2 CE → PSP/Vita/PS3/Switch 강화 / PC 한국어화 사례 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
+| [ToHeart (투하트)](games/toheart.md) | 2004 | 학원 러브코미디·연애 ADV/VN | ⭐⭐⭐⭐☆ | C | GameFAQs PS계보 3.5/5 (16표) / 게임카탈로그 良作 / 2025 리메이크 Steam 매우 긍정적 | 공개적으로 확인되지 않음 | PS판 → PSE → PS2 디럭스팩 전용 / PSP / 2025 Switch·Steam 3D 리메이크·공개 한국어 팬패치 | 💎 우선 후보 |
 | [Cross Channel: To All People (크로스 채널 ～To all people～)](games/cross-channel-to-all-people.md) | 2004 | SF·심리·루프 학원 ADV | ⭐⭐⭐⭐☆ | C | 피코피코대백과 4.9/5 (8건) / Joko 4.16/5 (10건 이상) / Bangumi 8.5/10 (약 4,260표, 작품 통합) / Famitsu 24/40 | 공개적으로 확인되지 않음 | PC 원작 → PS2 수정·추가 → PSP / X360 / PS3·Vita / Final Complete / Switch | 💎 우선 후보 |
+| [Jewels Ocean: Star of Sierra Leone (주얼스 오션 ～Star of Sierra Leone～)](games/jewels-ocean-star-of-sierra-leone.md) | 2006 | 다크 판타지·소환 전술 SLG/연애 ADV | ⭐⭐⭐☆☆ | C | Famitsu 25/40 / Joko 2.0/5 (2건) / GameFAQs Unrated | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 시나리오·CG·엔딩·전투 개편 | 🟡 보류 |
 | [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
-| [F: Fanatic (F ～파나틱～)](games/f-fanatic.md) | 2004 | 고딕 호러·미스터리 연애 ADV | ⭐⭐⭐½☆ | C | Joko 3.99/5 (리뷰 10건 이상) / Gavas 4.4/5 (8건) / GameFAQs Fair (7표) / Bangumi 6.8/10 (12표) | 공개적으로 확인되지 않음 | PS2 / Windows 동시 발매 / 후대 이식 확인 못함 | 🟢 후보 |
 
 ## 발굴 상태 기준
 
@@ -88,12 +111,10 @@
 
 [범위·작품별 판정·근거](reassessments/2026-10-04-candidate-audit.md) · [감사 원장 JSON](reassessments/2026-10-04-candidate-audit.json)
 
-## 2026-10-04 정예 30 압축
+## 2026-10-04 3.5점 후보 30개 압축
 
-활성 후보를 **86개 → 30개**로 다시 압축했다. 이번 단계는 작품성 점수만 보는 목록이 아니라 **실제로 다음 한글화 프로젝트 후보로 남길 가치**를 기준으로 한 정예 shortlist다.
+3.5점 활성 후보만 **65개 → 30개**로 압축했다. **4.0점 20개는 전부 유지**했고, 사용자 승인 3.0 예외 1개도 이번 작업 대상이 아니므로 그대로 둔다. 따라서 전체 활성 후보는 **86개 → 51개**다.
 
-- 4.0급 작품 중에서도 이미 한국어 접근성이 충분하거나 대체 판본이 강한 작품은 활성 목록에서 제외할 수 있다.
-- 3.5급은 PS2 독자성, 외부 평가의 설득력, 작품 개성, 한글화했을 때의 효용이 모두 분명한 경우만 남긴다.
-- 제외된 상세 문서는 삭제하지 않고 연구 기록으로 보존한다. 활성 후보 여부는 이 표와 재심사 문서를 기준으로 판단한다.
+3.5점에서는 한글화 우선도와 판본 가치, 외부 평가의 설득력, 대체판·한국어 접근성을 함께 비교했다. 탈락한 35개는 3.0으로 하향한 것이 아니라 **3.5 shortlist에서 제외**한 것이다.
 
-[정예 30 선정·56개 제외 근거](reassessments/2026-10-04-core-30-prune.md) · [감사 원장 JSON](reassessments/2026-10-04-core-30-prune.json)
+[3.5점 생존 30개·제외 35개 근거](reassessments/2026-10-04-3-5-core-30-prune.md) · [감사 원장 JSON](reassessments/2026-10-04-3-5-core-30-prune.json)
