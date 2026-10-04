@@ -11,13 +11,11 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 86 | 20 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 30 | 14 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 149 | 25 | 6 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 48 | 11 | 5 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
-> PS2 등록 86개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
->
 > PSP 등록 149개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
@@ -131,11 +129,15 @@
 > [!IMPORTANT]
 > **새 작품을 추가하거나 한글화 우선도를 수정할 때마다 각 플랫폼의 후보 표를 `🔥 A → B → C` 순으로 다시 정렬합니다.**
 
-현재 PS2 후보 86개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
+현재 PS2 후보 30개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
 
 ---
 
 이 아카이브는 게임 원본, 롬 이미지, 실행 파일, 추출된 전체 스크립트 등 저작권 자산을 배포하기 위한 저장소가 아닙니다. 스크린샷은 작품 식별과 조사 기록을 위해 출처를 명시해 링크하거나 임베드합니다.
+## PS2 정예 후보 압축 (2026-10-04)
+
+PS2 활성 후보를 **86개 → 30개**로 추가 압축했습니다. 작품성만이 아니라 실제 한글화 프로젝트 가치, 한국어 대안, 후발·상위판 존재, PS2판 독자성을 함께 반영했습니다. [정예 30과 56개 제외 근거](platforms/ps2/reassessments/2026-10-04-core-30-prune.md)
+
 ## PS2 후보 재심사 (2026-10-04)
 
 PS2 활성 후보를 **97개 → 86개**로 정리했습니다. 공개 PS2 한글패치 확인 4작품을 후보 종료하고, 3.5점 경계작 중 **2작품을 3.0 하향**, **4작품을 근거 부족 보류**, 단독판 1작품을 상위 완전판으로 통합했습니다. [검토 범위와 판정](platforms/ps2/reassessments/2026-10-04-candidate-audit.md)
