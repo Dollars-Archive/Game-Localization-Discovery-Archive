@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-04",
+  "rule_priority": [
+    "Exclude 3.5-star titles first when a Korean patch or official Korean version exists on another platform/version",
+    "Exclude when a PSP Korean patch exists",
+    "Then compare later versions, PSP-exclusive value, external reception, and localization utility"
+  ],
+  "before": {
+    "active_total": 149,
+    "four_half": 3,
+    "four_star": 22,
+    "three_half": 123,
+    "three_star_exception": 1,
+    "A_priority": 6
+  },
+  "after": {
+    "active_total": 56,
+    "four_half": 3,
+    "four_star": 22,
+    "three_half": 30,
+    "three_star_exception": 1,
+    "A_priority": 5
+  },
+  "kept_three_half": [
+    {
+      "slug": "senritsu-no-stratus",
+      "title": "Senritsu no Stratus (전율의 스트라터스)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "boku-wa-tomodachi-ga-sukunai-portable",
+      "title": "Boku wa Tomodachi ga Sukunai Portable (나는 친구가 적다 포터블)",
+      "priority": "B"
+    },
+    {
+      "slug": "ikki-tousen-xross-impact",
+      "title": "Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)",
+      "priority": "B"
+    },
+    {
+      "slug": "koi-to-senkyo-to-chocolate-portable",
+      "title": "Koi to Senkyo to Chocolate Portable (사랑과 선거와 초콜릿 포터블)",
+      "priority": "B"
+    },
+    {
+      "slug": "suzumiya-haruhi-no-tsuisou",
+      "title": "Suzumiya Haruhi no Tsuisou (스즈미야 하루히의 추상)",
+      "priority": "B"
+    },
+    {
+      "slug": "tears-to-tiara-kakan-no-daichi-portable",
+      "title": "Tears to Tiara: Kakan no Daichi Portable (티어즈 투 티아라: 화관의 대지 포터블)",
+      "priority": "B"
+    },
+    {
+      "slug": "wild-arms-xf",
+      "title": "Wild ARMs XF (와일드 암즈 크로스 파이어)",
+      "priority": "B"
+    },
+    {
+      "slug": "tantei-opera-milky-holmes",
+      "title": "Tantei Opera Milky Holmes (탐정 오페라 밀키 홈즈)",
+      "priority": "B"
+    },
+    {
+      "slug": "unchainblades-exxiv",
+      "title": "UnchainBlades EXXiV (언체인 블레이즈 엑시브)",
+      "priority": "B"
+    },
+    {
+      "slug": "twinkle-crusaders-gogo",
+      "title": "Twinkle Crusaders GoGo! (트윙클☆크루세이더스 GoGo!)",
+      "priority": "B"
+    },
+    {
+      "slug": "blue-roses-yousei-to-aoi-hitomi-no-senshitachi",
+      "title": "Blue Roses: Yousei to Aoi Hitomi no Senshitachi (블루 로지스: 요정과 푸른 눈동자의 전사들)",
+      "priority": "B"
+    },
+    {
+      "slug": "deardrops-distortion",
+      "title": "Deardrops Distortion (디어드롭스 디스토션)",
+      "priority": "B"
+    },
+    {
+      "slug": "princess-frontier-portable",
+      "title": "Princess Frontier Portable (프린세스 프론티어 포터블)",
+      "priority": "B"
+    },
+    {
+      "slug": "twelve-sengoku-fuushinden",
+      "title": "Twelve: Sengoku Fuushinden (트웰브 전국봉신전)",
+      "priority": "B"
+    },
+    {
+      "slug": "mirai-nikki-13-ninme-no-nikki-shoyuusha-rewrite",
+      "title": "Mirai Nikki: 13 Ninme no Nikki Shoyuusha RE:WRITE (미래일기 13번째의 일기 소유자 RE:WRITE)",
+      "priority": "B"
+    },
+    {
+      "slug": "hoshizora-planet-one-small-step-for",
+      "title": "Hoshizora Planet: One Small Step For... (호시조라 플래닛: 원 스몰 스텝 포…)",
+      "priority": "B"
+    },
+    {
+      "slug": "hayate-no-gotoku-nightmare-paradise",
+      "title": "Hayate no Gotoku!! Nightmare Paradise (하야테처럼!! 나이트메어 파라다이스)",
+      "priority": "B"
+    },
+    {
+      "slug": "toaru-majutsu-to-kagaku-no-ensemble",
+      "title": "Toaru Majutsu to Kagaku no Ensemble (어떤 마술과 과학의 군주활극)",
+      "priority": "B"
+    },
+    {
+      "slug": "star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu",
+      "title": "Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu (STAR DRIVER 빛의 타쿠토: 은하미소년 전설)",
+      "priority": "B"
+    },
+    {
+      "slug": "l-no-kisetsu-double-pocket",
+      "title": "L no Kisetsu: Double Pocket (L의 계절 더블 포켓)",
+      "priority": "B"
+    },
+    {
+      "slug": "bullet-butlers-juudan-no-kanata",
+      "title": "Bullet Butlers: Juudan no Kanata (불릿 버틀러스 ～총탄의 저편～)",
+      "priority": "B"
+    },
+    {
+      "slug": "onore-no-shinzuru-michi-wo-yuke",
+      "title": "Onore no Shinzuru Michi wo Yuke (오노레노 신즈루 미치오 유케)",
+      "priority": "B"
+    },
+    {
+      "slug": "gallery-fake",
+      "title": "Gallery Fake (갤러리 페이크)",
+      "priority": "B"
+    },
+    {
+      "slug": "dead-end-orchestral-manoeuvres-in-the-dead-end",
+      "title": "Dead End: Orchestral Manoeuvres in the Dead End (데드엔드: Orchestral Manoeuvres in the Dead End)",
+      "priority": "B"
+    },
+    {
+      "slug": "toaru-kagaku-no-railgun",
+      "title": "Toaru Kagaku no Railgun (어떤 과학의 초전자포)",
+      "priority": "B"
+    },
+    {
+      "slug": "armen-noir-portable",
+      "title": "ARMEN NOIR portable (아멘 느와르 포터블)",
+      "priority": "B"
+    },
+    {
+      "slug": "arcana-famiglia-vascello-phantasma-no-majutsushi",
+      "title": "Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)",
+      "priority": "B"
+    },
+    {
+      "slug": "dunamis15",
+      "title": "DUNAMIS15 (듀나미스15)",
+      "priority": "B"
+    },
+    {
+      "slug": "tsuku-monogatari",
+      "title": "Tsuku Monogatari (츠쿠모노가타리)",
+      "priority": "B"
+    },
+    {
+      "slug": "soukyuu-no-fafner-dead-aggressor",
+      "title": "Soukyuu no Fafner: Dead Aggressor (창궁의 파프너)",
+      "priority": "B"
+    }
+  ],
+  "removed_three_half": {
+    "korean_alternative_first": [
+      "1-2-summer-plus",
+      "routes-portable",
+      "secret-game-killer-queen-portable",
+      "suzunone-seven-portable",
+      "tasogare-no-sinsemilla-portable",
+      "te-to-te-try-on-tropical",
+      "ore-no-kanojo-no-uraomote-pure-sweet-heart",
+      "aoi-umi-no-tristia-portable-nanoca-flanka-hatsumei-koubouki",
+      "yoake-mae-yori-ruriiro-na-portable",
+      "littlewitch-parfait-kuroneko-mahouten-monogatari",
+      "dc-i-and-ii-psp-da-capo-i-and-ii-plus-situation-portable",
+      "amatsumi-sora-ni-kumo-no-hatate-ni",
+      "busou-shinki-battle-masters",
+      "toheart2-portable",
+      "koisuru-otome-to-shugo-no-tate-portable",
+      "princess-evangile-portable",
+      "aoi-sora-no-neosphere-portable-nanoca-flanka-hatsumei-koubouki-2"
+    ],
+    "psp_patch_exists": [
+      "sol-trigger",
+      "summon-night-5",
+      "soreyuke-burunyanman-portable"
+    ],
+    "remaining_B_cut": [
+      "12riven-the-psi-climinal-of-integral",
+      "blood-the-last-vampire",
+      "school-rumble-anesan-jiken-desu",
+      "weiss-schwarz-portable-boost-schwarz",
+      "sakurasou-no-pet-na-kanojo",
+      "twinkle-crusaders-starlit-brave",
+      "sengoku-efuda-yuugi-hototogisu-tairan",
+      "ro-kyu-bu",
+      "motto-nuga-cel",
+      "magustale-eternity-seikaiju-to-koisuru-mahou-tsukai",
+      "sucre-portable",
+      "antiphona-no-seikahime-tenshi-no-gakufu-op-a",
+      "suigetsu-portable",
+      null,
+      "marriage-royale-prism-story",
+      "game-demo-papa-no-iukoto-o-kikinasai",
+      "hana-to-otome-ni-shukufuku-o-harukaze-no-okurimono-portable",
+      "accel-world-kasoku-no-chouten",
+      "shirogane-no-cal-to-aoi-no-joou",
+      "dice-dice-fantasia",
+      "tiger-bunny-on-air-jack",
+      "desert-kingdom-portable",
+      "hoshigari-empusa-portable",
+      "love-once",
+      "sorairo-portable",
+      "omoi-no-kakera-close-to",
+      "no-fate-only-the-power-of-will",
+      "seitokai-no-ichizon-lv2-portable",
+      "mizu-no-senritsu-portable-2-hi-no-kioku",
+      "boku-wa-kimi-dake-o-mitsumeru",
+      "arcana-famiglia-2",
+      "ro-kyu-bu-himitsu-no-otoshimono",
+      "ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama",
+      "daiya-no-kuni-no-alice-wonderful-wonder-world",
+      "onigokko-portable",
+      "shirokuma-belles-stars-happy-holidays",
+      "kisaragi-gold-star-nonstop-go-go",
+      "ouka-sengoku-portable"
+    ],
+    "remaining_C_cut": [
+      "solfege-sweet-harmony",
+      "dc-iii-plus-da-capo-iii",
+      "zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome",
+      "kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu",
+      "tobidase-trouble-hanafuda-douchuuki",
+      "tsuyo-kiss-3-gakki-portable",
+      "durarara-3way-standoff-alley",
+      "heart-no-kuni-no-alice-anniversary-ver-wonderful-wonder-world",
+      "himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation",
+      "monochrome",
+      "arcana-famiglia-la-storia-della-arcana-famiglia",
+      "tenshin-ranman-happy-go-lucky",
+      "akatsuki-no-goei-trinity",
+      "chaos-head-love-chu-chu",
+      "class-of-heroes",
+      "class-of-heroes-2",
+      "ken-to-mahou-to-gakuen-mono-3",
+      "dungeon-travelers-2-ouritsu-toshokan-to-mamono-no-fuuin",
+      "eien-no-aselia-kono-daichi-no-hate-de",
+      "mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi-portable-plus",
+      "misshitsu-no-sacrifice",
+      "unchainblades-rexx",
+      "seinaru-kana-orichalcum-no-na-no-motoni",
+      "shin-koihime-musou-otome-ryouran-sangokushi-engi-wei-hen",
+      "shin-koihime-musou-otome-ryouran-sangokushi-engi-wu-hen",
+      "snow-portable",
+      "tears-to-tiara-gaiden-avalon-no-nazo-portable",
+      "sora-o-aogite-kumo-takaku-portable",
+      "mystereet-portable",
+      "sakura-sakura-haru-urara",
+      "moe-moe-daisensou-gendaiban-plus",
+      "your-diary-plus",
+      "renai-0-kilometer-portable",
+      "comic-party-portable",
+      "wand-of-fortune-mirai-e-no-prologue-portable"
+    ]
+  }
+}
