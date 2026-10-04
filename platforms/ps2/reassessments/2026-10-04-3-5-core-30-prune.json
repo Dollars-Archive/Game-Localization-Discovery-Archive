@@ -1,6 +1,10 @@
 {
   "date": "2026-10-04",
-  "correction": "Prune only PS2 3.5-star candidates; keep all 4.0-star candidates",
+  "rule_priority": [
+    "Exclude 3.5-star titles first when another platform/version already has a public Korean patch or official Korean release",
+    "Exclude if a PS2 Korean patch exists",
+    "Then compare version value, later editions, reception, PS2-exclusive content, and localization utility"
+  ],
   "before": {
     "active_total": 86,
     "four_star": 20,
@@ -14,6 +18,17 @@
     "three_half": 30,
     "three_star_exception": 1,
     "A_priority": 12
+  },
+  "refilter": {
+    "removed_from_previous_core": [
+      "wind-a-breath-of-heart"
+    ],
+    "promoted_into_core": [
+      "mystereet-yasogami-kaoru-no-jiken-file"
+    ],
+    "same_name_false_positive_not_removed": [
+      "aikagi-nukumori-to-hidamari-no-naka-de"
+    ]
   },
   "kept_three_half": [
     {
@@ -59,6 +74,11 @@
     {
       "slug": "lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o",
       "title": "Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)",
+      "priority": "B"
+    },
+    {
+      "slug": "mystereet-yasogami-kaoru-no-jiken-file",
+      "title": "Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)",
       "priority": "B"
     },
     {
@@ -160,45 +180,42 @@
       "slug": "wizardry-xth-2-mugen-no-gakuto",
       "title": "Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)",
       "priority": "B"
-    },
-    {
-      "slug": "mystereet-yasogami-kaoru-no-jiken-file",
-      "title": "Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)",
-      "priority": "B"
     }
   ],
   "removed_three_half": {
-    "B": [
-      "sekai-no-subete-two-of-us",
-      "izumo2-gakuen-kyousoukyoku-double-tact",
+    "korean_alternative_first": [
       "soul-link-extension",
-      "yatohime-zankikou-tsurugi-no-maki",
-      "kyuuketsu-kitan-moonties",
-      "quilt-anata-to-tsumugu-yume-to-koi-no-dress",
+      "wind-a-breath-of-heart",
       "routes-pe",
-      "shin-koihime-musou-otome-ryouran-sangokushi-engi",
-      "shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri",
-      "kita-e-diamond-dust",
       "suzunone-seven-rebirth-knot",
-      "sanyo-pachinko-paradise-9-shin-umi-okawari",
-      "monochrome",
-      "fantastic-fortune-2-triple-star",
-      "wind-a-breath-of-heart"
-    ],
-    "C": [
       "akane-iro-ni-somaru-saka-parallel",
       "izumo-complete",
       "aoi-sora-no-neosphere-nanoca-flanka-hatsumei-koubouki-2",
       "izumo2-takeki-tsurugi-no-senki",
+      "secret-game-killer-queen",
+      "green-green-kane-no-oto-romantic"
+    ],
+    "remaining_B_cut": [
+      "sekai-no-subete-two-of-us",
+      "izumo2-gakuen-kyousoukyoku-double-tact",
+      "yatohime-zankikou-tsurugi-no-maki",
+      "kyuuketsu-kitan-moonties",
+      "quilt-anata-to-tsumugu-yume-to-koi-no-dress",
+      "shin-koihime-musou-otome-ryouran-sangokushi-engi",
+      "shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri",
+      "kita-e-diamond-dust",
+      "sanyo-pachinko-paradise-9-shin-umi-okawari",
+      "monochrome",
+      "fantastic-fortune-2-triple-star"
+    ],
+    "remaining_C_cut": [
       "h2o-plus-footprints-in-the-sand",
       "yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue",
       "croket-ban-king-no-kiki-o-sukue",
       "ma-gi-marginal",
       "mahoromatic-moetto-kirakira-maid-san",
-      "secret-game-killer-queen",
       "otome-wa-boku-ni-koishiteru",
       "canvas-sepia-iro-no-motif",
-      "green-green-kane-no-oto-romantic",
       "f-fanatic",
       "aoishiro",
       "fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file",
@@ -207,18 +224,5 @@
       "kino-no-tabi-the-beautiful-world",
       "shuffle-on-the-stage"
     ]
-  },
-  "rule_priority": [
-    "Exclude 3.5-star titles first when another platform/version already has a public Korean patch or official Korean release",
-    "Then compare version value, reception, Korean accessibility, and alternative versions"
-  ],
-  "korean_alternative_refilter": {
-    "removed": [
-      "wind-a-breath-of-heart"
-    ],
-    "promoted": [
-      "mystereet-yasogami-kaoru-no-jiken-file"
-    ],
-    "note": "A modern unrelated game titled Aikagi has Korean patches; it is not Aikagi: Nukumori to Hidamari no Naka de."
   }
 }
