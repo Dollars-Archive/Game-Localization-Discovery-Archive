@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-04",
+  "base_commit": "b46c2057b2ff3e230df33a7beb1880fd1142d4dc",
+  "before": {
+    "active_candidates": 97,
+    "four_star_or_higher": 22,
+    "localization_priority_A": 13,
+    "three_point_five": 74,
+    "approved_three_point_exception": 1
+  },
+  "after": {
+    "active_candidates": 86,
+    "four_star_or_higher": 20,
+    "localization_priority_A": 12,
+    "three_point_five": 65,
+    "approved_three_point_exception": 1
+  },
+  "changes": {
+    "patch_closed": [
+      "eve-new-generation",
+      "koisuru-otome-to-shugo-no-tate-the-shield-of-aigis",
+      "scarlett-nichijou-no-kyoukaisen",
+      "ramune-glass-bin-ni-utsuru-umi"
+    ],
+    "downgraded_to_3_0": [
+      "girls-bravo-romance-15s",
+      "green-green-kane-no-oto-dynamic"
+    ],
+    "evidence_hold": [
+      "konneko-keep-a-memory-green",
+      "nettai-teikiatsu-shoujo",
+      "rune-princess",
+      "sorairo-no-organ-remix"
+    ],
+    "version_consolidated": [
+      "my-merry-may"
+    ]
+  }
+}
