@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-04",
+  "correction": "Prune only PS2 3.5-star candidates; keep all 4.0-star candidates",
+  "before": {
+    "active_total": 86,
+    "four_star": 20,
+    "three_half": 65,
+    "three_star_exception": 1,
+    "A_priority": 12
+  },
+  "after": {
+    "active_total": 51,
+    "four_star": 20,
+    "three_half": 30,
+    "three_star_exception": 1,
+    "A_priority": 12
+  },
+  "kept_three_half": [
+    {
+      "slug": "shirogane-no-soleil-contract-to-the-future",
+      "title": "Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "doko-e-iku-no-anohi-hikaru-ashita-e",
+      "title": "Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "apocripha-0",
+      "title": "Apocripha/0 (아포크리파 제로)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "only-you-liber-cross",
+      "title": "Only You: Liber Cross (온리 유 리베르크루스)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "fragments-blue",
+      "title": "Fragments Blue (프래그먼츠 블루)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "shikigami-no-shiro-nanayozuki-gensoukyoku",
+      "title": "Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)",
+      "priority": "🔥 A"
+    },
+    {
+      "slug": "12riven-the-psycliminal-of-integral",
+      "title": "12RIVEN -the Ψcliminal of integral- (12 리븐)",
+      "priority": "B"
+    },
+    {
+      "slug": "lost-passage-ushinawareta-hitofushi",
+      "title": "Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)",
+      "priority": "B"
+    },
+    {
+      "slug": "lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o",
+      "title": "Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)",
+      "priority": "B"
+    },
+    {
+      "slug": "wind-a-breath-of-heart",
+      "title": "Wind -a breath of heart- (윈드 -a breath of heart-)",
+      "priority": "B"
+    },
+    {
+      "slug": "men-at-work-3-ai-to-seishun-no-hunter-gakuen",
+      "title": "Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)",
+      "priority": "B"
+    },
+    {
+      "slug": "itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to",
+      "title": "Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)",
+      "priority": "B"
+    },
+    {
+      "slug": "metal-wolf-rev",
+      "title": "Metal Wolf REV (메탈 울프 REV)",
+      "priority": "B"
+    },
+    {
+      "slug": "castle-fantasia-erencia-senki-plus-stories",
+      "title": "Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)",
+      "priority": "B"
+    },
+    {
+      "slug": "nanatsuiro-drops-pure",
+      "title": "Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)",
+      "priority": "B"
+    },
+    {
+      "slug": "natsu-iro-no-sunadokei",
+      "title": "Natsu-iro no Sunadokei (여름빛 모래시계)",
+      "priority": "B"
+    },
+    {
+      "slug": "w-wish",
+      "title": "W: Wish (W ～위시～ / 더블 위시)",
+      "priority": "B"
+    },
+    {
+      "slug": "strawberry-panic-girls-school-in-fullbloom",
+      "title": "Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)",
+      "priority": "B"
+    },
+    {
+      "slug": "school-rumble-ni-gakki",
+      "title": "School Rumble Ni-Gakki (스쿨럼블 2학기)",
+      "priority": "B"
+    },
+    {
+      "slug": "3ldk-shiawase-ni-narouyo",
+      "title": "3LDK: Shiawase ni Narouyo (3LDK ～시아와세니 나로요～)",
+      "priority": "B"
+    },
+    {
+      "slug": "missing-blue",
+      "title": "Missing Blue (미싱 블루)",
+      "priority": "B"
+    },
+    {
+      "slug": "dnangel-kurenai-no-tsubasa",
+      "title": "D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)",
+      "priority": "B"
+    },
+    {
+      "slug": "remember11-the-age-of-infinity",
+      "title": "Remember11 -the age of infinity- (리멤버11 -the age of infinity-)",
+      "priority": "B"
+    },
+    {
+      "slug": "aikagi-nukumori-to-hidamari-no-naka-de",
+      "title": "Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)",
+      "priority": "B"
+    },
+    {
+      "slug": "getbackers-dakkanya-dakkandayo-zenin-shuugou",
+      "title": "GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)",
+      "priority": "B"
+    },
+    {
+      "slug": "final-approach",
+      "title": "Final Approach (파이널 어프로치)",
+      "priority": "B"
+    },
+    {
+      "slug": "dears",
+      "title": "DearS (디어스)",
+      "priority": "B"
+    },
+    {
+      "slug": "chobits-chiidake-no-hito",
+      "title": "Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)",
+      "priority": "B"
+    },
+    {
+      "slug": "getsumento-heiki-mina-futatsu-no-project-m",
+      "title": "Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)",
+      "priority": "B"
+    },
+    {
+      "slug": "wizardry-xth-2-mugen-no-gakuto",
+      "title": "Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)",
+      "priority": "B"
+    }
+  ],
+  "removed_three_half": {
+    "B": [
+      "sekai-no-subete-two-of-us",
+      "izumo2-gakuen-kyousoukyoku-double-tact",
+      "soul-link-extension",
+      "yatohime-zankikou-tsurugi-no-maki",
+      "kyuuketsu-kitan-moonties",
+      "quilt-anata-to-tsumugu-yume-to-koi-no-dress",
+      "routes-pe",
+      "mystereet-yasogami-kaoru-no-jiken-file",
+      "shin-koihime-musou-otome-ryouran-sangokushi-engi",
+      "shoujo-yoshitsune-den-ni-toki-o-koeru-chigiri",
+      "kita-e-diamond-dust",
+      "suzunone-seven-rebirth-knot",
+      "sanyo-pachinko-paradise-9-shin-umi-okawari",
+      "monochrome",
+      "fantastic-fortune-2-triple-star"
+    ],
+    "C": [
+      "akane-iro-ni-somaru-saka-parallel",
+      "izumo-complete",
+      "aoi-sora-no-neosphere-nanoca-flanka-hatsumei-koubouki-2",
+      "izumo2-takeki-tsurugi-no-senki",
+      "h2o-plus-footprints-in-the-sand",
+      "yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue",
+      "croket-ban-king-no-kiki-o-sukue",
+      "ma-gi-marginal",
+      "mahoromatic-moetto-kirakira-maid-san",
+      "secret-game-killer-queen",
+      "otome-wa-boku-ni-koishiteru",
+      "canvas-sepia-iro-no-motif",
+      "green-green-kane-no-oto-romantic",
+      "f-fanatic",
+      "aoishiro",
+      "fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file",
+      "mai-hime-unmei-no-keitouju",
+      "roommate-asami-okusama-wa-joshikousei",
+      "kino-no-tabi-the-beautiful-world",
+      "shuffle-on-the-stage"
+    ]
+  }
+}
