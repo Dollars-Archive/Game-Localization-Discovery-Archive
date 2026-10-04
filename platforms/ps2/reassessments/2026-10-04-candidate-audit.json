@@ -35,5 +35,14 @@
     "version_consolidated": [
       "my-merry-may"
     ]
+  },
+  "post_cleanup_patch_crosscheck": {
+    "date": "2026-10-04",
+    "sources": [
+      "RetroDB public PS2 Korean patch list",
+      "RetroDB producer-request unlisted patch notice",
+      "EVE new generation GitHub Release"
+    ],
+    "additional_active_overlaps_found": 0
   }
 }

@@ -79,6 +79,12 @@ PS2판 공개 한글패치 v1.0.1 배포가 확인돼 있다. 작품성 평가�
 
 낮은 숫자 하나만 골라 자동으로 3.0으로 내리지 않았다. `Kyuuketsu Kitan Moonties`, `Soul Link EXTENSION`, `Routes PE`, `Mystereet`, `Ma-Gi: Marginal`, `Canvas`, `Kita e. Diamond Dust`, `W: Wish`, `Aikagi`, `Shoujo Yoshitsune-den Ni`, `Green Green Romantic`은 기존 상세 기록에 판본이 맞는 긍정 평가나 구체적인 서사·시스템 강점이 남아 있어 3.5를 유지했다.
 
+## 정리 후 교차검사
+
+2026-10-04 정리 후 남은 86개를 RetroDB의 공개 PS2 한글패치 목록과 제작자 요청 비등록 목록에 다시 대조했다. **추가로 활성 후보와 겹치는 공개 PS2 한글패치는 확인하지 못했다.**
+
+`EVE new generation`은 같은 날 공개된 GitHub Release를 직접 확인해 후보 종료에 반영했으며, RetroDB 반영 여부와 무관하게 공개 배포 사실을 기준으로 판정했다.
+
 ## 원문 보존
 
 이번에 활성 표에서 제외한 작품의 기존 상세 문서는 삭제하지 않았다. 재심사 전 원문은 기준 커밋에서 그대로 확인할 수 있으며, 상세 문서는 조사 기록으로 보존한다.
