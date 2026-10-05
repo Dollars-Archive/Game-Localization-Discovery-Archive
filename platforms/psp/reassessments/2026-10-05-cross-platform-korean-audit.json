@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-05",
+  "scope": "all active PSP candidates, including 4.0 and 4.5 titles",
+  "rule": "Exclude from active localization shortlist when a practical Korean official release or public Korean fan patch exists on the same or another platform/version.",
+  "before": {
+    "active_total": 56,
+    "priority_4plus": 25,
+    "three_half": 30,
+    "A_priority": 5
+  },
+  "removed": [
+    {
+      "slug": "kazoku-keikaku",
+      "score": 4.5,
+      "previous_priority": "B",
+      "korean_alternative": "Older PC fan Korean translation / Re-line Korean localization record",
+      "caveat": "Console/PSP Kei-route coverage is incomplete."
+    },
+    {
+      "slug": "narcissu-moshimo-ashita-ga-aru-nara-portable",
+      "score": 4.5,
+      "previous_priority": "B",
+      "korean_alternative": "Direct PSP Korean patch record"
+    },
+    {
+      "slug": "flowers-le-volume-sur-ete",
+      "score": 4.5,
+      "previous_priority": "C",
+      "korean_alternative": "Official Korean STOVE PC release"
+    },
+    {
+      "slug": "ayakashibito-genyou-ibunroku-portable",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "PS2 Korean patch"
+    },
+    {
+      "slug": "saihate-no-ima-portable",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows COMPLETE Korean patch, incorporating PSP-added scenes"
+    },
+    {
+      "slug": "shiei-no-sona-nyl-refrain-what-a-beautiful-memories",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Direct PSP Korean patch record"
+    },
+    {
+      "slug": "himawari-pebble-in-the-sky-portable",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "PS2 Korean patch record"
+    },
+    {
+      "slug": "kono-aozora-ni-yakusoku-o-tenohira-no-rakuen",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "PC original and Refine Korean patches"
+    },
+    {
+      "slug": "kuon-no-kizuna-sairin-mikotonori-portable",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Official 100% Korean mobile release, 구원의 반 재림조"
+    },
+    {
+      "slug": "dies-irae-amantes-amentes",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows Amantes/DX Korean patch"
+    },
+    {
+      "slug": "kanon",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows Standard Edition Korean patch"
+    },
+    {
+      "slug": "toheart-portable",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "2025 Steam remake Korean fan patch / older PC Korean localization"
+    },
+    {
+      "slug": "flowers-le-volume-sur-printemps",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Official Korean STOVE PC release"
+    }
+  ],
+  "after": {
+    "active_total": 43,
+    "priority_4plus": 12,
+    "three_half": 30,
+    "A_priority": 5
+  },
+  "notes": [
+    "Scores are unchanged.",
+    "Detail pages remain preserved.",
+    "Narcissu Portable and Shiei no Sona-Nyl Refrain were newly confirmed to have direct PSP Korean patch records.",
+    "Unique portable-only extras are documented but do not override the user's Korean-alternative-first shortlist rule."
+  ]
+}
