@@ -60,6 +60,10 @@ PC판에는 999와 VLR의 공개 한국어 패치가 존재한다. 다만 999 �
 
 따라서 현재는 **유지**한다. 원 배포 근거를 확보하면 같은 규칙으로 후보 종료한다.
 
+### 역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속
+
+RetroDB에는 2026-09-27 TuNE의 PS Vita 한국어 패치 v1.0이 등록되어 있지만, 대상은 **2013년 1편 `Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru.`**이다. 현재 활성 후보인 **2016년 `Zoku`는 별도 후속 게임**이므로 이 패치만으로 후보 종료하지 않는다.
+
 ### Deception IV / Tokyo Twilight Ghost Hunters
 
 한국 국내 유통·한국 Store 등록 기록만으로 한국어 텍스트 지원을 의미한다고 보지 않는다. 실제 한국어판 근거가 확보되지 않아 유지한다.
@@ -85,7 +89,7 @@ PC판에는 999와 VLR의 공개 한국어 패치가 존재한다. 다만 999 �
 
 ## 재감사 참고 출처
 
-- RetroDB PS Vita 한글패치 DB: https://retrodb.info/krpatch?old=0&platform=PSV
+- RetroDB PS Vita 한글패치 DB (2026-10-05 기준 22건): https://retrodb.info/krpatch?old=0&platform=PSV
 - 한패 Zero Escape: https://hanpe.net/app/46ye2e/zero-escape-the-nonary-games
 - 한패 Muv-Luv / Muv-Luv Alternative: https://hanpe.net/hanguls/all?include_steam=1
 - Fate/hollow ataraxia REMASTERED 한국어 패치: https://hanpe.net/app/jnkonk/fatehollow-ataraxia-remastered
