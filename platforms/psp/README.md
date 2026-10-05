@@ -5,8 +5,8 @@
 PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 가치·한국어 접근성·후발 이식 여부를 별도로 확인합니다. 한글화 기술 난이도는 실제 게임 파일 또는 신뢰할 만한 해당 판본 기술 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-04**  
-> 등록 후보: **56개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **5개**
+> 한글패치 확인 기준일: **2026-10-05**  
+> 등록 후보: **57개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **5개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -35,6 +35,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Tantei Opera Milky Holmes (탐정 오페라 밀키 홈즈)](games/tantei-opera-milky-holmes.md) | 2010 | 탐정 로망 ADV·추리 어드벤처 | ⭐⭐⭐½☆ | B | GameFAQs Great (35표) / 4Gamer 47/100 (2건) / GAMEMAN 7.5/10 (작성 리뷰 0) / 전격온라인 호평 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 팬패치 v0.4 있음 | 2010 PSP 원작 / 2011~12 1.5 시나리오·CG·보이스 개수 / 2012 2 한정판에 1.5 UMD 동봉 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 3D 던전 RPG·턴제 JRPG | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (25표) / Famitsu 29/40 (3DS 동시판) / RPGamer 2/5 (3DS) | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 / 영어 부분 번역 V1 기록 | 2011 ReXX 전작 / 2012 PSP·3DS 동시판 / 공식 영문판 없음 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Twinkle Crusaders GoGo! (트윙클☆크루세이더스 GoGo!)](games/twinkle-crusaders-gogo.md) | 2010 | 학원 러브코미디 ADV·턴제 전투 SLG | ⭐⭐⭐½☆ | B | Famitsu 30/40 / 게임카탈로그 良作 / GAMEMAN 8.8/10 / GameFAQs 2.94/5 | 2026-09-17 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2010 PSP 신규 2루트·배틀 개선 / 호화판 STARLIT BRAVE!! / 2012 PSS 후속·FD | 🟢 후보 |
+| [Twinkle Crusaders STARLIT BRAVE!! (트윙클☆크루세이더스 STARLIT BRAVE!!)](games/twinkle-crusaders-starlit-brave.md) | 2010 | 크로스오버 배틀 ADV·전략 타이밍 배틀 | ⭐⭐⭐½☆ | B | GameFAQs Outstanding (1표) / 게임카탈로그 GoGo! 良作 / 전격온라인 플레이리포트 호평 | 2026-10-05 기준 공개 PSP 한글패치 확인 못함 | GoGo! 호화판 별도 UMD / 34명급 크로스오버·BRAVE·애드혹 대전 / PC XTREAM은 게스트·스토리 구성 변경 | 🟢 후보 |
 | [Blue Roses: Yousei to Aoi Hitomi no Senshitachi (블루 로지스: 요정과 푸른 눈동자의 전사들)](games/blue-roses-yousei-to-aoi-hitomi-no-senshitachi.md) | 2010 | 판타지 SRPG·턴제 택티컬 RPG | ⭐⭐⭐½☆ | B | GameFAQs Good (26표) / Play-Asia 4/5 (8건) / GAMEMAN 8.4/10 / Bangumi 5.9/10 (69표) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / 영어 부분패치 v1.0 Beta 기록 | PSP 오리지널 / UMD·DL판 / 현대 직접 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Deardrops Distortion (디어드롭스 디스토션)](games/deardrops-distortion.md) | 2011 | 청춘 연애 록앤롤 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | VNDB 미러 7.49/10 (2,312표, 작품 계열) / GameFAQs PSP 2.55/5 / GAMEMAN 8.3/10 | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 / PC 원작 공식 영어판 있음 | 2010 PC 원작 / 2011 PSP 신규 시나리오 약 30%·CG 약 20장·ED 전면 교체 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Princess Frontier Portable (프린세스 프론티어 포터블)](games/princess-frontier-portable.md) | 2011 | 판타지 변방 생활 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Fair (8표) / VNDB 7.5/10 (50표, 작품 계열) / Play-Asia 5/5 (15리뷰) | 2026-09-18 기준 공개 PSP 한글패치 확인 못함 | 2008 PC 원작 / 2011 PSP 모니카·알에 그랜드루트·대규모 가필 / 2013 PC Renewal은 원작 재발매 | 🟢 후보 |
