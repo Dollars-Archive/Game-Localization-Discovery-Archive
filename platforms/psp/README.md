@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **57개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **5개**
+> 등록 후보: **56개** / 발굴 우선 후보: **25개** / 한글화 A급 후보: **5개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -58,7 +58,6 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [ARMEN NOIR portable (아멘 느와르 포터블)](games/armen-noir-portable.md) | 2012 | 디스토피아 배틀 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | Bangumi 6.4/10 (70표) / GameFAQs 2.97/5·23.33h / 4Gamer 독자 리뷰 0 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2010 PS2 원작 / 2012 PSP 전 공략대상 희망엔딩·대규모 가필·30장+ CG·보이스 강화 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)](games/arcana-famiglia-vascello-phantasma-no-majutsushi.md) | 2012 | 오토메 비주얼 노벨·팬디스크/후속편 | ⭐⭐⭐½☆ | B | Bangumi 7.3/10 (58표) / Play-Asia 4/5 (4리뷰) / 완주평 16~20h | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2011 PSP 원작 후속 / 애쉬 신규 공략·조슈아·8루트 / 2015 Ancora·2025/26 Rinato는 원작 현대판으로 본작 미포함 | 🟢 후보 |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2012 | 서스펜스 픽션 ADV·루프 SF 비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs PSP 3.21/5 (12표)·12.6h (7표본) / Bangumi 6.5/10 (29표) / 게임카탈로그 장문평 | 2026-09-19 기준 공개 PSP 한국어·완성 영어패치 확인 못함 | 2011 PS3·Xbox360 원작 / 2012 PSP 11년 전·엔딩 후 신규 에피소드 2편·CG 추가 / 현대 이식 확인 못함 | 🟢 후보 |
-| [Tsuku Monogatari (츠쿠모노가타리)](games/tsuku-monogatari.md) | 2011 | 학원 오컬트 ADV·RPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / 4Gamer 독자 57/100 (2건) / Bangumi 5.4/10 (12표) / 가격.com 4.0/5 (1집계) | 2026-09-19 기준 공개 PSP 한국어 패치 확인 못함 | PSP 오리지널 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Soukyuu no Fafner: Dead Aggressor (창궁의 파프너)](games/soukyuu-no-fafner-dead-aggressor.md) | 2005 | 3D 로봇 액션·슈팅 / ADV | ⭐⭐⭐½☆ | B | GameFAQs Great (21표)·약 3.76/5 / 11h (12표본) / GAMEMAN 7.8/10 | 2026-09-20 기준 공개 PSP 한국어 패치 확인 못함 | 2004 TV 애니 기반 / 2005 PSP 오리지널 분기·생존 전개 / 후발 직접 포트 확인 못함 | 🟢 후보 |
 | [Flowers: Le Volume sur Été (플라워즈 -여름편-)](games/flowers-le-volume-sur-ete.md) | 2015 | 백합계 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐⭐½ | C | Famitsu 33/40·평균 8.25 / Bangumi 8.1/10 (1200표+) / Steam 99% 긍정 (1200건대) | PSP 한글패치 확인 못함 / 2023 STOVE PC 공식 한국어 지원 | 2015 PC 원작·PSP/Vita / 2019 PS4·Switch 四季 4편 합본 / STOVE 한국어 단품 | 💎 우선 후보 |
 | [Ayakashibito: Genyou Ibunroku Portable (아야카시비토 환요이문록 포터블)](games/ayakashibito-genyou-ibunroku-portable.md) | 2009 | 학원 청춘 연애 전기 배틀 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ | C | GameFAQs PSP 3.79/5 (7표)·50h (3표본) / VNDB계열 약 7.6/10·1000표+ / Bangumi 콘솔 6.0/10 (2표) | 2026-09-19 기준 공개 PSP 한글패치 확인 못함 / PS2 한국어 패치·PC 한국어 MTL·영어 팬패치 존재 | 2005 PC 원작 / 2006 PS2 호우난 신규 공략 / 2009 PSP PS2 내용+화면비 모드 / 2012 PSP ChronoBelt 별도 | 💎 우선 후보 |
@@ -128,3 +127,9 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 **최우선 제외 기준은 다른 플랫폼·다른 판본에서 이미 한국어로 플레이 가능한 작품**이다. 그 다음 PSP 자체 공개 한글패치 존재, 후발·상위판, PSP 독자성, 외부 평가와 프로젝트 효용 순으로 비교했다.
 
 [3.5점 생존 30개·제외 93개 근거](reassessments/2026-10-04-3-5-core-30-prune.md) · [감사 원장 JSON](reassessments/2026-10-04-3-5-core-30-prune.json)
+
+## 2026-10-05 STARLIT BRAVE 재등록 교체
+
+사용자 요청으로 **Twinkle Crusaders STARLIT BRAVE!!**를 3.5점 정예 후보에 재등록했다. 기존 **30개 상한은 유지**하며, 비교 결과 **Tsuku Monogatari**를 활성 shortlist에서 제외했다. 두 작품의 상세 3.5점 평가는 그대로 보존한다.
+
+[교체 판정·근거](reassessments/2026-10-05-starlit-brave-swap.md) · [감사 원장 JSON](reassessments/2026-10-05-starlit-brave-swap.json)
