@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 43 | 12 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 48 | 11 | 5 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 27 | 3 | 4 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
 > PS2 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -22,7 +22,7 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, 기준을 통과한 후보를 누적합니다.
+> PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 
 이후 다른 플랫폼도 후보가 생기는 시점에 `platforms/<platform>/` 아래에 같은 구조로 추가합니다.
 
@@ -136,6 +136,12 @@
 ---
 
 이 아카이브는 게임 원본, 롬 이미지, 실행 파일, 추출된 전체 스크립트 등 저작권 자산을 배포하기 위한 저장소가 아닙니다. 스크린샷은 작품 식별과 조사 기록을 위해 출처를 명시해 링크하거나 임베드합니다.
+## PS Vita 전체 한국어 대안 재감사 (2026-10-05)
+
+PS2·PSP와 같은 **“다른 플랫폼·다른 판본 한국어판/한글패치 최우선 제외”** 규칙을 PS Vita 활성 후보 전체에 적용했습니다. 공식 Vita 한국어판, 2026년 신규 Vita 한글패치, PC·PS5 등 실사용 가능한 한국어 대안을 다시 확인해 **48개 → 27개**로 정리했습니다. 작품성 별점과 상세 문서는 보존합니다.
+
+특히 `Kantai Collection Kai`, `Summon Night 6`, `Bloodstained: Curse of the Moon`은 이번 감사에서 **PS Vita 자체 한국어 패치 기록**을 반영했습니다. [전체 판정과 근거](platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.md)
+
 ## PS2·PSP 전체 한국어 대안 재감사 (2026-10-05)
 
 기존에는 3.5점 압축 때 **다른 플랫폼·다른 판본의 공식 한국어판/한글패치**를 최우선 제외했지만, 4.0 이상 작품에는 이 필터가 완전히 적용되지 않은 항목이 남아 있었습니다. 활성 후보 전체에 같은 기준을 다시 적용해 **PS2 51 → 43, PSP 56 → 43**으로 정리했습니다.
