@@ -49,7 +49,6 @@
 
 ### 한글화 우선도 B — 11개
 
-- [Dungeon Travelers 2: The Royal Library & the Monster Seal](../games/dungeon-travelers-2.md) — 주의: 위에서 제외한 기존 4.0 작품의 상세 문서 링크다. 활성 30개에는 포함하지 않는다.
 - [Ar nosurge Plus: Ode to an Unborn Star](../games/ar-nosurge-plus-ode-to-an-unborn-star.md)
 - [Lost Dimension](../games/lost-dimension.md)
 - [MIRACLE GIRLS FESTIVAL](../games/miracle-girls-festival.md)
