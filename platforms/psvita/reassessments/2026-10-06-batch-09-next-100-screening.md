@@ -16,7 +16,7 @@
 
 | 작품 | 점수 / 한국어 대안 확인 | 판정 |
 |---|---|---|
-| **Muv-Luv** / **Muv-Luv Alternative** | Vita Metacritic은 각각 76/100, 83/100으로 관문을 넘는다. 두 작품 모두 PC판 공개 한국어 패치가 확인된다. [Muv-Luv 점수](https://www.metacritic.com/game/muv-luv/), [PC 한글패치 목록](https://www.hangulogame.com/platform/steam/) | 동일 작품의 다른 기종 한국어 대안이 있어 제외 |
+| **Muv-Luv** / **Muv-Luv Alternative** | Vita Metacritic은 각각 76/100, 83/100으로 관문을 넘는다. 두 작품 모두 PC판 공개 한국어 패치가 확인된다. [Muv-Luv Vita 점수](https://www.metacritic.com/game/muv-luv/), [Muv-Luv Alternative Vita 점수](https://gamefaqs.gamespot.com/vita/182267-muv-luv-alternative/reviews), [PC 한글패치 목록](https://www.hangulogame.com/platform/steam/) | 동일 작품의 다른 기종 한국어 대안이 있어 제외 |
 | **Memories Off: Innocent Fille** | Famitsu Vita 10/7/7/8, 32/40(심사용 환산 80/100). 한국어 팬 커뮤니티에 이 작품의 PC 한패 출처가 연결된 배포/복구 기록이 확인된다. [Famitsu 점수](https://www.gematsu.com/2018/03/famitsu-review-scores-issue-1529), [한패 출처를 연결한 항목](https://kone.gg/s/vndb/cTjdmATJllUjPYz3i5CAab?mode=hot) | Vita 외 PC판 한국어 패치가 확인되어 제외. 시리즈 최종작이라 이전 편 지식이 도움이 되지만 공식 소개는 독립 플레이 가능하다고 설명한다. |
 | **Majo Koi Nikki: Dragon×Caravan** | PC판에 완성으로 등록된 한국어 기계번역 패치가 확인된다. [GTAKU 판본·패치 목록](https://www.gtaku.net/vngameinfo/94024) | 사용자 제외 기준에 따라 다른 기종 패치가 있는 동일 작품으로 제외 |
 | **OZMAFIA!! -vivace-** | PC판 `OZMAFIA!!` 공개 한국어 패치가 확인된다. Vita판 `vivace`는 추가 시나리오가 있으나 같은 본편의 이식·확장판이므로 별도 미번역 작품으로 세지 않았다. [한국어 패치 저장소](https://github.com/hanpaemo/ozmafia-korean-patch), [Vita 공식 사이트](https://dramaticcreate.com/ozmafia/) | PC판의 동일 작품 한국어 대안이 있어 제외 |
