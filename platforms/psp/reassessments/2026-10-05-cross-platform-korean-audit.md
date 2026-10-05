@@ -62,3 +62,12 @@
 - 상세 문서는 삭제하지 않는다.
 - 활성 표는 “새로 한글화할 가치가 있는 미번역 후보”만 보여 주도록 유지한다.
 - PSP 고유 추가 콘텐츠만 따로 번역하고 싶은 경우에는 상세 문서에서 다시 프로젝트 후보로 승격할 수 있다.
+
+## 재감사 참고 출처
+
+- RetroDB PSP 한글패치 DB 및 제작자 요청 비등록 목록: https://retrodb.info/krpatch?old=0&platform=PSP
+- 아야카시비토 PS2 / 자영의 소나닐 PSP 공개 기록: https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=199560
+- Dies irae ~Amantes amentes~ 한국어 패치 인덱스: https://hanpe.net/hanguls/d
+- 구원의 반 재림조 공식 한국어 모바일판: https://m.onestore.co.kr/v2/ko-kr/app/0000708291
+- ToHeart 2025 리메이크 한국어 팬패치: https://steamcommunity.com/app/3380520/guides/
+- FLOWERS STOVE 한국어판, 가장 끝자락의 이마 COMPLETE, 이 푸른 하늘에 약속을 등은 기존 상세 문서에 기록된 판본별 배포 출처와 다시 대조했다.
