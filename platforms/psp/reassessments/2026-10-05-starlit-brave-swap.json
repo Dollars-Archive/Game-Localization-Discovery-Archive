@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-05",
+  "reason": "User requested Twinkle Crusaders STARLIT BRAVE!! be registered while preserving the 30-title cap for 3.5-star PSP candidates.",
+  "before": {
+    "active_total": 56,
+    "three_half": 30
+  },
+  "swap": {
+    "in": {
+      "slug": "twinkle-crusaders-starlit-brave",
+      "title": "Twinkle Crusaders STARLIT BRAVE!! (트윙클☆크루세이더스 STARLIT BRAVE!!)",
+      "rating": 3.5,
+      "priority": "B"
+    },
+    "out": {
+      "slug": "tsuku-monogatari",
+      "title": "Tsuku Monogatari (츠쿠모노가타리)",
+      "rating": 3.5,
+      "priority": "B"
+    }
+  },
+  "after": {
+    "active_total": 56,
+    "three_half": 30
+  },
+  "rationale": {
+    "starlit_brave": [
+      "PSP-specific crossover/story/guest composition is not preserved intact by the later PC XTREAM version",
+      "Battle-system text and EX skill explanations have high localization utility",
+      "Short linear story suggests favorable translation-volume-to-impact ratio, pending file analysis",
+      "Useful pilot candidate before a larger GoGo! localization project"
+    ],
+    "tsuku_monogatari": [
+      "User reception is weaker: Bangumi 5.4/10 (12 votes), 4Gamer user 57/100 (2 reviews)",
+      "Repeated exploration and shallow combat are recurring criticisms",
+      "Localization/verification scope is not obviously smaller because dialogue keywords tie into Kotodama acquisition flags"
+    ]
+  },
+  "notes": [
+    "Both titles keep their 3.5/5 detailed evaluations.",
+    "Tsuku Monogatari detail file remains preserved; it is only removed from the active 30-title shortlist.",
+    "STARLIT BRAVE technical difficulty remains provisional until ISO/script/font analysis."
+  ]
+}
