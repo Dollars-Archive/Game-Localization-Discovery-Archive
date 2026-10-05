@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-05",
+  "scope": "all active PS Vita candidates",
+  "rule": "Exclude from active localization shortlist when a practical Korean official release or public Korean fan patch exists on Vita or another platform/version. Preserve score and detail page.",
+  "before": {
+    "active_total": 48,
+    "four_plus": 11,
+    "A": 5,
+    "B": 11,
+    "C": 32
+  },
+  "removed_direct_vita": [
+    "kantai-collection-kai",
+    "summon-night-6-lost-borders",
+    "bloodstained-curse-of-the-moon",
+    "psychedelica-of-the-black-butterfly",
+    "psychedelica-of-the-ashen-hawk",
+    "hyperdimension-neptunia-rebirth1",
+    "hyperdimension-neptunia-rebirth2",
+    "hyperdimension-neptunia-rebirth3",
+    "malicious-rebirth",
+    "the-lost-child",
+    "superdimension-neptune-vs-sega-hard-girls",
+    "sorcery-saga-curse-of-the-great-curry-god"
+  ],
+  "removed_cross_platform": [
+    "zero-escape-the-nonary-games",
+    "clannad",
+    "muv-luv-alternative",
+    "air",
+    "fate-hollow-ataraxia",
+    "nurse-love-syndrome",
+    "date-a-live-twin-edition-rio-reincarnation",
+    "muv-luv",
+    "the-legend-of-dark-witch"
+  ],
+  "after": {
+    "active_total": 27,
+    "four_plus": 3,
+    "A": 4,
+    "B": 9,
+    "C": 14
+  },
+  "retained_edge_cases": [
+    {
+      "slug": "island",
+      "reason": "A secondary report claims a 2026-08-03 Switch Korean patch, but the original distributor/patch source was not independently verified."
+    },
+    {
+      "slug": "deception-iv-blood-ties",
+      "reason": "Korean retail distribution does not establish Korean text support."
+    },
+    {
+      "slug": "tokyo-twilight-ghost-hunters",
+      "reason": "Korean Store regional listing does not establish Korean text support."
+    }
+  ],
+  "notes": [
+    "Zero Escape is removed under the user's Korean-alternative-first rule even though the known 999 Korean patch does not fully translate Novel Mode.",
+    "Scores and detail pages remain preserved."
+  ]
+}
