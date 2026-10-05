@@ -8,7 +8,7 @@
 | 한글 제목 | 피오피오레의 만종 |
 | 플랫폼 | PlayStation Vita |
 | 발매일 | 2018-08-30 |
-| 개발사 | Otomate / Idea Factory |
+| 개발사 | Idea Factory / Design Factory (Otomate) |
 | 발매사 | Idea Factory |
 | 장르 | 오토메 ADV / 비주얼노벨 / 범죄 로맨스 |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
@@ -64,7 +64,7 @@ Famitsu 31/40은 한 매체의 네 명 점수다. Metacritic 합산 점수처럼
 
 ## 원작·이식·확장판 관계
 
-2018년 PS Vita판이 일본 원작이다. 2019년 일본 Switch판 Piofiore no Banshou -ricordo-에는 추가 시나리오와 CG가 들어갔고, 후속 영어 Switch판 Piofiore: Fated Memories는 국제판으로 발매되었다. 후속 1926편은 별도 속편으로 구분한다. [Otomate Vita 제품 정보](https://www.otomate.jp/piofiore/info/?page=vita&vita=products), [Famitsu Switch 발매 정보](https://www.famitsu.com/news/201907/22180022.html), [Aksys 공식 영문판](https://www.aksysgames.com/piofiore/).
+2018년 PS Vita판이 일본 원작이다. 2019년 일본 Switch판 Piofiore no Banshou -ricordo-에는 추가 시나리오와 CG가 들어갔고, 후속 영어 Switch판 Piofiore: Fated Memories는 국제판으로 발매되었다. 후속 1926편은 별도 속편으로 구분한다. [Otomate Vita 제품 정보](https://www.otomate.jp/piofiore/info/?page=vita&vita=products), [Famitsu Switch 발매 정보](https://www.famitsu.com/news/201907/22180022.html), [Aksys 공식 영문판](https://store.aksysgames.com/products/piofiore-fated-memories-nintendo-switch).
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
