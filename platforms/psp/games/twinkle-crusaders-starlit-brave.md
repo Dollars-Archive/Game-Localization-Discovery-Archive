@@ -17,8 +17,8 @@
 | 발매일 | 2010-09-30 일본 |
 | 개발사 | Lillian / PENCIL |
 | 발매사 | ASCII Media Works |
-| 제품 코드 | ULJS-00315로 유통·덤프 DB 기록 확인 |
-| 판본 식별 참고 | 공개 DB 기준 **v1.01 / CRC 9C8F064B**. 향후 패치 제작 시 원본 식별값으로 활용 가능 |
+| 제품 코드 | **ULJS-00313** (Limited Edition 동봉 UMD) / **ULJS-00315** (별도 식별판) |
+| 판본 식별 참고 | ULJS-00313은 Redump에서 **v1.01 Genteiban** 확인. ULJS-00315는 공개 PSP DB에서 **v1.01 / CRC 9C8F064B** 확인. 두 UMD의 데이터 동일성은 직접 비교 전 확정하지 않음 |
 | 장르 | 크로스오버 배틀 ADV·전략 타이밍 배틀 |
 | CERO | D |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
@@ -178,7 +178,7 @@
 | 실행 파일 수정 | **미확인** | 한글 폰트 렌더러·문자폭·인코딩 처리에 따라 EBOOT.BIN 수정이 필요할 수 있음 |
 | 검수량 | **중상** | STORY만 보면 작지만 34명 로스터, BRAVE, CPU 대전, 다수 파티 조합과 기술 효과를 확인해야 함 |
 | 통신 모드 | **별도 주의** | 애드혹 대전 자체를 번역할 필요는 적지만 패치 후 통신 안정성·동일 버전 호환성 검수가 필요 |
-| 원본 식별 | **양호** | 공개 DB에서 **ULJS-00315 / v1.01 / CRC 9C8F064B** 식별값이 확인되어 패치 타깃 고정에는 유리 |
+| 원본 식별 | **주의 필요** | **ULJS-00313 / ULJS-00315** 두 식별판이 확인된다. 00313은 Redump v1.01, 00315는 v1.01·CRC 9C8F064B가 확인되므로 패치 전 두 UMD의 파일·해시 차이를 직접 비교해야 함 |
 
 ### 예상 한글화 난이도
 
@@ -234,6 +234,8 @@
 
 ## 참고 자료
 
+- [PSX Data Center - ULJS-00313 / ULJS-00315 판본 식별](https://psxdatacenter.com/psp/jlist.html)
+- [Redump - ULJS-00313 Limited Edition v1.01](https://redump.org/discs/region/As/sort/edition/letter/t/)
 - [GitHub 공개 PSP DB - ULJS-00315 v1.01 식별](https://github.com/libretro/libretro-database/blob/master/metadat/serial/Sony%20-%20PlayStation%20Portable.dat)
 - [GitHub PSP CRC DB - ULJS-00315 / CRC 9C8F064B](https://github.com/Zarh/ManaGunZ/blob/master/pkgfiles/USRDIR/sys/PSP_CRC.txt)
 
