@@ -6,7 +6,8 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 등록 후보: **48개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **5개**
+> 한글패치 확인 기준일: **2026-10-05**  
+> 등록 후보: **27개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -22,51 +23,43 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Ore ni Hatarakette Iwaretemo Otsu HD (오레니 하타라켓테 이와레테모 오츠 HD)](games/ore-ni-hatarakette-iwaretemo-otsu-hd.md) | 2014 | 모험자 파견형 경영·육성 RPG | ⭐⭐⭐⭐☆ 4.0/5 | 🔥 A | 전격PS 90·80·85·85 / 전격 장문 호평 / 4Gamer 추천·중독성 호평 | 2026-09-21 공식 한국어·영어·공개 Vita 번역패치 확인 못함 | PSP 乙 결정판 / Vita HD·20배속 / 스마트폰 乙携는 DLC 포함·보이스 삭제 / 酉는 별도 후속작 | 💎 우선 후보 |
 | [Ciel Nosurge Offline: Ushinawareta Hoshi e Sasagu Uta (시엘 노서지 오프라인)](games/ciel-nosurge-offline.md) | 2014 | 7차원 커뮤니케이션 / 생활 시뮬레이션·ADV | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 31/40 / 4Gamer 70·1명 / Dengeki 정성 호평 / Game Catalog 찬반양론 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / 2025 완전 영문 패치 v1.01 존재 | 2012 온라인 원작 / Vita OFFLINE 완전판 / 2021 DX 일본어 전용 / 영문 패치가 DX 기능 일부 역이식 | 🟢 후보 |
 | [Golden Time: Vivid Memories (골든 타임 Vivid Memories)](games/golden-time-vivid-memories.md) | 2014 | 캠퍼스 라이프 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 32/40 / GameFAQs 3.75·8명 / Play-Asia 5/5·10평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / 영문화 시도·전용 번역 툴체인 존재 | PS Vita 원판 / iOS·Android SP 후발판 / 현대 콘솔·PC 공식판 없음 | 🟢 후보 |
-| [Kantai Collection Kai (칸코레 개)](games/kantai-collection-kai.md) | 2016 | 턴제 함대 육성·병참 전략 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 29/40 / 4Gamer 독자 51·16명 / GAME Watch·4Gamer 장문 호평 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / WIP 영어 번역 프로젝트 존재 | PS Vita 독점 / 브라우저 원작 재설계 / 2017 판매 종료 / 공식 후발 이식 없음 | 🟢 후보 |
 | [Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku (유우키 유우나는 용사다 수해의 기억)](games/yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku.md) | 2015 | 일상계 용사부 액션 / 액션·어드벤처 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 30/40 / GameFAQs 3.0·5명 / Dengeki·Famitsu 팬서비스 호평 | 2026-09-21 공식·공개 Vita 한국어·영어 패치 확인 못함 / Vita3K 런타임 훅·전용 gametext 도구 존재 | PS Vita 독점 / 애니 3~4화 사이 공식 감수 사이드스토리 / 후발 동일판 없음 | 🟢 후보 |
 | [Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2.md) | 2014 | 1인칭 던전 RPG / 직업 육성 | ⭐⭐⭐⭐☆ 4.0/5 | B | RPGFan 80/100 / Gamecritics 8.5/10 / Kresnik 7.5/10 / Vita 리뷰 3건 | 2026-09-20 공개 확인 못함 / 투하트2 PC 패치는 다른 작품 | PSP 원작 개선 이식 / PC 2023 / 2-2는 별도 후속작 | 💎 우선 후보 |
-| [Zero Escape: The Nonary Games (제로 이스케이프: 더 노나리 게임즈)](games/zero-escape-the-nonary-games.md) | 2017 | 탈출 ADV / 비주얼노벨·퍼즐 합본 | ⭐⭐⭐⭐☆ 4.0/5 | B | MC Vita 83·5평론 / GameFAQs 4.14/5·82명 / GiG 95 / GR 90 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Steam 999·VLR 유저 한글패치 존재·999 Novel 미번역 | 999 DS 리빌드 + Vita VLR 합본 / PS4·PC 동시판 / Xbox 2022 | 💎 우선 후보 |
 | [Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)](games/ar-nosurge-plus-ode-to-an-unborn-star.md) | 2014 | 7차원 RPG / 스토리 중심 JRPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 77·9평론 / RPGFan 78 / RPG Site 8/10 / Push Square 7/10 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 서구판 공식 영어 텍스트 | PS3 원작 강화판 / 2021 DX는 Plus 리마스터·일본어만 지원 | 🟢 후보 |
 | [Lost Dimension (로스트 디멘션)](games/lost-dimension.md) | 2014 | 전술 RPG / 배신자 추리 | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 72/100·요약 28건(목록 29건 표시) / Vita 실플레이 리뷰 3곳 대조 | 2026-09-20 공개 확인 못함 | PS3 동시 발매 / PC 2017 일부 고해상도 아트·입력 지원 개선 | 🟢 후보 |
 | [MIRACLE GIRLS FESTIVAL (미라클 걸즈 페스티벌)](games/miracle-girls-festival.md) | 2015 | 리듬 액션 / 애니메이션 크로스오버 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.96/5·35명 / Famitsu 7.7 / 4Gamer 90·1명 / KENT 70/100 | 2026-09-21 공개 한글패치 확인 못함 / 영어 패치 v0.3 80% 존재 | PS Vita 원작 / 패키지·DL 내용 동일 / 후발 이식 확인 못함 | 🟢 후보 |
 | [Psycho-Pass: Mandatory Happiness (사이코패스: 선택 없는 행복)](games/psycho-pass-mandatory-happiness.md) | 2016 | SF·범죄 비주얼노벨 / 선택형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 64·11평론 / RPG Site 8 / RPGFan 79 / Destructoid 7.5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / PC도 공식 한국어 미지원 | Xbox One 2015 원작 / PS4·Vita 2016 / PC 2017 | 🟢 후보 |
-| [Summon Night 6: Lost Borders (서몬 나이트 6: 로스트 보더즈)](games/summon-night-6-lost-borders.md) | 2016 | 전술 RPG / 동료 교류 | ⭐⭐⭐½☆ 3.5/5 | B | RPGFan Vita 80/100 / RPGamer 3/5·기종 병기 / RPG Site PS4 7/10 | 2026-09-20 공식 한국어판·본작 유저 패치 공개 확인 못함 | PS4·Vita 동시 발매 / 영어판 일본어 음성 선택 없음 / cross-save 발표 | 🟢 후보 |
 | [To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)](games/to-love-ru-darkness-true-princess.md) | 2015 | 연애 시뮬레이션 / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Dengeki 정성평가 / Play-Asia 5/5·10평점 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 공식 영어판 없음 / 영문 팬 번역 자료 존재 | PS Vita 독점 / Battle Ecstasy와 별개 / 후발 공식 이식 확인 못함 | 🟢 후보 |
 | [Zanki Zero: Last Beginning (잔키 제로)](games/zanki-zero.md) | 2018 | 1인칭 생존 던전 RPG / 실시간 타일 전투 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40 / GameFAQs Vita 1.56·24명 / RPGFan 85·PS4 참고 / Steam 77%·650평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita 영문 정식판 없음 | 일본 Vita 원본 / v1.03 New Game+·UI 개선 / 서구 PS4·PC는 일부 CG·아동기 이벤트 변경 | 🟢 후보 |
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 중심 비주얼노벨 / 사신의 혼돈 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / GameFAQs Great·16명·13h / Play-Asia 5/5·25평가 / Gamer 정성 호평 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 일본어 전용 | PS Vita 독점 / 전체 절반 이상 오리지널 / v1.10 FORKS GEAR 추가 / 후발 이식 없음 | 🟢 후보 |
 | [Tokushu Houdoubu (특수보도부)](games/tokushu-houdoubu.md) | 2012 | 초상현상 보도 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40 / 4Gamer 80·1명 / 가격.com 3.43·3명 / 게임카탈로그 판정 없음 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 한국 Store 지역 등록만 확인 | PS Vita 독점 / v1.01 / 공식 후발 이식·리마스터 없음 | 🟢 후보 |
-| [CLANNAD (클라나드)](games/clannad.md) | 2014 | 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐½ 4.5/5 | C | Vita GameFAQs Great·6명·35h / RPGFan PC 83 / Steam 98%·약 9.8k / Switch 9~10점대 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita 영문 rePatch v1.0 / Steam 유저 한글패치 존재 | Vita 960×544·터치·색감보정 / Steam HD / PS4·Switch 공식 영문·1080p | 💎 우선 후보 |
-| [Muv-Luv Alternative (마브러브 얼터너티브)](games/muv-luv-alternative.md) | 2016 | SF 비주얼노벨 / 전쟁·메카 드라마 | ⭐⭐⭐⭐½ 4.5/5 | C | Destructoid Vita 9/10 / MC Vita 75·1평론 / GameFAQs Great·31명·55h / RPGFan PC 96 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Steam 유저 한글패치 공개 | Muv-Luv Unlimited 직후 완결편 / Steam / 2024 Switch Remastered | 💎 우선 후보 |
-| [AIR (에어)](games/air.md) | 2016 | 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | GameFAQs Vita Great·10명·43h / VNDB계 7.78·2.8k / Steam 98%·600+ 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita 영문 rePatch v1.01 / PC SE·ME 유저 한글패치 존재 | Vita First Sky·960×544·완전 풀보이스 / Switch·Steam 최신 HD·공식 영어 | 💎 우선 후보 |
-| [Fate/hollow ataraxia (페이트/할로우 아타락시아)](games/fate-hollow-ataraxia.md) | 2014 | 전기 비주얼 노벨 / 팬디스크·후속작 | ⭐⭐⭐⭐☆ 4.0/5 | C | 4Gamer Vita 90·1명 / GameFAQs Vita Great·10명 / PC 4.17·97명 / Remaster Steam 96% | 2026-09-21 공개 Vita 한글패치 확인 못함 / PC 원작·REMASTERED 유저 한글패치 존재 | PC 2005 원작 / Vita 풀보이스·Capsule Servant / 2025 REMASTERED는 HD·영어 지원·Capsule Servant 미수록 | 💎 우선 후보 |
-| [Bloodstained: Curse of the Moon (블러드스테인드: 커스 오브 더 문)](games/bloodstained-curse-of-the-moon.md) | 2018 | 8비트풍 2D 액션 플랫폼 | ⭐⭐⭐⭐☆ 4.0/5 | C | Vita PSprices MC 82·OC 80 / GameFAQs Great·58명 / Vita 사용자 리뷰 8/10 | 2026-09-21 공식 한국어·공개 Vita 한글패치 확인 못함 / Steam도 한국어 미지원 | Vita·PS4·Switch·PC 등 동일 본편 / Curse of the Moon 2는 별도 후속작·Vita 미출시 | 💎 우선 후보 |
-| [Psychedelica of the Black Butterfly (검은 나비의 사이키델리카)](games/psychedelica-of-the-black-butterfly.md) | 2015 | 미스터리·서스펜스 여성향 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / MC Vita 78·5평론 / GameFAQs 3.7·28명 / Steam 84%·823평가 | 공식 Vita 한국어판 있음(Intragames, 2018-01-09) / Steam도 공식 한국어 | 일본 Vita 원작 / 한국·서구 Vita 후발 현지화 / Steam 2018 / Ashen Hawk는 별도 동반작 | 💎 우선 후보 |
-| [Psychedelica of the Ashen Hawk (잿빛 매의 사이키델리카)](games/psychedelica-of-the-ashen-hawk.md) | 2016 | 미스터리·다크 판타지 여성향 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 33/40 / MC Vita 78·4평론 / RPGFan 97 / Gaming Age 83 | 공식 Vita 한국어판 있음(Intragames, 2018-04-12) / Steam도 공식 한국어 | 일본 Vita 원판 / 한국·서구 Vita 현지화 / Steam 2019 공식 한국어 / Switch·PS4 이식 확인 못함 | 💎 우선 후보 |
 | [ISLAND (아일랜드)](games/island.md) | 2017 | SF·미스터리 연애 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 32/40 / Steam 94%·약1.5k / VNDB계 7.8·약1.8k | 2026-09-22 공식·공개 Vita 한국어 확인 못함 / Switch 한글패치 공개 기록은 있으나 원배포 미검증 | PC 원작 / Vita 추가 에필로그·터치·색감보정 / PS4·Steam / Switch 일본어·영어 | 💎 우선 후보 |
-| [Nurse Love Syndrome (백의성 연애 증후군 RE:Therapy)](games/nurse-love-syndrome.md) | 2019 | 걸즈러브 비주얼노벨 / 의료·성장 드라마 | ⭐⭐⭐½☆ 3.5/5 | C | GameGrin Vita 8 / Gaming Age Vita 5 / Steam 92%·262평가 / oprainfall 9 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / Steam·PS4 공식 한국어 | PSP 원작·RE:Therapy / Vita 2019 리마스터 / Switch·Steam / PS4 한국판 2023 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
-| [Date A Live Twin Edition: Rio Reincarnation (데이트 어 라이브 트윈 에디션: 리오 리인카네이션)](games/date-a-live-twin-edition-rio-reincarnation.md) | 2015 | 연애 어드벤처 / 비주얼노벨 합본 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Vita Great·24명 / Play-Asia 5/5·20평점 / Nojima 4.7/5·3건 / HD MC 80·4평론 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita 영문 rePatch v0.95 / PC HD 유저 한글패치 존재 | PS3 2작+신규 Rio 합본 / 2017 PS4·2019 PC HD는 고해상도·특전·공식 영어 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Pocket Gamer 4/5 / GI 6.75 / Push Square 6/10 | 국내 정발 일본어 / 2026-09-21 공개 Vita 한글패치 확인 못함 | PS3 동시 발매 / The Nightmare Princess가 전 콘텐츠+확장 포함 | 🟢 후보 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 해양 탐험 RPG / 턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / 4Gamer 정성평가 / GameFAQs Good·21명·27h / Switch MC 64 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Switch H 공식 영어·한국어 미지원 | Vita 원판 / 2022 Switch H는 DLC 전부·스틱 조작·HD Rumble·공식 영어 포함 | 🟢 후보 |
-| [Hyperdimension Neptunia Re;Birth1 (초차차원게임 넵튠 Re;Birth1)](games/hyperdimension-neptunia-rebirth1.md) | 2013 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 8/10 / oprainfall 4.5/5 / Vita 리뷰 3곳 대조 | 공식 한국어판 있음(CFK, 2014-06-26) / 유저 패치와 구분 | PS3 원작 리메이크 / PC·PS4+·PS5 ReVerse·Switch / Vita 공식 한국어판 | 🟢 후보 |
-| [Hyperdimension Neptunia Re;Birth2: Sisters Generation (초차차원게임 넵튠 Re;Birth2 SISTERS GENERATION)](games/hyperdimension-neptunia-rebirth2.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Push Square 8/10 / ZTGD 7.5 / CGM 7/10 | 공식 한국어판 있음(CFK, 2014-10-16) / 상용 한글 UI·대사 확인 | PS3 mk2 리메이크 / PC / 2024 Switch DLC 통합 후발판 | 🟢 후보 |
-| [Hyperdimension Neptunia Re;Birth3: V Generation (신차차원게임 넵튠 Re;Birth3 V CENTURY)](games/hyperdimension-neptunia-rebirth3.md) | 2014 | 턴제 RPG / 게임업계 패러디 | ⭐⭐⭐½☆ 3.5/5 | C | Retro 101 7/10 / Blast Away 7/10 / GamingTrend 35/100 / Vita 리뷰 3건 | 공식 한국어판 있음(CFK, 2015-05-19) / 추가 콘텐츠 한국어화 기록 | PS3 Victory 리메이크 / PC·Switch·PS4 후발판 / ReVerse는 다른 1편 계열 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Michibiku 8/10 / Kresnik 6.5/10 / Aaron 정성평가 / Famitsu 34/40 간접 확인 | 2026-09-20 공개 한글패치 확인 못함 / 영어 UI 팬 패치 기록과 구분 | Vita 원작 / 2016 the Best 재판 / 기본 60곡과 DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
-| [Malicious Rebirth (말리셔스 리버스)](games/malicious-rebirth.md) | 2012 | 3D 보스러시 액션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs 3.67/5·69명 / 4Gamer 75·1명 / MC user 7.7·22명 / 서구 평론 50~60 | 공식 한국어판 있음(SCEK, 2013-02-28) / 한국판 PCSH-00032 | PS3 원작 확장판 / 2017 PS4 Malicious Fallen이 Slayer+Rebirth+신규 최종장 수록 | 🟢 후보 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 건담 배틀 액션 / 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / 4Gamer 82·2명 / Mecha Damashii 7/10 / GameFAQs Great·103명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / REMASTERED 공식 영어·한국어 미지원 | Vita 원작 아드혹 협력·대전 / 2025 Switch·PC REMASTERED 그래픽·UI·락온 개선 | 🟢 후보 |
-| [Muv-Luv (마브러브)](games/muv-luv.md) | 2016 | 연애 VN / SF 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 77·4평론 / Wccftech 8.5 / Destructoid 8 / Outcyders 4/5 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Steam 유저 한글패치 2026 공개 | Extra+Unlimited 합본 / Steam 공식 영어·중국어 / 2024 Switch Remastered | 🟢 후보 |
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / 4Gamer 정성평가 / GameFAQs Great·1명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita·Switch 영문 팬패치 스크립트 약 94% | Vita 원작 / 2017 PS4·2022 Switch 1편+속 합본 | 🟢 후보 |
-| [The Lost Child (더 로스트 차일드)](games/the-lost-child.md) | 2017 | 1인칭 던전 RPG / 몬스터 수집 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu Vita 8.0 / GameFAQs Great·26명·61h / RPGFan 70 / RPG Site·Push Square 5/10 | 공식 Vita 한국어판 있음(CFK, 2017-11-02) / 별도 팬패치 필요성 낮음 | PS4·Vita 원판 / 2018 Switch 후발판 / El Shaddai 신화구상 연계 | 🟢 후보 |
-| [Superdimension Neptune VS Sega Hard Girls (초차원대전 넵튠 VS 세가 하드 걸즈 꿈의 합체 스페셜)](games/superdimension-neptune-vs-sega-hard-girls.md) | 2015 | 턴제 RPG / 시간 이동·던전 탐색 | ⭐⭐⭐½☆ 3.5/5 | C | RPG Site 7/10 / Kresnik 7.5/10 / Seafoam 9/10 / Rice 정성평가 / Vita 리뷰 4건 | 공식 한국어판 있음(CFK, 2016-06-16) / 별도 유저 패치와 구분 | Vita 원작 / PC 2017 그래픽 개선·공식 한국어 미지원 / Re;Birth와 별개 | 🟢 후보 |
 | [XBlaze Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | SF·전기 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 43·5평론 / Vita Review Network 8 / Steam 78%·69평가 | 국내 Vita 영문판 정식 유통 / 2026-09-21 공개 한국어 패치 확인 못함 | PS3·Vita 동일 본편 / Steam 2016 / 후속 Lost: Memories | 🟢 후보 |
 | [Croixleur Sigma (크로와루르 시그마)](games/croixleur-sigma.md) | 2015 | 3D 아레나 핵앤슬래시 / 액션 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 71·2평론 / GameFAQs Fair·21명·27h / Reviews 2 Go 정성 호평 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam Deluxe도 한국어 미지원 | PS4·Vita 확장판 / Switch·Steam Deluxe 후발판 / 공식 영어 지원 | 🟢 후보 |
 | [Mystery Chronicle: One Way Heroics (이상한 크로니클)](games/mystery-chronicle-one-way-heroics.md) | 2015 | 강제 횡스크롤 로그라이크 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / MC Vita 68·4평론 / Wccftech 8.8 / RPGamer 3.5/5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita·Steam 공식 영어 지원 | PS4·Vita 원판 / Steam 2016 / 원형 One Way Heroics + Plus 존재 | 🟢 후보 |
 | [Xenon Valkyrie+ (제논 발키리+)](games/xenon-valkyrie-plus.md) | 2017 | 2D 로그라이트 플랫폼 액션 / RPG | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 62·5평론 / Video Chums 8.4 / Vita Player 8 / GameFAQs user 8.0·14명 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam도 한국어 미지원 | PC 원작 / Vita가 첫 + 강화판 / PS4·Xbox·Switch·PS5 후발판 | 🟢 후보 |
-| [The Legend of Dark Witch (마신소녀)](games/the-legend-of-dark-witch.md) | 2015 | 2D 횡스크롤 액션 / 플랫폼 슈팅 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 29/40 / KENT 80 / Vita 리뷰 6·8 / Steam 원판 75%·195평가 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어·중국어 있음 / PS5·Steam Renovation 공식 한국어 | 3DS 원작 / Vita 이식 / Steam / 2019 Renovation / 2026 PS5 한국어 | 🟢 후보 |
-| [Sorcery Saga: Curse of the Great Curry God (성마도이야기)](games/sorcery-saga-curse-of-the-great-curry-god.md) | 2013 | 로그라이크 던전 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40 / MC Vita 65·17평론 / GameFAQs 3.49·166명 / Push Square·Pocket Gamer 8 | 공식 Vita 한국어판 있음(CFK, 2013-12-19, PCSH-00053) / Steam은 한국어 미지원 | Vita 원판·한글판 / 2018 Steam 후발 이식 / 한국어 플레이는 Vita판 우위 | 🟢 후보 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 학원 쥬브나일 전기 / 비주얼노벨·전술 SRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40 / MC Vita 63·12평론 / GameFAQs Good·68명·32h / Daybreak MC 64·9평론 | 한국 PS Store판 PCSH-00089 존재·한국어 지원 미확인 / 공식 영어 Vita판·Daybreak 있음 | PS3·Vita 원판 / Daybreak 강화판 / Steam 2017·한국어 미지원 | 🟢 후보 |
 | [Fernz Gate (펀즈 게이트)](games/fernz-gate.md) | 2018 | 턴제 JRPG / 파티 육성 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Vita 리뷰 3.5/10 / Nintendo Life 7/10 / Cubed3 7/10 / Switch Player 3/5 | 2026-09-27 공식 한국어·공개 Vita 한글패치 확인 못함 / 북미 Vita 공식 영어 | 2016 Android 원작 / 2017 iOS / 2018 PS4·Vita·Xbox·Switch·PC / 2024~25 PS5 | 🟢 후보 |
+
+## 2026-10-05 전체 후보 한국어 대안 재감사
+
+PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어판/공개 한국어 패치를 최우선 제외**하는 규칙을 PS Vita 활성 후보 전체에 적용했다.
+
+- 활성 후보: **48개 → 27개**
+- 4.0 이상: **11개 → 3개**
+- 한글화 A급: **5개 → 4개**
+- PS Vita 자체 공식 한국어판·직접 한글패치 또는 다른 플랫폼의 실사용 가능한 한국어 대안이 확인된 **21작품**을 활성 신규 한글화 후보에서 제외
+- 작품성 점수와 상세 문서는 그대로 보존
+- `ISLAND`는 Switch 한국어 패치 공개 주장이 있으나 원 배포 근거를 독립 검증하지 못해 이번에는 유지
+
+[전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
 
 ## PS Vita 등록 운영
 
@@ -82,10 +75,10 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 48 |
-| 발굴 우선 후보: 4.0 이상 | 11 |
-| 한글화 우선도 A | 5 |
-| 한글화 우선도 B | 11 |
-| 한글화 우선도 C | 32 |
+| 등록 후보 | 27 |
+| 발굴 우선 후보: 4.0 이상 | 3 |
+| 한글화 우선도 A | 4 |
+| 한글화 우선도 B | 9 |
+| 한글화 우선도 C | 14 |
 
-최근 조사·등록: **2026-09-27, Psychedelica of the Ashen Hawk**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 재감사: **2026-10-05, 전체 활성 후보 한국어 대안 감사**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
