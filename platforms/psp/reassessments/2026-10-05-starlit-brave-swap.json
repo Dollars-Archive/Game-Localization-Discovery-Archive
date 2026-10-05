@@ -39,6 +39,7 @@
   "notes": [
     "Both titles keep their 3.5/5 detailed evaluations.",
     "Tsuku Monogatari detail file remains preserved; it is only removed from the active 30-title shortlist.",
-    "STARLIT BRAVE technical difficulty remains provisional until ISO/script/font analysis."
+    "STARLIT BRAVE technical difficulty remains provisional until ISO/script/font analysis.",
+    "Two PSP disc IDs are known: ULJS-00313 (Limited Edition, Redump v1.01) and ULJS-00315 (v1.01, CRC 9C8F064B in a public PSP CRC database). Compare both before selecting a patch target."
   ]
 }
