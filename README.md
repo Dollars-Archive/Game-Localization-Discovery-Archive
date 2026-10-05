@@ -11,14 +11,14 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 51 | 20 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 56 | 25 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation 2 | 43 | 12 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 48 | 11 | 5 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
-> PS2 등록 51개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> PS2 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 등록 56개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> PSP 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
@@ -131,11 +131,23 @@
 > [!IMPORTANT]
 > **새 작품을 추가하거나 한글화 우선도를 수정할 때마다 각 플랫폼의 후보 표를 `🔥 A → B → C` 순으로 다시 정렬합니다.**
 
-현재 PS2 후보 51개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
+현재 PS2 후보 43개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
 
 ---
 
 이 아카이브는 게임 원본, 롬 이미지, 실행 파일, 추출된 전체 스크립트 등 저작권 자산을 배포하기 위한 저장소가 아닙니다. 스크린샷은 작품 식별과 조사 기록을 위해 출처를 명시해 링크하거나 임베드합니다.
+## PS2·PSP 전체 한국어 대안 재감사 (2026-10-05)
+
+기존에는 3.5점 압축 때 **다른 플랫폼·다른 판본의 공식 한국어판/한글패치**를 최우선 제외했지만, 4.0 이상 작품에는 이 필터가 완전히 적용되지 않은 항목이 남아 있었습니다. 활성 후보 전체에 같은 기준을 다시 적용해 **PS2 51 → 43, PSP 56 → 43**으로 정리했습니다.
+
+- PS2: 다른 플랫폼 한국어 대안이 확인된 **8작품** 제외
+- PSP: 같은 PSP 또는 다른 플랫폼 한국어 대안이 확인된 **13작품** 제외
+- 작품성 별점과 상세 문서는 그대로 보존
+- PS2·PSP 모두 3.5점 정예 **30개는 유지**
+- 특히 PSP `Narcissu: Moshimo Ashita ga Aru Nara Portable`과 `Shiei no Sona-Nyl Refrain`은 이번 감사에서 **PSP 자체 한국어 패치 기록**을 새로 확인
+
+[PS2 재감사 기록](platforms/ps2/reassessments/2026-10-05-cross-platform-korean-audit.md) · [PSP 재감사 기록](platforms/psp/reassessments/2026-10-05-cross-platform-korean-audit.md)
+
 ## PS2 3.5점 후보 압축 (2026-10-04)
 
 PS2의 **3.5점 후보만 65개 → 30개**로 압축했습니다. 4.0점 20개는 전부 유지했고, 3.0 예외 1개도 그대로라 전체 활성 후보는 **51개**입니다. **다른 플랫폼·판본의 한국어 대안을 최우선 제외 기준으로 적용합니다.** [3.5점 생존 30개와 제외 35개 근거](platforms/ps2/reassessments/2026-10-04-3-5-core-30-prune.md)
