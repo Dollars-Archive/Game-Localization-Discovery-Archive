@@ -45,9 +45,9 @@
 
 | 출처 | 점수 | 표본 수 | 비고 |
 |---|---:|---:|---|
-| [Famitsu 점수 요약](https://www.gematsu.com/2018/08/famitsu-review-scores-issue-1551) | 31/40 (8·8·7·8), 환산 참고치 77.5/100 | 4명 | Vita 원작의 일본 발매 주간 평가 | |
-| [Planète Vita Vita판 리뷰](https://planetevita.fr/test-piofiore-no-banshou-gangs-of-burlone-psvita/) | 정성 리뷰 | 1건 | Vita판 실기 평가. 점수 체계를 다른 매체와 합산하지 않음 | |
-| [Zettai Renai Vita판 리뷰](https://zettairenai.wordpress.com/2018/12/21/ps-vita-piofiore-no-banshou-review/) | 정성 리뷰 | 1건 | Vita판 루트·캐릭터 평가 | |
+| [Famitsu 점수 요약](https://www.gematsu.com/2018/08/famitsu-review-scores-issue-1551) | 31/40 (8·8·7·8), 환산 참고치 77.5/100 | 4명 | Vita 원작의 일본 발매 주간 평가 |
+| [Planète Vita Vita판 리뷰](https://planetevita.fr/test-piofiore-no-banshou-gangs-of-burlone-psvita/) | 정성 리뷰 | 1건 | Vita판 실기 평가. 점수 체계를 다른 매체와 합산하지 않음 |
+| [Zettai Renai Vita판 리뷰](https://zettairenai.wordpress.com/2018/12/21/ps-vita-piofiore-no-banshou-review/) | 정성 리뷰 | 1건 | Vita판 루트·캐릭터 평가 |
 
 Famitsu 31/40은 한 매체의 네 명 점수다. Metacritic 합산 점수처럼 인용하지 않고 Vita판의 심사 문턱을 보조하는 단일 기준으로 사용했다.
 
