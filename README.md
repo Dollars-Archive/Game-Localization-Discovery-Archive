@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 43 | 12 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 27 | 3 | 4 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 
 > [!NOTE]
 > PS2 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -141,6 +141,10 @@
 PS2·PSP와 같은 **“다른 플랫폼·다른 판본 한국어판/한글패치 최우선 제외”** 규칙을 PS Vita 활성 후보 전체에 적용했습니다. 공식 Vita 한국어판, 2026년 신규 Vita 한글패치, PC·PS5 등 실사용 가능한 한국어 대안을 다시 확인해 **48개 → 27개**로 정리했습니다. 작품성 별점과 상세 문서는 보존합니다.
 
 특히 `Kantai Collection Kai`, `Summon Night 6`, `Bloodstained: Curse of the Moon`은 이번 감사에서 **PS Vita 자체 한국어 패치 기록**을 반영했습니다. [전체 판정과 근거](platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.md)
+
+## PS Vita 최종 30개 후보 압축 (2026-10-06)
+
+기존 활성 후보 27개 중 4.0점 이상 세 작품을 제외하고, 3.5점 작품 24개에 신규 후보 여섯 작품을 더해 **3.5점 후보 30개**로 정리했습니다. 우선도는 A 3 / B 11 / C 16이며 4.0점 이상 활성 후보는 없습니다. [최종 선정과 제외 기록](platforms/psvita/reassessments/2026-10-06-final-30-selection.md)
 
 ## PS2·PSP 전체 한국어 대안 재감사 (2026-10-05)
 
