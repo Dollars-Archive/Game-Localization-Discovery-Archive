@@ -58,5 +58,37 @@
   "notes": [
     "Zero Escape is removed under the user's Korean-alternative-first rule even though the known 999 Korean patch does not fully translate Novel Mode.",
     "Scores and detail pages remain preserved."
-  ]
+  ],
+  "direct_vita_patch_crosscheck": {
+    "checked_date": "2026-10-05",
+    "retrodb_visible_patch_count": 22,
+    "confirmed_removed": [
+      {
+        "slug": "summon-night-6-lost-borders",
+        "version": "0.9",
+        "author": "크로노폴라",
+        "release_date": "2026-09-30"
+      },
+      {
+        "slug": "bloodstained-curse-of-the-moon",
+        "version": "1.0",
+        "author": "늠이당",
+        "release_date": "2026-08-24"
+      },
+      {
+        "slug": "kantai-collection-kai",
+        "version": "first release",
+        "author": "Flistz",
+        "release_date": "2026-08-23"
+      }
+    ],
+    "not_same_game": [
+      {
+        "active_slug": "yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku",
+        "patch_target": "Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru.",
+        "reason": "RetroDB patch is for the 2013 first game, not the 2016 Zoku sequel."
+      }
+    ],
+    "remaining_active_direct_overlap": "none confirmed"
+  }
 }
