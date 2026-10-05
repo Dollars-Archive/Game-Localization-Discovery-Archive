@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-05",
+  "scope": "all active PS2 candidates, including 4.0+ titles",
+  "rule": "Exclude from the active localization shortlist when an official Korean release or a public Korean fan patch exists on another platform/version. Preserve score and detail page.",
+  "before": {
+    "active_total": 51,
+    "priority_4plus": 20,
+    "three_half": 30,
+    "A_priority": 12
+  },
+  "removed": [
+    {
+      "slug": "kazoku-keikaku-kokoro-no-kizuna",
+      "score": 4,
+      "previous_priority": "B",
+      "korean_alternative": "Older PC fan Korean translation / Re-line Korean localization record",
+      "caveat": "Console Kei route is not fully covered by the old PC translation."
+    },
+    {
+      "slug": "baldr-force-exe",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows BALDR FORCE EXE public Korean patch"
+    },
+    {
+      "slug": "kanon",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows Standard Edition public Korean patch"
+    },
+    {
+      "slug": "kuon-no-kizuna-sairinshou",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Official 100% Korean mobile release, 구원의 반 재림조"
+    },
+    {
+      "slug": "ef-a-fairy-tale-of-the-two",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "2026 public Korean patches for Japanese PC first/latter tale"
+    },
+    {
+      "slug": "little-busters-converted-edition",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Public Korean patches for Windows EX/PE/English Edition lineage"
+    },
+    {
+      "slug": "toheart",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Older PC Korean localization plus 2025 Steam remake Korean fan patch"
+    },
+    {
+      "slug": "cross-channel-to-all-people",
+      "score": 4,
+      "previous_priority": "C",
+      "korean_alternative": "Windows FINAL COMPLETE public Korean patch"
+    }
+  ],
+  "after": {
+    "active_total": 43,
+    "priority_4plus": 12,
+    "three_half": 30,
+    "A_priority": 12
+  },
+  "notes": [
+    "Scores are unchanged.",
+    "Detail pages remain preserved.",
+    "Unique PS2-only content can still justify a future version-preservation project, but not a slot in the current missing-Korean shortlist."
+  ]
+}
