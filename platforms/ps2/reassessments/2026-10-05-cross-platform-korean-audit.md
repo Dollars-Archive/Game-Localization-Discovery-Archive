@@ -55,3 +55,12 @@ PS2판 자체의 공개 한국어 패치는 확인되지 않지만, 작품 전�
 - 제외한 상세 문서는 삭제하지 않는다.
 - 콘솔 고유 추가분이 한국어화되지 않은 경우 해당 사실은 상세 문서에 보존한다.
 - 향후 공식 한국어판 또는 공개 패치가 새로 확인되면 같은 규칙으로 즉시 후보 종료한다.
+
+## 재감사 참고 출처
+
+- RetroDB 한글패치 DB: https://retrodb.info/krpatch
+- ef first/latter 한글패치 1.0: https://myskrpatch.tistory.com/227
+- CROSS†CHANNEL FINAL COMPLETE 한글패치: https://katorea.tistory.com/46
+- 구원의 반 재림조 공식 한국어 모바일판: https://m.onestore.co.kr/v2/ko-kr/app/0000708291
+- ToHeart 2025 리메이크 한국어 팬패치: https://steamcommunity.com/app/3380520/guides/
+- 나머지 판본별 한국어화 근거는 각 상세 문서의 한국어화 상태·참고 자료 섹션과 함께 교차검증했다.
