@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **1개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
+> 등록 후보: **2개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -21,6 +21,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS3 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [JoJo's Bizarre Adventure: Eyes of Heaven (죠죠의 기묘한 모험 아이즈 오브 헤븐)](games/jojos-bizarre-adventure-eyes-of-heaven.md) | 2015 | 스타일리시 태그 죠죠 액션 / 3D 태그 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40 / GameFAQs PS3 Great·23명 / MC PS4 61·35평론 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 PS4 스토어도 일어판 | PS4 동시판과 게임 내용 동일 / PS4 1080p·그래픽·음질 강화 / 서구 PS4 다국어 텍스트 | 🟢 후보 |
+| [Saint Seiya: Soldiers' Soul (세인트 세이야 솔저스 소울)](games/saint-seiya-soldiers-soul.md) | 2015 | 시네마틱 코스모 액션 / 3D 대전 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu PS3 30/40 / GameFAQs PS3 4.15·51명 / MC PS4 59·30평론 | 2026-10-07 공개 한국어 패치 확인 못함 / PC 공식 한국어 미지원 | PS4 동일 콘텐츠·1080p·60fps / PC 후발판은 Steam 판매 종료 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -36,10 +37,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 1 |
+| 등록 후보 | 2 |
 | 발굴 우선 후보: 4.0 이상 | 0 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 0 |
-| 한글화 우선도 C | 1 |
+| 한글화 우선도 C | 2 |
 
-최근 갱신: **2026-10-07, PS3 구역 개설 및 JoJo's Bizarre Adventure: Eyes of Heaven 첫 후보 등록**.
+최근 갱신: **2026-10-07, Saint Seiya: Soldiers' Soul 후보 등록. PS3 활성 후보 2개**.
