@@ -14,6 +14,7 @@
 | PlayStation 2 | 43 | 12 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation 3 | 1 | 0 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 
 > [!NOTE]
 > PS2 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -23,6 +24,8 @@
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
+>
+> PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 
 이후 다른 플랫폼도 후보가 생기는 시점에 `platforms/<platform>/` 아래에 같은 구조로 추가합니다.
 
@@ -114,7 +117,11 @@
 │  │  ├─ README.md
 │  │  └─ games/
 │  │     └─ <game>.md
-│  └─ psvita/
+│  ├─ psvita/
+│  │  ├─ README.md
+│  │  └─ games/
+│  │     └─ <game>.md
+│  └─ ps3/
 │     ├─ README.md
 │     └─ games/
 │        └─ <game>.md
@@ -131,7 +138,7 @@
 > [!IMPORTANT]
 > **새 작품을 추가하거나 한글화 우선도를 수정할 때마다 각 플랫폼의 후보 표를 `🔥 A → B → C` 순으로 다시 정렬합니다.**
 
-현재 PS2 후보 43개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
+현재 PS2 후보 43개는 동일한 핵심 양식으로 정리되어 있으며, PSP·PS Vita·PS3도 같은 기준으로 새 후보를 누적합니다. 모든 플랫폼에서 **한글화 가치 / 우선도 / 기술 난이도 표**를 포함하고, 실제 파일 분석 전인 기술 항목은 `미확인`으로 유지합니다.
 
 ---
 
