@@ -7,6 +7,7 @@ const PLATFORMS = {
   ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md' },
   psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md' },
   psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md' },
+  ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md' },
 };
 
 function escapeHtml(value = '') {
