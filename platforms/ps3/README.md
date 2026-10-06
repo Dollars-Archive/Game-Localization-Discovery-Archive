@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **11개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
+> 등록 후보: **12개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -21,6 +21,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS3 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [Ar tonelico Qoga: Knell of Ar Ciel (알 토네리코 3: 세계종언의 방아쇠는 소녀의 노래가 당긴다)](games/ar-tonelico-qoga-knell-of-ar-ciel.md) | 2010 | 소녀 조합 RPG / 액션 RPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 61·27평론 / RPGamer 3.5/5 / GameFAQs Good·737명 | 2026-10-07 공개 3편 한글패치 확인 못함 / 한국 정발 BLKS-20179도 일본어 | PS3 독점 / 북미·유럽 영어 현지화 / 현행기 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Mobile Suit Gundam: Battlefield Record U.C. 0081 (기동전사 건담전기 Battlefield Record U.C.0081)](games/mobile-suit-gundam-battlefield-record-uc-0081.md) | 2009 | 부대통솔형 3D 액션 / 모빌슈트 전투 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40 / GameFAQs 4.2·153명 / 4Gamer 69·13명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10090은 매뉴얼 한글화 | PS3 독점 / 후발 이식·리마스터 없음 / Side Stories 미수록 | 🟢 후보 |
 | [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 💎 우선 후보 |
 | [Kidou Senshi Gundam: Extreme VS Full Boost (기동전사 건담 익스트림 버서스 풀부스트)](games/kidou-senshi-gundam-extreme-vs-full-boost.md) | 2014 | 2 on 2 팀 배틀 액션 / 3D 대전 액션 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 36/40 / GameFAQs Outstanding·198명 / Push Square 4.2·6명 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 지역판 BLKS-20461은 존재하나 한국어 지원 근거 미확인 | 아케이드 원작 이식 + PS3 전용 Full Boost Mission / 후속 PS4 Maxi Boost ON 공식 한국어 | 💎 우선 후보 |
 | [Skullgirls Encore (스컬걸즈 앙코르)](games/skullgirls-encore.md) | 2014 | 2D 대전 격투 / 태그 배틀 | ⭐⭐⭐⭐☆ 4.0/5 | C | Push Square 8/10 / GameFAQs Great·149명 / MC PS3 원판 82·25평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam 2nd Encore도 한국어 미지원 | PS3 Encore 최종 DLC 반영 / 현행 PC·콘솔 2nd Encore는 음성 스토리·Trials·Challenges·Season 1 지원 | 💎 우선 후보 |
@@ -46,10 +47,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 11 |
+| 등록 후보 | 12 |
 | 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 1 |
+| 한글화 우선도 B | 2 |
 | 한글화 우선도 C | 10 |
 
-최근 갱신: **2026-10-07, JoJo's Bizarre Adventure HD Ver. 후보 등록. PS3 활성 후보 11개**.
+최근 갱신: **2026-10-07, Mobile Suit Gundam: Battlefield Record U.C. 0081 후보 등록. PS3 활성 후보 12개**.
