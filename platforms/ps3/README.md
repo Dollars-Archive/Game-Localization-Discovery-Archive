@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **13개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
+> 등록 후보: **14개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -26,6 +26,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Kidou Senshi Gundam: Extreme VS Full Boost (기동전사 건담 익스트림 버서스 풀부스트)](games/kidou-senshi-gundam-extreme-vs-full-boost.md) | 2014 | 2 on 2 팀 배틀 액션 / 3D 대전 액션 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 36/40 / GameFAQs Outstanding·198명 / Push Square 4.2·6명 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 지역판 BLKS-20461은 존재하나 한국어 지원 근거 미확인 | 아케이드 원작 이식 + PS3 전용 Full Boost Mission / 후속 PS4 Maxi Boost ON 공식 한국어 | 💎 우선 후보 |
 | [Skullgirls Encore (스컬걸즈 앙코르)](games/skullgirls-encore.md) | 2014 | 2D 대전 격투 / 태그 배틀 | ⭐⭐⭐⭐☆ 4.0/5 | C | Push Square 8/10 / GameFAQs Great·149명 / MC PS3 원판 82·25평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam 2nd Encore도 한국어 미지원 | PS3 Encore 최종 DLC 반영 / 현행 PC·콘솔 2nd Encore는 음성 스토리·Trials·Challenges·Season 1 지원 | 💎 우선 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (아르카나 하트 3 LOVE MAX!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 68 / Famitsu 28/40 / PS Store 4.6·206명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam LOVE MAX·SIXSTARS XTEND도 한국어 미지원 | PS3·Vita 동시판 / PC LOVE MAX 후발 이식 / 상위 확장판 SIXSTARS XTEND는 PC | 🟢 후보 |
+| [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 액션 | ⭐⭐⭐½☆ 3.5/5 | C | MC 67·19평론 / Famitsu 34/40 / GameFAQs Great·116명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BLKS-20473은 일본어 | PS3·Vita 동시판 / 상위 확장판 The Nightmare Princess는 본편 전체+신규 Quest·Enemy Edit·180종 이상 트랩 | 🟢 후보 |
 | [Dengeki Bunko: Fighting Climax (전격문고 FIGHTING CLIMAX)](games/dengeki-bunko-fighting-climax.md) | 2014 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 평균 8.2/10 / Metacritic 66·13평론 / GameFAQs 3.89·112명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Ignition도 한국어 대안 미확인 | PS Vita 동시판 / 서구 PS3·Vita 영어판 / 후속 확장판 Ignition PS3·PS4·Vita | 🟢 후보 |
 | [Dynasty Warriors: Gundam (건담무쌍)](games/dynasty-warriors-gundam.md) | 2007 | 택티컬 액션 / 3D 핵앤슬래시·무쌍 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40 / Metacritic 60·29평론 / GameFAQs Good·372명 | 2026-10-07 공개 1편 한글패치 확인 못함 / 한국 정발 BLKS-20003은 일본어판 | PS2 Special에 무사건담 Mk-II·신규 시나리오 추가 / Xbox 360 International 일·영 음성 | 🟢 후보 |
 | [JoJo's Bizarre Adventure HD Ver. (죠죠의 기묘한 모험 미래로의 유산 HD Ver.)](games/jojos-bizarre-adventure-hd-ver.md) | 2012 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Metacritic 64·24평론 / GameSpot 7/10 / GameFAQs Good·67명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 구작 한국어 패치도 공개 검색에서 미확인 | PS1·Dreamcast 구작 기반 HD 재출시 / 온라인·리플레이 추가 / 2014년경 디지털 판매 종료 | 🟢 후보 |
@@ -48,10 +49,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 13 |
+| 등록 후보 | 14 |
 | 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 2 |
-| 한글화 우선도 C | 11 |
+| 한글화 우선도 C | 12 |
 
-최근 갱신: **2026-10-07, Arcana Heart 3: LOVE MAX!!!!! 후보 등록. PS3 활성 후보 13개**.
+최근 갱신: **2026-10-07, Deception IV: Blood Ties 후보 등록. PS3 활성 후보 14개**.
