@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **7개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
+> 등록 후보: **8개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -25,6 +25,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Dengeki Bunko: Fighting Climax (전격문고 FIGHTING CLIMAX)](games/dengeki-bunko-fighting-climax.md) | 2014 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 평균 8.2/10 / Metacritic 66·13평론 / GameFAQs 3.89·112명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Ignition도 한국어 대안 미확인 | PS Vita 동시판 / 서구 PS3·Vita 영어판 / 후속 확장판 Ignition PS3·PS4·Vita | 🟢 후보 |
 | [Dynasty Warriors: Gundam (건담무쌍)](games/dynasty-warriors-gundam.md) | 2007 | 택티컬 액션 / 3D 핵앤슬래시·무쌍 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40 / Metacritic 60·29평론 / GameFAQs Good·372명 | 2026-10-07 공개 1편 한글패치 확인 못함 / 한국 정발 BLKS-20003은 일본어판 | PS2 Special에 무사건담 Mk-II·신규 시나리오 추가 / Xbox 360 International 일·영 음성 | 🟢 후보 |
 | [JoJo's Bizarre Adventure: Eyes of Heaven (죠죠의 기묘한 모험 아이즈 오브 헤븐)](games/jojos-bizarre-adventure-eyes-of-heaven.md) | 2015 | 스타일리시 태그 죠죠 액션 / 3D 태그 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40 / GameFAQs PS3 Great·23명 / MC PS4 61·35평론 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 PS4 스토어도 일어판 | PS4 동시판과 게임 내용 동일 / PS4 1080p·그래픽·음질 강화 / 서구 PS4 다국어 텍스트 | 🟢 후보 |
+| [Nitroplus Blasterz: Heroines Infinite Duel (니트로플러스 블래스터즈 -히로인즈 인피니트 듀얼-)](games/nitroplus-blasterz-heroines-infinite-duel.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 28/40 / Press Play 7/10 / Steam 90%·1,045평가 참고 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·PS4 크로스플레이 / PC판 최신 아케이드 밸런스·추가 연출·콘솔 DLC 기본 포함 | 🟢 후보 |
 | [Saint Seiya: Soldiers' Soul (세인트 세이야 솔저스 소울)](games/saint-seiya-soldiers-soul.md) | 2015 | 시네마틱 코스모 액션 / 3D 대전 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu PS3 30/40 / GameFAQs PS3 4.15·51명 / MC PS4 59·30평론 | 2026-10-07 공개 한국어 패치 확인 못함 / PC 공식 한국어 미지원 | PS4 동일 콘텐츠·1080p·60fps / PC 후발판은 Steam 판매 종료 | 🟢 후보 |
 | [Yu-Gi-Oh! Millennium Duels (유희왕 밀레니엄 듀얼즈)](games/yu-gi-oh-millennium-duels.md) | 2014 | 턴제 카드 배틀 / 디지털 TCG | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 6/10 / Vandal 6.5/10 / GameFAQs Great·89명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Xbox 360도 한국어 대안 미확인 | PS3·Xbox 360 동급 다운로드판 / 후속 Legacy of the Duelist 계열은 별도 작품 | 🟢 후보 |
 
@@ -42,10 +43,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 7 |
+| 등록 후보 | 8 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 1 |
-| 한글화 우선도 C | 6 |
+| 한글화 우선도 C | 7 |
 
-최근 갱신: **2026-10-07, Ar tonelico Qoga: Knell of Ar Ciel 후보 등록. PS3 활성 후보 7개**.
+최근 갱신: **2026-10-07, Nitroplus Blasterz: Heroines Infinite Duel 후보 등록. PS3 활성 후보 8개**.
