@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **43개** / 발굴 우선 후보: **12개** / 한글화 A급 후보: **12개**
+> 등록 후보: **43개** / 발굴 우선 후보: **11개** / 한글화 A급 후보: **11개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -26,11 +26,11 @@
 | [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs 3.77/5 (24표) / GAMEMAN 7.8/10 (리뷰 0건) / Famitsu 25/40 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 💎 우선 후보 |
 | [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.5/5 (6표) / GameFAQs 3.33/5 (9표) / GAMEMAN 8.6/10 | 확인 못함 | PC 원작 → PS2 추가 시나리오·그래픽 통합 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.9/5 (8건) / Best판 4.8/5 (6건) / GAMEMAN 7.2/10 | 확인 못함 | PC 원작 → PS2 강화 → 2019 Windows 역이식 | 💎 우선 후보 |
-| [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.4/5 (5건) / GameFAQs Good (8표) / Bangumi 7.8/10 (약 22표, 작품 통합) / GAMEMAN 9.6/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 💎 우선 후보 |
 | [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | 다크 판타지·카드배틀 ADV/VN | ⭐⭐⭐½☆ | 🔥 A | Joko 4.0/5 (4건) / GameFAQs 2.5/5 (4표) / Bangumi PC Alex 7.1/10 (44표) / GAMEMAN 8.9/10 | 공개적으로 확인되지 않음 | PC Alex/Platina 분할 → PS2 통합·시나리오/CG/연출 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 3.97/5 (10건 이상) / Gavas 4.6/5 (5건) / GameFAQs Great (15표) / GAMEMAN 7.2/10 | 공개적으로 확인되지 않음 | 1996 원작 → 2001 PC Re-Cross 리메이크 → PS2 풀보이스·애니·추가 시나리오 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 로맨틱 라이트 미스터리·여행 ADV | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.6/5 (7건) / GameFAQs Great (5표) / Bangumi 7.4/10 (7표) / Famitsu 26/40 | 공개적으로 확인되지 않음 | PS2 전용 / Special Edition은 동봉물 차이 | 🟢 후보 |
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 세계관 미스터리 ADV·슈팅 혼합 | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 3건 약 4.33/5 / GameFAQs Great (4표) / GAMEMAN 9.0/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 전용 / II→III 정사 연결편 / 2026 Switch 트릴로지 미수록 | 🟢 후보 |
+| [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐½☆ | B | 소표본 수치보다 PC/DC 감상 본문 중심 재평가 / PS2 직접 비평 부족 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 🟢 후보 |
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐☆ | B | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
