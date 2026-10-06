@@ -14,7 +14,7 @@
 | PlayStation 2 | 43 | 12 | 12 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
-| PlayStation 3 | 6 | 0 | 1 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
+| PlayStation 3 | 31 | 0 | 1 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 
 > [!NOTE]
 > PS2 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -143,7 +143,7 @@
 이 아카이브는 게임 원본, 롬 이미지, 실행 파일, 추출된 전체 스크립트 등 저작권 자산을 배포하기 위한 저장소가 아닙니다. 스크린샷은 작품 식별과 조사 기록을 위해 출처를 명시해 링크하거나 임베드합니다.
 ## PS3 후보 구역 개설 (2026-10-06)
 
-사용자 취향에 맞춰 비주얼노벨·턴제·애니풍·마이너 작품을 우선하고, 메타크리틱 평론가 점수와 사용자 점수를 50%씩 반영한 통합 70점 이상 작품을 중심으로 **PS3 후보 5개**를 등록했습니다. 메타스코어가 공개 기준에 못 미쳐 통합점수를 계산할 수 없는 Hakuoki: Stories of the Shinsengumi는 별도 취향 와일드카드로 표시합니다. 격투·슈팅·스포츠 및 확인된 타 기종 한국어 대안이 있는 작품은 활성 목록에서 제외했습니다. PS Vita의 4.0점 이상 제외·30개 제한은 PS3에 적용하지 않았습니다. [PS3 후보 보기](platforms/ps3/README.md)
+사용자 취향에 맞춰 비주얼노벨·턴제·애니풍·마이너 작품을 우선하고, 메타크리틱 평론가 점수와 PS3 사용자 점수를 50%씩 반영한 통합 70점 이상 작품 30개를 등록했습니다. 발굴 추천도 별점은 점수와 분리해 모두 미평가로 둡니다. 메타스코어가 공개 기준에 못 미쳐 통합점수를 계산할 수 없는 Hakuoki: Stories of the Shinsengumi는 별도 취향 와일드카드로 표시합니다. 격투·슈팅·스포츠 및 확인된 타 기종 한국어 대안이 있는 작품은 활성 목록에서 제외했습니다. PS Vita의 4.0점 이상 제외·30개 제한은 PS3에 적용하지 않았습니다. [PS3 후보 보기](platforms/ps3/README.md)
 
 ## PS Vita 전체 한국어 대안 재감사 (2026-10-05)
 
