@@ -58,7 +58,7 @@
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | C | GameFAQs 3.89/5 (9표) / PS2 실플레이 감상7건·완료 명시1 / PC 후기 별도 | 2026-10-07 공개 확인 못함 | PC Renewal 기반 한국어판 2008 정식 출시 / PS2 추가분 있음 / 현재 구매·인증 미확인 | 🟡 보류 |
 | [Jewels Ocean: Star of Sierra Leone (주얼스 오션 ～Star of Sierra Leone～)](games/jewels-ocean-star-of-sierra-leone.md) | 2006 | 다크 판타지·소환 전술 SLG/연애 ADV | ⭐⭐⭐☆☆ | C | Famitsu 25/40 / Joko 2.0/5 (2건) / GameFAQs Unrated | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 시나리오·CG·엔딩·전투 개편 | 🟡 보류 |
-| [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 본격 탐정·미스터리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | GameFAQs Outstanding (2표) / GAMEMAN 8.3/10 / Bangumi 8.4/10 (8표, 작품 통합) | 공개적으로 확인되지 않음 | DC 3분할 → PS2 Side A/B 재편 → PSP Complete 통합+신규 후일담 | 💎 우선 후보 |
+| [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 탐정·추리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | Joko 44건·5페이지 / PS2 기명·개인 비평 5편 / GameFAQs Outstanding 2표 | 2026-10-07 sideB 공개 확인 못함 | DC 재편 4–6화 / PSP 전6화+신규편 / DC1 한글 기록은 범위 미검증 | 💎 우선 후보 |
 
 ## 발굴 상태 기준
 
@@ -151,5 +151,6 @@
 [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md)를 **사용자의 탈락 결정에 따라 활성 후보에서 제외**했다. 작품성 **3.5/5**와 기존 검토 기록은 보존하며, 이번 제외를 작품성 하향으로 해석하지 않는다.
 
 현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 28 / C 6**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
 
 
