@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **36개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **37개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -56,6 +56,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [XBLAZE Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | 비주얼 노벨 / 스토리 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / GameFAQs Good·59명 / MC Vita 43·5평론 | 2026-10-07 공식 한국어판·공개 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·Vita 동시판 / 북미·유럽 영어판 / 2016 Steam 후발 이식 / PS3 고유 콘텐츠 미확인 | 🟢 후보 |
 | [Yu-Gi-Oh! Millennium Duels (유희왕 밀레니엄 듀얼즈)](games/yu-gi-oh-millennium-duels.md) | 2014 | 턴제 카드 배틀 / 디지털 TCG | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 6/10 / Vandal 6.5/10 / GameFAQs Great·89명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Xbox 360도 한국어 대안 미확인 | PS3·Xbox 360 동급 다운로드판 / 후속 Legacy of the Duelist 계열은 별도 작품 | 🟢 후보 |
 | [The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack (초시공요새 마크로스: 사랑, 기억하고 있습니까? Hybrid Pack)](games/super-dimension-fortress-macross-do-you-remember-love-hybrid-pack.md) | 2012 | 3D 플라이트 액션 슈팅 / Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·14명 / Kotaku 정성평가 / HANASE 80/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + My Boyfriend is a Pilot 2012 / BLJS-93006 한정판은 보너스 특전 | 🟢 후보 |
+| [Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack (극장판 마크로스 F ~작별의 날개~ Hybrid Pack)](games/gekijouban-macross-f-sayonara-no-tsubasa-hybrid-pack.md) | 2011 | 플라이트 액션 슈팅 / 3D 메카 액션·Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·11명 / Mecha Damashii 긍정·혼합 / 가격.com 4.0·1명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + Macross Last Frontier / Trial Frontier보다 세이브·지상전·볼륨 확장 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -71,10 +72,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 36 |
+| 등록 후보 | 37 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 8 |
-| 한글화 우선도 C | 28 |
+| 한글화 우선도 C | 29 |
 
-최근 갱신: **2026-10-07, Eiyuu Senki: The World Conquest 후보 등록. PS3 활성 후보 36개**.
+최근 갱신: **2026-10-07, Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack 후보 등록. PS3 활성 후보 37개**.
