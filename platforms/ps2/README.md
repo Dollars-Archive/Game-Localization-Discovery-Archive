@@ -40,7 +40,7 @@
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 텍스트 중심 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.87/5 (단평15건 전체) / PS2 장문 비평 미확보 / GameFAQs Great 8표 | PS2 별도 미확인 / PC 한국어 통합 주장 검증 대기 | PC 원작 → PS2 시나리오·CG·영상 확장 → 2018 PC 재판매 / 한국어 대안 범위 미검증 | 🟡 보류 |
-| [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
+| [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 사이버펑크·선택지형 ADV | ⭐⭐⭐½☆ | B | Joko 3건 만족도 4.33/5 / PS2 판본비교·중단평 별도 / GameFAQs 3.5/5·9표 / Gavas 중복·소개글 구분 | 2026-10-07 공개 확인 못함 | DC 원판 → PS2 신규 CG·시나리오·음악 / 선택지 이동 개선·일부 음성·표현 변경 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
 | [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!アプリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
@@ -146,6 +146,7 @@
 [奪還だヨ!全員集合!!](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md)를 **3.5 → 3.0**으로 재평가하고 활성 후보에서 제외했다. 2인 협력과 간단한 기술 조작의 장점은 인정하지만 공격 거리감·전투 조정·반복 구성의 구체적인 약점을 반영했다. 원작 팬 여부·성우 취향·한국어판 부재를 감점 사유로 삼지 않았다. 상세 조사 문서와 이전 이력은 보존한다.
 
 현재 활성 후보 **42 → 41개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 30 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
 
 
 
