@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **33개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **34개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -53,7 +53,6 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 비주얼 노벨 / 턴제 전략 RPG / 학원 오컬트 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 평균 7.7/10 / Push Square 8/10 / RPGamer 3.5/5 / RPGFan 60/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Daybreak Special Gigs·Steam도 한국어 미지원 | PS3·Vita 원판 / 상위 강화판 Daybreak Special Gigs는 PS3·PS4·Vita·PC로 전투·스토리·튜토리얼 개선 | 🟢 후보 |
 | [XBLAZE Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | 비주얼 노벨 / 스토리 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / GameFAQs Good·59명 / MC Vita 43·5평론 | 2026-10-07 공식 한국어판·공개 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·Vita 동시판 / 북미·유럽 영어판 / 2016 Steam 후발 이식 / PS3 고유 콘텐츠 미확인 | 🟢 후보 |
 | [Yu-Gi-Oh! Millennium Duels (유희왕 밀레니엄 듀얼즈)](games/yu-gi-oh-millennium-duels.md) | 2014 | 턴제 카드 배틀 / 디지털 TCG | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 6/10 / Vandal 6.5/10 / GameFAQs Great·89명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Xbox 360도 한국어 대안 미확인 | PS3·Xbox 360 동급 다운로드판 / 후속 Legacy of the Duelist 계열은 별도 작품 | 🟢 후보 |
-
 | [The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack (초시공요새 마크로스: 사랑, 기억하고 있습니까? Hybrid Pack)](games/super-dimension-fortress-macross-do-you-remember-love-hybrid-pack.md) | 2012 | 3D 플라이트 액션 슈팅 / Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·14명 / Kotaku 정성평가 / HANASE 80/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + My Boyfriend is a Pilot 2012 / BLJS-93006 한정판은 보너스 특전 | 🟢 후보 |
 
 ## PS3 등록 운영
@@ -70,10 +69,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 33 |
+| 등록 후보 | 34 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 7 |
-| 한글화 우선도 C | 26 |
+| 한글화 우선도 C | 27 |
 
-최근 갱신: **2026-10-07, The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack 후보 등록. PS3 활성 후보 32개**.
+최근 갱신: **2026-10-07, The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack 후보 등록. PS3 활성 후보 34개**.
