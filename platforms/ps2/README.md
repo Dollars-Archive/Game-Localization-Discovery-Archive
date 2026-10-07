@@ -48,7 +48,7 @@
 | [School Rumble Ni-Gakki (스쿨럼블 2학기)](games/school-rumble-ni-gakki.md) | 2006 | 학원 러브코미디·캐릭터 ADV | ⭐⭐⭐½☆ | B | GameFAQs 4.08/5 (19표) / Gavas 통상판 4.5/5 (2건) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | 2005 PS2 전작 → 2006 본작 / 초회한정·Best Collection | 🟢 후보 |
 | [3LDK: Shiawase ni Narouyo (3LDK ～시아와세니 나로요～)](games/3ldk-shiawase-ni-narouyo.md) | 2004 | 동거 러브코미디·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (11표) / Gavas 6+3건 중 플레이 댓글5건·전체 회수 명시1건 / PC 후기 별도 | 2026-10-07 공개 확인 못함 | PC 성인 원작 → PS2 가정용·추가 그래픽 / 신규 히로인 주장 철회 / PC 재판매 기록 | 🟢 후보 |
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 현실·환상 분기형 학원 미스터리·연애 VN | ⭐⭐⭐½☆ | B | Amazon 일본 집계 4.3/5 (15건) / GameFAQs Playable (4표) / 価格.com 2.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 원작 / 통상·초회한정·Best Price / 후대 본편 이식 확인 못함 | 🟢 후보 |
-| [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko 3.77/5 (리뷰 10건 이상) / Gavas 3.9/5 (8건) / GameFAQs 4.25/5 (4표) / GAMEMAN 7.4/10 | 공개적으로 확인되지 않음 | PS2 오리지널 타이인 / 후대 본편 이식 확인 못함 | 🟢 후보 |
+| [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko19건(집계·개별평균 불일치) / Gavas8건 중 실경험5건 / GameFAQs4.25/5·4표 | 2026-10-07 공개 확인 못함 | PS2 오리지널5화·TV성우 풀보이스 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
 | [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
@@ -136,4 +136,5 @@
 [에렌시아 전기 Plus Stories](games/castle-fantasia-erencia-senki-plus-stories.md)의 작품성은 **3.5 유지**, 우선도는 **B → C / 🟡 보류**로 조정했다. 2008년 PC 공식 한국어 다운로드판 출시를 확인해 기존 한국어판 미확인 표기를 정정했다. 현재 합법 구매·재설치·인증 경로는 미확인이므로 과거 출시를 지금 사용 가능한 대안으로 단정하지 않고 후보 자격을 보류한다.
 
 현재 후보표 **42개(보류 포함)**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 31 / C 5**. 상세 문서와 이전 검토 이력은 보존한다.
+
 
