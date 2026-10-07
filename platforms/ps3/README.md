@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **42개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **43개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -78,10 +78,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 42 |
+| 등록 후보 | 43 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 33 |
+| 한글화 우선도 C | 34 |
 
-최근 갱신: **2026-10-07, Nurarihyon no Mago: Hyakki Ryouran Taisen 후보 등록. PS3 활성 후보 42개**.
+최근 갱신: **2026-10-07, Maji de Watashi ni Koi Shinasai! R 및 Nurarihyon no Mago: Hyakki Ryouran Taisen 후보 등록. PS3 활성 후보 43개**.
