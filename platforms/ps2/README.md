@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **43개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
+> 등록 후보: **42개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -51,7 +51,6 @@
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 현실·환상 분기형 학원 미스터리·연애 VN | ⭐⭐⭐½☆ | B | Amazon 일본 집계 4.3/5 (15건) / GameFAQs Playable (4표) / 価格.com 2.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 원작 / 통상·초회한정·Best Price / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko 3.77/5 (리뷰 10건 이상) / Gavas 3.9/5 (8건) / GameFAQs 4.25/5 (4표) / GAMEMAN 7.4/10 | 공개적으로 확인되지 않음 | PS2 오리지널 타이인 / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
-| [Aikagi: Nukumori to Hidamari no Naka de (아이카기 ～온기와 햇살 속에서～)](games/aikagi-nukumori-to-hidamari-no-naka-de.md) | 2003 | 동거·가족·일상 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.4/5 (10표) / 피코피코대백과 4.8/5 (4건) / GAMEMAN 7.0/10 | 공개적으로 확인되지 않음 | PC 원작 → DC 이식 → PS2 신규 CG·에피소드 확장 / Best판 | 🟢 후보 |
 | [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | GameFAQs Great (14표) / Joko 공개 2건 3.5/5 / Juegomania 8.8/10 (3표) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
@@ -125,8 +124,8 @@
 
 [전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
 
+## 2026-10-07 아이카기 본문 재검토
 
+[Aikagi: Nukumori to Hidamari no Naka de](games/aikagi-nukumori-to-hidamari-no-naka-de.md)를 **3.5 → 3.0**으로 재평가하고 활성 후보에서 제외했다. 일상 대화·그림의 장점은 인정하지만 PS2 실플레이 후기에서 반복되는 선택지 불편과 서사 구성의 약점을 반영했다. PC DVD의 콘솔 추가분 수록은 별도의 판본 정보 수정이며 감점 사유가 아니다. 상세 조사와 과거 이력은 보존한다.
 
-
-
-
+현재 활성 후보 **43 → 42개**, 발굴 우선 후보 **5개**, 한글화 우선도 **A 6 / B 32 / C 4**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
