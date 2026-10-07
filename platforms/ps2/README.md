@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **41개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
+> 등록 후보: **40개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -36,7 +36,6 @@
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.63/5·8건 / Gavas6+2건 중복·소개형 구분 / PS2 개인평2편 / GameFAQs Fair8표 | 2026-10-07 완성판 확인 못함 / PC ATCode 별도 | PC2002 → PS2 추가 시나리오·CG 기록(2차 자료) / 팬디스크·PC DL 별도 | 🟢 후보 |
-| [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | Joko15건 3.27/5 / Gavas7건 중 경험글4건 / 일본·이탈리아 장문6편 구분 | 2026-10-07 공개 확인 못함 | 일본 PS2 → 이탈리아어 지역판 / 전체 대사 완전 음성 주장 정정 / 후발 본편 확인 못함 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 텍스트 중심 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.87/5 (단평15건 전체) / PS2 장문 비평 미확보 / GameFAQs Great 8표 | PS2 별도 미확인 / PC 한국어 통합 주장 검증 대기 | PC 원작 → PS2 시나리오·CG·영상 확장 → 2018 PC 재판매 / 한국어 대안 범위 미검증 | 🟡 보류 |
@@ -147,6 +146,8 @@
 
 현재 활성 후보 **42 → 41개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 30 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
 
+## 2026-10-07 루팡 사용자 선택 제외
 
+[Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md)를 **사용자의 탈락 결정에 따라 활성 후보에서 제외**했다. 작품성 **3.5/5**와 기존 검토 기록은 보존하며, 이번 제외를 작품성 하향으로 해석하지 않는다.
 
-
+현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 29 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
