@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **40개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **41개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -29,6 +29,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [ToHeart2 DX PLUS (투하트2 DX PLUS)](games/toheart2-dx-plus.md) | 2011 | 연애 어드벤처 / 비주얼 노벨·확장 합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Great·17명 / 가격.com 4.0·1명 / 개인평 C | 2026-10-07 PS3 전체 한글패치 확인 못함 / PC XRATED 완전 한글패치 / AnotherDays 준한글화 기록 | ToHeart2+AnotherDays 합본 / PS3 전용 미오·신규 CG·리파인·MotionPortrait | 🟢 후보 |
 | [Touch, Shot! Love Application (터치, 하자! -Love Application-)](games/touch-shot-love-application.md) | 2012 | 연애 시뮬레이션 / 3D 연애 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / DPS 80·70·85·60 / GameFAQs Good·3명 | 2026-10-07 한국 정발 BLKS-20357도 일본어 / 공식 한국어·공개 PS3 한글패치 확인 못함 | PS3 독점 / 공식 영어판·후발 이식 확인 못함 / yPhone·Satori·3D Avatar Mode | 🟢 후보 |
 | [Wizardry Perfect Pack (위저드리 퍼펙트 팩)](games/wizardry-perfect-pack.md) | 2011 | 1인칭 3D 던전 크롤러 RPG / 턴제 RPG·합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·3명 / 수록작 MC 61·9평론 / GameSpot 7.5/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / PC Labyrinth도 한국어 미지원 | PS3 집대성 합본 / 두 작품+추가 시나리오+신규 잔혼의 미궁 / Vita Total Pack은 잔혼의 미궁 수록 미확인 | 🟢 후보 |
+| [Acceleration of SUGURI X-Edition (액셀러레이션 오브 스구리 X-Edition)](games/acceleration-of-suguri-x-edition.md) | 2011 | 1대1 아레나 액션 / 탄막 슈팅·격투 하이브리드 | ⭐⭐⭐½☆ 3.5/5 | C | MC 61·10평론 / GameSpot 7/10 / GameFAQs Great·58명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam HD도 한국어 미지원 | PSN판 / 2014 Steam X-Edition HD는 선택형 HD 그래픽·3개 스토리 모드의 후발 강화판 | 🟢 후보 |
 | [Arslan: The Warriors of Legend (아르슬란 전기×무쌍)](games/arslan-the-warriors-of-legend.md) | 2015 | 무쌍 액션 / 3D 비트엠업 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / GameSpot 7/10 / MC 69·43평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam도 한국어 미지원 | PS4 동시판 / Xbox One·PC 후발판 / PS3 고유 추가 콘텐츠 확인 못함 | 🟢 후보 |
 | [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 💎 우선 후보 |
 | [Ketsui: Kizuna Jigoku Tachi Extra (케츠이: 키즈나 지고쿠타치 EXTRA)](games/ketsui-kizuna-jigoku-tachi-extra.md) | 2013 | 종스크롤 탄막 슈팅 | ⭐⭐⭐⭐☆ 4.0/5 | C | MANIAC 86/100 / Famitsu 평균 6.5/10 / GameFAQs Great·34명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / PS4 Deathtiny도 한국어 대안 미확인 | Xbox 360 Extra 기반 PS3 이식·세부 수정·X Mode / PS4 Deathtiny는 M2 신규 고정밀 이식·연습 기능 대폭 확장 | 💎 우선 후보 |
@@ -75,10 +76,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 40 |
+| 등록 후보 | 41 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 31 |
+| 한글화 우선도 C | 32 |
 
-최근 갱신: **2026-10-07, Legasista 후보 등록. PS3 활성 후보 40개**.
+최근 갱신: **2026-10-07, Acceleration of SUGURI X-Edition 후보 등록. PS3 활성 후보 41개**.
