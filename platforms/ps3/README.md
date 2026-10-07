@@ -54,6 +54,8 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [XBLAZE Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | 비주얼 노벨 / 스토리 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / GameFAQs Good·59명 / MC Vita 43·5평론 | 2026-10-07 공식 한국어판·공개 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·Vita 동시판 / 북미·유럽 영어판 / 2016 Steam 후발 이식 / PS3 고유 콘텐츠 미확인 | 🟢 후보 |
 | [Yu-Gi-Oh! Millennium Duels (유희왕 밀레니엄 듀얼즈)](games/yu-gi-oh-millennium-duels.md) | 2014 | 턴제 카드 배틀 / 디지털 TCG | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 6/10 / Vandal 6.5/10 / GameFAQs Great·89명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Xbox 360도 한국어 대안 미확인 | PS3·Xbox 360 동급 다운로드판 / 후속 Legacy of the Duelist 계열은 별도 작품 | 🟢 후보 |
 
+| [The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack (초시공요새 마크로스: 사랑, 기억하고 있습니까? Hybrid Pack)](games/super-dimension-fortress-macross-do-you-remember-love-hybrid-pack.md) | 2012 | 3D 플라이트 액션 슈팅 / Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·14명 / Kotaku 정성평가 / HANASE 80/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + My Boyfriend is a Pilot 2012 / BLJS-93006 한정판은 보너스 특전 | 🟢 후보 |
+
 ## PS3 등록 운영
 
 - 이 구역의 조사·등록 대상은 **PS3판**입니다. 원제·부제·시리즈 순번·실제 발매 기종을 먼저 확인하고 다른 플랫폼 판본과 혼동하지 않습니다.
@@ -74,4 +76,4 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | 한글화 우선도 B | 7 |
 | 한글화 우선도 C | 26 |
 
-최근 갱신: **2026-10-07, Infinite Stratos 2: Love and Purge 후보 등록. PS3 활성 후보 33개**.
+최근 갱신: **2026-10-07, The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack 후보 등록. PS3 활성 후보 32개**.
