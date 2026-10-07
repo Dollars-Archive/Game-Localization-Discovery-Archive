@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **18개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
+> 등록 후보: **19개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -22,6 +22,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 |---|---:|---|---:|---:|---|---|---|---|
 | [Ar tonelico Qoga: Knell of Ar Ciel (알 토네리코 3: 세계종언의 방아쇠는 소녀의 노래가 당긴다)](games/ar-tonelico-qoga-knell-of-ar-ciel.md) | 2010 | 소녀 조합 RPG / 액션 RPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 61·27평론 / RPGamer 3.5/5 / GameFAQs Good·737명 | 2026-10-07 공개 3편 한글패치 확인 못함 / 한국 정발 BLKS-20179도 일본어 | PS3 독점 / 북미·유럽 영어 현지화 / 현행기 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Macross 30: Ginga o Tsunagu Utagoe (마크로스 30: 은하를 잇는 노랫소리)](games/macross-30-ginga-o-tsunagu-utagoe.md) | 2013 | 플라이트 액션 RPG / 3인칭 슈팅 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 32/40 / GameFAQs Outstanding·67명 / 4Gamer 82·5명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 2026 비공식 영문패치 존재 | PS3 독점 / 후발 이식·리마스터 없음 / 공개 텍스트 추출·재삽입 도구 존재 | 🟢 후보 |
+| [E.X. Troopers (엑스 트루퍼즈)](games/ex-troopers.md) | 2012 | 3인칭 슈팅 / 액션 RPG·만화틱 액션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu PS3 32/40 / GameFAQs Great·74명 / 4Gamer 86·3명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BLKS-20399 존재 / 완전 영문패치 v1.0.2 존재 | PS3·3DS 동시판 / PS3 고해상도·온라인 / 3DS 로컬·입체 3D / 후발 이식 없음 | 🟢 후보 |
 | [Mobile Suit Gundam: Battlefield Record U.C. 0081 (기동전사 건담전기 Battlefield Record U.C.0081)](games/mobile-suit-gundam-battlefield-record-uc-0081.md) | 2009 | 부대통솔형 3D 액션 / 모빌슈트 전투 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40 / GameFAQs 4.2·153명 / 4Gamer 69·13명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10090은 매뉴얼 한글화 | PS3 독점 / 후발 이식·리마스터 없음 / Side Stories 미수록 | 🟢 후보 |
 | [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 💎 우선 후보 |
 | [Kidou Senshi Gundam: Extreme VS Full Boost (기동전사 건담 익스트림 버서스 풀부스트)](games/kidou-senshi-gundam-extreme-vs-full-boost.md) | 2014 | 2 on 2 팀 배틀 액션 / 3D 대전 액션 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 36/40 / GameFAQs Outstanding·198명 / Push Square 4.2·6명 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 지역판 BLKS-20461은 존재하나 한국어 지원 근거 미확인 | 아케이드 원작 이식 + PS3 전용 Full Boost Mission / 후속 PS4 Maxi Boost ON 공식 한국어 | 💎 우선 후보 |
@@ -53,10 +54,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 18 |
+| 등록 후보 | 19 |
 | 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 3 |
+| 한글화 우선도 B | 4 |
 | 한글화 우선도 C | 15 |
 
-최근 갱신: **2026-10-07, AquaPazza: AquaPlus Dream Match 후보 등록. PS3 활성 후보 18개**.
+최근 갱신: **2026-10-07, E.X. Troopers 후보 등록. PS3 활성 후보 19개**.
