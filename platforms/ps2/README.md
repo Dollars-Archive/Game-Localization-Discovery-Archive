@@ -19,7 +19,7 @@
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS2 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
-| [Guardian Angel (가디언 엔젤)](games/guardian-angel.md) | 2003 | SF 미스터리·추리 ADV | ⭐⭐⭐⭐☆ | 🔥 A | 피코피코대백과 4.0/5 (3건) / GAMEMAN 9.2/10 (리뷰 0건) | 확인 못함 | 현재 PS2판만 확인 | 💎 우선 후보 |
+| [Guardian Angel (가디언 엔젤)](games/guardian-angel.md) | 2003 | SF 미스터리·추리 ADV | ⭐⭐⭐⭐☆ | 🔥 A | Joko 공개 9건 4.0/5 / Gavas 4.0/5 (3건) / PS2 장문 후기 2편 교차 확인 | 자체 프로젝트 제작 중 / 완성 공개판 확인 못함 | 현재 PS2판만 확인 | 💎 우선 후보 |
 | [Kyuuketsu Hime Yui: Senyasyo (뱀파이어 유이 ～천야초～)](games/kyuuketsu-hime-yui-senyasyo.md) | 2003 | 호러·미스터리 비주얼노벨 | ⭐⭐⭐⭐☆ | 🔥 A | GameFAQs Great (17표) | 확인 못함 | PS2 → Windows 확장 이식 | 💎 우선 후보 |
 | [Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 🟢 후보 |
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐⭐☆ | 🔥 A | Joko 4.0/5 (4건) / Bangumi 7.0/10 (36표) | 확인 못함 | PC 원작 → PS2 확장 → PSP 추가판 | 💎 우선 후보 |
