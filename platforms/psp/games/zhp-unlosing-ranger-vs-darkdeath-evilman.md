@@ -1,10 +1,27 @@
 # Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)
 
 > 원제: **絶対ヒーロー改造計画**  
-> 상태: 💎 우선 후보  
-> 발굴 추천도: ⭐⭐⭐⭐☆ (4.0/5)  
-> 한글화 우선도: **B**  
-> 조사 기준일: **2026-09-16**
+> 상태: **⏸️ 후보 자격 보류 · 한국어 패치 범위 확인 필요**  
+> 발굴 추천도: **⭐⭐⭐⭐☆ (4.0/5)**  
+> 한글화 우선도: **보류**  
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
+
+## 대표 스크린샷
+
+1. **PSP 일본판 훈련 거점의 대화 화면 · 4Gamer**
+   
+   [![PSP 일본판 훈련 거점 대화 화면](https://www.4gamer.net/games/098/G009860/20090916042/SS/014.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
+
+2. **PSP 일본판 적과 마주한 던전 화면 · 4Gamer**
+   
+   [![PSP 일본판 던전의 적 배치](https://www.4gamer.net/games/098/G009860/20090916042/SS/016.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
+
+3. **PSP 일본판 던전 탐색 중 안내 대사 · 4Gamer**
+   
+   [![PSP 일본판 던전 탐색과 안내 대사](https://www.4gamer.net/games/098/G009860/20090916042/SS/020.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
+
+화면 원출처: [4Gamer PSP 소개 기사](https://www.4gamer.net/games/098/G009860/20090916042/). 480×272 원본 3장의 실제 이미지 픽셀을 열어 대화·던전 화면임을 확인했다. 직접 이미지 주소도 해당 기사 HTML에 연결된 원본 주소다. 2009년 공개된 PSP 개발 중 소개 화면이며, 2022 이식판이나 한국어 패치 화면이 아니다. 이미지 파일은 저장소에 복제 업로드하지 않는다.
+
 
 ## 한눈에 보기
 
@@ -13,231 +30,217 @@
 | 원제 | 絶対ヒーロー改造計画 |
 | 영문 / 로마자 | Z.H.P. Unlosing Ranger vs. Darkdeath Evilman / Zettai Hero Kaizou Keikaku |
 | 한글 제목 | 절대 히어로 개조계획 |
-| 플랫폼 | PlayStation Portable |
-| 발매일 | 2010-03-11 일본 / 2010-03-12 한국 / 2010-10-26 북미 / 2010-11-03 유럽 |
-| 개발 | Nippon Ichi Software |
-| 발매 | Nippon Ichi Software 일본 / SCEK·SCEI 한국 / NIS America 북미·유럽 |
-| 제품 코드 | ULJS-00262 일본 통상 / ULJS-00261 일본 한정 / NPJH-50144 일본 DL / UCKS-45149 한국 / ULUS-10559 북미 / NPEH-00099 유럽 DL / ULJS-19064 PSP the Best |
-| 장르 | 로그라이크 던전 RPG / 턴제 전술 RPG |
-| 등급 | CERO A / 한국 전체이용가 / ESRB T |
+| 대상 플랫폼 | PlayStation Portable 원작 |
+| 발매일 | 일본 2010-03-11 / 한국 2010-03-12 / 북미 다운로드 2010-10-25·패키지 2010-10-26 / 유럽 다운로드 2010-11-03 |
+| 개발사 | Nippon Ichi Software |
+| 발매사 | Nippon Ichi Software 일본 / SCEK 한국 / NIS America 북미·유럽 |
+| 주요 제품 코드 | ULJS-00262 일본 통상 / NPJH-50144 일본 다운로드 / UCKS-45149 한국 / ULUS-10559 북미 / NPEH-00099 유럽 / ULJS-19064 일본 PSP the Best |
+| 장르 | 1인 조작 턴제 로그라이크 던전 RPG |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
-| 예상 플레이타임 | GameFAQs 108명 평균 약 **49시간** / RPGamer 메인 플레이 **20~40시간** / 엔드게임 육성은 훨씬 장기화 가능 |
-| 발굴 추천도 | ⭐⭐⭐⭐☆ (4.0/5) |
-| 상태 | 💎 우선 후보 |
-| 한글화 우선도 | B |
+| 예상 플레이타임 | 본편 참고 20~40시간(RPGamer 리뷰 1건) / 전체 제출 평균 49.1시간(GameFAQs 108명, 완료 범위 혼합) |
+| 발굴 추천도 | ⭐⭐⭐⭐☆ (4.0/5), PSP 작품성 평가 |
+| 상태 | ⏸️ 후보 자격 보류 |
+| 한글화 우선도 | 보류. 기존 B를 그대로 유지하지 않음 |
 | 한글화 난이도 | 미확인 |
-| 현재 추천 버전 | **PSP 일본판 또는 PSP the Best**. 전격문고 콜라보 던전·장비를 포함한 원본 콘텐츠 보존 기준. 영어 플레이가 우선이면 북미 PSP판도 강력한 대안 |
+| 현재 추천 버전 | 원본 콘텐츠 보존: PSP 일본판 / 영어 플레이: PSP 북미판 / 현행기 접근성: Switch·Steam판, 콜라보 삭제 유의 |
+| 한국어 대안 핵심 | PSP 한국어 패치 배포 기록 확인. 번역 범위·현행 이용 가능 여부는 원배포처 추가 확인 필요 |
 
-> 이 작품은 한국에서 **`절대 히어로 개조계획`**이라는 제목으로 SCEK를 통해 정식 발매됐다. 다만 당시 공식 발매 자료의 언어 표기는 **일본어**이며, 한국어 현지화판은 아니다.
+발매일·제품 코드는 [GameFAQs 판본별 발매 자료](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/data), 한국판 언어는 [SCEK 제공 발매 자료](https://www.inven.co.kr/webzine/news/?news=26809)로 확인했다. 국내 정식 발매와 공식 한국어화를 구분한다.
 
 ## 스포일러 최소 시놉시스
 
-세계의 운명을 건 최종 결전을 앞두고, 무패의 슈퍼히어로 **절대승리 마케렌노쟈**는 어처구니없는 교통사고로 쓰러진다. 그는 지나가던 평범한 소년에게 변신 벨트와 지구의 운명을 떠넘기고 세상을 떠난다.
+평범한 소년이 뜻밖에 히어로의 역할을 떠맡고, 자신만의 장비와 훈련으로 강대한 악에 맞설 준비를 한다. 특촬물의 과장된 구호와 엉뚱한 조연, 일상적인 고민을 섞은 코미디 성장 RPG다. 등장인물의 정체·관계 변화·사건의 결과는 다루지 않는다.
 
-갑자기 2대 마케렌노쟈가 된 주인공은 곧바로 최종보스 **악마장군 다크데스 이블맨**에게 도전하지만 당연히 상대가 되지 않는다. 이후 히어로 훈련시설이 있는 이면세계에서 비밀특훈을 반복하며, 지구의 사람들과 연결된 사건을 하나씩 해결하고 진짜 히어로로 성장해 간다.
+## 게임 구조 / 루트 구조
 
-설정 자체는 특촬·전대물 패러디로 가득하지만, 각 장은 웃음만 소비하는 구조가 아니라 주인공이 다른 사람들의 문제를 해결하며 `히어로란 무엇인가`를 조금씩 배워 가는 성장물의 틀을 유지한다.
+- 여러 유닛을 지휘하는 전술 SRPG가 아니라 **주인공 한 명으로 탐색하는 턴제 던전 RPG**다. 플레이어의 이동·행동에 맞춰 적도 행동한다.
+- 거점에서 준비하고, 구조가 달라지는 다층 던전을 탐색하며 장비·소모품을 확보하는 흐름을 반복한다.
+- 해당 탐색의 레벨과 누적 성장치가 분리된다. 재도전 때 단기 레벨이 초기화되어도 누적 성장은 남아, 실패 후 다시 도전할 동기를 준다.
+- 장비는 외형·능력·기술을 바꾸며 사용 중 내구도가 감소한다. 에너지와 휴대 공간까지 고려해 전투 지속과 퇴각을 판단한다.
+- 수집한 장비를 성장 재료로 바꾸는 신체 개조와 거점 구성으로 전투 방식에 개성을 줄 수 있다.
+- 전작 지식은 필수가 아니다. 본편 진행과 선택적 장기 육성의 분량을 구분해서 접근하는 편이 좋다.
 
-## 게임 구조 / 플레이 구조
-
-- 한 명의 주인공만 직접 조작하는 **턴제 로그라이크 던전 RPG**다. 플레이어가 한 번 행동하면 적도 한 번 행동한다.
-- 스토리 진행에 따라 여러 개의 랜덤 생성 던전에 도전하며, 던전마다 공장·바다·빙판·함정 등 큰 규모의 기믹이 달라진다.
-- 던전 내 레벨은 귀환·사망 시 다시 낮아지지만, 플레이 과정에서 쌓이는 **Total Level**이 영구 능력치 성장으로 이어져 실패도 완전히 무의미하지 않다.
-- 머리·양팔·다리 등 신체 파츠를 장비해 외형과 능력, 사용 기술을 바꿀 수 있다.
-- 장비를 칩으로 바꿔 신체 도면에 배치하는 **인체개조 Shadowgram** 시스템으로 성장률, 휴대 아이템 수, 특수 효과 등을 장기적으로 강화한다.
-- 장비에는 내구도 CND가 있어 사용하면서 열화되며, 부서진 장비도 인체개조용 칩으로 재활용할 수 있다.
-- EN은 허기와 스킬 자원을 동시에 겸한다. 이동·특수기·물건 들기 등에 소비돼 탐색 경로와 음식 관리가 중요하다.
-- 적이나 오브젝트를 들어 올려 던지거나, 함정을 적에게 활용하는 등 `Disgaea` 계열 특유의 변칙적인 공간 활용이 가능하다.
-- 사망 원인이 된 적 계열에 약해지는 `트라우마`가 생기지만 이를 극복하면 보상이 생기는 등 실패를 장기 성장에 편입시키는 장치가 많다.
-- 스토리 후에는 Mastery Cave, Dengeki Dungeon, Nippon Ichi 계열 비밀 던전과 다수의 엔드게임 육성 요소가 남는다.
-- 전격문고 콜라보는 16개의 Dengeki Dungeon과 전용 장비·아바타·보스를 포함해 PSP판의 엔드게임 볼륨에서 상당한 비중을 차지한다.
+구조 근거: [게임동아 PSP 리뷰](https://game.donga.com/3851/), [WorthPlaying PSP 리뷰](https://worthplaying.com/article/2010/10/27/reviews/77819-psp-review-zhp-unlosing-ranger-vs-darkdeath-evilman/).
 
 ## 왜 발굴할 만한가
 
-- Mystery Dungeon식 로그라이크에 **Nippon Ichi 특유의 수치 인플레이션과 캐릭터 개조**를 결합해 독자적인 플레이 감각을 만든다.
-- 실패하면 모든 것이 초기화되는 전통적 로그라이크의 가혹함을 Total Level과 장기 개조로 완화하면서도, 장비 손실·EN·내구도 관리의 긴장은 유지한다.
-- 몸 전체를 장비로 갈아끼우고 이를 다시 칩으로 분해해 영구 성장에 사용하는 순환 구조가 매우 강한 중독성을 만든다.
-- 패러디 중심의 개그 게임처럼 보이지만 각 장의 에피소드와 주인공 성장에는 감정적인 결산이 있으며, 서구 리뷰에서도 스토리와 현지화가 자주 강점으로 언급된다.
-- PSP판은 전격문고와의 대규모 콜라보 던전·장비가 들어간 **가장 완전한 콘텐츠 계보**다.
-- 2022년 Switch·PC판이 존재하지만 라이선스 문제로 전격문고 콜라보 콘텐츠가 대거 제거되어 PSP판이 단순 구판으로 대체되지 않는다.
-- 한국에는 정식 패키지·PSN판이 발매됐음에도 게임 언어가 일본어였기 때문에 한국어 접근성은 여전히 해결되지 않았다.
+핵심은 반복 자체보다 **탐색의 위험 관리와 영구 성장의 보상을 함께 설계했다는 점**이다. 장비의 소모가 다음 개조의 재료로 이어지고, 한 번의 실패가 모든 투자 상실로 끝나지 않는다. 여기에 던전별 규칙과 장비 외형 변화가 결합돼 단순한 수치 올리기 이상의 선택을 만든다.
+
+이는 플레이 구조에 대한 종합 판단이다. PSP에 남은 콜라보 콘텐츠는 판본 보존의 가치이며, 작품성 별점의 희귀도 가산점으로 사용하지 않았다. 새로운 번역 프로젝트의 필요성은 아래 한국어 대안 확인과 별개로 판단한다.
 
 ## 장점
 
-- **성장 시스템의 결합도가 높다.** 던전 레벨, Total Level, 장비 파츠, 내구도, 칩, Shadowgram이 서로 연결돼 대부분의 행동이 장기 성장으로 이어진다.
-- 죽거나 귀환해도 Total Level이 누적되므로 로그라이크에 익숙하지 않은 플레이어도 결국 강해질 수 있다.
-- 파츠에 따라 외형뿐 아니라 스킬과 테마 BGM 조각까지 바뀌어 캐릭터 커스터마이즈가 시각·전투·음악 모두에 영향을 준다.
-- 적을 던져 함정에 빠뜨리거나 환경을 이용하는 전술이 단순 수치 싸움을 넘어선다.
-- 각 스토리 던전이 큰 기믹을 하나씩 갖고 있어 랜덤 생성만 반복하는 것보다 변주가 많다.
-- 특촬·히어로물·NIS식 자기패러디를 섞은 대사와 연출은 장르 취향에 맞으면 강한 개성을 만든다.
-- 북미 PSP판은 영어 텍스트와 영어·일본어 음성을 지원해 원문 비교 자료로 활용하기 좋다.
-- 외부 평가는 전반적으로 높다. GameFAQs의 장기 사용자 평균, Famitsu, Metacritic, RPGamer, RPGFan이 모두 4.0급 판정을 지지한다.
+- **육성의 연결성이 좋다.** 던전에서 얻은 장비를 단기 전력과 장기 성장 사이에서 선택하게 만들어 수집과 개조가 따로 놀지 않는다. [게임동아](https://game.donga.com/3851/)
+- **실패 부담을 조절하는 설계가 강하다.** 손실의 긴장을 남기면서도 누적 성장으로 재도전의 의미를 유지한다. [WorthPlaying](https://worthplaying.com/article/2010/10/27/reviews/77819-psp-review-zhp-unlosing-ranger-vs-darkdeath-evilman/)
+- **던전의 개성이 있다.** 무작위 배치만 바꾸는 방식에서 벗어나 환경과 규칙에 변화를 준다. 다만 모든 기믹이 같은 수준으로 즐겁다는 뜻은 아니다. [RPGamer](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/)
+- **대사·캐릭터·음악의 인상이 선명하다.** 영웅물 패러디와 진지한 감정의 공존, 장비에 따라 바뀌는 외형이 작품의 개성을 강화한다. RPGFan은 글쓰기와 위험·보상 균형을 특히 긍정했다. [RPGFan](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
 
 ## 단점
 
-- **게임 밸런스가 거칠다.** 초반은 잡몹과 EN·내구도 관리가 상당히 빡빡한 반면 충분히 성장하면 일반 구간이 지나치게 단순해지는 구간이 있다.
-- 사망·장비 손실·강제 저장 구조는 로그라이크의 긴장감을 만들지만 실수나 불운에 매우 민감하다.
-- 장비 CND가 빠르게 줄어드는 구조 때문에 마음에 드는 장비를 장기간 유지하기 어렵고, 수리·합성 비용도 부담이 크다.
-- EN이 이동과 스킬에 동시에 쓰여 초반에는 식량 운이 플레이 체감에 큰 영향을 준다.
-- 대각선 이동·일반 공격을 지원하지 않는 쿼터뷰 조작은 처음 적응하기 불편하다.
-- PSP판에는 일부 진행 방해급 버그와 프리즈 사례가 보고되어 있다. 특정 적 공격 뒤 인체개조 불능, 장비 전송 관련 프리즈 등 위험 사례가 정리되어 있다.
-- 후반 육성과 엔드게임은 전형적인 NIS식 장기 노가다를 요구하므로 메인 스토리만 원하는 플레이어에게는 과도하게 느껴질 수 있다.
-- 개그와 패러디 비중이 높아 진지한 서사 중심 RPG를 원하는 사람에게는 대화가 장황하거나 가벼워 보일 수 있다.
+- **난도 곡선이 매끄럽지 않다.** 일반 탐색과 일부 전투의 요구 수준이 벌어져 준비를 다시 하거나 반복 육성해야 할 때가 있다. [RPGFan](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
+- **반복의 중심 행동은 크게 달라지지 않는다.** 장비를 모으고 적을 처리하며 다음 층을 찾는 흐름이 길어지면 단조로워진다. 일부 환경 기믹도 신선함보다 이동의 번거로움을 만들 수 있다. [RPGamer](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/), [WorthPlaying](https://worthplaying.com/article/2010/10/27/reviews/77819-psp-review-zhp-unlosing-ranger-vs-darkdeath-evilman/)
+- **설명과 시인성에 빈틈이 있다.** 깊이 있는 육성 규칙은 외부 안내가 필요할 만큼 게임 내 설명이 부족하며, 쿼터뷰 이동과 일부 거친 그래픽도 적응을 요구한다. [RPGFan](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/), [Famitsu](https://www.famitsu.com/game/title/6414/reviews)
+- **개그의 질과 분위기가 고르지 않다.** 같은 조롱의 반복, 일부 영어 현지화의 낡은 고정관념 표현, 코미디와 진지한 대목의 온도 차가 지적됐다. 개별 사건과 인물은 스포일러 방지를 위해 생략한다. [RPGamer](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/)
+- **일본 PSP판의 버그 보고가 있다.** 개조 기능 이상·장비 전송 시 프리즈 등 사용자 정리가 있으나, 모든 지역판과 Best판에서 같은 조건으로 재현되는지는 미확인이다. 해당 위키에는 이식판 구분 정비 요청도 있어 적용 범위를 과장하지 않는다. [게임카탈로그](https://w.atwiki.jp/gcmatome/pages/3366.html)
 
-강한 개성과 높은 완성도를 갖췄지만 밸런스와 버그, 반복 노가다라는 분명한 약점이 있어 **4.5까지 올리기보다는 4.0 우수작이 적절**하다.
+장르적 손실 구조 자체를 결함으로 처리하지 않았다. 난도 편차, 반복의 체감, 설명의 불충분함이 합쳐져 **4.5보다 4.0이 적절**하다는 판단이다.
 
 ## 외부 평가
 
 | 출처 | 점수 / 판정 | 표본 수 | 대상 판본·비고 |
 |---|---:|---:|---|
-| GameFAQs | **4.13/5** | **379표** | PSP 사용자 평가 |
-| GameFAQs | 플레이타임 **약 49시간** | **108명** | PSP 전체 제출 평균 |
-| Famitsu | **32/40** | 4인 크로스리뷰 | 9 / 8 / 8 / 7 |
-| 4Gamer | **87/100** | **2건** | 일본 PSP 독자평가 |
-| Metacritic | **81/100** | **19개 매체** | PSP 비평가 평균 |
-| RPGamer | **4.0/5** | 1개 매체 리뷰 | PSP. 커스터마이즈와 현지화를 높게 평가, 반복성 지적 |
-| RPGFan | **85/100** | 1개 매체 리뷰 | PSP. NIS 기존작과 다른 독자적 개성을 긍정 |
-| HonestGamers 외부평가 집계 | **8/10** | 4개 주요 점수 표기 | WorthPlaying 8.5, RPGFan 85, RPGamer 4/5, GameCritics 7/10 |
-| 게임카탈로그@Wiki | **게임 밸런스가 불안정** | 정성 평가 | 개성은 높게 평가하나 밸런스와 버그를 핵심 문제로 지적 |
+| [Metacritic](https://www.metacritic.com/game/z-h-p-unlosing-ranger-vs-darkdeath-evilman/) | 81/100 | 비평가 19건 | PSP 선택 항목. 2022판이나 합본판 점수가 아님 |
+| [RPGFan](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/) | 85/100 | 리뷰 1건 | John Tucker, 2011-07-31, Sony PSP 명시 |
+| [RPGamer](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/) | 4.0/5 | 리뷰 1건 | Zach Welhouse, 2010-10-27, PSP 명시 |
+| [WorthPlaying](https://worthplaying.com/article/2010/10/27/reviews/77819-psp-review-zhp-unlosing-ranger-vs-darkdeath-evilman/) | 8.5/10 | 리뷰 1건 | Chris DeAngelus, 2010-10-27, PSP 리뷰 |
+| [Famitsu](https://www.famitsu.com/game/title/6414/reviews) | 32/40 | 크로스리뷰 4인 | PSP. 9·8·8·7, 같은 매체의 4인 평가 |
+| [GameFAQs](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/stats) | 4.13/5 | 사용자 379표 | PSP 통계 항목, 자발적 투표 |
+| [4Gamer](https://www.4gamer.net/games/098/G009860/) | 87/100 | 독자 리뷰 2건 | PSP. 개별 점수 90·85, 사이트 표시 GamerScore |
+| [Metacritic 사용자](https://www.metacritic.com/game/z-h-p-unlosing-ranger-vs-darkdeath-evilman/) | 4.7/10 | 사용자 82표 | PSP. 매체 평균과 별개 |
+| [게임동아](https://game.donga.com/3851/) | 긍정적 정성 평가 | 리뷰 1건 | 국내 PSP 리뷰. 전투·탐험·개조 연결을 긍정, 일본어 장벽 언급 |
+| [게임카탈로그](https://w.atwiki.jp/gcmatome/pages/3366.html) | 게임 밸런스가 불안정 | 위키 정성 평가 | 일본 PSP 관련 비판 참고. 이식판 구분 정비 요청이 걸려 있음 |
 
-평가 분포는 전반적으로 강하다. GameFAQs 379표에서 4.13/5라는 장기 사용자 평가와 Metacritic 81/100은 단순 소수 팬덤만의 고평가로 보기 어렵고, Famitsu와 전문 RPG 매체도 일관되게 긍정적이다.
+**점수 해석:** 전문 매체는 육성·던전 설계를 일관되게 좋게 보지만, 개그와 반복·난도에는 차이가 있다. Metacritic 사용자란에는 게임 내용보다 순위를 올리거나 내리려는 의도를 직접 밝힌 글도 보여, 4.7을 대표적인 플레이 경험의 평균으로 그대로 받아들이기 어렵다. 그렇다고 부정 평가 전체를 무효라고 단정하지도 않는다.
 
-반면 일본 게임카탈로그가 지적한 밸런스·프리즈 문제와 일부 GameFAQs 극단적 저평가 후기처럼, 로그라이크의 손실 구조와 버그에 적응하지 못하면 체감이 크게 떨어질 수 있다. 이 편차 때문에 4.5는 보류한다.
+본문을 직접 읽은 독립 매체는 RPGFan·RPGamer·WorthPlaying·Famitsu·게임동아 **5곳**이다. Famitsu 4인분을 포함하면 개별 리뷰 글은 **8건**이며, Metacritic 집계·독자 투표·위키와 구분한다. 집계에 포함될 수 있는 개별 리뷰를 별도 독립 표본으로 중복 합산하지 않았다.
+
+4Gamer의 2건은 보조 자료이며 **표본이 적다는 이유로 작품성을 감점하지 않았다.** Steam·Switch 합본 평점은 PSP 평가표에 섞지 않았다. 수치는 조사일에 웹에서 확인된 표시값이며 실시간 전수 집계를 뜻하지 않는다.
 
 ## 플레이타임
 
-- GameFAQs 제출 **108명 평균 약 49시간**.
-- RPGamer는 일반적인 본편 범위를 **20~40시간**으로 잡는다.
-- 스토리만 끝내는 것과 Total Level·Mastery Cave·Dengeki Dungeon·비밀 보스까지 파는 것은 완전히 다른 규모다.
-- NIS 특유의 장기 성장 구조상 엔드게임을 본격적으로 시작하면 수십~수백 시간 단위로 늘어날 수 있다.
+- **본편 참고 범위:** RPGamer PSP 리뷰의 20~40시간 표기. 개인 리뷰 기준이며 통계 평균이 아니다.
+- **전체 플레이타임 제출:** GameFAQs PSP 통계 108명, 평균 **49.1시간**. 본편만 진행한 사람과 선택 콘텐츠까지 한 사람을 분리한 수치가 아니다.
+- 장기 육성·수집을 포함한 완전 완료 시간은 신뢰할 수 있는 동등 조건 표본을 확보하지 못해 확정하지 않았다.
+- 번역 검수량을 플레이타임에 기계적으로 대응시키지 않는다. 시스템 설명·장비 문구·선택 콘텐츠·지역판 차이의 확인이 별도로 필요하다.
 
-따라서 한국어화 회귀검수에서도 단순 메인 엔딩만 확인해서는 부족하다. 최소한 장별 기믹, 장비·인체개조, Dengeki Dungeon, New Game+와 엔드게임 해금까지 별도 체크해야 한다.
+근거: [RPGamer](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/), [GameFAQs 플레이 통계](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/stats).
 
 ## 한국어화 상태
 
-- 한국 정식 발매: **있음**. SCEK가 2010-03-12 `절대 히어로 개조계획`으로 PSP 패키지·PSN판을 발매했다.
-- 한국 정식판 언어: **일본어**. SCEK 제공 발매 자료에서 `언어: 일본어`로 명시되어 있다.
-- 공식 한국어판: **확인되지 않음**. 한국 발매는 현지화가 아니라 일본어판의 국내 정식 유통이다.
-- 공개 PSP 유저 한글패치: **2026-09-16 기준 공개적으로 확인되지 않음**.
-- 공식 영어 PSP판: **있음**. 북미 `ULUS-10559`, 유럽 `NPEH-00099` 계열이 존재한다.
-- 북미 PSP판은 영어 텍스트와 영어·일본어 음성을 제공하며, 사용자 조사상 일본판의 Kuro·Toro 콜라보를 제외하면 대부분의 주요 콘텐츠를 유지한다.
+**기존 문서의 “공개 PSP 한글패치 미확인”은 그대로 유지할 수 없다.**
 
-`공개적으로 확인되지 않음`은 비공개 작업까지 포함해 절대 존재하지 않는다는 뜻이 아니다.
+| 구분 | 2026-10-08 확인 결과 |
+|---|---|
+| 2010 한국 정식판 | SCEK 정식 유통. 공식 발매 자료에 게임 언어 **일본어** 명시 |
+| PSP 공개 한국어 패치 | 한글로게임에 **시놀부 / 2026-06-08 / v1.0** 배포 기록과 원배포처 링크가 있음 |
+| 패치 번역 범위·완료도 | 원배포글 본문을 확인하지 못해 미확인. v1.0 표기만으로 완전 번역·기계번역 여부를 단정하지 않음 |
+| 패치 적용 대상·실사용 | 필요한 일본/북미/한국판, 원본 판본 조건, 현재 파일 이용 여부와 실기 검증 미확인 |
+| Steam 공식 한국어 | 공식 언어표에 **한국어 지원하지 않음**. 영어·일본어 지원 |
+| Switch 공식 한국어 | 확인한 일본·북미 상품 정보에서 한국어 지원을 확인하지 못함. 북미 합본 상품의 지원 언어 표기는 영어 |
+| Switch·PC 별도 유저 패치 | 이번 공개 검색에서 별도로 확인되지 않음 |
+
+배포 기록은 [한글로게임 작품 항목](https://www.hangulogame.com/patch/psp/2975/)에서 확인했다. 해당 항목이 연결하는 [원배포처 Naver Cafe 게시글](https://cafe.naver.com/f-e/cafes/16259867/articles/32573)도 확인을 시도했으나 본문을 읽지 못했다. 따라서 **배포 기록 확인과 실제 이용 가능 검증을 구분**한다.
+
+한국어 제목·원제·영문 제목에 PSP·Switch·Steam·한글패치·한국어·Korean patch를 조합해 재검색했다. “한국어판 새제품”이라는 판매처 제목만으로 공식 한국어판이라고 판단하지 않았으며, 다른 NIS 게임에 등장하는 본작 캐릭터도 본작의 한국어 대안으로 세지 않았다.
+
+근거: [SCEK 제공 자료](https://www.inven.co.kr/webzine/news/?news=26809), [Steam 언어표](https://store.steampowered.com/app/1732070/ZHP_Unlosing_Ranger_vs_Darkdeath_Evilman/?l=koreana), [Nintendo 북미 상품](https://www.nintendo.com/us/store/products/prinny-presents-nis-classics-volume-2-makai-kingdom-reclaimed-and-rebound-zhp-unlosing-ranger-vs-darkdeath-evilman-switch/).
 
 ## 원작 / 이식 / 확장판 관계
 
-- **2010-03-11 PSP 일본판**: 원작. 통상·한정·DL판 발매.
-- **2010-03-12 PSP 한국 정식판**: SCEK 발매. 한국어 제목으로 유통됐으나 게임 언어는 일본어.
-- **2010-10 PSP 북미판 / 2010-11 유럽판**: NIS America 공식 영어 현지화. 북미판은 일본어·영어 음성 선택 가능.
-- **2012-04-26 PSP the Best**: 일본 염가 재발매.
-- **2022-03-31 Switch 일본판**: 현대 이식.
-- **2022-05-10/13 Switch·PC 서구판**: `Prinny Presents NIS Classics Volume 2` 계열 및 Steam 단독판. 영어 텍스트, 영어·일본어 음성 지원.
+- **2010 PSP 일본판:** 원작. 한국에는 이 게임이 일본어로 정식 유통됐다.
+- **2010 PSP 북미·유럽판:** 공식 영어 현지화. 북미판의 영어·일본어 음성 선택은 당시 리뷰에서 확인된다.
+- **2012 PSP the Best:** 일본 염가 재출시. 새 확장판으로 분류하지 않는다.
+- **2022 Switch 일본판:** 2022-03-31 단독 다운로드 이식.
+- **2022 Switch 북미 합본 / Steam:** 북미 2022-05-10. Switch에서는 Makai Kingdom과 함께 `Prinny Presents NIS Classics Volume 2`에 수록되고, Steam에서는 단독 판매된다.
+- 현재 자료상 **새 시나리오를 대폭 늘린 리메이크나 콘텐츠 완전판으로 볼 근거는 없다.**
 
-### PSP판과 2022 현대 이식판의 중요한 차이
+근거: [GameFAQs 발매 데이터](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/data), [일본 Switch 공식 사이트](https://nippon1.jp/consumer/hero_switch/), [Nintendo](https://www.nintendo.com/us/store/products/prinny-presents-nis-classics-volume-2-makai-kingdom-reclaimed-and-rebound-zhp-unlosing-ranger-vs-darkdeath-evilman-switch/), [Steam](https://store.steampowered.com/app/1732070/ZHP_Unlosing_Ranger_vs_Darkdeath_Evilman/).
 
-2022 Switch·PC판은 라이선스 문제로 **PSP판의 전격문고 콜라보가 대거 삭제**됐다.
+## 플랫폼별 추가·삭제 콘텐츠
 
-PSP판에는 16개의 Dengeki Dungeon과 해당 작품 캐릭터를 모티브로 한 보스·장비·아바타가 존재한다. GameFAQs의 PSP 완주 가이드에서도 별도의 `Dengeki Dungeons` 섹션과 16장의 Dengeki Card가 확인된다.
+| 항목 | PSP 원작 | 2022 Switch·PC |
+|---|---|---|
+| 기본 던전·개조 구조 | 원본 | 핵심 구조를 유지한 현대 기종 이식 |
+| 전격문고 콜라보 | 관련 던전·장비·외형 존재. 영어 PSP 가이드에도 별도 16종 구성 확인 | Switch 플레이어와 Steam 구매자들이 관련 던전·장비·외형 삭제를 보고 |
+| 일본 PSP와 북미 PSP | 일본판 기준 콘텐츠. 북미판은 영어 현지화·영일 음성 선택 | 해당 없음 |
+| 지역 한정 요소 | 북미 PSP에서 Toro·Kuro가 빠졌다는 당시 사용자 답변 존재. 모든 자산의 일대일 대조는 미실시 | 원판 모든 지역 요소를 보존한 판본으로 볼 수 없음 |
+| 현대 플랫폼 기능 | PSP 기기의 휴대·중단 환경 | Steam 도전 과제·클라우드 지원. Switch TV·휴대 모드 |
+| 업데이트 | 판본별 버그 수정 내역 미확인 | 일본 Switch 1.0.1 공식 수정 공지 있음. 모든 문제 해결의 증거는 아님 |
 
-반면 2022 이식판 사용자 리뷰에서는 이 Dengeki Dungeon·전용 장비·캐릭터 외형이 제거됐다고 보고하며, 4Gamer의 현행기 독자 리뷰도 PSP판 대비 게임 볼륨이 크게 줄었다고 비판한다.
+**확실한 차이와 해석을 분리한다.** PSP 콜라보의 존재는 [영어 PSP 가이드](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/faqs/61406)와 [당시 RPGamer 리뷰](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/)에서 확인된다. 이식판의 삭제는 [Steam 구매자 리뷰](https://steamcommunity.com/app/1732070/reviews/?browsefilter=toprated&l=japanese) 및 [4Gamer에 실린 Switch 플레이 후기](https://www.4gamer.net/games/631/G063127/index_userreview.html)로 교차 확인했다. 후자는 PC 항목 아래에 있지만 글쓴이가 Switch판 플레이임을 명시한다.
 
-따라서 2022판은 해상도와 현행기 접근성에서는 편하지만, **콘텐츠 완전성 면에서는 PSP판의 상위호환이 아니다.**
+삭제 원인을 **라이선스 문제로 단정할 공식 설명은 확보하지 못했다.** 권리 문제라는 설명은 사용자 추정으로 한정한다. 또한 삭제된 선택 콘텐츠를 “본편 절반 삭제”나 “모든 추가 콘텐츠 삭제”로 확대하지 않는다. 특정 인물·보상·해금 조건은 적지 않는다.
+
+북미 PSP의 지역 차이는 [당시 GameFAQs 답변](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/answers/239638-difference-between-the-jap-and-us-version), 일본 Switch 수정 내역은 [공식 1.0.1 공지](https://nippon1.jp/news/2022/20220531b.html)를 참고했다. 2022판의 초기 오류 사례를 PSP판 결함에 합산하지 않았다.
 
 ## 현재 추천 버전
 
-### 콘텐츠 완전성 우선
-
-**PSP 일본판 또는 PSP the Best**를 추천한다.
-
-전격문고 콜라보와 원본 엔드게임 구조를 보존하는 판본이기 때문이다. 한국 정식 UCKS-45149도 일본어로 발매된 PSP 계열이지만, 세부 콜라보 구성의 완전 일치까지 별도 검증하지 않았으므로 보존 기준점은 일본 원판으로 둔다.
-
-### 영어 접근성 우선
-
-**북미 PSP판 ULUS-10559**가 가장 좋은 대안이다.
-
-공식 영어 텍스트와 영어·일본어 음성을 지원하고, PSP판의 Dengeki Dungeon이 실제 영어 가이드에서 확인된다. 일본판 대비 Kuro·Toro 콜라보가 빠졌다는 사용자 보고는 있으나, 2022 현대 이식처럼 전격문고 던전 전체가 제거된 수준은 아니다.
-
-### 현행기 편의성 우선
-
-Switch·PC판은 구매와 실행이 쉽지만 Dengeki 콜라보 대량 삭제 때문에 **완전판 용도로는 추천하지 않는다.**
+- **원본 콘텐츠 보존:** PSP 일본판. Best판은 재출시 선택지이나 원판 대비 수정 여부와 한국어 패치 호환은 별도 확인이 필요하다.
+- **영어 플레이:** PSP 북미판. 공식 영어 텍스트와 영일 음성, PSP 콜라보를 함께 확인할 수 있다.
+- **현행 플랫폼에서 시작:** Switch·Steam판. 접근성은 좋지만 삭제된 콜라보까지 포함한 원본의 상위호환은 아니다.
+- **한국어 플레이:** 기존 PSP 패치의 원배포처 안내를 먼저 확인한다. 패치가 요구하는 판본을 확인하기 전에는 특정 PSP 디스크나 다운로드판과의 호환을 보장하지 않는다.
+- **새 한국어화 프로젝트 대상:** 아직 선정하지 않는다. 기존 한국어 대안의 범위와 이용 가능 여부 확인이 우선이다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성: **4.0급**. 외부 평가와 장기 사용자 평가가 모두 강하다.
-- 한국어 접근성: **낮음**. 한국 정식 발매판도 일본어이며 공식 한국어판이 확인되지 않는다.
-- 기존 언어 대안: **강함**. 공식 영어 PSP판과 현대 영문판이 존재한다.
-- PSP 독자 가치: **높음**. 현행기판에서 삭제된 Dengeki 콜라보 콘텐츠가 원판에 남아 있다.
-- 한글화 우선도: **B**.
-- 판단 근거: 한국어화 가치는 분명하고 PSP 원본이 콘텐츠 완전성 면에서 독자적이지만, 공식 영어판이라는 강력한 접근성 대안이 있어 A급 최우선보다는 한 단계 낮춘다.
+- **작품성:** 4.0/5. 탐색·개조·재도전의 연결성과 안정적인 매체 평가가 근거다.
+- **희소성:** 원판 보존 가치로만 기록하며 별점에 가산하지 않았다.
+- **한국어 접근성:** 국내 정식판과 유저 패치 상태는 위 표처럼 구분한다.
+- **기존 한국어화 대안:** 배포 기록은 확인했지만 완료 범위와 현행 이용 가능성은 검증하지 못했다.
+- **한글화 우선도:** **보류**. 후보 자격 확인 전 A/B/C로 새 프로젝트의 순위를 매기지 않는다.
+- **판정 원칙:** 완료된 실사용 한국어 대안이 확인되면 E.1에 따라 활성 후보에서 제외하고 이 상세 조사와 4.0 별점은 보존한다. 이 대상은 PSP 원작이므로 구작 한국어화에 대한 리메이크·리마스터 예외를 적용할 수 없다.
+- **현재 판단:** 한국어 패치가 없다고 계속 취급하는 것도, 버전 번호만 보고 완료 패치라고 확정하는 것도 피한다. 후보 자격 보류는 작품성의 하락을 뜻하지 않는다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | 미확인 | 스토리·튜토리얼·아이템·장비·인체개조·Dengeki Dungeon·엔드게임 텍스트 전체 집계 없음 |
-| 텍스트 추출 | 미확인 | PSP retail 파일 구조와 문자열 포맷 미분석 |
-| 텍스트 재삽입 | 미확인 | 포인터·압축·인코딩·문자 폭 처리 구조 미확인 |
-| 폰트 작업 | 미확인 | 일본판·북미판 폰트 자산과 한글 글리프 수용 가능 여부 미분석 |
-| UI 이미지 / 아틀라스 | 미확인 | 메뉴·장비·인체개조·튜토리얼 이미지 텍스트 범위 미분석 |
-| 영상 자막 | 미확인 | 이벤트 영상과 자막·하드서브 포함 여부 미분석 |
-| 제어문자 / 스크립트 구조 | 미확인 | 장별 이벤트·던전·엔드게임 조건과 텍스트 제어코드 미분석 |
-| 실행 파일 수정 | 미확인 | 문자 렌더러·폰트 폭·메모리 제약에 ELF 수정이 필요한지 미확인 |
-| 패치 배포 방식 | 미확인 | 실제 변경 파일 구조 확인 후 결정 필요 |
-| 실기·에뮬 검수 | 미확인 | PSP판 자체의 기존 프리즈·버그와 번역 패치 회귀 문제를 분리해 검수해야 함 |
+| 예상 텍스트량 | 미확인 | 스토리·설명·장비·선택 콘텐츠 문자열 전수 집계 없음 |
+| 텍스트 추출 | 미확인 | 실제 PSP 게임 파일 구조 미분석 |
+| 텍스트 재삽입 | 미확인 | 문자열 저장 방식·포인터·압축 미분석 |
+| 폰트 작업 | 미확인 | 글리프·폭·문자 렌더러 미분석 |
+| UI 이미지 / 아틀라스 | 미확인 | 이미지 내 문자와 지역판 차이 미분석 |
+| 영상 자막 | 미확인 | 자막 포함 범위와 저장 형태 미분석 |
+| 제어문자 / 스크립트 구조 | 미확인 | 제어 코드·대사창 제약·분기 조건 미분석 |
+| 실행 파일 수정 | 미확인 | 렌더러와 실행 파일 수정 필요 여부 미확인 |
+| 패치 배포 방식 | 미확인 | 기존 패치의 적용 대상·방식·허용 범위 미확인 |
+| 실기·에뮬 검수 | 미확인 | 원판 버그와 패치 회귀 문제를 분리한 검수 미실시 |
 
 ### 예상 한글화 난이도
 
 **미확인**
 
-공식 영어 PSP판이 있다는 사실만으로 일본판과 동일한 스크립트 구조나 재삽입 난이도를 단정하지 않는다. 실제 ISO 파일 목록, 일본·북미판 차이, 폰트와 렌더러, Dengeki 콜라보 자산을 비교한 뒤 기술 난이도를 확정해야 한다.
-
-## 대표 스크린샷
-
-1. **PSP 일본판 실제 던전 화면 · 4Gamer**  
-   [![Zettai Hero Kaizou Keikaku PSP gameplay 1](https://www.4gamer.net/games/098/G009860/20090916042/TN/014.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
-
-2. **PSP 일본판 실제 던전 화면 · 4Gamer**  
-   [![Zettai Hero Kaizou Keikaku PSP gameplay 2](https://www.4gamer.net/games/098/G009860/20090916042/TN/016.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
-
-3. **PSP 일본판 실제 던전 화면 · 4Gamer**  
-   [![Zettai Hero Kaizou Keikaku PSP gameplay 3](https://www.4gamer.net/games/098/G009860/20090916042/TN/020.jpg)](https://www.4gamer.net/games/098/G009860/20090916042/)
-
-추가 화면 확인용: [4Gamer PSP 작품 페이지](https://www.4gamer.net/games/098/G009860/) / [GameFAQs PSP 미디어](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/media)
+공식 영어판이나 한국어 패치 배포 기록이 있다는 사실만으로 별도 프로젝트가 쉽다고 판단하지 않는다. 이번 조사는 웹 자료 검토이며 게임·패치 실행이나 원본 파일 분석을 하지 않았다.
 
 ## 한줄평
 
-**로그라이크의 죽음과 손실을 NIS식 영구 성장·인체개조·수치 인플레이션으로 뒤틀어 만든 독창적인 히어로 RPG. 밸런스와 버그는 거칠지만 PSP판의 깊이와 콘텐츠 완전성은 지금도 강하다.**
+**장비의 소모와 실패를 다음 성장으로 연결하는 발상이 뛰어난 던전 RPG. 난도 편차와 반복 부담을 감안해도 4.0 우수작이며, 새 번역 후보 여부는 발견된 PSP 한국어 패치부터 확인해야 한다.**
 
 ## 최종 판정
 
-- 발굴 추천도: **⭐⭐⭐⭐☆ (4.0/5)**
-- 후보 상태: **💎 우선 후보**
-- 한글화 우선도: **B**
-- 기술 난이도: **미확인**
+- **작품성: ⭐⭐⭐⭐☆ 4.0/5 유지**
+- **후보 상태: ⏸️ 한국어 대안 검증에 따른 자격 보류**
+- **한글화 우선도: 보류**
+- **기술 난이도: 미확인**
 
-높은 외부 평가와 독창적인 성장·던전 설계, PSP 원판만의 Dengeki 콜라보 보존 가치를 합치면 4.0 우수작으로 등록할 근거가 충분하다.
+4.0은 독창적인 성장 설계와 탐색의 재미, PSP 실평가를 근거로 한다. 반복 부담·난도 곡선·설명 부족 때문에 4.5로 올리지 않는다. PSP 독자 콘텐츠나 한국어 부재를 점수에 더하지 않았고, 소수 표본 자체를 감점하지도 않았다.
 
-반면 게임 밸런스의 거친 편차, 장비·EN 관리 스트레스, 진행 방해성 버그와 장기 노가다는 분명한 약점이므로 4.5까지 올리지는 않는다.
-
-한글화 프로젝트 관점에서는 한국 정식판조차 일본어였고 PSP 원판에만 완전한 콜라보 콘텐츠가 남아 있어 번역 가치는 높다. 다만 공식 영어 PSP판이 이미 강력한 접근성 대안이므로 우선도는 **B**로 둔다.
+후보 자격은 한국어 대안의 확인 결과에 따라 재판정한다. 검증 전에는 기존 B급 활성 후보를 무조건 유지하지 않으며, 작품성 평가와 상세 조사 문서는 보존한다.
 
 ## 참고 자료
 
-- [Famitsu - PSP 크로스리뷰 9 / 8 / 8 / 7](https://www.famitsu.com/game/title/6414/reviews)
-- [GameFAQs - PSP 기본 정보·평가·플레이타임](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman)
-- [GameFAQs - PSP 통계 4.13/5, 379표](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/stats)
-- [GameFAQs - PSP 발매·제품 코드](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/data)
-- [GameFAQs - PSP Dengeki Dungeon·엔드게임 가이드](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/faqs/61406)
-- [4Gamer - PSP 작품 페이지·독자평가](https://www.4gamer.net/games/098/G009860/)
-- [4Gamer - PSP 시스템·스크린샷](https://www.4gamer.net/games/098/G009860/20090916042/)
-- [게임카탈로그@Wiki - PSP 밸런스·버그·시스템 평가](https://w.atwiki.jp/gcmatome/pages/3366.html)
-- [Metacritic - PSP 81/100, 19개 매체](https://www.metacritic.com/game/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
-- [RPGamer - PSP 4.0/5 리뷰](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/)
-- [RPGFan - PSP 85/100 리뷰](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
-- [PlayStation Blog - 북미 PSP 발매·게임 구조](https://blog.playstation.com/?p=38345)
-- [SCEK 제공 국내 발매 기사 - 한국 발매·언어 일본어](https://www.inven.co.kr/webzine/news/?news=26809&site=ydgoh)
-- [NIS America - 2022 Switch·PC판 언어·발매 정보](https://www.nisamerica.com/games/nis-classics-vol-2)
-- [Nintendo - Switch판 영어 지원](https://www.nintendo.com/us/store/products/prinny-presents-nis-classics-volume-2-makai-kingdom-reclaimed-and-rebound-zhp-unlosing-ranger-vs-darkdeath-evilman-switch/)
-- [4Gamer - 현행기판 Dengeki 콜라보 삭제 사용자 리뷰](https://www.4gamer.net/games/631/G063127/index_userreview.html)
+- [SCEK 제공 PSP 국내 발매·일본어 표기](https://www.inven.co.kr/webzine/news/?news=26809)
+- [GameFAQs 판본별 발매일·제품 코드](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/data)
+- [GameFAQs PSP 평점·플레이타임 통계](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/stats)
+- [Metacritic PSP 비평가·사용자 평가](https://www.metacritic.com/game/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
+- [RPGFan PSP 리뷰](https://www.rpgfan.com/review/z-h-p-unlosing-ranger-vs-darkdeath-evilman/)
+- [RPGamer PSP 리뷰](https://rpgamer.com/review/zettai-hero-project-unlosing-ranger-vs-darkdeath-evilman-review/)
+- [WorthPlaying PSP 리뷰](https://worthplaying.com/article/2010/10/27/reviews/77819-psp-review-zhp-unlosing-ranger-vs-darkdeath-evilman/)
+- [게임동아 국내 PSP 리뷰](https://game.donga.com/3851/)
+- [Famitsu PSP 크로스리뷰](https://www.famitsu.com/game/title/6414/reviews)
+- [4Gamer PSP 작품·독자 평가](https://www.4gamer.net/games/098/G009860/)
+- [게임카탈로그 PSP 관련 시스템·문제점 정리](https://w.atwiki.jp/gcmatome/pages/3366.html)
+- [한글로게임 PSP 한국어 패치 배포 기록](https://www.hangulogame.com/patch/psp/2975/)
+- [카탈로그가 연결한 Naver Cafe 원배포처 · 본문 검증 미완료](https://cafe.naver.com/f-e/cafes/16259867/articles/32573)
+- [일본 Switch 공식 소개](https://nippon1.jp/consumer/hero_switch/)
+- [Nintendo 북미 합본 상품·지원 언어](https://www.nintendo.com/us/store/products/prinny-presents-nis-classics-volume-2-makai-kingdom-reclaimed-and-rebound-zhp-unlosing-ranger-vs-darkdeath-evilman-switch/)
+- [Steam 공식 상품·지원 언어](https://store.steampowered.com/app/1732070/ZHP_Unlosing_Ranger_vs_Darkdeath_Evilman/?l=koreana)
+- [PSP 콜라보 구성 확인용 가이드 · 상세 공략 스포일러 주의](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/faqs/61406)
+- [Steam 구매자들의 이식판 콘텐츠 삭제 보고](https://steamcommunity.com/app/1732070/reviews/?browsefilter=toprated&l=japanese)
+- [4Gamer Switch 플레이어의 삭제 콘텐츠 보고 · PC 항목 내 게시](https://www.4gamer.net/games/631/G063127/index_userreview.html)
+- [북미·일본 PSP 지역 차이 사용자 답변](https://gamefaqs.gamespot.com/psp/975347-zhp-unlosing-ranger-vs-darkdeath-evilman/answers/239638-difference-between-the-jap-and-us-version)
+- [일본 Switch 1.0.1 공식 수정 공지](https://nippon1.jp/news/2022/20220531b.html)
+- [4Gamer PSP 스크린샷 원출처](https://www.4gamer.net/games/098/G009860/20090916042/)
+

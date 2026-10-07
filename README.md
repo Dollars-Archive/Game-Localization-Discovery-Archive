@@ -12,7 +12,7 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 40 | 5 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 43 | 7 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 55 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 1 | 0 | 0 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
@@ -20,7 +20,7 @@
 > [!NOTE]
 > PS2 등록 40개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 등록 43개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> PSP 보존 43개 중 활성 후보는 **30개**, 한국어 대안·재평가 보류 10개, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보 7개는 활성 후보 기준이며 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
