@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **43개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **6개**
+> 등록 후보: **43개** / 발굴 우선 후보: **7개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -30,7 +30,7 @@
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐½☆ | B | Joko 4.00/5 (4건) / PS2 개인 후기 4명 교차 확인 | 확인 못함 | PC 원작 → PS2 음성·후일담 → PSP 단편 문제집 추가 | 🟢 후보 |
 | [I/O (아이오)](games/io.md) | 2006 | SF 미스터리·다중시점 VN | ⭐⭐⭐½☆ | B | Bangumi 8.1/10 (1,037표, PS2·PC 통합) / PS2·PC 장문 리뷰 교차 확인 | 확인 못함 | PS2 원판 → Windows `revision II` 개정판 | 🟢 후보 |
 | [Elysion: Eien no Sanctuary (엘리시온 ～영원의 생츄어리～)](games/elysion-eien-no-sanctuary.md) | 2003 | 폐쇄공간·저택·서스펜스 ADV | ⭐⭐⭐½☆ | B | 소표본 수치보다 PC/DC 감상 본문 중심 재평가 / PS2 직접 비평 부족 | 공개적으로 확인되지 않음 | PC 원작 → DC 대폭 확장 → PS2 이식 / 현대 리마스터 확인 못함 | 🟢 후보 |
-| [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐⭐☆ | B | GAMEMAN 9.0/10 / 피코피코대백과 4.8/5 (6건) / Famitsu 29/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
+| [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐½☆ | B | Joko 공개52건 3.56/5 / Gavas6건(발매 전 기대·소개 포함) / 완료 후기3명 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 두 초기 패키지는 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐⭐☆ | B | GameFAQs 4.11/5 (19표) / Famitsu 30/40 | 확인 못함 | PS2 전용 / Best판 있음 | 💎 우선 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
@@ -124,6 +124,7 @@
 그 결과 **가족계획 마음의 인연 / Baldr Force EXE / Kanon / 구원의 반 재림조 / ef / Little Busters! Converted Edition / ToHeart / Cross Channel** 8작품을 활성 신규 한글화 후보에서 제외했다. 작품성 점수와 상세 문서는 그대로 보존한다.
 
 [전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
+
 
 
 
