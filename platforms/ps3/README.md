@@ -25,6 +25,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [E.X. Troopers (엑스 트루퍼즈)](games/ex-troopers.md) | 2012 | 3인칭 슈팅 / 액션 RPG·만화틱 액션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu PS3 32/40 / GameFAQs Great·74명 / 4Gamer 86·3명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BLKS-20399 존재 / 완전 영문패치 v1.0.2 존재 | PS3·3DS 동시판 / PS3 고해상도·온라인 / 3DS 로컬·입체 3D / 후발 이식 없음 | 🟢 후보 |
 | [Mobile Suit Gundam: Battlefield Record U.C. 0081 (기동전사 건담전기 Battlefield Record U.C.0081)](games/mobile-suit-gundam-battlefield-record-uc-0081.md) | 2009 | 부대통솔형 3D 액션 / 모빌슈트 전투 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40 / GameFAQs 4.2·153명 / 4Gamer 69·13명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10090은 매뉴얼 한글화 | PS3 독점 / 후발 이식·리마스터 없음 / Side Stories 미수록 | 🟢 후보 |
 | [The Guided Fate Paradox (신과 운명혁명의 패러독스)](games/the-guided-fate-paradox.md) | 2013 | 로그라이크 RPG / 던전 크롤러 | ⭐⭐⭐½☆ 3.5/5 | B | MC 74·27평론 / GameFAQs Great·253명 / Famitsu 33/40 / Push Square 8/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10240 정발판은 공식 자료상 일본어 | PS3 독점 / 북미·유럽 영어판 / 후속 Awakened Fate Ultimatum은 별도 작품 | 🟢 후보 |
+| [The Awakened Fate Ultimatum (신과 운명각성의 크로스테제)](games/the-awakened-fate-ultimatum.md) | 2014 | 로그라이크 RPG / 던전 크롤러 | ⭐⭐⭐½☆ 3.5/5 | B | MC 65·20평론 / Famitsu 28/40 / RPG Site 8/10 / Push Square 7/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 유통판 일본어 | PS3 독점 / 북미·유럽 영어판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Arslan: The Warriors of Legend (아르슬란 전기×무쌍)](games/arslan-the-warriors-of-legend.md) | 2015 | 무쌍 액션 / 3D 비트엠업 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / GameSpot 7/10 / MC 69·43평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam도 한국어 미지원 | PS4 동시판 / Xbox One·PC 후발판 / PS3 고유 추가 콘텐츠 확인 못함 | 🟢 후보 |
 | [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 💎 우선 후보 |
 | [Ketsui: Kizuna Jigoku Tachi Extra (케츠이: 키즈나 지고쿠타치 EXTRA)](games/ketsui-kizuna-jigoku-tachi-extra.md) | 2013 | 종스크롤 탄막 슈팅 | ⭐⭐⭐⭐☆ 4.0/5 | C | MANIAC 86/100 / Famitsu 평균 6.5/10 / GameFAQs Great·34명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / PS4 Deathtiny도 한국어 대안 미확인 | Xbox 360 Extra 기반 PS3 이식·세부 수정·X Mode / PS4 Deathtiny는 M2 신규 고정밀 이식·연습 기능 대폭 확장 | 💎 우선 후보 |
@@ -64,7 +65,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | 등록 후보 | 26 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 5 |
+| 한글화 우선도 B | 6 |
 | 한글화 우선도 C | 21 |
 
 최근 갱신: **2026-10-07, Arslan: The Warriors of Legend 후보 등록. PS3 활성 후보 26개**.
