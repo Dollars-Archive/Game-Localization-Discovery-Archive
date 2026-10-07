@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **43개** / 발굴 우선 후보: **6개** / 한글화 A급 후보: **6개**
+> 등록 후보: **43개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -33,7 +33,7 @@
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐½☆ | B | Joko 공개52건 3.56/5 / Gavas6건(발매 전 기대·소개 포함) / 완료 후기3명 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 두 초기 패키지는 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐½☆ | B | Joko 표시59건 3.58/5(내장집계와 불일치) / GameFAQs Great 19표 / 개인 후기3명 교차 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 금·은메달판은 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·2인 주인공 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (7표) / GameFAQs 약 3.27/5 (13표) / GAMEMAN 7.9/10 | 확인 못함 | PS2 원판 → Windows → PSP 개선판 | 🟢 후보 |
-| [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지 택티컬 SRPG | ⭐⭐⭐⭐☆ | B | GameFAQs 4.02/5 (24표) / Famitsu 31/40 / GAMEMAN 7.8/10 | 확인 못함 | PS2 전용 / 공식 이식 확인 못함 | 💎 우선 후보 |
+| [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애·일본사·신화 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.2/5 (6건) / Joko 약 3.63/5 (8건) / GameFAQs 2.94/5 (8표) | 확인 못함 | PC 원작 → PS2 재구성·사유키 추가 엔딩 | 🟢 후보 |
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
