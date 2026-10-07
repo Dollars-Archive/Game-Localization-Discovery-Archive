@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **48개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **49개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -68,6 +68,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Nurarihyon no Mago: Hyakki Ryouran Taisen (누라리횬의 손자: 백귀요란대전)](games/nurarihyon-no-mago-hyakki-ryouran-taisen.md) | 2011 | 2D 대전 액션 / 4인 파티 파이터·거점 쟁탈 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·22명 / Jeuxvideo 14/20·1명 / 수입 리뷰 호평 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 공식 영어판도 미확인 | PS3·Xbox 360 일본 동시판 / 100+ 자코·측근·시마 점령 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Maji de Watashi ni Koi Shinasai! R (진심으로 날 사랑해라! R)](games/maji-de-watashi-ni-koi-shinasai-r.md) | 2012 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 萌えゲーアワード 원작 은상·시나리오 금상 / VNDB 8.4 참고 / PS3 직접 평점 표본 극소 | 2026-10-07 공식 한국어판·공개 완성 한글패치 확인 못함 / Steam 공식 영어판은 한국어 미지원 | PC 원작의 PS3 전연령 이식 / 720p·16:9 / 마작·카와카미 대전 추가 / 2021 PC 공식 영어판 | 🟢 후보 |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2011 | 서스펜스 픽션 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 4Gamer 81·3명 / GameFAQs Good·11명 / Bangumi 6.5·30명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3·Xbox 360 원판 / PSP 강화 이식은 과거편·후일담+신규 CG 추가 | 🟢 후보 |
+| [Akatsuki no Goei Trinity (새벽의 호위 트리니티)](games/akatsuki-no-goei-trinity.md) | 2012 | 연애 ADV / 비주얼 노벨·3부작 합본 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·11명 / 원작 VNDB 7.36·1328명 / 완결편 VNDB 7.98·700+명 | 2026-10-07 PS3 완성 한글패치 미확인 / PC 원작 1편 공개 준한글화는 범위·선택지 제약 | PS3·PSP 보강 합본 / 2014 PC Complete Edition이 콘솔 추가 요소 역이식·성인 콘텐츠 포함 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -83,10 +84,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 48 |
+| 등록 후보 | 49 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 13 |
-| 한글화 우선도 C | 35 |
+| 한글화 우선도 C | 36 |
 
-최근 갱신: **2026-10-07, Kaihou Shoujo SIN 후보 등록. PS3 활성 후보 48개**.
+최근 갱신: **2026-10-07, Akatsuki no Goei Trinity 후보 등록. PS3 활성 후보 49개**.
