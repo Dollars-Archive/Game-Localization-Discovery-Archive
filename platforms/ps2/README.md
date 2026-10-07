@@ -51,7 +51,7 @@
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko19건(집계·개별평균 불일치) / Gavas8건 중 실경험5건 / GameFAQs4.25/5·4표 | 2026-10-07 공개 확인 못함 | PS2 오리지널5화·TV성우 풀보이스 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
 | [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
-| [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 강제 약혼·동거·학원 러브코미디 비주얼노벨 | ⭐⭐⭐½☆ | B | Gavas 4.4/5 (8건) / GameFAQs 3.64/5 (7표) / Joko 공개 10건 약 3.9/5 | 공개적으로 확인되지 않음 | PS2 원판·PrincessSoft Collection / 모바일 이식 / Windows `Final fandisk`는 별도 팬디스크 / 2는 별도 후속작 | 🟢 후보 |
+| [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 선택지형 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 본문 3.65·23건 (집계 3.78) / Gavas 4.4·8건, Collection 4.0·4건 / GF 3.64·7표; 중복·소개형 분리, 상세 검토 | 공개적으로 확인되지 않음 | PS2 통상·Collection 기준 / 폰판 일부 CG 생략 / PC 팬디스크·PSP 2편 별개 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | 잠정 3.5·신뢰도 낮음 / 실경험 글 3건 / GameFAQs 3.79/5 (14표) / Wazap 60.8/100 (5표·산식 미확인) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Good (18표) / Gavas 4.0/5 (2건) / Joko 3.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 통상/한정 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
@@ -136,6 +136,7 @@
 [에렌시아 전기 Plus Stories](games/castle-fantasia-erencia-senki-plus-stories.md)의 작품성은 **3.5 유지**, 우선도는 **B → C / 🟡 보류**로 조정했다. 2008년 PC 공식 한국어 다운로드판 출시를 확인해 기존 한국어판 미확인 표기를 정정했다. 현재 합법 구매·재설치·인증 경로는 미확인이므로 과거 출시를 지금 사용 가능한 대안으로 단정하지 않고 후보 자격을 보류한다.
 
 현재 후보표 **42개(보류 포함)**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 31 / C 5**. 상세 문서와 이전 검토 이력은 보존한다.
+
 
 
 
