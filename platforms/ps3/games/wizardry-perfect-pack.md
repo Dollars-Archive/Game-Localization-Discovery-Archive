@@ -52,7 +52,7 @@ PS3의 Acquire판 Wizardry 르네상스 두 작품과 당시 DLC 시나리오를
 
 ## 장점
 
-- 『囚われし魂の迷궁』과 『囚われし亡霊の街』의 주요 시나리오를 한 장에 모은 완전판 성격이 강하다.
+- 『囚われし魂の迷宮』과 『囚われし亡霊の街』의 주요 시나리오를 한 장에 모은 완전판 성격이 강하다.
 - 이전 DLC였던 추가 시나리오가 수록돼 분할 구매 부담이 크게 줄었다.
 - Perfect Pack을 위해 만든 신규 초고난도 던전 「잔혼의 미궁」이 존재한다.
 - 파티 구성, 직업 전직, 장비 파밍, 레벨 육성 같은 고전식 던전 RPG의 핵심 루프가 탄탄하다.
@@ -225,3 +225,4 @@ Perfect Pack 자체는 독립 신작이라기보다 두 작품과 DLC를 묶은 
 - [GameSpot - Labyrinth of Lost Souls PS3 리뷰](https://www.gamespot.com/reviews/wizardry-labyrinth-of-lost-souls-review/1900-6319313/)
 - [Steam - Wizardry: Labyrinth of Lost Souls / 한국어 미지원](https://store.steampowered.com/app/948640/Wizardry_Labyrinth_of_Lost_Souls/)
 - [Acquire 공식 Vita판 안내](https://wizardry.acquire.co.jp/)
+- [Vita Total Pack 구매 기록 / 잔혼의 미궁 미수록 보고](https://neovis99.com/wizardry-collection-1/)
