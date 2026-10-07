@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **44개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **45개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -21,6 +21,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS3 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [Ar tonelico Qoga: Knell of Ar Ciel (알 토네리코 3: 세계종언의 방아쇠는 소녀의 노래가 당긴다)](games/ar-tonelico-qoga-knell-of-ar-ciel.md) | 2010 | 소녀 조합 RPG / 액션 RPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 61·27평론 / RPGamer 3.5/5 / GameFAQs Good·737명 | 2026-10-07 공개 3편 한글패치 확인 못함 / 한국 정발 BLKS-20179도 일본어 | PS3 독점 / 북미·유럽 영어 현지화 / 현행기 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Ar nosurge: Umareizuru Hoshi e Inoru Uta (아르 노서지: 태어나지 않은 별에 바치는 노래)](games/ar-nosurge-umareizuru-hoshi-e-inoru-uta.md) | 2014 | 7차원 RPG / JRPG | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 32/40 / MC 67·23평론 / GameFAQs Great·262명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / DX도 한국어 미지원 | PS3 원판 / Vita Plus 강화판 / 2021 PS4·Switch·PC DX / 서구 PS3·Vita 공식 영어판 | 🟢 후보 |
 | [Macross 30: Ginga o Tsunagu Utagoe (마크로스 30: 은하를 잇는 노랫소리)](games/macross-30-ginga-o-tsunagu-utagoe.md) | 2013 | 플라이트 액션 RPG / 3인칭 슈팅 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 32/40 / GameFAQs Outstanding·67명 / 4Gamer 82·5명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 2026 비공식 영문패치 존재 | PS3 독점 / 후발 이식·리마스터 없음 / 공개 텍스트 추출·재삽입 도구 존재 | 🟢 후보 |
 | [E.X. Troopers (엑스 트루퍼즈)](games/ex-troopers.md) | 2012 | 3인칭 슈팅 / 액션 RPG·만화틱 액션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu PS3 32/40 / GameFAQs Great·74명 / 4Gamer 86·3명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BLKS-20399 존재 / 완전 영문패치 v1.0.2 존재 | PS3·3DS 동시판 / PS3 고해상도·온라인 / 3DS 로컬·입체 3D / 후발 이식 없음 | 🟢 후보 |
 | [Mobile Suit Gundam: Battlefield Record U.C. 0081 (기동전사 건담전기 Battlefield Record U.C.0081)](games/mobile-suit-gundam-battlefield-record-uc-0081.md) | 2009 | 부대통솔형 3D 액션 / 모빌슈트 전투 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40 / GameFAQs 4.2·153명 / 4Gamer 69·13명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10090은 매뉴얼 한글화 | PS3 독점 / 후발 이식·리마스터 없음 / Side Stories 미수록 | 🟢 후보 |
@@ -79,10 +80,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 44 |
+| 등록 후보 | 45 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 10 |
+| 한글화 우선도 B | 11 |
 | 한글화 우선도 C | 34 |
 
-최근 갱신: **2026-10-07, Oretachi ni Tsubasa wa Nai 후보 등록. PS3 활성 후보 44개**.
+최근 갱신: **2026-10-07, Ar nosurge: Umareizuru Hoshi e Inoru Uta 후보 등록. PS3 활성 후보 45개**.
