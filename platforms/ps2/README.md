@@ -36,7 +36,6 @@
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.63/5·8건 / Gavas6+2건 중복·소개형 구분 / PS2 개인평2편 / GameFAQs Fair8표 | 2026-10-07 완성판 확인 못함 / PC ATCode 별도 | PC2002 → PS2 추가 시나리오·CG 기록(2차 자료) / 팬디스크·PC DL 별도 | 🟢 후보 |
-| [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 텍스트 중심 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.87/5 (단평15건 전체) / PS2 장문 비평 미확보 / GameFAQs Great 8표 | PS2 별도 미확인 / PC 한국어 통합 주장 검증 대기 | PC 원작 → PS2 시나리오·CG·영상 확장 → 2018 PC 재판매 / 한국어 대안 범위 미검증 | 🟡 보류 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 사이버펑크·선택지형 ADV | ⭐⭐⭐½☆ | B | Joko 3건 만족도 4.33/5 / PS2 판본비교·중단평 별도 / GameFAQs 3.5/5·9표 / Gavas 중복·소개글 구분 | 2026-10-07 공개 확인 못함 | DC 원판 → PS2 신규 CG·시나리오·음악 / 선택지 이동 개선·일부 음성·표현 변경 | 🟢 후보 |
@@ -54,6 +53,7 @@
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | 구체적 경험 본문 2건 / GameFAQs Good 18표 / 3.5 잠정·근거 신뢰도 낮음 | 2026-10-07 확인 못함 | PS2 통상·피규어 한정판 / 슬롯 앱은 별개 / 후발 본편 확인 못함 | 🟢 후보 |
 | [Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)](games/wizardry-xth-2-mugen-no-gakuto.md) | 2006 | 1인칭 3D 던전 RPG | ⭐⭐⭐½☆ | B | GameFAQs 3.58/5 (6표) / 게임카탈로그 良作 / GAMEMAN 7.5/10 | 공개적으로 확인되지 않음 | PS2 원판·Wonder Price / 직접 강화 이식 확인 못함 / `Class of Heroes`·`Generation Xth`는 파생 계보 | 🟢 후보 |
+| [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 커맨드형 탐정·미스터리 ADV | ⭐⭐⭐½☆ | C | Joko 본문3.00/17건·내장2.76 구분 / PS2 개인평4명 / GameFAQs Good15표 | 2026-10-07 공개 확인 못함 | PC → PS2 음성·지도 개편 → PSP/Win 단편 추가 → 2025 콘솔 HD·재녹음 / Steam 미정 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | C | PS2 개인 비평 3편 / Joko 공개 41건 (판·완료 범위 혼재) | 확인 못함 | PC 원작 → PS2 강화 → 동일 게임 내용의 2019 Windows 역이식 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF·인공생명·연애 비주얼노벨 | ⭐⭐⭐⭐☆ | C | Gavas 4.8/5 (6건) / Bangumi 8점대 초반 (90표 이상) / GameFAQs Outstanding (2표) | 공개적으로 확인되지 않음 | PS2 완전판 → PSP → 2026 Switch/PS4/Steam 풀HD | 💎 우선 후보 |
 | [Castle Fantasia: Erencia Senki: Plus Stories (캐슬 판타지아: 에렌시아 전기 플러스 스토리즈)](games/castle-fantasia-erencia-senki-plus-stories.md) | 2005 | 전쟁·육성·실시간 전술 SLG/ADV | ⭐⭐⭐½☆ | C | GameFAQs 3.89/5 (9표) / PS2 실플레이 감상7건·완료 명시1 / PC 후기 별도 | 2026-10-07 공개 확인 못함 | PC Renewal 기반 한국어판 2008 정식 출시 / PS2 추가분 있음 / 현재 구매·인증 미확인 | 🟡 보류 |
@@ -150,4 +150,5 @@
 
 [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md)를 **사용자의 탈락 결정에 따라 활성 후보에서 제외**했다. 작품성 **3.5/5**와 기존 검토 기록은 보존하며, 이번 제외를 작품성 하향으로 해석하지 않는다.
 
-현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 29 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 28 / C 6**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
