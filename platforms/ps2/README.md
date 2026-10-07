@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **42개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
+> 등록 후보: **41개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -50,7 +50,6 @@
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 현실·환상 분기형 학원 미스터리·연애 VN | ⭐⭐⭐½☆ | B | Amazon 일본 집계 4.3/5 (15건) / GameFAQs Playable (4표) / 価格.com 2.0/5 (1건) | 공개적으로 확인되지 않음 | PS2 원작 / 통상·초회한정·Best Price / 후대 본편 이식 확인 못함 | 🟢 후보 |
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko19건(집계·개별평균 불일치) / Gavas8건 중 실경험5건 / GameFAQs4.25/5·4표 | 2026-10-07 공개 확인 못함 | PS2 오리지널5화·TV성우 풀보이스 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
-| [GetBackers Dakkanya: Dakkandayo! Zenin Shuugou!! (겟 백커스 탈환대 ～탈환이다요! 전원집합!!～)](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md) | 2003 | 미션형 벨트스크롤 배틀 액션 | ⭐⭐⭐½☆ | B | Gavas 4.3/5 (3건) / GameFAQs 3.83/5 (12표) / GAMEMAN 8.0/10 | 공개적으로 확인되지 않음 | PS2 전용 / Konami the Best 재발매 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 선택지형 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 본문 3.65·23건 (집계 3.78) / Gavas 4.4·8건, Collection 4.0·4건 / GF 3.64·7표; 중복·소개형 분리, 상세 검토 | 공개적으로 확인되지 않음 | PS2 통상·Collection 기준 / 폰판 일부 CG 생략 / PC 팬디스크·PSP 2편 별개 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | 잠정 3.5·신뢰도 낮음 / 실경험 글 3건 / GameFAQs 3.79/5 (14표) / Wazap 60.8/100 (5표·산식 미확인) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
@@ -140,3 +139,10 @@
 
 
 
+
+
+## 2026-10-07 겟 백커스 본문 재검토
+
+[奪還だヨ!全員集合!!](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md)를 **3.5 → 3.0**으로 재평가하고 활성 후보에서 제외했다. 2인 협력과 간단한 기술 조작의 장점은 인정하지만 공격 거리감·전투 조정·반복 구성의 구체적인 약점을 반영했다. 원작 팬 여부·성우 취향·한국어판 부재를 감점 사유로 삼지 않았다. 상세 조사 문서와 이전 이력은 보존한다.
+
+현재 활성 후보 **42 → 41개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 30 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
