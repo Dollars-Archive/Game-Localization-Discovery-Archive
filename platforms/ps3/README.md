@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **47개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **48개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -29,6 +29,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [The Awakened Fate Ultimatum (신과 운명각성의 크로스테제)](games/the-awakened-fate-ultimatum.md) | 2014 | 로그라이크 RPG / 던전 크롤러 | ⭐⭐⭐½☆ 3.5/5 | B | MC 65·20평론 / Famitsu 28/40 / RPG Site 8/10 / Push Square 7/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 유통판 일본어 | PS3 독점 / 북미·유럽 영어판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Oretachi ni Tsubasa wa Nai (우리들에게 날개는 없다)](games/oretachi-ni-tsubasa-wa-nai.md) | 2014 | 연애 어드벤처 / 비주얼 노벨·군상극 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40(동일 콘솔판) / GameFAQs Fair·10명 / Dengeki 강한 호평 | 2026-10-07 공식 한국어판·공개 PS3/Vita 한글패치 확인 못함 / PC 원작은 2026 완전 영문패치 존재 | R 기반 콘솔 확장판 / 미사키 신규 루트·Prelude 일부·신규 CG·OP / PS Vita 동시판 | 🟢 후보 |
 | [Rui wa Tomo o Yobu (루이는 토모를 부른다)](games/rui-wa-tomo-o-yobu.md) | 2013 | 비주얼 노벨 / 연애 ADV·미스터리·오컬트 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / GameFAQs Terrible·22명 / FD 모에게임어워드 금상 | 2026-10-07 공식 한국어판·공개 PS3/Vita 한글패치 확인 못함 / PC 수동 영문번역은 미완성 | PC 본편+수상 팬디스크 합본 / 신규 CG·Full HD OP / PS Vita 동시판·크로스세이브 | 🟢 후보 |
+| [Kaihou Shoujo SIN (해방소녀 SIN)](games/kaihou-shoujo-liberation-maiden-sin.md) | 2013 | 정치 SF 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 31/40 / GameFAQs Good·7명 / Vita 후발 강화판 | 2026-10-07 공식 한국어판·공개 PS3/Vita 한글패치 확인 못함 / 공식 영어판도 미확인 | 3DS 해방소녀 후속 ADV / Vita판 신규 CG·OP·ED·배드엔드 가이드 추가 | 🟢 후보 |
 | [ToHeart2 DX PLUS (투하트2 DX PLUS)](games/toheart2-dx-plus.md) | 2011 | 연애 어드벤처 / 비주얼 노벨·확장 합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Great·17명 / 가격.com 4.0·1명 / 개인평 C | 2026-10-07 PS3 전체 한글패치 확인 못함 / PC XRATED 완전 한글패치 / AnotherDays 준한글화 기록 | ToHeart2+AnotherDays 합본 / PS3 전용 미오·신규 CG·리파인·MotionPortrait | 🟢 후보 |
 | [Touch, Shot! Love Application (터치, 하자! -Love Application-)](games/touch-shot-love-application.md) | 2012 | 연애 시뮬레이션 / 3D 연애 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / DPS 80·70·85·60 / GameFAQs Good·3명 | 2026-10-07 한국 정발 BLKS-20357도 일본어 / 공식 한국어·공개 PS3 한글패치 확인 못함 | PS3 독점 / 공식 영어판·후발 이식 확인 못함 / yPhone·Satori·3D Avatar Mode | 🟢 후보 |
 | [Wizardry Perfect Pack (위저드리 퍼펙트 팩)](games/wizardry-perfect-pack.md) | 2011 | 1인칭 3D 던전 크롤러 RPG / 턴제 RPG·합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·3명 / 수록작 MC 61·9평론 / GameSpot 7.5/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / PC Labyrinth도 한국어 미지원 | PS3 집대성 합본 / 두 작품+추가 시나리오+신규 잔혼의 미궁 / Vita Total Pack은 잔혼의 미궁 수록 미확인 | 🟢 후보 |
@@ -82,10 +83,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 47 |
+| 등록 후보 | 48 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 12 |
+| 한글화 우선도 B | 13 |
 | 한글화 우선도 C | 35 |
 
-최근 갱신: **2026-10-07, Rui wa Tomo o Yobu 후보 등록. PS3 활성 후보 47개**.
+최근 갱신: **2026-10-07, Kaihou Shoujo SIN 후보 등록. PS3 활성 후보 48개**.
