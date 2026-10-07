@@ -1,0 +1,29 @@
+name: Test discovery watchlist UI
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - docs/data/watchlist.json
+  pull_request:
+    paths-ignore:
+      - docs/data/watchlist.json
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Syntax check
+        run: |
+          node --check docs/assets/watchlist-core.js
+          node --check docs/assets/app.js
+      - name: Watchlist unit tests
+        run: node --test tests/test_watchlist.cjs
