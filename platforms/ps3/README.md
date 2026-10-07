@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **45개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **46개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -65,6 +65,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Legasista (레가시스타)](games/legasista.md) | 2012 | 던전 크롤러형 액션 RPG / 생존형 루트 수집 | ⭐⭐⭐½☆ 3.5/5 | C | MC 68·13평론 / Famitsu 29/40 / GameFAQs Good·105명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 북미·유럽 공식 영어 PSN판 존재 | PS3 독점 / 일본 BLJS-10157·서구 공식 영어 DL판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Nurarihyon no Mago: Hyakki Ryouran Taisen (누라리횬의 손자: 백귀요란대전)](games/nurarihyon-no-mago-hyakki-ryouran-taisen.md) | 2011 | 2D 대전 액션 / 4인 파티 파이터·거점 쟁탈 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·22명 / Jeuxvideo 14/20·1명 / 수입 리뷰 호평 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 공식 영어판도 미확인 | PS3·Xbox 360 일본 동시판 / 100+ 자코·측근·시마 점령 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Maji de Watashi ni Koi Shinasai! R (진심으로 날 사랑해라! R)](games/maji-de-watashi-ni-koi-shinasai-r.md) | 2012 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 萌えゲーアワード 원작 은상·시나리오 금상 / VNDB 8.4 참고 / PS3 직접 평점 표본 극소 | 2026-10-07 공식 한국어판·공개 완성 한글패치 확인 못함 / Steam 공식 영어판은 한국어 미지원 | PC 원작의 PS3 전연령 이식 / 720p·16:9 / 마작·카와카미 대전 추가 / 2021 PC 공식 영어판 | 🟢 후보 |
+| [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2011 | 서스펜스 픽션 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 4Gamer 81·3명 / GameFAQs Good·11명 / Bangumi 6.5·30명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3·Xbox 360 원판 / PSP 강화 이식은 과거편·후일담+신규 CG 추가 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -80,10 +81,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 45 |
+| 등록 후보 | 46 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 11 |
-| 한글화 우선도 C | 34 |
+| 한글화 우선도 C | 35 |
 
-최근 갱신: **2026-10-07, Ar nosurge: Umareizuru Hoshi e Inoru Uta 후보 등록. PS3 활성 후보 45개**.
+최근 갱신: **2026-10-07, DUNAMIS15 후보 등록. PS3 활성 후보 46개**.
