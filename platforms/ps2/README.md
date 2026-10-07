@@ -39,7 +39,7 @@
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.95/5 (10표) / 피코피코대백과 4.9/5 (7건) / Multiplayer.it 7.5/10 | 확인 못함 | PS2 일본판 / 이탈리아 완전 현지화판 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.0/5 (4건) / Joko 4.0/5 (공개 5건) / GAMEMAN 8.9/10 | 확인 못함 | PC 원작 → PS2 신규 히로인·시나리오·CG·합체공격 확장 | 🟢 후보 |
-| [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 판타지·전기·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs 3.88/5 (8표) / Joko 약 3.87/5 (공개 15건) / Bangumi 6.8/10 (8표) / GAMEMAN 8.5/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·추가/어나더 스토리 확장 → 2018 PC 재판매 | 🟢 후보 |
+| [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 텍스트 중심 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.87/5 (단평15건 전체) / PS2 장문 비평 미확보 / GameFAQs Great 8표 | PS2 별도 미확인 / PC 한국어 통합 주장 검증 대기 | PC 원작 → PS2 시나리오·CG·영상 확장 → 2018 PC 재판매 / 한국어 대안 범위 미검증 | 🟡 보류 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.6/5 (8건) / Joko 공개 1페이지 3.6/5 (10건) / Bangumi 6.7/10 (12표) / GAMEMAN 8.1/10 | 공개적으로 확인되지 않음 | PS2 원작 → Windows 18금 역이식 / 미국 영어 인터랙티브 DVD | 🟢 후보 |
@@ -146,3 +146,4 @@
 [奪還だヨ!全員集合!!](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md)를 **3.5 → 3.0**으로 재평가하고 활성 후보에서 제외했다. 2인 협력과 간단한 기술 조작의 장점은 인정하지만 공격 거리감·전투 조정·반복 구성의 구체적인 약점을 반영했다. 원작 팬 여부·성우 취향·한국어판 부재를 감점 사유로 삼지 않았다. 상세 조사 문서와 이전 이력은 보존한다.
 
 현재 활성 후보 **42 → 41개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 30 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
