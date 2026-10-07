@@ -23,7 +23,7 @@
 | [Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 🟢 후보 |
 | [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | BL·다크 판타지·카드배틀 ADV | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 4건 4.0/5 / PS2 비교 비평 1명·PC 후기 별도 검토 / GameFAQs 2.5/5 (4표) | 확인 못함 | 비성인 PC 양편 → PS2 통합·시나리오/CG 보강 / FANBOX 별도 | 🟢 후보 |
 | [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 3.97/5 (10건 이상) / Gavas 4.6/5 (5건) / GameFAQs Great (15표) / GAMEMAN 7.2/10 | 공개적으로 확인되지 않음 | 1996 원작 → 2001 PC Re-Cross 리메이크 → PS2 풀보이스·애니·추가 시나리오 확장 / 후대 본편 이식 확인 못함 | 🟢 후보 |
-| [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 로맨틱 라이트 미스터리·여행 ADV | ⭐⭐⭐½☆ | 🔥 A | 피코피코대백과 4.6/5 (7건) / GameFAQs Great (5표) / Bangumi 7.4/10 (7표) / Famitsu 26/40 | 공개적으로 확인되지 않음 | PS2 전용 / Special Edition은 동봉물 차이 | 🟢 후보 |
+| [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 라이트 미스터리·청춘 여행 ADV | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 11건 / Gavas 4.6/5 (7건, 기대·소개 혼재) / GameFAQs 3.9/5 (5표) / PS2 완주 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원작 / Special Edition 동봉 화집 / 후발 공식판 확인 못함 | 🟢 후보 |
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 세계관 미스터리 ADV·슈팅 혼합 | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 3건 약 4.33/5 / GameFAQs Great (4표) / GAMEMAN 9.0/10 (리뷰 0건) | 공개적으로 확인되지 않음 | PS2 전용 / II→III 정사 연결편 / 2026 Switch 트릴로지 미수록 | 🟢 후보 |
 | [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | B | Joko 3.5/5 (6건) / GameFAQs 3.33/5 (9표) / Gavas 4.5/5 (6건·중복 주의) | 2026-10-07 공개 배포 확인 못함 | PC 성인 원작·추가 디스크 → PS2 가정용 조정·CG 추가 / PC DL에도 추가 디스크 포함 | 🟢 후보 |
 | [Kyuuketsu Hime Yui: Senyasyo (뱀파이어 유이 ～천야초～)](games/kyuuketsu-hime-yui-senyasyo.md) | 2003 | 학교 괴담·다중시점 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 공개 4건·Gavas 6건 본문 검토 / PS2 회고·PC 완료평 구분 | 확인 못함 | PS2 → Windows 그래픽 개선·치사 이야기 추가 | 🟢 후보 |
@@ -124,6 +124,7 @@
 그 결과 **가족계획 마음의 인연 / Baldr Force EXE / Kanon / 구원의 반 재림조 / ef / Little Busters! Converted Edition / ToHeart / Cross Channel** 8작품을 활성 신규 한글화 후보에서 제외했다. 작품성 점수와 상세 문서는 그대로 보존한다.
 
 [전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
+
 
 
 
