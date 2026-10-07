@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **20개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
+> 등록 후보: **21개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -29,6 +29,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Skullgirls Encore (스컬걸즈 앙코르)](games/skullgirls-encore.md) | 2014 | 2D 대전 격투 / 태그 배틀 | ⭐⭐⭐⭐☆ 4.0/5 | C | Push Square 8/10 / GameFAQs Great·149명 / MC PS3 원판 82·25평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam 2nd Encore도 한국어 미지원 | PS3 Encore 최종 DLC 반영 / 현행 PC·콘솔 2nd Encore는 음성 스토리·Trials·Challenges·Season 1 지원 | 💎 우선 후보 |
 | [AquaPazza: AquaPlus Dream Match (아쿠아파짜 -아쿠아플러스 드림 매치-)](games/aquapazza-aquaplus-dream-match.md) | 2012 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | MC 75·13평론 / GameSpot 7/10 / GameFAQs Good·144명 / Famitsu 26/40 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BCKS-10223 존재 / PC도 한국어 미지원 | PS3 가정용 확장판·북미 영어판 / 2025 PC 후발 이식은 PS3판 기반 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (아르카나 하트 3 LOVE MAX!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 68 / Famitsu 28/40 / PS Store 4.6·206명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam LOVE MAX·SIXSTARS XTEND도 한국어 미지원 | PS3·Vita 동시판 / PC LOVE MAX 후발 이식 / 상위 확장판 SIXSTARS XTEND는 PC | 🟢 후보 |
+| [Battle Fantasia (배틀 판타지아)](games/battle-fantasia.md) | 2008 | 2D 대전 격투 / 2.5D 표현 | ⭐⭐⭐½☆ 3.5/5 | C | MC PS3 67·9평론 / Vandal 7/10 / Famitsu 25/40 / GameFAQs Fair·144명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BCKS-10050은 일본판과 동일 내부 데이터 / PC Revised도 한국어 미지원 | PS3·Xbox 360 가정용판 / 2015 PC Revised Edition은 최신 아케이드 밸런스·그래픽·카메라 개선 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 액션 | ⭐⭐⭐½☆ 3.5/5 | C | MC 67·19평론 / Famitsu 34/40 / GameFAQs Great·116명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BLKS-20473은 일본어 | PS3·Vita 동시판 / 상위 확장판 The Nightmare Princess는 본편 전체+신규 Quest·Enemy Edit·180종 이상 트랩 | 🟢 후보 |
 | [Dengeki Bunko: Fighting Climax (전격문고 FIGHTING CLIMAX)](games/dengeki-bunko-fighting-climax.md) | 2014 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 평균 8.2/10 / Metacritic 66·13평론 / GameFAQs 3.89·112명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Ignition도 한국어 대안 미확인 | PS Vita 동시판 / 서구 PS3·Vita 영어판 / 후속 확장판 Ignition PS3·PS4·Vita | 🟢 후보 |
 | [Dengeki Bunko: Fighting Climax Ignition (전격문고 FIGHTING CLIMAX IGNITION)](games/dengeki-bunko-fighting-climax-ignition.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / GameFAQs Great·17명 / 플레이타임 43시간·9명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 비공식 영문패치 기록만 확인 | 전작 확장 독립판 / PS4·PS3 크로스플레이 / PS Vita 동시판 / Yuuki·Ako DLC | 🟢 후보 |
@@ -55,10 +56,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 20 |
+| 등록 후보 | 21 |
 | 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 4 |
-| 한글화 우선도 C | 16 |
+| 한글화 우선도 C | 17 |
 
-최근 갱신: **2026-10-07, K-On! Houkago Live!! HD Ver. 후보 등록. PS3 활성 후보 20개**.
+최근 갱신: **2026-10-07, Battle Fantasia 후보 등록. PS3 활성 후보 21개**.
