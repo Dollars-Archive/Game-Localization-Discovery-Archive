@@ -42,7 +42,7 @@
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 연애 ADV | ⭐⭐⭐½☆ | B | Joko 3.75/5 (공개 20건·전2쪽) / GameFAQs Good (6표) / PS2 완료·진행 후기 구분 | 공개적으로 확인되지 않음 (2026-10-07) | PC 원작 → PS2 5명·추가 CG·음악 확장 / DS는 별도작 | 🟢 후보 |
 | [Natsu-iro no Sunadokei (여름빛 모래시계)](games/natsu-iro-no-sunadokei.md) | 2002 | 시간여행·학원·연애 ADV | ⭐⭐⭐½☆ | B | Joko 전3페이지 24건 3.54/5 / PS2 비평3명 / Gavas 4.6/5(8건·소개 혼재) / 영어 DVD 평가 별도 | 2026-10-07 공개 확인 못함 | PS2 원작 → Windows 성인용·음성 변경 / 영어 인터랙티브 DVD는 별도 형식 | 🟢 후보 |
 | [W: Wish (W ～위시～ / 더블 위시)](games/w-wish.md) | 2004 | 기억상실·학원·미스터리 연애 VN | ⭐⭐⭐½☆ | B | 피코피코대백과 3.7/5 (7건) / GameFAQs Good (13표) / Joko 공개 10건 평가 편차 큼 / GAMEMAN 7.3/10 | 공개적으로 확인되지 않음 | PS2 원작 → 2007 S!アプリ 분할·음성 삭제 / TV 애니메이션 | 🟢 후보 |
-| [Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)](games/strawberry-panic-girls-school-in-fullbloom.md) | 2006 | 백합·학원 연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (11표) / Joko 3.6/5 (5건) / Bangumi 7.8/10 (4표) / 게임카탈로그 クソゲー | 공개적으로 확인되지 않음 | PS2 통상/초회한정 / 후대 본편 이식 확인 못함 | 🟢 후보 |
+| [Strawberry Panic! Girls' School in Fullbloom (스트로베리 패닉! ～Girls' School in Fullbloom～)](games/strawberry-panic-girls-school-in-fullbloom.md) | 2006 | 백합·학원 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 전1쪽5건 3.60/5 / PS2 개인평3명·완료범위 구분 / GF Great11표 / 위키 수정요청 유의 | 2026-10-07 공개 확인 못함 | PS2 통상·초회한정 특전 차이 / 피처폰 체험판·미니게임 별도 / 후발 본편 미확인 | 🟢 후보 |
 | [School Rumble Ni-Gakki (스쿨럼블 2학기)](games/school-rumble-ni-gakki.md) | 2006 | 학원 러브코미디·멀티시점 캐릭터 ADV | ⭐⭐⭐½☆ | B | 잠정3.5·신뢰도 낮음 / Gavas7글 중 경험3·소개4 / 개인1회 완료평·Joko2글 구분 / GF Great19표 | 2026-10-07 공개 확인 못함 | PS2 통상·한정·Best / 2005 PS2·PSP는 별개 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [3LDK: Shiawase ni Narouyo (3LDK ～시아와세니 나로요～)](games/3ldk-shiawase-ni-narouyo.md) | 2004 | 동거 러브코미디·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (11표) / Gavas 6+3건 중 플레이 댓글5건·전체 회수 명시1건 / PC 후기 별도 | 2026-10-07 공개 확인 못함 | PC 성인 원작 → PS2 가정용·추가 그래픽 / 신규 히로인 주장 철회 / PC 재판매 기록 | 🟢 후보 |
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 학원·연애·분기형 디지털 노벨 ADV | ⭐⭐⭐½☆ | B | Joko 공개38건 3.79/5(내장집계와 불일치) / Gameiroiro5건·개인감상5명·가격.com1건 | 2026-10-07 공개 확인 못함 | PS2 통상·초회한정·Best / 후발 본편 확인 못함 / 공개 파일·이미지 추출 도구 있음 | 🟢 후보 |
@@ -151,3 +151,4 @@
 [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md)를 **사용자의 탈락 결정에 따라 활성 후보에서 제외**했다. 작품성 **3.5/5**와 기존 검토 기록은 보존하며, 이번 제외를 작품성 하향으로 해석하지 않는다.
 
 현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 28 / C 6**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
