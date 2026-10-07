@@ -47,7 +47,7 @@
 | [3LDK: Shiawase ni Narouyo (3LDK ～시아와세니 나로요～)](games/3ldk-shiawase-ni-narouyo.md) | 2004 | 동거 러브코미디·연애 비주얼노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good (11표) / Gavas 6+3건 중 플레이 댓글5건·전체 회수 명시1건 / PC 후기 별도 | 2026-10-07 공개 확인 못함 | PC 성인 원작 → PS2 가정용·추가 그래픽 / 신규 히로인 주장 철회 / PC 재판매 기록 | 🟢 후보 |
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 학원·연애·분기형 디지털 노벨 ADV | ⭐⭐⭐½☆ | B | Joko 공개38건 3.79/5(내장집계와 불일치) / Gameiroiro5건·개인감상5명·가격.com1건 | 2026-10-07 공개 확인 못함 | PS2 통상·초회한정·Best / 후발 본편 확인 못함 / 공개 파일·이미지 추출 도구 있음 | 🟢 후보 |
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko19건(집계·개별평균 불일치) / Gavas8건 중 실경험5건 / GameFAQs4.25/5·4표 | 2026-10-07 공개 확인 못함 | PS2 오리지널5화·TV성우 풀보이스 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
-| [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | SF·심리 미스터리·서스펜스 ADV | ⭐⭐⭐½☆ | B | Gavas 4.9/5 (8건) / GameFAQs Great (35표) / Joko 공개 20건 약 4.0/5 | 공개적으로 확인되지 않음 | PS2 원판 → SuperLite 2000 추가 CG → Windows / PSP / 모바일 / PC·PSP 영어 팬번역 | 🟢 후보 |
+| [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | 서스펜스·미스터리·텍스트 ADV | ⭐⭐⭐½☆ | B | Joko 전5쪽49건 만족도3.73/5(내장3.31 별도) / PS2 비평4명 / Gavas8+5+6건 소개·중복 분리 | PS2 미확인 / PSP 한국어 v0.1 베타 공개 | PSP 한국어 AI 번역·검수 베타: 대부분 텍스트·이미지 미작업·전체 플레이 미검증 | 🟡 보류 |
 | [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 선택지형 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 본문 3.65·23건 (집계 3.78) / Gavas 4.4·8건, Collection 4.0·4건 / GF 3.64·7표; 중복·소개형 분리, 상세 검토 | 공개적으로 확인되지 않음 | PS2 통상·Collection 기준 / 폰판 일부 CG 생략 / PC 팬디스크·PSP 2편 별개 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | 잠정 3.5·신뢰도 낮음 / 실경험 글 3건 / GameFAQs 3.79/5 (14표) / Wazap 60.8/100 (5표·산식 미확인) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
@@ -151,4 +151,5 @@
 [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md)를 **사용자의 탈락 결정에 따라 활성 후보에서 제외**했다. 작품성 **3.5/5**와 기존 검토 기록은 보존하며, 이번 제외를 작품성 하향으로 해석하지 않는다.
 
 현재 활성 후보 **41 → 40개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 28 / C 6**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
 
