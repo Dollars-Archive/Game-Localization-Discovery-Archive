@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **37개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **38개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -57,6 +57,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Yu-Gi-Oh! Millennium Duels (유희왕 밀레니엄 듀얼즈)](games/yu-gi-oh-millennium-duels.md) | 2014 | 턴제 카드 배틀 / 디지털 TCG | ⭐⭐⭐½☆ 3.5/5 | C | Push Square 6/10 / Vandal 6.5/10 / GameFAQs Great·89명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Xbox 360도 한국어 대안 미확인 | PS3·Xbox 360 동급 다운로드판 / 후속 Legacy of the Duelist 계열은 별도 작품 | 🟢 후보 |
 | [The Super Dimension Fortress Macross: Do You Remember Love? Hybrid Pack (초시공요새 마크로스: 사랑, 기억하고 있습니까? Hybrid Pack)](games/super-dimension-fortress-macross-do-you-remember-love-hybrid-pack.md) | 2012 | 3D 플라이트 액션 슈팅 / Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·14명 / Kotaku 정성평가 / HANASE 80/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + My Boyfriend is a Pilot 2012 / BLJS-93006 한정판은 보너스 특전 | 🟢 후보 |
 | [Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack (극장판 마크로스 F ~작별의 날개~ Hybrid Pack)](games/gekijouban-macross-f-sayonara-no-tsubasa-hybrid-pack.md) | 2011 | 플라이트 액션 슈팅 / 3D 메카 액션·Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·11명 / Mecha Damashii 긍정·혼합 / 가격.com 4.0·1명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + Macross Last Frontier / Trial Frontier보다 세이브·지상전·볼륨 확장 | 🟢 후보 |
+| [Battle Princess of Arcadias (아르카디아스의 전희)](games/battle-princess-of-arcadias.md) | 2013 | 횡스크롤 액션 RPG / 2D 벨트스크롤·병단 전투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 69·22평론 / Famitsu 28/40 / GameFAQs Good·77명 | 2026-10-07 한국 정발 일본어 / 공식 한국어판·공개 한글패치 확인 못함 / BLJS-10224 중국어 완전패치 사례 | PS3 독점 / 북미·유럽 공식 영어 DL판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -72,10 +73,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 37 |
+| 등록 후보 | 38 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 8 |
-| 한글화 우선도 C | 29 |
+| 한글화 우선도 C | 30 |
 
-최근 갱신: **2026-10-07, Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack 후보 등록. PS3 활성 후보 37개**.
+최근 갱신: **2026-10-07, Battle Princess of Arcadias 후보 등록. PS3 활성 후보 38개**.
