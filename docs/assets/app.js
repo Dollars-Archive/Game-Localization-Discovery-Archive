@@ -18,6 +18,7 @@ const PLATFORMS = {
   psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md' },
   psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md' },
   ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md' },
+  dreamcast: { label: 'DREAMCAST', short: 'Dreamcast', path: 'platforms/dreamcast/README.md' },
 };
 
 function escapeHtml(value = '') {
