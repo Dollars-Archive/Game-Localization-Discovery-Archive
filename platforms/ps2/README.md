@@ -38,7 +38,7 @@
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.63/5·8건 / Gavas6+2건 중복·소개형 구분 / PS2 개인평2편 / GameFAQs Fair8표 | 2026-10-07 완성판 확인 못함 / PC ATCode 별도 | PC2002 → PS2 추가 시나리오·CG 기록(2차 자료) / 팬디스크·PC DL 별도 | 🟢 후보 |
 | [Lupin Sansei: Lupin ni wa Shi o, Zenigata ni wa Koi o (루팡 3세: 루팡에게 죽음을, 제니가타에게 사랑을)](games/lupin-sansei-lupin-ni-wa-shi-o-zenigata-ni-wa-koi-o.md) | 2007 | 시네마틱 액션·잠입 ADV | ⭐⭐⭐½☆ | B | Joko15건 3.27/5 / Gavas7건 중 경험글4건 / 일본·이탈리아 장문6편 구분 | 2026-10-07 공개 확인 못함 | 일본 PS2 → 이탈리아어 지역판 / 전체 대사 완전 음성 주장 정정 / 후발 본편 확인 못함 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 본격 추리·미스터리 ADV | ⭐⭐⭐½☆ | B | GameFAQs 3.33/5 (15표) / Joko 공개 17건 단순평균 3.00/5 / GAMEMAN 8.6/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 풀보이스·신규 시나리오/캐릭터·맵 개선 → PSP/Windows 확장 → 2025 리마스터 | 🟢 후보 |
-| [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.0/5 (4건) / Joko 4.0/5 (공개 5건) / GAMEMAN 8.9/10 | 확인 못함 | PC 원작 → PS2 신규 히로인·시나리오·CG·합체공격 확장 | 🟢 후보 |
+| [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
 | [Itsuka, Todoku, Ano Sora ni.: Yō no Michi to Hi no Tasogare to (이츠카, 토도쿠, 아노 소라니. ～요노 미치토 히노 타소가레토～)](games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md) | 2007 | 텍스트 중심 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.87/5 (단평15건 전체) / PS2 장문 비평 미확보 / GameFAQs Great 8표 | PS2 별도 미확인 / PC 한국어 통합 주장 검증 대기 | PC 원작 → PS2 시나리오·CG·영상 확장 → 2018 PC 재판매 / 한국어 대안 범위 미검증 | 🟡 보류 |
 | [Metal Wolf REV (메탈 울프 REV)](games/metal-wolf-rev.md) | 2006 | 네오 사이버펑크 ADV | ⭐⭐⭐½☆ | B | 피코피코대백과 4.7/5 (3건) / Joko 약 4.33/5 (3건) / GameFAQs 약 3.50/5 (9표) / GAMEMAN 9.9/10 | 공개적으로 확인되지 않음 | 소설 원작 → 2002 DC → 2006 PS2 `REV` 강화판 | 🟢 후보 |
 | [Nanatsuiro Drops Pure!! (일곱빛깔★드롭스 Pure!!)](games/nanatsuiro-drops-pure.md) | 2007 | 마법소녀·학원·첫사랑 판타지 ADV | ⭐⭐⭐½☆ | B | Joko 약 3.75/5 (공개 20건) / GameFAQs Good (6표) / GAMEMAN 8.2/10 | 공개적으로 확인되지 않음 | PC 원작 → PS2 신규 히로인·CG·시나리오·음악 확장 / DS 별도 구성 | 🟢 후보 |
@@ -146,5 +146,6 @@
 [奪還だヨ!全員集合!!](games/getbackers-dakkanya-dakkandayo-zenin-shuugou.md)를 **3.5 → 3.0**으로 재평가하고 활성 후보에서 제외했다. 2인 협력과 간단한 기술 조작의 장점은 인정하지만 공격 거리감·전투 조정·반복 구성의 구체적인 약점을 반영했다. 원작 팬 여부·성우 취향·한국어판 부재를 감점 사유로 삼지 않았다. 상세 조사 문서와 이전 이력은 보존한다.
 
 현재 활성 후보 **42 → 41개**, 발굴 우선 후보 **5개**, 우선도 **A 6 / B 30 / C 5**. 기존 사용자 승인 3.0 예외 1개는 유지한다.
+
 
 
