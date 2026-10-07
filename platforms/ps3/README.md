@@ -7,7 +7,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-07**  
-> 등록 후보: **41개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
+> 등록 후보: **42개** / 발굴 우선 후보: **4개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS3 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)
 
@@ -61,6 +61,7 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 | [Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack (극장판 마크로스 F ~작별의 날개~ Hybrid Pack)](games/gekijouban-macross-f-sayonara-no-tsubasa-hybrid-pack.md) | 2011 | 플라이트 액션 슈팅 / 3D 메카 액션·Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·11명 / Mecha Damashii 긍정·혼합 / 가격.com 4.0·1명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3 전용 Hybrid Disc / 영화 + Macross Last Frontier / Trial Frontier보다 세이브·지상전·볼륨 확장 | 🟢 후보 |
 | [Battle Princess of Arcadias (아르카디아스의 전희)](games/battle-princess-of-arcadias.md) | 2013 | 횡스크롤 액션 RPG / 2D 벨트스크롤·병단 전투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 69·22평론 / Famitsu 28/40 / GameFAQs Good·77명 | 2026-10-07 한국 정발 일본어 / 공식 한국어판·공개 한글패치 확인 못함 / BLJS-10224 중국어 완전패치 사례 | PS3 독점 / 북미·유럽 공식 영어 DL판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
 | [Legasista (레가시스타)](games/legasista.md) | 2012 | 던전 크롤러형 액션 RPG / 생존형 루트 수집 | ⭐⭐⭐½☆ 3.5/5 | C | MC 68·13평론 / Famitsu 29/40 / GameFAQs Good·105명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 북미·유럽 공식 영어 PSN판 존재 | PS3 독점 / 일본 BLJS-10157·서구 공식 영어 DL판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 |
+| [Maji de Watashi ni Koi Shinasai! R (진심으로 날 사랑해라! R)](games/maji-de-watashi-ni-koi-shinasai-r.md) | 2012 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 萌えゲーアワード 원작 은상·시나리오 금상 / VNDB 8.4 참고 / PS3 직접 평점 표본 극소 | 2026-10-07 공식 한국어판·공개 완성 한글패치 확인 못함 / Steam 공식 영어판은 한국어 미지원 | PC 원작의 PS3 전연령 이식 / 720p·16:9 / 마작·카와카미 대전 추가 / 2021 PC 공식 영어판 | 🟢 후보 |
 
 ## PS3 등록 운영
 
@@ -76,10 +77,10 @@ PS2·PSP·PS Vita와 같은 작품성 평가 기준과 등록 하한을 사용�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 41 |
+| 등록 후보 | 42 |
 | 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 32 |
+| 한글화 우선도 C | 33 |
 
-최근 갱신: **2026-10-07, Acceleration of SUGURI X-Edition 후보 등록. PS3 활성 후보 41개**.
+최근 갱신: **2026-10-07, Maji de Watashi ni Koi Shinasai! R 후보 등록. PS3 활성 후보 42개**.
