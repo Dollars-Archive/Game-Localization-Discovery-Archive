@@ -20,7 +20,7 @@
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS2 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [Guardian Angel (가디언 엔젤)](games/guardian-angel.md) | 2003 | SF 미스터리·추리 ADV | ⭐⭐⭐⭐☆ | 🔥 A | Joko 공개 9건 4.0/5 / Gavas 4.0/5 (3건) / PS2 장문 후기 2편 교차 확인 | 자체 프로젝트 제작 중 / 완성 공개판 확인 못함 | 현재 PS2판만 확인 | 💎 우선 후보 |
-| [Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화 전기 ADV | ⭐⭐⭐½☆ | 🔥 A | GameFAQs Great (15표) / GAMEMAN 7.7/10 (리뷰 0건) | 확인 못함 | PC 원작 → PS2 대폭 확장 | 🟢 후보 |
+| [Shirogane no Soleil: Contract to the Future (백은의 솔레이유 -Contract to the Future- 미래로의 계약)](games/shirogane-no-soleil-contract-to-the-future.md) | 2008 | 북유럽 신화·연애 ADV / 카드 전투 | ⭐⭐⭐½☆ | 🔥 A | Joko 4건 만족도 4.00/5 / PS2 구성 완료 후기 1명 / GameFAQs Great (15표) / PC 비평 별도 | 2026-10-07 공개 확인 못함 | PC 원작 → PS2 추가 시나리오·음성·전투 / PC 합본·ReANSWER와 구분 | 🟢 후보 |
 | [Apocripha/0 (아포크리파 제로)](games/apocripha-0.md) | 2004 | BL·다크 판타지·카드배틀 ADV | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 4건 4.0/5 / PS2 비교 비평 1명·PC 후기 별도 검토 / GameFAQs 2.5/5 (4표) | 확인 못함 | 비성인 PC 양편 → PS2 통합·시나리오/CG 보강 / FANBOX 별도 | 🟢 후보 |
 | [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 15건 만족도 4.27/5 / GameFAQs 3.77/5 (15표) / PS2 비평 3명 교차 검토 | 2026-10-07 공개 확인 못함 | 1996 원작 → 2001 PC 리메이크 → PS2 음성·영상·표현 수정 / 현대 공식판 확인 못함 | 🟢 후보 |
 | [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 라이트 미스터리·청춘 여행 ADV | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 11건 / Gavas 4.6/5 (7건, 기대·소개 혼재) / GameFAQs 3.9/5 (5표) / PS2 완주 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원작 / Special Edition 동봉 화집 / 후발 공식판 확인 못함 | 🟢 후보 |
