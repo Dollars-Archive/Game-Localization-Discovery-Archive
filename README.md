@@ -11,7 +11,7 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 43 | 7 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 43 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 12 | 5 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 38 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
