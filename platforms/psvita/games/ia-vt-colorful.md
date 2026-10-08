@@ -1,12 +1,33 @@
 # IA/VT Colorful (이아/VT 컬러풀)
 
 > 원제: IA/VT -COLORFUL-（イア ビジュアルトラックス カラフル）  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-20 / Asia/Seoul**
+> 대상 판본: PlayStation Vita 일본판  
+> 상태: 🟢 후보  
+> 발굴 추천도: ⭐⭐⭐½☆ 3.5/5  
+> 한글화 우선도: C  
+> 조사 기준일: 2026-10-08 / Asia/Seoul
 
-> [!IMPORTANT]
-> **공식 한국어판과 공개 유저 한글패치는 이번 조사에서 확인하지 못했다.** 확인된 팬 패치는 **영어 UI 번역**이며 한국어 패치가 아니다. C급 판정은 공식 한국어판이 있다는 뜻이 아니라, 본편 연주의 낮은 언어 의존도와 신규 번역의 상대적 효용을 고려한 프로젝트 판단이다.
+## 대표 스크린샷
+
+> **일본 Vita판 실제 연주·곡 선택 화면 3개.** 2026-10-08에 2015년 실플레이 리뷰의 이미지 세 장을 직접 열어 픽셀과 표시 내용을 확인했다. 한국어판이나 영어 패치 적용 화면이 아니며 직접 게임을 실행해 촬영한 것도 아니다. 이미지는 외부 원출처 링크로만 수록하고 저장소에 복제하지 않았다.
+
+### 1. MV 배경과 음표 경로
+
+![IA VT Colorful 일본 Vita판 연주 화면](https://michibiku.colorninja.com/wp-content/uploads/2015/09/ia-vt-colorful-3.jpg)
+
+[출처: Michibiku Vita 리뷰](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/)
+
+### 2. 곡·난도 선택
+
+![IA VT Colorful 일본 Vita판 Free Play 곡 선택 화면](https://michibiku.colorninja.com/wp-content/uploads/2015/09/ia-vt-colorful-2.jpg)
+
+[출처: Michibiku Vita 리뷰](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/)
+
+### 3. 실시간 무대 배경의 연주
+
+![IA VT Colorful 일본 Vita판 무대 배경 연주 화면](https://archmiel.wordpress.com/wp-content/uploads/2015/12/iavt3.png?w=593)
+
+[출처: Aaron plays Music Games의 Vita 리뷰](https://archmiel.wordpress.com/2015/12/28/iavt-colorful-vita/)
 
 ## 한눈에 보기
 
@@ -37,7 +58,7 @@
 
 ## 게임 구조 / 루트 구조
 
-**모드·곡·난도 선택 → 연주 → 성적 확인 → 레벨·해금 확인 → 다른 곡 또는 기록 경신**의 흐름이다. 얼굴 버튼 4개와 방향키 4방향을 사용하며, 음표가 움직이는 경로와 판정 위치를 따라 입력한다. 카ラフル 구간에서는 커진 원의 가장자리에 도달하는 음표를 처리한다. 터치 전용 게임이나 플레이어가 아날로그 스틱으로 판정 원을 계속 끌고 다니는 구조로 설명하지 않는다. [공식 조작 안내](https://ia-vt.marv.jp/about.html)
+**모드·곡·난도 선택 → 연주 → 성적 확인 → 레벨·해금 확인 → 다른 곡 또는 기록 경신**의 흐름이다. 얼굴 버튼 4개와 방향키 4방향을 사용하며, 음표가 움직이는 경로와 판정 위치를 따라 입력한다. 컬러풀 구간에서는 커진 원의 가장자리에 도달하는 음표를 처리한다. 터치 전용 게임이나 플레이어가 아날로그 스틱으로 판정 원을 계속 끌고 다니는 구조로 설명하지 않는다. [공식 조작 안내](https://ia-vt.marv.jp/about.html)
 
 공식 모드는 **Free Play, Step Up Play, Daily Play, My List Play**다. Step Up은 제시된 조건에 도전하고, Daily는 아직 해금하지 않은 곡도 접할 기회를 주며, My List는 고른 3곡을 이어서 연주한다. 별도로 온라인 랭킹을 안내하지만 이것을 실시간 대전·협동 플레이로 확대하지 않는다. [공식 모드 안내](https://ia-vt.marv.jp/about.html), [시스템 페이지](https://ia-vt.marv.jp/system.html)
 
@@ -63,16 +84,19 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처·작성자 | 점수 | 표본 수 | 대상 판본·확인한 플레이 범위 |
 |---|---:|---:|---|
-| [Michibiku](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/) | **8/10** | 매체 리뷰 1건 | 2015-10-07 / Jenni Lada / 일본 Vita 수입판. 일본어 지식이 적은 상태에서 평가했다고 명시 |
-| [Kresnik258gaming](https://kresnik258gaming.wordpress.com/2022/04/23/vita-ia-vt-colorful-import-review/) | **6.5/10** | 개인 실플레이 리뷰 1건 | 2022-04-23 / Vita 수입판. 화면의 장점과 해금·긴 곡·채보의 약점을 함께 기록 |
-| [Aaron plays Music Games](https://archmiel.wordpress.com/2015/12/28/iavt-colorful-vita/) | **정성평가, 숫자 없음** | 개인 실플레이 리뷰 1건 | 2015-12-28 / Vita. 기본 연주는 긍정, 반복과 읽기 어려운 구간은 비판 |
-| [Famitsu 점수를 전한 Gematsu](https://www.gematsu.com/2015/07/famitsu-review-scores-issue-1390) | **34/40 (9·8·9·8)** | 한 매체의 평가자 4명 | 2015-07-21 / PSV 명시. 점수의 간접 확인이며 Famitsu 리뷰 본문을 읽었다는 의미는 아님 |
+| [Michibiku / Jenni Lada](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/) | **8/10** | 작성자 1명·리뷰 1건 | 2015-10-07 / 일본 Vita 수입판. Free Play·Step Up·해금 경험. 일본어를 거의 모른다고 명시. 전체곡·전 난도 완료 여부와 총시간 미기재 |
+| [Kresnik258gaming](https://kresnik258gaming.wordpress.com/2022/04/23/vita-ia-vt-colorful-import-review/) | **6.5/10** | 작성자 1명·리뷰 1건 | 2022-04-23 / 일본 Vita판. 여러 곡의 판정·연출·해금 체험. 전곡·전 난도·트로피 완료와 DLC 실제 완주 범위 미기재 |
+| [Aaron plays Music Games / archmiel](https://archmiel.wordpress.com/2015/12/28/iavt-colorful-vita/) | 정성평가·수치 없음 | 작성자 1명·리뷰 1건 | 2015-12-28 / Vita판. 긴 곡·동시 입력·Hard Step Up에 관한 실제 체험. 플래티넘 또는 전체 완료를 선언하지 않음 |
+| [Digitally Downloaded / Matt S.](https://www.digitallydownloaded.net/2015/08/ddnet-does-japan-day-4-import-review.html) | 본문에서 수치 확인 못함 | 작성자 1명·리뷰 1건 | 2015-08-25 / 일본 Vita판. 기본곡 전체 해금에 약 7시간이라는 기록. 전 난도·DLC 완전 완료는 별개 |
+| [Gematsu가 전한 Famitsu 1390호](https://www.gematsu.com/2015/07/famitsu-review-scores-issue-1390) | **34/40 (9·8·9·8)** | 한 매체 평가자 4명 | Vita 점수의 간접 확인. 평론 본문·완료 범위는 확보하지 못해 위의 본문 검토 4건에 포함하지 않음 |
 
-앞의 세 글은 독립적인 플레이 평가다. Famitsu의 4명은 독립 매체 4곳이나 사용자 투표 4건으로 집계하지 않는다. 서로 다른 평가를 평균 내지 않았고, 현재 이용자 평점·표본 수를 추정하지 않았다. 공식 홍보 자료도 독립 리뷰에 포함하지 않는다.
+**본문 검토·작성자 중복 제거:** Lada, Kresnik, archmiel, Matt S.의 네 글을 각각 확인했다. DDNet 페이지의 공용 계정 `ddnetadmin` 대신 본문의 서명 Matt S.를 저자로 기록했다. 같은 글의 검색 결과·재인용은 추가 리뷰가 아니며, 위 수치는 이용자 투표 평균과도 구별된다.
 
-**아카이브 판정: 3.5/5.** 연주 규칙·시각화·도전 구성에 분명한 장점이 있어 단순 팬 상품 수준으로 제외하지 않는다. 그러나 해금의 강제 반복과 긴 곡의 재시도, 가독성·연출 편차를 함께 고려하면 전체 완성도가 강한 **4.0**으로 올리기는 어렵다. 리듬게임에 이야기 루트가 없다는 이유로 감점하지도 않았다.
+네 글은 연주 규칙의 접근성과 시각적 개성을 인정한다. Lada와 Kresnik은 원하는 곡의 해금을 위해 여러 성적을 채워야 하는 구조를, archmiel은 긴 곡의 반복과 동시 입력 가독성을 문제로 본다. Matt S.는 기본 연주의 완성도를 높게 보면서 무대 연출이 제한적인 점을 아쉬워한다. 수록곡의 개인적 선호와 장르 기대는 저자의 취향으로 남기고, 음악 자체가 나쁘다는 객관적 사실로 바꾸지 않았다.
+
+**작품성 3.5/5:** 변화하는 채보 표현과 조건형 도전, 입문부터 기록 경신까지의 동기는 등록선에 충분하다. 반면 해금 반복, 긴 곡 재시도, 빠른 구간의 기호 가독성과 연출 편차가 여러 체험에서 겹친다. 전체 경험을 더 고르게 다듬은 4.0급으로 보기는 어렵다. 희소성·IA 팬심·한국어 미지원 여부는 별점에 가산하지 않았다.
 
 ## 플레이타임
 
@@ -89,7 +113,7 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 
 ## 한국어화 상태
 
-| 구분 | 2026-09-20 공개 조사 결과 |
+| 구분 | 2026-10-08 공개 조사 결과 |
 |---|---|
 | 공식 Vita 한국어판 | 공개적으로 확인되지 않음 |
 | 공개 Vita 유저 한글패치 | 대상 작품·제작자·배포 버전이 일치하는 배포 원문을 확보하지 못함 |
@@ -98,9 +122,9 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 | 영어 팬 패치 | **배포 기록 있음. Nagato의 v1.1, 2016-09-18을 GameBrew가 기록** |
 | 영어 패치의 범위 | UI 전체 번역을 목표로 한 배포 설명. 곡 관련 표기는 영어 번역이 아니라 로마자 전사라고 안내하며 시스템 차원의 트로피 표시는 예외 |
 
-영어 패치 근거: [GameBrew 기록](https://www.gamebrew.org/wiki/IAVT_Colorful_English_Vita), [원배포 GBAtemp 스레드](https://gbatemp.net/threads/translation-project-ia-vt-colorful.441374/). 원배포 스레드의 직접 열기는 HTTP 403으로 제한됐으므로 최신 수정 상태는 독립 확인하지 못했다. **색인된 배포 기록과 설치·번역 품질 검증은 다르다.** 전체 가사가 영어로 번역되었다거나 최신 모든 환경에서 정상 작동한다고 보증하지 않는다.
+영어 패치 근거: [GameBrew 기록](https://www.gamebrew.org/wiki/IAVT_Colorful_English_Vita), [원배포 GBAtemp 스레드](https://gbatemp.net/threads/translation-project-ia-vt-colorful.441374/). 이번 재조사에서는 GameBrew의 배포 설명을 재확인했으며, 원배포 스레드와 실제 패치 파일의 최신 수정·실행 상태까지 검증하지 않았다. **색인된 배포 기록과 설치·번역 품질 검증은 다르다.** 전체 가사가 영어로 번역되었다거나 최신 모든 환경에서 정상 작동한다고 보증하지 않는다.
 
-검색에는 `IA/VT 한글`, `IA/VT 한국어`, `IA VT Colorful Korean patch`, `ia-vt-colorful patch`와 한국어 음역을 사용했다. 원본 게임 파일을 제공하는 링크나 다른 리듬게임의 패치는 근거에서 제외했다. 비공개·비색인 자료와 옛 게시물 접근 제한이 있으므로 **공개 확인 못함은 절대 존재하지 않음과 다르다.**
+현재 공개 검색에는 `IA/VT 한글패치`, `IA/VT 한국어 PC Switch`, `IA/VT Colorful Korean patch`, `이아 컬러풀 한글`을 사용했다. Vita 일반판·the Best·DLC와 후발 PC·Switch·PlayStation 이식 여부를 함께 대조했다. 원본 게임 파일을 제공하는 링크나 다른 리듬게임의 패치는 근거에서 제외했다. 비공개·비색인 자료와 옛 게시물 접근 제한이 있으므로 **공개 확인 못함은 절대 존재하지 않음과 다르다.**
 
 일본판 화면에는 영어 모드·난도 제목과 일본어 안내·목표가 공존한다. 일부 리뷰의 ‘메뉴가 영어’라는 표현을 전체 영어 현지화로 해석하지 않는다. 실제 일본판 [곡 선택 화면](https://michibiku.colorninja.com/wp-content/uploads/2015/09/ia-vt-colorful-2.jpg)과 [Step Up의 언어 설명](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/)을 함께 확인했다.
 
@@ -116,7 +140,7 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 
 [공식 한정판 안내 이미지](https://ia-vt.marv.jp/images/shopping_guide/cont_limited.png), [공식 추가 콘텐츠 소개](https://ia-vt.marv.jp/special.html?t=dlc), [the Best 제품 배너](https://ia-vt.marv.jp/images/top/bnr_best.png), [발매 연혁 공지](https://ia-vt.marv.jp/).
 
-2026-09-20 공개 조사에서 **본작의 PC·PS4·PS5·Switch 이식, 리마스터·리메이크는 확인하지 못했다.** 검색 결과에 나오는 다른 VOCALOID 게임의 기종이나 팬 에뮬레이션을 본작의 공식 이식으로 세지 않는다. 현재 판매·다운로드 서비스 상태는 직접 검증하지 않았다.
+2026-10-08 공개 조사에서 **본작의 PC·PS4·PS5·Switch 이식, 리마스터·리메이크는 확인하지 못했다.** 검색 결과에 나오는 다른 VOCALOID 게임의 기종이나 팬 에뮬레이션을 본작의 공식 이식으로 세지 않는다. 현재 판매·다운로드 서비스 상태는 직접 검증하지 않았다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
@@ -173,28 +197,6 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 
 **미확인.** 공개 영어 번역 기록은 선행 작업의 존재를 보여 줄 뿐, 필요한 한글 글리프와 자막 구조까지 해결됐다는 증거는 아니다. UI 중심이면 분량이 적을 것 같다는 인상만으로 추출·폰트·배포 난이도를 ‘쉬움’으로 확정하지 않는다.
 
-## 대표 스크린샷
-
-> **일본 Vita판 실제 연주·곡 선택 화면 3개.** 2015년 실플레이 리뷰의 직접 이미지 URL을 열어 화면을 확인했다. 한국어판이나 영어 패치 적용 화면이 아니며 직접 게임을 실행해 촬영한 것도 아니다. 이미지는 외부 원출처 링크로만 수록하고 저장소에 복제하지 않았다.
-
-### 1. MV 배경과 음표 경로
-
-![IA VT Colorful 일본 Vita판 연주 화면](https://michibiku.colorninja.com/wp-content/uploads/2015/09/ia-vt-colorful-3.jpg)
-
-[출처: Michibiku Vita 리뷰](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/)
-
-### 2. 곡·난도 선택
-
-![IA VT Colorful 일본 Vita판 Free Play 곡 선택 화면](https://michibiku.colorninja.com/wp-content/uploads/2015/09/ia-vt-colorful-2.jpg)
-
-[출처: Michibiku Vita 리뷰](https://michibiku.colorninja.com/review-iavt-colorful-and-a-rainbow-of-emotions/)
-
-### 3. 실시간 무대 배경의 연주
-
-![IA VT Colorful 일본 Vita판 무대 배경 연주 화면](https://archmiel.wordpress.com/wp-content/uploads/2015/12/iavt3.png?w=593)
-
-[출처: Aaron plays Music Games의 Vita 리뷰](https://archmiel.wordpress.com/2015/12/28/iavt-colorful-vita/)
-
 ## 한줄평
 
 **움직이는 음표와 60곡의 무대는 즐길 만하지만, 원하는 곡을 여는 반복과 긴 곡의 재도전이 부담인 리듬게임. 플레이 후보와 새 한국어화 우선 후보는 구분할 작품.**
@@ -203,7 +205,7 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 
 **PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
 
-독립적인 플레이 리뷰 세 곳과 공식 구성·판본 자료를 대조해 일반 등록선을 통과시킨다. 긴 곡과 해금 방식을 이유로 4.0까지는 올리지 않으며 음악 취향의 불호나 줄거리 부재를 자동 감점으로 삼지 않는다. 한국어판은 미확인 상태지만 언어 의존도와 번역 효용을 구분해 C로 둔다. 실제 한국어 패치 배포 근거 또는 파일 분석이 확보되면 해당 항목을 갱신한다.
+독립적인 Vita 플레이 리뷰 네 작성자와 공식 구성·판본 자료를 대조해 일반 등록선을 통과시킨다. 긴 곡과 해금 방식을 이유로 4.0까지는 올리지 않으며 음악 취향의 불호나 줄거리 부재를 자동 감점으로 삼지 않는다. 한국어판은 미확인 상태지만 언어 의존도와 번역 효용을 구분해 C로 둔다. 실제 한국어 패치 배포 근거 또는 파일 분석이 확보되면 해당 항목을 갱신한다.
 
 ## 참고 자료
 
@@ -221,4 +223,5 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 - [Gematsu: Famitsu 1390호 점수의 간접 확인](https://www.gematsu.com/2015/07/famitsu-review-scores-issue-1390)
 - [Digitally Downloaded: 기본곡 해금 시간 체험](https://www.digitallydownloaded.net/2015/08/ddnet-does-japan-day-4-import-review.html)
 - [GameBrew: 영어 UI 팬 패치 v1.1 배포 기록](https://www.gamebrew.org/wiki/IAVT_Colorful_English_Vita)
-- [GBAtemp: 영어 패치 원배포 스레드, 직접 열기 403 제한](https://gbatemp.net/threads/translation-project-ia-vt-colorful.441374/)
+- [GBAtemp: 영어 패치 원배포 스레드](https://gbatemp.net/threads/translation-project-ia-vt-colorful.441374/)
+
