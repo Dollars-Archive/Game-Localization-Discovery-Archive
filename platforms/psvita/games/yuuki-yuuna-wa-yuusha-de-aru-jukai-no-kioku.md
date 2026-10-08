@@ -1,243 +1,206 @@
 # Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku (유우키 유우나는 용사다 수해의 기억)
 
 > 원제: 結城友奈は勇者である 樹海の記憶  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **🔥 A**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 대상 판본: **PlayStation Vita / 일본판**  
+> 상태: **🟢 후보**  
+> 발굴 추천도: **⭐⭐⭐½☆ 3.5/5**  
+> 한글화 우선도: **🔥 A**  
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku는 TV 애니메이션 「유우키 유우나는 용사다」를 바탕으로 한 PS Vita 전용 액션·어드벤처다. 2015-02-26 일본에서 발매됐으며, 애니메이션 3화와 4화 사이를 보완하는 게임 오리지널 스토리와 최종 80종의 풀보이스 일상 이벤트를 수록한다. 2026-09-21 기준 공식 한국어판·공식 영어판·공개 Vita 한국어 패치는 확인되지 않았다.
+## 대표 스크린샷
+
+![PS Vita 일반 전투: 체력·콤보·미니맵이 표시된 실제 플레이 화면](https://www.4gamer.net/games/278/G027825/20150217052/TN/003.jpg)
+
+![PS Vita 콤보 전투: 조작 캐릭터와 적 상태가 보이는 실제 플레이 화면](https://www.4gamer.net/games/278/G027825/20150217052/TN/005.jpg)
+
+![PS Vita 필드 이동: 장비 효과와 미니맵이 보이는 실제 플레이 화면](https://www.4gamer.net/games/278/G027825/20150217052/TN/007.jpg)
+
+출처: [4Gamer에 실린 FuRyu PS Vita 시스템 발표](https://www.4gamer.net/games/278/G027825/20150217052/). 세 이미지의 픽셀을 직접 열어 조작 중 HUD·일반 전투·필드 화면임을 확인했다. 박스아트·홍보 렌더·이벤트 CG가 아니다. 사건이나 특수 연출을 드러내는 화면은 선정하지 않았다. 저작권 이미지는 저장소에 복제하지 않는다.
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | 結城友奈は勇者である 樹海の記憶 |
-| 영문 / 로마자 제목 | Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku / Yuna Yuki is a Hero: Memory of the Forest |
+| 영문 / 로마자 제목 | Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku |
 | 한글 제목 | 유우키 유우나는 용사다 수해의 기억 |
 | 플랫폼 | PlayStation Vita |
 | 발매일 | 일본 2015-02-26 |
-| 개발사 | Zero Div로 2차 자료에 기록 |
+| 개발사 | Zero Div 표기가 있는 2차 자료와 FuRyu를 개발·발매사로 묶은 DB가 혼재. 이번 조사에서 제작 크레디트 전체는 직접 대조하지 않음 |
 | 발매사 | FuRyu |
-| 제품 코드 | 다운로드 PCSG-00502 / 패키지 VLJM-30109 |
-| 장르 | 일상계!? 용사부 액션 / 액션·어드벤처 |
+| 장르 | 3D 액션·어드벤처 |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
-| 예상 플레이타임 | GameFAQs 약 20시간·1명 표본 / 이벤트·미션 전수 회수는 별도 |
+| 예상 플레이타임 | GameFAQs 약 20시간·1명. 첫 클리어와 전수 완료를 분리하지 않은 극소표본 |
 | 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | **🔥 A** |
-| 한글화 난이도 | **중간 이상 / 부분 확인**. gametext.bin UTF-16LE 추출·재직렬화, 스크립트 구조 분석, Vita3K 런타임 훅이 공개돼 있으나 폰트·전체 스크립트 재삽입·UI 이미지·실기 한글 렌더링은 미검증 |
-| 현재 추천 버전 | 이 작품 자체는 PS Vita판이 유일한 기준판 |
+| 한글화 난이도 | **종합 미확인 / 공개 도구에서 일부 문자열 추출·재직렬화 코드 확인** |
+| 현재 추천 버전 | 이 정확한 작품은 PS Vita판. 동일 작품의 후발 이식은 공개적으로 확인되지 않음 |
 
-근거: [FuRyu 공식](https://www.cs.furyu.jp/yuyuyu/), [Famitsu 리뷰](https://www.famitsu.com/game/title/31469/reviews), [GameFAQs 발매 정보](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/data).
+발매 정보: [공식 사이트](https://www.cs.furyu.jp/yuyuyu/), [4Gamer Vita 항목](https://www.4gamer.net/games/278/G027825/), [GameFAQs](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats).
 
 ## 스포일러 최소 시놉시스
 
-산슈 중학교 용사부의 유우키 유우나, 토고 미모리, 이누보자키 후우·이츠키, 미요시 카린은 평소에는 학교와 봉사활동을 함께 보내지만, 인류를 위협하는 버텍스가 나타나면 신수의 힘을 받아 ‘수해’에서 싸운다.
-
-게임은 TV 애니메이션 3화와 4화 사이를 배경으로 한다. 한 번 쓰러뜨렸던 버텍스가 다시 나타나고, 원래라면 용사와 버텍스만 존재해야 할 수해에 수수께끼의 존재가 출현하면서 오리지널 사건이 시작된다.
-
-메인 사건과 별개로 애니메이션에서 충분히 볼 수 없었던 용사부의 일상·계절 이벤트·관계 묘사를 대량의 풀보이스 이벤트로 보강한다.
+TV 애니메이션 「유우키 유우나는 용사다」의 용사부를 소재로, 부원들의 일상 대화와 직접 조작하는 액션을 함께 즐기는 게임이다. 타카히로와 Studio 5조가 시나리오를 감수했고 애니메이션의 성우진이 참여했다. 인물의 정체·사건의 원인·전개 방식·결과는 소개하지 않는다. [제작 발표](https://www.4gamer.net/games/278/G027825/20141017084/)
 
 ## 게임 구조 / 루트 구조
 
-- **Story Mode:** 회화 이벤트 → 일반 수해 전투 → 대형 버텍스·미타마 결전 → 회화 이벤트의 흐름으로 6화까지 진행한다.
-- **5인 플레이어블:** 유우나·토고·후우·이츠키·카린을 직접 조작하며 각자의 공격 방식과 리치가 다르다.
-- **3D 액션:** 약공격·강공격 콤보, 가드, 회피, 점프, 만개를 사용해 소형 버텍스와 보스를 상대한다.
-- **만개·봉인의 의식:** 애니메이션의 핵심 전투 설정을 게임 시스템으로 재현했다. 본작에서는 특정 설정상 만개에 애니메이션과 같은 산화 패널티를 적용하지 않는다.
-- **Mission Mode:** 타임어택·콤보·특수 조건 미션을 수행하며 진행에 따라 새 미션이 열린다.
-- **Appreciation / 감상 모드:** 최종 80종의 풀보이스 일상 이벤트를 열람한다.
-- **이벤트와 성장 연동:** 이벤트 행을 완성하면 HP·공격력 상승, 콤보 확장 등 전투 보너스가 해금된다.
-- **캐릭터별 목표:** 같은 스토리 스테이지라도 캐릭터별 부목표·아이템·랭크 기록이 따로 관리된다.
-- **난이도 4단계:** 쉬움·보통·어려움·초고난도 선택이 가능하다.
-- **원작 보완형:** 본편 애니를 이미 본 팬이 인물 관계와 일상 이벤트의 의미를 가장 잘 이해할 수 있는 구조다.
+- 이야기 진행, 조건별 미션, 새로 해금하는 일상 이벤트 감상의 세 모드로 나뉜다. 감상 모드는 이미 본 장면을 다시 보는 기능만이 아니라 새로운 단편을 읽는 핵심 콘텐츠다.
+- 다섯 캐릭터 중 한 명을 선택해 필드를 이동하고 전투를 수행한다. 무기·리치·이동 감각이 달라 동일한 조작 경험을 그대로 복제한 구성은 아니다.
+- 스테이지·미션 조건을 달성하면 이벤트가 열리고, 이벤트 수집은 능력 상승과 콤보 확장으로 돌아온다. 액션과 대화가 보상 구조로 연결된다.
+- 캐릭터별 선택과 수집 항목은 존재하지만 연애 ADV의 독립 루트 수로 세지 않는다. 해금 조건·사건 순서·특수 설정은 스포일러 방지를 위해 생략한다.
+- 성장과 난이도 조절이 액션에 익숙하지 않은 이용자의 진입을 돕는다. 전수 수집에는 같은 공간과 과제를 반복하는 부담이 있다.
 
-자료: [FuRyu 액션 시스템](https://www.cs.furyu.jp/yuyuyu/system/), [Gematsu 3모드 소개](https://www.gematsu.com/2015/01/yuna-yuki-hero-memory-forest-three-game-modes-detailed), [공략 Wiki 스토리 구조](https://w.atwiki.jp/yukiyuna/pages/223.html).
+근거: [FuRyu의 3모드 발표](https://www.4gamer.net/games/278/G027825/20150121081/), [まさん의 직접 플레이 리포트](https://dengekionline.com/elem/000/001/008/1008024/). 공식 소개와 체험 평가를 구분했다.
 
 ## 왜 발굴할 만한가
 
-이 작품의 가치는 액션게임 완성도보다는 **‘2014 애니메이션 당시 제작진이 직접 감수한 대규모 공식 사이드스토리 묶음’**에 있다.
+일상 단편이 단순 특전이 아니라 캐릭터 표현·풀보이스 연기·수집과 성장의 연결을 담당하는 비중 있는 콘텐츠다. 원작 IP의 인지도 때문이 아니라, 이 게임 안에서 인물별 개성을 구현한 대화와 조작의 결합을 작품성 근거로 삼는다. 공식 발표는 **80개 이상의 오리지널 이벤트**를 안내한다. 이를 정밀한 파일 수나 번역 행 수로 바꾸어 주장하지 않는다. [이벤트 수록 발표](https://www.4gamer.net/games/278/G027825/20150130097/)
 
-타카히로와 Studio 5조가 스토리·이벤트를 감수했고 애니메이션과 같은 성우진이 풀보이스로 참여했다. 최종 80종의 일상 이벤트는 여름·겨울·학교생활 등 본편의 무거운 전개 때문에 부족했던 평온한 용사부 생활을 집중적으로 보여 준다. 「와시오 스미는 용사다」 계열 인물과 연결되는 시나리오도 있어 당시 용사다 세계관의 보완 자료로서 가치가 크다.
-
-반대로 액션 파트는 캐릭터 게임의 이벤트를 열기 위한 반복 작업처럼 느껴질 수 있다. 적 종류가 적고 맵 이동이 길며, 전투 중 캐릭터 교체가 없고 거리감·락온·회피 조작에도 적응이 필요하다. 그래서 팬서비스 품질은 높지만 순수 액션게임 기준으로 4.0을 주기는 어렵다.
+액션의 단조로움과 조작 불편도 독립 평가에서 구체적으로 확인된다. 따라서 이벤트 파트의 완성도를 인정하면서도 작품 전체는 **3.5/5**로 판단한다.
 
 ## 장점
 
-- 타카히로와 Studio 5조가 게임 오리지널 스토리·이벤트를 직접 감수했다.
-- 애니메이션과 같은 주요 성우진으로 풀보이스 수록.
-- **80종의 일상 이벤트**가 있어 본편 애니에서 부족했던 용사부의 평온한 관계 묘사를 크게 보강한다.
-- 애니메이션 3화~4화 사이를 다루는 공식 보완 스토리라는 팬덤·보존 가치가 있다.
-- Famitsu는 네 리뷰어가 **8 / 7 / 8 / 7 = 30/40**으로 평가했다.
-- 캐릭터별 전투 모션과 리치·공격 방식 차이가 원작 개성을 반영한다.
-- 만개·봉인의 의식·정령 방어 등 애니메이션 설정을 실제 조작 시스템으로 옮겼다.
-- 이벤트 해금과 스탯·콤보 성장을 연결해 일상 파트와 액션 파트가 완전히 분리되지 않는다.
-- Mission Mode와 캐릭터별 부목표가 이벤트 전수 수집의 동기를 제공한다.
-- PS Vita 단독 타이틀이며 현재까지 이 정확한 게임의 공식 후발 이식·리마스터를 확인하지 못했다.
+- 캐릭터별 대화와 연기, 모델·동작의 성격 표현이 잘 맞물린다는 평가가 있다.
+- 일상 이벤트의 분량과 구성은 공식 단편집에 가까운 만족도를 제공한다.
+- 이벤트 수집이 성장으로 이어져 두 파트를 번갈아 진행할 동기를 만든다.
+- 캐릭터별 조작 차이와 난이도 조절은 반복 플레이에 최소한의 선택 폭을 준다.
+
+이 장점은 [Famitsu 네 필자의 단평](https://www.famitsu.com/game/title/31469/reviews), [電撃 まさん](https://dengekionline.com/elem/000/001/008/1008024/), [Famitsu 武藤先輩](https://www.famitsu.com/news/201503/13073780.html)의 실플레이 본문을 교차 확인한 것이다.
 
 ## 단점
 
-- Famitsu 리뷰 네 명 모두 적 종류 부족과 전투의 단조로움을 직접 지적했다.
-- 필드 이동이 길고 전투 사이 템포가 늘어지는 구간이 있다.
-- 락온·회피 입력과 적 거리감이 직관적이지 않다는 평가가 있다.
-- 전투 중 플레이어블 캐릭터 교체가 없어 같은 스테이지 반복 시 변화가 적다.
-- GameFAQs 사용자 평가는 **3/5·5명**으로 소표본이지만 평범한 수준이다.
-- 비평형 2차 자료도 이벤트 파트는 높게 평가하는 반면 액션 파트는 단조롭고 작업성이 강하다고 정리한다.
-- 애니메이션 1기를 모르면 캐릭터 관계·세계관·이벤트의 감정적 보상이 크게 줄어든다.
-- 메인 스토리는 6화 구성으로 길지 않고, 실제 볼륨의 상당 부분이 80개 이벤트 수집에 있다.
-- 후속 모바일/콘솔 게임 「꽃매듭의 반짝임」은 훨씬 큰 용사다 콘텐츠를 제공하지만 본작의 직접 이식이나 대체판은 아니다.
+- 적 구성과 스테이지 반복은 액션의 변화를 제한한다.
+- 거리 감각, 높은 위치에서 밀려난 뒤 재이동, 락온·회피 입력 적응 등 조작·진행 흐름에서 구체적인 불편이 보고됐다.
+- 플레이 도중 캐릭터를 바꿀 수 없는 구조는 반복의 변주를 줄인다.
+- 원작의 인물 관계를 알고 있을수록 일상 단편의 의미를 이해하기 쉽다. 다만 원작을 모르면 플레이 불가능하다는 주장은 아니다.
+
+**종전 문서의 “Famitsu 네 명 모두 적 종류 부족을 지적했다”는 표현을 수정했다.** 적 종류를 직접 짚은 필자와 거리감·캐릭터 교체·이동 및 입력을 짚은 필자는 서로 다르다. 공통적인 액션 아쉬움과 개별 비판을 혼동하지 않는다. [단평 원문](https://www.famitsu.com/game/title/31469/reviews)
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처 / 작성자 | 점수 | 표본 수 | 대상 판본·완료 범위 / 본문 확인 |
 |---|---:|---:|---|
-| Famitsu | **30/40** | 4명 | PS Vita / 8·7·8·7 |
-| GameFAQs | **3/5** | 5명 | PS Vita 사용자 평가 |
-| Dengeki Online | 정성 호평 | 1편 | PS Vita 플레이 리포트 / 액션+이벤트 양쪽 볼륨과 팬서비스 호평 |
-| Famitsu 장문 플레이 기사 | 정성 호평 | 2편 | PS Vita / 팬 관점에서 80+ 이벤트와 원작 재현 호평 |
-| Console Game Dictionary | 캐릭터게임은 양호 / 액션은 낮게 평가 | 편집형 2차 평가 | 이벤트 강점과 액션 단조로움 구분 |
+| [Famitsu / レゲー秋山](https://www.famitsu.com/game/title/31469/reviews) | 8/10 | 필자 1명 | Vita. 이벤트의 질·분량과 성장 연동 호평, 적 구성의 단조로움 지적. 완료 범위 미명시 |
+| [Famitsu / ジゴロ☆芦田](https://www.famitsu.com/game/title/31469/reviews) | 7/10 | 필자 1명 | Vita. 모델·모션·쉬운 콤보 호평, 위치 회복·거리감의 불편 지적. 완료 범위 미명시 |
+| [Famitsu / くしだナム子](https://www.famitsu.com/game/title/31469/reviews) | 8/10 | 필자 1명 | Vita. 공식 단편집으로 긍정적, 전투 중 교체 부재와 액션 구성 아쉬움. 완료 범위 미명시 |
+| [Famitsu / 戸塚伎一](https://www.famitsu.com/game/title/31469/reviews) | 7/10 | 필자 1명 | Vita. 동작·일상 이벤트 호평, 이동 템포·락온·회피 적응 지적. 완료 범위 미명시 |
+| [電撃 / まさん](https://dengekionline.com/elem/000/001/008/1008024/) | 수치 없음 | 필자 1명 | 2015-02-18 발매 전 Vita 체험. 전 캐릭터를 만져 본 경험 명시, 전수 완료는 미명시 |
+| [Famitsu / 武藤先輩](https://www.famitsu.com/news/201503/13073780.html) | 수치 없음 | 필자 1명 | 2015-03-13. Vita 클리어 후 소감 명시. 팬 관점임을 본인이 밝힘; 전수 수집 완료는 미명시 |
+| [GameFAQs 통계](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats) | 3/5 | 평가 투표 5명 | Vita 사용자 투표. 작성형 리뷰 5편이 아니며 완료 여부도 투표별 확인 불가 |
 
-- [Famitsu 리뷰](https://www.famitsu.com/game/title/31469/reviews)
-- [GameFAQs 통계](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats)
-- [Dengeki 플레이 리포트](https://dengekionline.com/elem/000/001/008/1008024/)
-- [Famitsu 팬 관점 장문 기사](https://www.famitsu.com/news/201503/13073780.html)
-- [Console Game Dictionary](https://consoledictionary.com/page.php?pid=8414&t=games)
+Famitsu 합계는 **30/40(8·7·8·7)**이다. 4명의 단평과 장문 2명의 본문을 읽었지만 매체는 Famitsu·電撃의 2곳이다. 완전히 독립적인 세 매체의 장문 완주 리뷰를 확보했다고 부풀리지 않는다. 武藤先輩의 다른 관련 글은 동일 작성자이므로 추가 독립 표본으로 세지 않는다. GameFAQs 표시는 캐시·추가 투표에 따라 달라질 수 있는 참고값이다.
 
-> 3.5는 팬덤 보너스로 올린 점수가 아니다. 공식 감수 오리지널 시나리오와 80종 풀보이스 이벤트라는 콘텐츠 가치가 명확하지만, 액션 파트의 반복·적 다양성·조작 문제 때문에 4.0 우수작으로 보기 어렵다.
+**점수 판단:** 대화·연기·수집 연동이 확실한 장점이라 3.0 이하로 내릴 근거는 부족하다. 반면 액션의 구성·입력·반복에 대한 복수의 구체적 비판 때문에 4.0으로 올리지 않는다. 원작 팬이라는 이유, 일본어 전용이라는 이유, 희귀성은 별점에 가산하지 않았다.
 
 ## 플레이타임
 
-- GameFAQs는 **약 20시간·1명**을 표시한다. 표본이 1명뿐이므로 일반화하지 않는다.
-- 스토리 모드는 6화로 구성돼 단독 클리어만 보면 길지 않다.
-- 실제 전수 플레이는 5명의 캐릭터별 스테이지 기록·부목표, Mission Mode, 80개 이벤트, CG·BGM 감상 요소 때문에 훨씬 길어진다.
-- 한글화 검수에서는 메인 스토리보다 **80개 이벤트 + 미션·시스템·액세서리·전투 UI**가 더 큰 검수 범위를 만든다.
+| 범위 | 시간 | 표본 수 | 해석 |
+|---|---:|---:|---|
+| GameFAQs Play Time | 약 20시간 | 1명 | Vita. 본편·전수 완료 구분 없음; 일반적인 완료 시간으로 단정 불가 |
+| 武藤先輩의 클리어 경험 | 시간 미명시 | 1명 | 클리어 사실과 이벤트 전체 수집은 별개 |
+| 모든 캐릭터·이벤트·미션 검수 | 미확인 | 신뢰할 집계 없음 | 20시간을 전체 번역 검수 비용으로 사용하지 않음 |
+
+[시간·평가 통계](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats). 대화 원문·메뉴·미션 설명·아이템·능력 수치가 검수 범위다. 전체 완료 수량이나 정확한 소요 시간을 추정해 채우지 않았다.
 
 ## 한국어화 상태
 
-- 공식 PS Vita 한국어판: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공개 PS Vita 유저 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공식 영어판: **확인되지 않음**. 일본 전용 Vita 타이틀이다.
-- 공개 완성 영문 패치: **이번 조사에서 확인하지 못함**.
-- Vita3K 런타임 번역 보조: **LunaTranslator가 PCSG00502용 UTF-16 텍스트 훅을 보유**한다. 이는 실시간 텍스트 캡처 경로이지 완성 영문 패치와는 다르다.
-- 국내 통용 제목은 **유우키 유우나는 용사다 수해의 기억** 사용례가 확인된다.
+| 구분 | 2026-10-08 확인 결과 |
+|---|---|
+| 공식 Vita 한국어판 | 공개적으로 확인되지 않음 |
+| Vita 공개 완성 한글패치 | 배포 제작자·대상 버전·실사용 범위를 확인할 수 있는 공개 배포 자료를 찾지 못함 |
+| 동일 작품의 PS4·Switch·PC판 및 한국어 대안 | 동일 게임의 공식 후발 이식 자체가 확인되지 않음 |
+| 다른 용사다 게임의 번역 | 별도 작품의 번역은 본작의 한국어 대안으로 계산하지 않음 |
+| 부분·기계번역·제작 중 자료 | 완성된 한국어 패치로 판단할 배포 근거 미확인 |
+| 공개 기술 도구 | 문자열 변환 코드가 존재하지만 번역 결과물이나 완성 한국어 패치는 아님 |
 
-자료: [국내 통용 제목](https://namu.moe/w/%EC%9C%A0%EC%9A%B0%ED%82%A4%20%EC%9C%A0%EC%9A%B0%EB%82%98%EB%8A%94%20%EC%9A%A9%EC%82%AC%EB%8B%A4%20%EC%88%98%ED%95%B4%EC%9D%98%20%EA%B8%B0%EC%96%B5), [LunaTranslator 지원 목록](https://github.com/HIllya51/LunaTranslator/blob/main/docs/emusupportlist/psv.md).
+원제·로마자명·“유우키 유우나는 용사다 수해의 기억”, “수해의 기억 한글패치”, “Jukai no Kioku Korean patch”, Vita·PC·Switch 조합을 다시 검색했다. [공식 작품 페이지](https://www.cs.furyu.jp/yuyuyu/), [Vita 공개 한국어 패치 목록](https://www.hangulogame.com/platform/psv/)도 대조했다. 검색 실패는 비공개 작업까지 포함한 부재 증명이 아니다.
 
-## 원작·이식·확장판 관계
+**한국어 대안 제외 규칙:** 현재 확인된 완성 한국어 대안이 없어 후보 자격을 유지한다. 추후 실제 배포 근거가 확인되면 작품 점수와 별개로 활성 후보 여부를 재판정한다.
 
-- **TV 애니메이션 「유우키 유우나는 용사다」 / 2014:** 본작의 직접 원작. 게임은 3화와 4화 사이에 들어가는 보완 사건을 그린다.
-- **Jukai no Kioku / PS Vita / 2015:** 본 문서의 대상. 게임 오리지널 메인 스토리 + 80 일상 이벤트 + 3D 액션.
-- **BD/DVD 특전 PC ADV:** 별도의 미나토소프트 제작 어드벤처. Jukai no Kioku와 다른 작품.
-- **Yuuki Yuuna wa Yuusha de Aru: Hanayui no Kirameki / 모바일·브라우저 2017:** 시대를 넘는 다수 용사 크로스오버 작품. Jukai no Kioku의 이식판이 아니다.
-- **Hanayui no Kirameki 콘솔판 / PS4·Switch 2024:** 서비스 종료 모바일판의 스토리를 8권으로 이식한 별도 게임. Jukai no Kioku의 리마스터·후발판이 아니다.
-- 이번 조사 범위에서 **Jukai no Kioku 자체의 PS4·Switch·PC 공식 이식은 확인되지 않았다.**
+## 원작 / 이식 / 확장판 관계
+
+| 구분 | 관계 |
+|---|---|
+| TV 애니메이션 | 게임의 원작 |
+| Jukai no Kioku / Vita / 2015 | 조사 대상인 액션·어드벤처 |
+| 애니메이션 영상물 부록 PC ADV | 다른 게임. 이 Vita 작품의 PC 이식으로 취급하지 않음 |
+| Hanayui no Kirameki / 모바일·후발 콘솔판 | 다른 제목·구성의 작품. Jukai no Kioku의 이식·리마스터가 아님 |
+| Jukai no Kioku 자체의 리마스터·리메이크 | 이번 공개 조사에서 확인되지 않음 |
+
+[원작·게임 발표](https://www.4gamer.net/games/278/G027825/20141017084/), [Vita 제품 정보](https://www.4gamer.net/games/278/G027825/). 다른 용사다 작품이 더 긴 분량을 제공하더라도 이 게임의 콘텐츠를 그대로 대체한다고 판단하지 않는다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 확인된 내용 |
+| 판본 | 확인 내용 |
 |---|---|
-| PS Vita 패키지 | 본편 / VLJM-30109 |
-| PS Vita 다운로드 | 본편 / PCSG-00502 |
-| PS Vita 한정판 | 본편 + 드라마 CD·설정/아트 소책자·포스터·스티커·별도 재킷·박스 |
-| 타 기종 | 동일 게임의 공식 이식 확인 못함 |
-| Hanayui 콘솔판 | 별도 게임의 스토리 이식 / Jukai no Kioku 콘텐츠와 동일판 아님 |
+| Vita 일반판·다운로드판 | 같은 제목의 본편. 전 자산을 바이트 단위 대조하지는 않음 |
+| Vita 한정판 | 물리 부록 구성 차이. 이를 독립 시나리오 확장판으로 간주하지 않음 |
+| 다른 플랫폼 | 동일 작품 이식을 확인하지 못해 추가·삭제 비교 대상이 확정되지 않음 |
+
+해상도·백로그·세이브 슬롯 등 확인되지 않은 판본 차이는 추정하지 않는다.
 
 ## 현재 추천 버전
 
-**Jukai no Kioku 자체를 플레이하려면 PS Vita판이 유일한 기준판이다.**
+**현재 플레이:** 이 작품 자체를 원한다면 **PS Vita 일본판**이다. 구매 가능 여부·가격은 별도 확인이 필요하다.
 
-후발 「꽃매듭의 반짝임」 콘솔판은 훨씬 많은 용사다 스토리를 담고 있지만 다른 게임이고, 애니메이션 3~4화 사이의 본작 오리지널 사건과 80개 이벤트를 그대로 대체한다고 볼 수 없다.
-
-따라서 이 작품의 보존·한글화 목적이라면 **PCSG-00502 / VLJM-30109 PS Vita판**이 직접 대상이다.
+**한글화 프로젝트:** **PS Vita판**을 대상으로 파일 분석을 진행할 가치가 있다. 다른 용사다 게임으로 대상을 바꾸는 것은 별도 프로젝트다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성: **중상 / 캐릭터게임 강점이 액션 약점을 상쇄**.
-- 한국어 접근성: 공식 한국어·공개 Vita 한국어 패치 없음.
-- 영어 접근성: 공식 영어판·완성 공개 영문패치 확인 못함.
-- Vita 독자성: 매우 높음. 정확한 게임의 후발 이식 확인 못함.
-- 시나리오 가치: 타카히로·Studio 5조 감수의 공식 사이드스토리와 80개 풀보이스 이벤트.
-- 기술 자산: **gametext.bin 추출·재직렬화, 스크립트 구조 분석, Vita3K 런타임 텍스트 훅 공개**.
-- 한글화 우선도: **🔥 A**.
-- 판단 근거: 작품 점수는 3.5지만, 한국어·영어 대안이 없고 Vita 독점 콘텐츠이며, 실제 문자열 구조와 추출·재직렬화 자산이 이미 공개돼 있어 파일 분석 실패 비용이 일반 미분석 Vita 캐릭터게임보다 낮다.
+- **작품성:** 3.5/5. 이벤트 구성과 캐릭터 표현이 액션의 약점을 일부 상쇄한다.
+- **한국어 접근성:** 확인된 실사용 한국어 대안이 없다.
+- **대상 판본 가치:** 동일 작품의 후발판이 확인되지 않았고, 대화 콘텐츠가 다른 게임으로 대체되지 않는다.
+- **한글화 우선도: 🔥 A.** 일부 문자열용 공개 변환 코드가 있어 초기 분석의 출발점이 구체적이다. 이는 성공 가능성·작업량·난이도를 검증했다는 뜻은 아니다.
+- 원작 설정을 맞춘 용어·음성 타이밍과 미션 UI를 함께 검수해야 한다. 작품 점수와 프로젝트 우선도는 별개로 판단했다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | **중~많음 / 정확한 행 수 미확인** | 메인 6화 + 80 이벤트 + 미션·시스템·아이템 텍스트 |
-| gametext 추출 | **부분 확인** | 공개 serializer가 gametext.bin offset table과 UTF-16LE 문자열을 읽어 CSV로 추출 |
-| gametext 재삽입 | **부분 확인** | 같은 Python 도구가 번역 CSV를 UTF-16LE gametext.bin으로 재생성하고 Vita3K PCSG00502 경로에 출력 |
-| 이벤트 스크립트 추출 | **부분 확인** | 010 Editor template 및 C# 변환기가 eventType 0x01 대사와 actor·offset 구조를 분석해 XML 출력 |
-| 이벤트 스크립트 재삽입 | **미완성 / 미확인** | 공개 C# 변환기의 XML→BIN 경로는 구현되지 않은 상태 |
-| 런타임 텍스트 캡처 | **확인** | LunaTranslator가 PCSG00502용 0x800E954E / UTF-16 훅을 제공 |
-| 폰트 작업 | **위치 부분 확인 / 수정 미확인** | Vita3K 로그에서 lang_jp/font/seuratpro-m.gxm.phyre 경로 확인, 한글 글리프 삽입은 미검증 |
-| UI 이미지 / 아틀라스 | **미확인** | 이미지화 텍스트·아틀라스 포맷 미분석 |
-| 영상 자막 | **미확인** | 영상·자막 구조 미분석 |
-| 제어문자 / 스크립트 구조 | **부분 확인 / 중간 이상** | type 01 대사, actor ID, 배경·이미지 관련 event type 일부가 공개 template에 기록 |
-| 실행 파일 수정 | **미확인** | 한글 렌더링에 EBOOT 수정이 필요한지 확인 안 됨 |
-| 패치 배포 방식 | **미확인** | 완성 번역 rePatch 배포 사례 확인 못함 |
-| 실기·에뮬 검수 | **부분 확인** | Vita3K PCSG00502 실행 로그·런타임 훅 존재 / 한글 수정본 실기 검증은 없음 |
+| 예상 텍스트량 | 미확인 | 공식 이벤트 수는 있으나 실제 행·문자 수 미추출 |
+| 텍스트 추출 | 일부 코드 확인 | 공개 Python은 gametext.bin 오프셋과 UTF-16LE 문자열을 읽는 경로 포함. 현 파일로 실행하지 않음 |
+| 텍스트 재삽입 | 일부 코드 확인 | 같은 도구에 문자열 테이블 생성 경로가 있으나 한글 수정본 검증 없음 |
+| 이벤트 스크립트 | 일부 추출 코드 확인 | C# BinToXml은 대사 이벤트를 XML로 변환. XML 입력 처리 분기는 비어 있음 |
+| 폰트 작업 | 미확인 | 한글 글리프·문자폭·렌더링·개행 실증 없음 |
+| UI 이미지 / 아틀라스 | 미확인 | 자산 형식 미분석 |
+| 영상 자막 | 미확인 | 영상·자막 데이터 미분석 |
+| 제어문자 / 스크립트 구조 | 부분 확인 | 공개 코드의 개행·화자·이벤트 오프셋 처리까지. 전수 구조 검증은 아님 |
+| 실행 파일 수정 | 미확인 | 필요 여부 미판정 |
+| 패치 배포 방식 | 미확인 | 원본 식별·지역판·업데이트와 차분 패치 설계 미확정 |
+| 실기·에뮬 검수 | 미확인 | 공개 코드에 Vita3K 출력 경로가 있어도 실제 한글 실행 성공의 증거는 아님 |
+
+직접 읽은 기술 자료: [Gametext Serializer](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Gametext%20Serializer.py), [이벤트 변환기 Program.cs](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/JukaiNoKiokuScriptConvert/Program.cs). 이 자료는 실행·설치하지 않았다.
 
 ### 예상 한글화 난이도
 
-**중간 이상 / 기술 경로 부분 확인.**
-
-전용 리버스엔지니어링 자료가 이미 존재한다. Silvris의 공개 도구는 PCSG00502의 RomImage_PSP2_JP/lang_jp/gametext/gametext.bin을 UTF-16LE 문자열 테이블로 읽고 다시 쓸 수 있으며, 별도 binary template은 이벤트 스크립트의 대사 eventType과 캐릭터 ID·오프셋 구조를 분석한다.
-
-또한 LunaTranslator는 Vita3K에서 본작 텍스트를 잡기 위한 UTF-16 런타임 훅을 제공한다. 즉 ‘문자열을 찾는 단계’는 상당 부분 줄어든다.
-
-다만 전체 이벤트 스크립트 재삽입 경로와 한글 폰트·줄바꿈·UI 이미지·실기 패키징은 아직 검증되지 않았다. 영어/중국어 실시간 번역 훅이 존재한다고 해서 한국어 패치 제작이 자동으로 해결되는 것은 아니다.
-
-기술 자료:
-- [Jukai no Kioku Gametext Serializer](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Gametext%20Serializer.py)
-- [Jukai no Kioku Script binary template](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Script.bt)
-- [JukaiNoKiokuScriptConvert](https://github.com/Silvris/RandomScriptsAndTemplates/tree/main/Jukai%20no%20Kioku/JukaiNoKiokuScriptConvert)
-- [LunaTranslator Vita3K hook](https://github.com/HIllya51/LunaTranslator/blob/main/src/NativeImpl/LunaHook/LunaHook/emulators/vita3k_1.cpp)
-
-## 대표 스크린샷
-
-> 저작권 이미지는 저장소에 복제 업로드하지 않는다. 아래는 실제 PS Vita 인게임 화면을 확인할 수 있는 출처다.
-
-1. **유우나 3D 전투 화면**  
-   [Gematsu PS Vita 실제 게임 화면 갤러리](https://www.gematsu.com/2014/10/yuna-yuki-hero-memory-forest-story-game-parts-detailed)
-
-2. **토고 미모리 3D 전투 화면**  
-   [FuRyu 공식 캐릭터 페이지의 실제 인게임 화면](https://www.cs.furyu.jp/yuyuyu/character/togo.html)
-
-3. **스토리·미션·감상 모드 및 이벤트 화면**  
-   [Gematsu 3모드 상세 기사·스크린샷](https://www.gematsu.com/2015/01/yuna-yuki-hero-memory-forest-three-game-modes-detailed)
+**종합 미확인.** 기존 문서의 “중간 이상”은 검증 범위보다 강한 확정이므로 사용하지 않는다. 코드가 있는 부분과 완성된 게임 내 번역 파이프라인은 구별해야 한다.
 
 ## 한줄평
 
-**액션게임만 떼어 놓으면 얕고 반복적이지만, 80개의 풀보이스 일상과 공식 감수 사이드스토리를 붙이는 순간 ‘팬이 보존할 이유’가 확실해지는 Vita 전용 캐릭터게임.**
+**풀보이스 일상 단편과 수집·성장의 연결은 충실하지만, 반복과 조작의 거친 부분까지 함께 안고 가는 액션·어드벤처.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 🔥 A / 기술 난이도 중간 이상·부분 확인.**
+**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 🔥 A / 기술 난이도 미확인·일부 코드 확인.**
 
-등록선은 통과한다. Famitsu 30/40, GameFAQs 3/5의 평범한 사용자 평점, 반복적인 액션이라는 약점 때문에 4.0은 어렵다. 하지만 공식 제작진 감수의 오리지널 스토리와 80개 풀보이스 이벤트는 캐릭터게임으로서 분명한 완성도와 보존 가치를 만든다.
-
-A급은 희귀성만으로 준 것이 아니다. **공식 한국어·영어 대안 없음 + Vita 전용 공식 사이드스토리 + 후발 동일판 없음 + 전용 gametext serializer·스크립트 분석·Vita3K 텍스트 훅 존재**가 동시에 확인돼, 실제 프로젝트 후보로 파일 구조부터 분석할 기대값이 높다.
+기존 후보 문서를 갱신할 근거가 충분하다. 새 중복 후보를 추가하는 판정이 아니다. 본문 리뷰의 작성자와 완료 범위를 나누고, 사용자 투표를 리뷰 수로 세지 않았으며, 이미지 3장의 실제 플레이 화면을 검증했다. 한국어 대안이 확인되면 활성 후보 자격부터 다시 검토한다.
 
 ## 참고 자료
 
 - [FuRyu 공식](https://www.cs.furyu.jp/yuyuyu/)
-- [FuRyu 액션 시스템](https://www.cs.furyu.jp/yuyuyu/system/)
-- [TV 애니메이션 공식 게임 발표](https://yuyuyu.tv/news/archives/22)
-- [Famitsu PS Vita 리뷰 30/40](https://www.famitsu.com/game/title/31469/reviews)
-- [Famitsu 원작 팬 관점 장문 리뷰](https://www.famitsu.com/news/201503/13073780.html)
-- [Famitsu 80+ 이벤트 소개](https://www.famitsu.com/news/201503/04073026.html)
-- [Dengeki 플레이 리포트](https://dengekionline.com/elem/000/001/008/1008024/)
-- [Gematsu 스토리·액션·이벤트](https://www.gematsu.com/2014/10/yuna-yuki-hero-memory-forest-story-game-parts-detailed)
-- [Gematsu 3모드·80 이벤트](https://www.gematsu.com/2015/01/yuna-yuki-hero-memory-forest-three-game-modes-detailed)
-- [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku)
-- [GameFAQs 제품 코드](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/data)
-- [GameFAQs 통계](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats)
-- [국내 통용 제목](https://namu.moe/w/%EC%9C%A0%EC%9A%B0%ED%82%A4%20%EC%9C%A0%EC%9A%B0%EB%82%98%EB%8A%94%20%EC%9A%A9%EC%82%AC%EB%8B%A4%20%EC%88%98%ED%95%B4%EC%9D%98%20%EA%B8%B0%EC%96%B5)
-- [Silvris 전용 gametext serializer](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Gametext%20Serializer.py)
-- [Silvris 이벤트 스크립트 template](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Script.bt)
-- [LunaTranslator PCSG00502 Vita3K hook](https://github.com/HIllya51/LunaTranslator/blob/main/src/NativeImpl/LunaHook/LunaHook/emulators/vita3k_1.cpp)
-- [후발 별도작 Hanayui no Kirameki 콘솔판](https://www.entergram.co.jp/yuyuyui/)
+- [4Gamer 제품 정보](https://www.4gamer.net/games/278/G027825/)
+- [제작·발매 발표](https://www.4gamer.net/games/278/G027825/20141017084/)
+- [3모드 공식 발표](https://www.4gamer.net/games/278/G027825/20150121081/)
+- [80개 이상 이벤트 발표](https://www.4gamer.net/games/278/G027825/20150130097/)
+- [시스템·스크린샷](https://www.4gamer.net/games/278/G027825/20150217052/)
+- [Famitsu 네 필자 리뷰](https://www.famitsu.com/game/title/31469/reviews)
+- [電撃 まさん 실플레이](https://dengekionline.com/elem/000/001/008/1008024/)
+- [Famitsu 武藤先輩 클리어 소감](https://www.famitsu.com/news/201503/13073780.html)
+- [GameFAQs 평가·시간 표본](https://gamefaqs.gamespot.com/vita/864156-yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku/stats)
+- [공개 한국어 패치 목록](https://www.hangulogame.com/platform/psv/)
+- [공개 문자열 변환 코드](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Gametext%20Serializer.py)
+- [공개 이벤트 변환 코드](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/JukaiNoKiokuScriptConvert/Program.cs)
+
