@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="color-scheme" content="light dark" />
   <title>Game Localization Discovery Archive</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="stylesheet" href="assets/style.css?v=20261008-delete1" />
 </head>
 <body data-page="index">
   <header class="topbar">
@@ -31,6 +31,7 @@
         <div>
           <p class="eyebrow" id="platform-eyebrow">PLAYSTATION 2</p>
           <h2 id="platform-title">현재 후보</h2>
+          <button class="secondary-btn" id="deleted-open" type="button" hidden>삭제한 게임 (0)</button>
           <button class="my-list-summary" id="my-list-summary" type="button" aria-pressed="false">★ 찜 0 · 🛠 착수 0 (전체 기종)</button>
         </div>
         <div class="toolbar">
@@ -59,6 +60,7 @@
         <button class="sort-btn" data-sort="title">이름</button>
       </div>
 
+      <div id="deletion-sync-notice" class="deletion-sync-notice" role="status" hidden><span id="deletion-sync-message"></span><button id="deletion-sync-retry" type="button" class="secondary-btn">다시 확인</button></div>
       <div id="status" class="status">후보 목록을 불러오는 중…</div>
       <div class="table-wrap" id="table-wrap" hidden>
         <table class="candidate-table">
@@ -72,7 +74,7 @@
               <th>한글화 우선도</th>
               <th>타 기종 / 다른 버전</th>
               <th>상태</th>
-              <th>찜 / 비교</th>
+              <th>관리</th>
             </tr>
           </thead>
           <tbody id="candidate-body"></tbody>
@@ -97,6 +99,7 @@
         <button class="icon-btn" value="cancel" aria-label="닫기">×</button>
       </div>
       <p class="modal-copy">열쇠가 없는 기기에서도 찜과 메모는 읽을 수 있습니다. 메모는 저장소 파일에 함께 저장되므로 공개됩니다.</p>
+      <p id="token-status" class="modal-copy" role="status"></p>
       <label class="token-field">Fine-grained token
         <input id="token-input" type="password" autocomplete="off" placeholder="github_pat_…" />
       </label>
@@ -118,6 +121,14 @@
     </form>
   </dialog>
 
+  <dialog class="modal deleted-modal" id="deleted-dialog">
+    <div class="modal-card">
+      <div class="modal-head"><div><p class="eyebrow">DELETED GAMES</p><h2>삭제한 게임</h2></div><button class="icon-btn" id="deleted-close" type="button" aria-label="닫기">×</button></div>
+      <p class="modal-copy">공개 목록에서 제외한 게임입니다. 복구하면 기존 찜·메모도 다시 표시됩니다. 원본 문서는 보존됩니다.</p>
+      <div id="deleted-content"></div>
+    </div>
+  </dialog>
+
   <dialog class="modal compare-modal" id="compare-dialog">
     <div class="modal-card compare-card">
       <div class="modal-head">
@@ -130,7 +141,8 @@
 
   <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 
-  <script src="assets/watchlist-core.js"></script>
-  <script src="assets/app.js"></script>
+  <script src="assets/watchlist-core.js?v=20261008-delete1"></script>
+  <script src="assets/exclusion-core.js?v=20261008-delete1"></script>
+  <script src="assets/app.js?v=20261008-delete1"></script>
 </body>
 </html>

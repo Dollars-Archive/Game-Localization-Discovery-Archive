@@ -12,6 +12,7 @@ const HUB_BASE = 'https://dollars-archive.github.io/Dollars-Archive/';
 const TOKEN_KEY = 'discovery-watchlist-token-v1';
 const CACHE_KEY = 'discovery-watchlist-cache-v1';
 const Core = window.WatchlistCore;
+const Exclusions = window.ExclusionCore;
 
 const PLATFORMS = {
   ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md' },
@@ -152,6 +153,13 @@ async function initIndex() {
   const compareClose = document.getElementById('compare-close');
   const compareContent = document.getElementById('compare-content');
   const toast = document.getElementById('toast');
+  const deletedOpen = document.getElementById('deleted-open');
+  const deletedDialog = document.getElementById('deleted-dialog');
+  const deletedContent = document.getElementById('deleted-content');
+  const deletedClose = document.getElementById('deleted-close');
+  const syncNotice = document.getElementById('deletion-sync-notice');
+  const retrySync = document.getElementById('deletion-sync-retry');
+  const tokenStatus = document.getElementById('token-status');
 
   const params = new URLSearchParams(location.search);
   let activePlatform = PLATFORMS[params.get('platform')] ? params.get('platform') : 'ps2';
@@ -174,7 +182,28 @@ async function initIndex() {
   let dragState = null;
 
   const getToken = () => localStorage.getItem(TOKEN_KEY) || '';
-  const hasToken = () => Boolean(getToken());
+  let ownerVerified = false;
+  const hasToken = () => ownerVerified && Boolean(getToken());
+  const verifyEditor = async () => {
+    ownerVerified = false;
+    const value = getToken();
+    try { ownerVerified = await Exclusions.verifyOwner(fetch, value) && getToken() === value; } catch (_) {}
+    tokenStatus.textContent = ownerVerified ? '소유자 확인 완료 · 찜 편집 및 후보 삭제 가능' : value ? '소유자 또는 쓰기 권한을 확인하지 못했습니다. 열쇠를 확인해 주세요.' : '열쇠 등록 후 소유자 계정을 확인합니다.';
+  };
+  const deletionStore = Exclusions.createStore({
+    fetcher: fetch, storage: localStorage, decode: decodeBase64Utf8, encode: encodeBase64Utf8,
+    token: getToken,
+    knownKey: key => [...rowsByPlatform.values()].flat().some(row => row.key === key) || Boolean(deletionStore.data.entries[key]),
+  });
+  const notDeleted = key => !Exclusions.isDeleted(deletionStore.data, key);
+  const visibleRows = rows => Exclusions.visible(rows, deletionStore.data);
+  const loadDeletionState = async () => {
+    const result = await deletionStore.load();
+    syncNotice.hidden = result.ready;
+    document.getElementById('deletion-sync-message').textContent = result.cached
+      ? '삭제 목록을 동기화하지 못해 마지막 확인된 목록을 표시합니다. 삭제·복구는 잠시 사용할 수 없습니다.'
+      : '삭제 목록을 확인하지 못해 원본 후보 목록을 표시합니다. 삭제·복구는 잠시 사용할 수 없습니다.';
+  };
 
   const showToast = message => {
     toast.textContent = message;
@@ -280,15 +309,19 @@ async function initIndex() {
   };
 
   const updateStats = () => {
-    const rows = rowsByPlatform.get(activePlatform) || [];
+    const rows = visibleRows(rowsByPlatform.get(activePlatform) || []);
     const aCount = rows.filter(row => row.priorityRank === 0).length;
     const bCount = rows.filter(row => row.priorityRank === 1).length;
     const cCount = rows.filter(row => row.priorityRank === 2).length;
     stats.innerHTML = `<span class="stat">등록 후보 <strong>${rows.length}</strong></span><span class="stat">🔥 A <strong>${aCount}</strong></span><span class="stat">B <strong>${bCount}</strong></span><span class="stat">C <strong>${cCount}</strong></span>`;
-    const wipCount = [...patches.values()].filter(patch => patch.status === 'wip' && patch.discovery).length;
-    myListButton.textContent = `★ 찜 ${Object.keys(watchlist.items).length} · 🛠 착수 ${wipCount} (전체 기종)`;
+    const wipCount = [...patches.values()].filter(patch => patch.status === 'wip' && patch.discovery && notDeleted(patch.discovery)).length;
+    myListButton.textContent = `★ 찜 ${Object.keys(watchlist.items).filter(notDeleted).length} · 🛠 착수 ${wipCount} (전체 기종)`;
     myListButton.setAttribute('aria-pressed', String(myList));
     myListButton.classList.toggle('active', myList);
+    deletedOpen.hidden = !hasToken();
+    deletedOpen.disabled = deletionStore.busy;
+    const deletedCount = Object.values(deletionStore.data.entries).filter(entry => entry.deleted).length;
+    deletedOpen.textContent = `삭제한 게임 (${deletedCount})`;
   };
 
   const patchMarkup = row => {
@@ -325,12 +358,14 @@ async function initIndex() {
     const compare = starred
       ? `<label class="compare-check-label"><input class="compare-check" type="checkbox" data-key="${escapeHtml(row.key)}" ${compareKeys.has(row.key) ? 'checked' : ''}> 비교</label>`
       : '';
-    return `<div class="row-actions">${star}${compare}</div>`;
+    const remove = hasToken()
+      ? `<button class="candidate-delete" type="button" data-key="${escapeHtml(row.key)}" ${!deletionStore.ready || deletionStore.busy ? 'disabled' : ''} aria-label="${escapeHtml(row.title)} 후보 목록에서 삭제">삭제</button>` : '';
+    return `<div class="row-actions">${star}${compare}${remove}</div>`;
   };
 
   const rowMarkup = (row, groupName) => {
     const starred = Boolean(watchlist.items[row.key]);
-    const rank = starred ? watchlist.order.indexOf(row.key) + 1 : 0;
+    const rank = starred ? watchlist.order.filter(notDeleted).indexOf(row.key) + 1 : 0;
     const reorderable = starred && hasToken() && (groupName === 'star' || myList);
     const rowClass = row.patchStatus === 'wip' ? 'wip-row' : row.patchStatus === 'released' ? 'released-row' : starred ? 'watch-row' : '';
     const handle = reorderable
@@ -348,7 +383,7 @@ async function initIndex() {
       <td data-label="한글화 우선도">${priorityBadge(row.priority)}</td>
       <td data-label="타 기종 / 다른 버전" class="meta-muted">${escapeHtml(row.versions)}</td>
       <td data-label="상태" class="state">${escapeHtml(row.state)}</td>
-      <td data-label="찜 / 비교">${actionMarkup(row)}</td>
+      <td data-label="관리">${actionMarkup(row)}</td>
     </tr>`;
   };
 
@@ -359,9 +394,9 @@ async function initIndex() {
   const currentRows = async () => {
     if (myList) {
       const all = await loadAllRows();
-      return all.filter(row => watchlist.items[row.key] || row.patchStatus === 'wip');
+      return visibleRows(all).filter(row => watchlist.items[row.key] || row.patchStatus === 'wip');
     }
-    return loadPlatformRows(activePlatform);
+    return visibleRows(await loadPlatformRows(activePlatform));
   };
 
   const updateCompareBar = () => {
@@ -373,6 +408,11 @@ async function initIndex() {
 
   const render = async () => {
     const all = await currentRows();
+    compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+    if (location.hash.startsWith('#compare=')) {
+      history.replaceState(null, '', `${location.pathname}${location.search}${compareKeys.size >= 2 ? Core.compareHash([...compareKeys]) : ''}`);
+    }
+    if (!hasToken() && deletedDialog.open) deletedDialog.close();
     const query = (search.value || '').trim().toLocaleLowerCase('ko');
     let filtered = all.filter(row => {
       const note = (watchlist.items[row.key] || {}).note || '';
@@ -414,7 +454,7 @@ async function initIndex() {
 
   const writeWatchlist = async (data, sha, message) => {
     const token = getToken();
-    if (!token) throw new Error('열쇠가 없습니다.');
+    if (!hasToken()) throw new Error('편집 권한을 확인해 주세요.');
     const res = await fetch(WATCHLIST_API, {
       method: 'PUT',
       headers: {
@@ -503,7 +543,7 @@ async function initIndex() {
     if (!hasToken()) return;
     const allRows = [...rowsByPlatform.values()].flat();
     const row = allRows.find(item => item.key === key);
-    if (!row) return;
+    if (!row || !notDeleted(key)) return;
     if (watchlist.items[key]) {
       delete watchlist.items[key];
       watchlist.order = watchlist.order.filter(item => item !== key);
@@ -521,7 +561,7 @@ async function initIndex() {
     if (!hasToken()) return;
     const key = button.dataset.key;
     const item = watchlist.items[key];
-    if (!item) return;
+    if (!item || !notDeleted(key)) return;
     const old = item.note || '';
     const input = document.createElement('input');
     input.className = 'note-input';
@@ -576,6 +616,7 @@ async function initIndex() {
   };
 
   const openComparison = async () => {
+    compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
     if (compareKeys.size < 2) return;
     const keys = [...compareKeys].slice(0, 4);
     history.replaceState(null, '', `${location.pathname}${location.search}${Core.compareHash(keys)}`);
@@ -635,7 +676,62 @@ async function initIndex() {
     }
   };
 
+  const renderDeleted = () => {
+    const entries = Object.entries(deletionStore.data.entries).filter(([, entry]) => entry.deleted);
+    deletedContent.innerHTML = entries.length ? entries.map(([key, entry]) => {
+      const platform = key.split('/')[1];
+      return `<div class="deleted-game"><div><strong>${escapeHtml(entry.title)}</strong><span>${escapeHtml(PLATFORMS[platform]?.short || platform)} · ${escapeHtml(displayDate(entry.updated))}</span></div><button class="secondary-btn candidate-restore" type="button" data-key="${escapeHtml(key)}" ${!deletionStore.ready || deletionStore.busy ? 'disabled' : ''}>복구</button></div>`;
+    }).join('') : '<p class="modal-copy">삭제한 게임이 없습니다.</p>';
+  };
+  const changeDeleted = async (key, deleted) => {
+    if (!hasToken() || !deletionStore.ready || deletionStore.busy) return;
+    const row = [...rowsByPlatform.values()].flat().find(item => item.key === key)
+      || (deletionStore.data.entries[key] ? { key, title: deletionStore.data.entries[key].title, platform: key.split('/')[1] } : null);
+    if (!row) return;
+    const platform = PLATFORMS[row.platform]?.short || row.platform;
+    if (!window.confirm(deleted
+      ? `${row.title} (${platform})\n공개 후보 목록에서 삭제할까요?\n원본 문서와 찜·메모는 남으며 ‘삭제한 게임’에서 복구할 수 있습니다.`
+      : `${row.title} (${platform})\n후보 목록으로 복구할까요?`)) return;
+    const operation = deletionStore.change(row, deleted);
+    await render();
+    renderDeleted();
+    try {
+      await operation;
+      showToast(deleted ? '후보 목록에서 삭제했습니다' : '후보 목록으로 복구했습니다');
+      if (compareDialog.open) {
+        compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+        if (compareKeys.size < 2) compareDialog.close();
+        else await openComparison();
+      }
+    } catch (_) {
+      await verifyEditor();
+      showToast('저장하지 못했습니다. 열쇠·네트워크를 확인한 뒤 다시 시도해 주세요.');
+    }
+    await render();
+    renderDeleted();
+  };
+  deletedOpen.addEventListener('click', () => {
+    if (!hasToken()) return;
+    renderDeleted();
+    deletedDialog.showModal();
+  });
+  deletedClose.addEventListener('click', () => deletedDialog.close());
+  deletedContent.addEventListener('click', event => {
+    const button = event.target.closest('.candidate-restore');
+    if (button) changeDeleted(button.dataset.key, false);
+  });
+  retrySync.addEventListener('click', async () => {
+    retrySync.disabled = true;
+    await verifyEditor();
+    await loadDeletionState();
+    await render();
+    renderDeleted();
+    retrySync.disabled = false;
+  });
+
   body.addEventListener('click', event => {
+    const remove = event.target.closest('.candidate-delete');
+    if (remove) { changeDeleted(remove.dataset.key, true); return; }
     const star = event.target.closest('.star-toggle');
     if (star) { toggleWatch(star.dataset.key); return; }
     const note = event.target.closest('.note-edit');
@@ -648,6 +744,7 @@ async function initIndex() {
     const input = event.target.closest('.compare-check');
     if (!input) return;
     const key = input.dataset.key;
+    if (!notDeleted(key)) return;
     if (input.checked) {
       if (compareKeys.size >= 4 && !compareKeys.has(key)) {
         input.checked = false;
@@ -675,7 +772,7 @@ async function initIndex() {
     if (!handle) return;
     const start = () => {
       const row = handle.closest('tr[data-key]');
-      if (!row) return;
+      if (!row || !notDeleted(key)) return;
       dragState = { handle, row, pointerId: event.pointerId, active: true };
       row.classList.add('dragging');
       try { handle.setPointerCapture(event.pointerId); } catch (_) {}
@@ -771,13 +868,16 @@ async function initIndex() {
     if (value) localStorage.setItem(TOKEN_KEY, value);
     else localStorage.removeItem(TOKEN_KEY);
     settingsDialog.close();
-    showToast(value ? '이 기기에 편집 열쇠를 저장했습니다' : '편집 열쇠를 비웠습니다');
+    await verifyEditor();
+    await loadDeletionState();
+    showToast(hasToken() ? '소유자 확인 완료 · 열쇠를 저장했습니다' : value ? '열쇠의 계정과 권한을 확인해 주세요' : '편집 열쇠를 비웠습니다');
     await render();
   });
   tokenClear.addEventListener('click', async () => {
     localStorage.removeItem(TOKEN_KEY);
     tokenInput.value = '';
     settingsDialog.close();
+    ownerVerified = false;
     showToast('이 기기의 편집 열쇠를 지웠습니다');
     await render();
   });
@@ -791,7 +891,7 @@ async function initIndex() {
   compareClose.addEventListener('click', () => compareDialog.close());
   compareContent.addEventListener('click', async event => {
     const button = event.target.closest('.compare-top');
-    if (!button || !hasToken()) return;
+    if (!button || !hasToken() || !notDeleted(button.dataset.key)) return;
     const key = button.dataset.key;
     watchlist.order = [key, ...watchlist.order.filter(item => item !== key)];
     queueSave('순서 변경', null, true);
@@ -801,7 +901,7 @@ async function initIndex() {
 
   window.addEventListener('hashchange', async () => {
     if (!location.hash.startsWith('#compare=')) return;
-    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => watchlist.items[key]));
+    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => watchlist.items[key] && notDeleted(key)));
     await render();
     if (compareKeys.size >= 2) await openComparison();
   });
@@ -809,8 +909,9 @@ async function initIndex() {
   status.hidden = false;
   status.textContent = '후보 목록과 찜 상태를 불러오는 중…';
   wrap.hidden = true;
-  await Promise.all([loadPatches(), loadWatchlist().then(value => { watchlist = value; lastSavedWatchlist = Core.cloneWatchlist(value); })]);
-  compareKeys = new Set([...compareKeys].filter(key => watchlist.items[key]));
+  await verifyEditor();
+  await Promise.all([loadDeletionState(), loadPatches(), loadWatchlist().then(value => { watchlist = value; lastSavedWatchlist = Core.cloneWatchlist(value); })]);
+  compareKeys = new Set([...compareKeys].filter(key => watchlist.items[key] && notDeleted(key)));
   await loadPlatformRows(activePlatform);
   await render();
   if (compareKeys.size >= 2) await openComparison();

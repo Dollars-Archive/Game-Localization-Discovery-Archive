@@ -245,3 +245,16 @@ body { overflow-x: hidden; }
   .star-toggle:hover, .star-toggle.active { background: #3a3020; color: #efbf58; }
   .toast { background: #f0ebe2; color: #201e1b; }
 }
+
+/* Owner-only candidate deletion and restoration. */
+.row-actions { flex-wrap:wrap; }
+.candidate-delete { min-height:44px; padding:6px 10px; border:1px solid currentColor; border-radius:8px; color:#b42332; background:transparent; cursor:pointer; }
+.candidate-delete:disabled, .candidate-restore:disabled { opacity:.5; cursor:wait; }
+.deleted-modal { max-width:700px; width:calc(100% - 24px); max-height:85vh; }
+.deleted-game { display:flex; gap:12px; align-items:center; justify-content:space-between; padding:14px 0; border-bottom:1px solid var(--line, #d7dce5); }
+.deleted-game > div { min-width:0; overflow-wrap:anywhere; }
+.deleted-game span { display:block; margin-top:4px; font-size:.85rem; }
+.candidate-restore { flex-shrink:0; min-height:44px; }
+.deletion-sync-notice { padding:12px; margin:12px 0; border:1px solid #a66a00; border-radius:10px; }
+.deletion-sync-notice button { margin:6px; }
+@media (prefers-color-scheme:dark) { .candidate-delete { color:#ffabb3; } }
