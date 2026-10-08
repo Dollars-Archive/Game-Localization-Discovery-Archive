@@ -1034,7 +1034,9 @@ function resolveRelativeMarkdownLink(currentFile, href) {
     if (part === '..') base.pop();
     else if (part !== '.' && part) base.push(part);
   }
-  return `game.html?file=${encodeURIComponent(base.join('/'))}`;
+  const target = base.join('/');
+  if (/^platforms\/[a-z0-9-]+\/reassessments\/[a-z0-9-]+\.md$/i.test(target)) return `${GITHUB_BASE}${target}`;
+  return `game.html?file=${encodeURIComponent(target)}`;
 }
 async function initGame() {
   const params = new URLSearchParams(location.search);
