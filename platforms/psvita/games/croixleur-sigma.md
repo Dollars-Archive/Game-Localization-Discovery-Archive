@@ -1,220 +1,190 @@
 # Croixleur Sigma (크로와루르 시그마)
 
-> 원제: クロワルール・シグマ  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 원제: クロワルール・シグマ
+> 대상 판본: PlayStation Vita
+> 상태: 🟢 후보
+> 발굴 추천도: ⭐⭐⭐½☆ **3.5/5**
+> 한글화 우선도: **C**
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> Croixleur Sigma는 souvenir circ.가 만든 360도 전방위 하이스피드 액션 게임이다. 원작 Croixleur의 확장판으로 시작해 PS4·PS Vita 콘솔판에서 4명의 플레이어블 캐릭터와 여러 모드·장비·커스터마이즈가 추가됐다. 일본 Vita판은 2015-12-24, 북미판은 2016-03-01에 출시됐다. 공식 한국어 지원과 공개 Vita 한국어 패치는 2026-09-21 기준 확인되지 않는다.
+## 대표 스크린샷
+
+[2015-12-24 Vita 발매 자료](https://www.4gamer.net/games/329/G032912/20151224140/)에 실린 **960×544 실제 플레이 화면**이다. HUD·캐릭터·전투 상황을 픽셀로 확인했다. 출처는 개발 중 화면이라고 명시하므로 최종판 실기 직접 캡처로 과장하지 않는다. 로고·4인 홍보 일러스트는 제외했고, 이미지는 저장소에 복제하지 않는다.
+
+![PS Vita판 개발 화면: 원형 전장에서 공격을 연결하는 모습](https://www.4gamer.net/games/329/G032912/20151224140/SS/001.jpg)
+*1. 타이머·점수·무기 UI가 보이는 전투 화면. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=001)*
+
+![PS Vita판 개발 화면: 적을 상대로 공중 공격을 하는 모습](https://www.4gamer.net/games/329/G032912/20151224140/SS/006.jpg)
+*2. 전투 중 점프·공격과 연속 타격 HUD. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=006)*
+
+![PS Vita판 개발 화면: 전투 효과와 캐릭터 상태 UI](https://www.4gamer.net/games/329/G032912/20151224140/SS/009.jpg)
+*3. 전투 효과가 표시된 게임 화면. CG나 홍보용 렌더가 아니다. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=009)*
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | クロワルール・シグマ |
-| 영문 제목 | Croixleur Sigma |
+| 영문 / 로마자 | Croixleur Sigma |
 | 한글 제목 | 크로와루르 시그마 |
-| 플랫폼 | 이번 평가: PlayStation Vita |
+| 플랫폼 | 평가 대상 PS Vita |
 | 발매일 | 일본 2015-12-24 / 북미 2016-03-01 |
 | 개발사 | souvenir circ. |
 | 발매사 | PLAYISM / Active Gaming Media |
-| 제품 코드 | 일본 PCSG-00537 / 북미 PCSE-00689 |
-| 장르 | 3D 아레나 핵앤슬래시 / 액션 |
-| 원산지 / 원문 언어 | 일본 / 일본어. 서구판은 영어·일본어 지원 |
-| 예상 플레이타임 | 스토리만 약 3~4시간 내외 사례 / GameFAQs 완전 플레이 평균 27시간·6명 |
+| 장르 | 3D 아레나 액션 / 아케이드 핵앤슬래시 |
+| 원산지 / 원문 언어 | 일본 / 일본어. 영어 Vita판 존재 |
+| 예상 플레이타임 | 스토리 3~4시간이라는 Vita 리뷰의 추정. 전체 도전·해금 완료 시간은 미확인 |
 | 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | **C** |
-| 한글화 난이도 | **미확인**. 공개 Vita 전용 번역 툴체인·폰트·재삽입 분석 자료를 확인하지 못함 |
-| 현재 추천 버전 | 전체 콘텐츠·현대 접근성은 Switch / Steam Deluxe Edition / Vita 보존 목적은 PS Vita판 |
+| 한글화 난이도 | **미확인** |
+| 현재 추천 버전 | 콘텐츠 구성은 Steam Deluxe 또는 Switch. Vita판은 30fps 휴대판 |
 
-자료: [PLAYISM 공식](https://playism.com/en/game/croixleur-sigma/), [4Gamer Vita 발매](https://www.4gamer.net/games/329/G032912/20151224140/), [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma/data).
+발매·기종·프레임: [제작사 제공 Vita 출시 자료](https://www.4gamer.net/games/329/G032912/20151224140/), [PLAYISM 공식](https://playism.com/en/game/croixleur-sigma/), [Vita 발매 DB](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma/data).
 
 ## 스포일러 최소 시놉시스
 
-이란스 왕국에서는 귀족파와 기사파가 오랫동안 권력을 나눠 갖고 있으며, 왕국의 군사권과 여왕 수호권을 결정하기 위해 마법기사 후보들이 ‘니토의 탑’에서 시험을 치른다.
-
-루크레치아와 프란체스카를 비롯한 네 명의 소녀는 이 시험과 그 뒤에 이어지는 사건에서 대량의 몬스터를 상대한다. 이야기의 비중은 크지 않고, 캐릭터들의 관계와 설정은 전투를 이어 주는 프레임 역할에 가깝다.
+판타지풍 캐릭터를 조작해 작은 전장에서 적 무리를 상대한다. 짧은 대화 사이에 반복 전투를 진행하며 이동·회피·무기 기술을 연결한다. 배경 설정, 인물 관계의 변화, 시나리오의 결과는 설명하지 않는다.
 
 ## 게임 구조 / 루트 구조
 
-- **360도 아레나 전투:** 원형 스테이지에서 적 무리를 연속으로 처치한다.
-- **4명의 플레이어블 캐릭터:** 루크레치아·프란체스카·카테리나·사라 안니카를 사용할 수 있다.
-- **무기 4개 장착:** 여러 마법검 중 최대 4개를 골라 특수기와 콤보 구성을 바꾼다.
-- **고속 이동:** 대시·점프·공중공격·무기 스킬을 연결해 짧은 시간에 대량의 적을 정리하는 것이 핵심이다.
-- **스토리 모드:** 캐릭터별 짧은 시나리오를 진행하며 빠른 클리어와 조건 달성으로 추가 내용을 해금한다.
-- **Score Attack / Survival / Dungeon / Challenge / Training:** 스토리 외 반복 플레이용 모드가 다수 존재한다.
-- **커스터마이즈:** 메달로 고양이 귀·안경·헤드폰 등의 장식 아이템을 구매하며 일부는 전투 보너스를 제공한다.
-- **순수 액션 중심:** 영구적인 RPG식 스킬트리·장비 성장보다 플레이어의 콤보 숙련과 기록 갱신이 중심이다.
+- 원형 아레나를 중심으로 적을 빠르게 쓰러뜨리고 점수·클리어 시간을 줄이는 구조다.
+- 네 캐릭터와 최대 네 무기 조합으로 특수기를 선택한다. 대시·점프·공격을 연결하는 조작 숙련이 중심이다.
+- 스토리 외 Score Attack, Survival, Dungeon, Challenge, Training 등 반복 플레이 모드가 있다.
+- 메달과 장식·장비 요소가 있으나 장편 RPG의 성장·탐험 구조와는 다르다. RPG식 탐험이 없다는 사실만으로 감점하지 않는다.
+- 스토리에는 난이도 선택이 있으나 모든 모드에 동일하게 제공되는 것은 아니라는 Vita 실플레이 기록이 있다.
+- 장비의 효과 설명은 중요하다. Reviews 2 Go는 장식을 외형 전용이라고 썼으나 **공식 설명은 장식별 능력 효과를 명시**하므로 공식 자료를 우선한다.
 
-자료: [PLAYISM 공식 게임 소개](https://playism.com/en/game/croixleur-sigma/), [PS Blog 일본](https://blog.ja.playstation.com/2015/12/25/20151225-new-dlsoft/), [Reviews 2 Go Vita 리뷰](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/).
+근거: [PLAYISM 시스템 소개](https://playism.com/en/game/croixleur-sigma/), [Reviews 2 Go Vita 본문](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/).
 
 ## 왜 발굴할 만한가
 
-크로와루르 시그마의 강점은 작은 인디 게임 규모 안에서 **즉시 반응하는 조작과 콤보 액션을 매우 압축적으로 제공**한다는 점이다.
-
-긴 탐색이나 스토리 없이 바로 적 무리와 싸우고, 무기 조합을 바꿔 공중 콤보와 특수기를 시험하며 기록을 줄여 가는 아케이드 게임에 가깝다. PS Vita판은 PS4와 비교해 시각적 손실이 크지 않으면서도 프레임과 로딩이 안정적이라는 실플레이 평가가 있어 휴대기 액션 게임으로서 완성도는 준수하다.
-
-하지만 전투 장소와 목표가 크게 바뀌지 않고, 스토리가 짧으며, 적과 보스 종류도 제한적이다. 짧은 세션에서는 강점이 살아나지만 수 시간 연속으로 플레이하면 반복성이 크게 드러난다.
+무기별 기술과 빠른 이동이 자연스럽게 연결되어 짧은 전투에서 즉각적인 손맛을 내는 점이 강하다. Vita 실플레이 두 출처는 기기에서의 표현·반응과 짧은 세션 구성을 긍정적으로 봤다. 반면 여러 모드가 비슷한 적·장소·목표를 재사용하여, 시스템을 익힌 뒤 새로운 판단을 요구하는 폭은 제한된다. **조작 완성도는 좋지만 콘텐츠 변화가 이를 끝까지 받치지는 못하는 3.5점**이다.
 
 ## 장점
 
-- Vita판 Metacritic은 **71/100·2개 평론**으로 소표본이지만 준수한 평가다.
-- 빠르고 직관적인 이동·대시·공중 콤보 조작이 강점이다.
-- Vita 실플레이 리뷰에서 PS4판과 비교해 시각적 열화가 작고 프레임이 거의 안정적이라고 평가됐다.
-- 로딩이 짧고 스테이지 전환이 빠른 편이라 휴대기와 궁합이 좋다.
-- 무기 4개 조합으로 콤보 루트를 바꿀 수 있어 단순 공격 연타보다 깊이가 있다.
-- 여러 캐릭터와 Score Attack·Survival·Dungeon 등 다양한 반복 모드가 존재한다.
-- GameFAQs Vita 통계는 **21명 사용자 평가**, 완전 플레이 Length **27시간·6명**으로 반복 플레이 수요가 확인된다.
-- 최신 Steam Deluxe Edition도 2026-09-21 확인 기준 **대체로 긍정적 76%·약 130평가**를 유지한다.
+- **기동과 공격의 연결:** Reviews 2 Go는 대시를 활용한 뒤 전투가 유연해지는 과정을 구체적으로 설명한다. Reimaru Files도 반응성·무기 조합의 선택 폭을 높게 봤다.
+- **Vita 이식의 기본 품질:** Vita 실플레이 자료는 짧은 로딩과 안정적인 움직임, 휴대기에서의 시각 표현을 호평한다. 이는 PS4와 같은 프레임이라는 뜻은 아니다.
+- **숙련형 반복 플레이:** Vita Player는 도전과 보상의 균형, 여러 모드의 재도전 가치를 장점으로 보았다.
+- **시작 비용이 낮은 구성:** 긴 이동이나 준비 없이 전투를 반복할 수 있다는 점이 짧은 휴대 플레이에 맞는다.
 
 ## 단점
 
-- 각 캐릭터의 스토리 구간 자체는 매우 짧아 1회 스토리만 보면 볼륨이 작다.
-- 대부분의 전투가 비슷한 원형 아레나에서 진행돼 배경과 목표 변화가 적다.
-- 적과 보스 종류가 제한적이며 장시간 연속 플레이에서 반복감이 크게 드러난다.
-- 스토리는 설정 설명 수준의 비중이 커 캐릭터·세계관 서사를 기대하면 얕게 느껴질 수 있다.
-- 영구적인 RPG식 성장 구조가 약해 수치 성장이나 장비 파밍을 원하는 플레이어와는 맞지 않는다.
-- 일부 모드는 난이도 선택이 없어 숙련되지 않으면 급격히 어려워질 수 있다.
-- PS4/PC 계열에서 존재하던 협력 요소가 Vita판에서는 동일하게 제공되지 않는다는 실플레이 리뷰가 있다.
-- 현재는 Switch·Steam Deluxe Edition이라는 더 최신 접근 경로가 있어 Vita 독자성이 높지 않다.
+- **적·배경·과제 변화의 한계:** Reimaru Files와 Push Square는 긴 세션에서 반복감이 커진다고 지적했다.
+- **전술 선택의 지속성:** Push Square는 익숙한 무기를 정한 뒤 다른 조합을 시도할 유인이 충분하지 않다고 봤다.
+- **카메라와 초기 조작 적응:** Vita Player는 카메라와 버튼 배치에 불편을 기록했다. 버튼 취향은 개인차지만 시야와 입력 실수의 체감은 참고할 만하다.
+- **표현한 설정에 비해 짧은 대화:** Reviews 2 Go는 이야기의 설명·마무리 분량이 부족하다고 느꼈다. 액션 중심 장르라는 이유가 아니라 실제 제공 대화의 밀도에 관한 지적이다.
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처 / 작성자 | 점수 | 표본 수 | 대상 판본·범위 / 읽은 본문의 요지 |
 |---|---:|---:|---|
-| Metacritic | **71/100** | **2개 평론** | PS Vita. 표본이 매우 작음 |
-| GameFAQs | **Fair** | **21명** | PS Vita 사용자 평가 / Length 27시간·6명 |
-| Reviews 2 Go | 정성 호평 | 1편 | PS Vita 직접 플레이 / 프레임·로딩·비주얼과 전투 호평, 짧은 스토리 지적 |
-| Reimaru Files | **3.1/5** | 1편 | 콘솔판 계열 / 짧고 재미있으나 장시간 반복성 지적 |
-| Metacritic PC | **56/100** | 6개 평론 | 초기 PC Sigma 참고. 80~35점까지 평가 편차 큼 |
-| Steam Deluxe | **76% 긍정** | 약 130평가 | 2019 후발 완전판 참고 |
+| [Vita Player / Marcos Codas, 2016-05-28](https://www.vitaplayer.co.uk/game-review-croixleur-sigma-ps-vita/) | **8/10** | 리뷰 1편 | Vita 직접 플레이. 조작·카메라 불편과 짧은 세션·도전의 만족을 함께 평가. 완전 해금 명시 없음 |
+| [Reviews 2 Go / reviews2gobackup, 2016-03-11](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/) | 확인 본문에 총점 없음 | 리뷰 1편 | Vita 직접 플레이. 4개 시나리오와 추가 모드·로딩·조작 논의. 전 모드 완료 선언은 없음 |
+| [Reimaru Files / Allen, 2016-02-08](https://www.reimarufiles.com/2016/02/08/croixleur-sigma-review/) | **3.1/5** | 리뷰 1편 | **PS4판**. Vita는 당시 예정작으로 서술. 반응성과 반복의 양면을 평가 |
+| [Push Square / Robert Ramsey, 2016-01-22](https://www.pushsquare.com/reviews/ps4/croixleur_sigma) | **6/10** | 리뷰 1편 | **유럽 PS4판**. 무기 기술의 가능성과 모드·적 변화 부족을 평가 |
 
-- [Metacritic](https://www.metacritic.com/game/croixleur-sigma/)
-- [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma)
-- [Reviews 2 Go Vita 리뷰](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/)
-- [Reimaru Files 리뷰](https://www.reimarufiles.com/2016/02/08/croixleur-sigma-review/)
-- [Steam Deluxe](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)
+독립 작성자 **4명**, 이 중 **Vita 직접 리뷰 2명**이다. PS4 두 글은 공통 게임 설계 비교에만 쓴다. Reviews 2 Go는 표시 필명을 그대로 사용하며 실명을 추정하지 않았다.
 
-> Vita 자체 평론 표본이 2건뿐이라 71점을 그대로 작품 점수로 환산하지 않는다. 초기 PC판은 56점으로 평가가 크게 갈렸고, 최신 Deluxe판 사용자 평가는 더 긍정적이다. 공통적으로 '짧은 세션의 액션은 좋지만 반복과 볼륨이 약하다'는 경향이 확인된다.
+Push Square 상단의 **4.7·사용자 3명**과 본문 비평가 **6/10**은 다른 수치다. Steam Deluxe의 **76% 긍정·130개**도 후발 PC판 사용자 집계이며 Vita 점수가 아니다. [Steam 원표](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)는 참고하되 품질 리뷰 130편을 정독한 것으로 세지 않았다.
+
+기존 문서의 소표본 Metacritic·GameFAQs 집계를 독립 리뷰 본문보다 우선하지 않았다. 별점은 외부 점수의 기계적 평균이 아니다.
 
 ## 플레이타임
 
-- Reviews 2 Go는 4개 시나리오와 조건 회수를 포함한 **스토리 약 3~4시간**을 예상한다.
-- 캐릭터별 개별 시나리오는 빠르면 15~30분 내외로 끝나는 수준이다.
-- GameFAQs Vita Length는 **6명 평균 27시간**인데, 이는 Dungeon·Score Attack·도전과제·해금 요소를 포함한 반복 플레이 성격이 강하다.
-- 스토리 완료 시간과 전체 숙련·해금 시간의 차이가 매우 큰 게임이다.
-- 한글화 검수는 대사량 자체보다 메뉴·무기·도전과제·각 모드·커스터마이즈 UI 범위를 함께 봐야 한다.
+| 구분 | 확인된 시간 | 표본 / 한계 |
+|---|---|---|
+| 개별 시나리오 | 15~30분 단위라고 설명 | Reviews 2 Go 1명. 1회 성공 구간과 반복 시간을 구분해야 함 |
+| 스토리 여러 시나리오·재시도 | **약 3~4시간 추정** | 같은 작성자가 해금 재시도를 고려해 추산. 직접 측정한 완전 완료 기록이 아님 |
+| Dungeon 등 추가 도전 | 개별 시도가 더 길어질 수 있음 | 전체 모드·무기·기록 달성 완료 평균은 미확인 |
+
+기존 GameFAQs ‘27시간·6명’을 **완전 완료 평균**으로 단정한 표현은 사용하지 않는다. 완료 범위가 일치하는지 확인하지 못한 숫자다. 짧은 캠페인만 보고 전체 게임이 3~4시간 분량이라고 단정해서도 안 된다.
 
 ## 한국어화 상태
 
-- 공식 PS Vita 한국어판: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공개 PS Vita 유저 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- PS Vita 공식 지원 언어: 일본어·영어 계열 판본 존재.
-- Steam Deluxe Edition 공식 한국어: **미지원**.
-- Steam 공식 지원 언어: 영어·일본어·중국어 간체.
-- Nintendo Switch 공식 한국어: 현재 공식 Nintendo/PLAYISM 언어 정보에서 한국어 지원을 확인하지 못함.
-- 국내 통용 제목: **크로와루르 시그마** 사용례 확인.
+확인일: **2026-10-08**.
 
-자료: [Steam 한국어 상점 페이지](https://store.steampowered.com/app/1052440?l=koreana), [PLAYISM 공식](https://playism.com/en/game/croixleur-sigma/), [국내 제목 사용례](https://enhawiki.kr/wiki/%ED%81%AC%EB%A1%9C%EC%99%80%EB%A3%A8%EB%A5%B4_%EC%8B%9C%EA%B7%B8%EB%A7%88).
+| 범위 | 확인 결과 |
+|---|---|
+| Vita | 공식 일본어·영어판 확인. 공식 한국어와 공개 완료 한글패치는 공개적으로 확인되지 않음 |
+| PS4 | [PLAYISM 언어 안내](https://playism.com/en/game/croixleur-sigma/)는 영어·일본어. 한국어판·완료 패치 미확인 |
+| Switch | [Nintendo 공식 상품 페이지](https://www.nintendo.com/us/store/products/croixleur-sigma-switch/)와 제작사 자료를 확인. 공식 한국어 및 완료 한글패치 미확인 |
+| 초기 PC / Sigma / Steam Deluxe | [Deluxe 공식 언어 표](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)는 영어·일본어·중국어 간체. 구판과 Deluxe를 나누어 검색했으나 실사용 가능한 공개 완료 한국어 패치 미확인 |
+
+영문·일본어·한국어 제목과 ‘한국어’, ‘한글패치’, ‘Korean patch’를 기종별로 조합했다. 다운로드 모음 사이트의 모든 게임에 공통으로 붙은 ‘한글판 다운’ 문구는 배포자·버전·완료 범위를 확인할 수 없어 한국어 패치 증거로 채택하지 않았다. 비공개 작업까지 없다고 단정하지 않는다.
+
+**현재 확인 범위에서는 한국어 대안 제외 규칙을 통과한다.**
 
 ## 원작·이식·확장판 관계
 
-- **Croixleur / PC 동인판:** 원형 작품.
-- **Croixleur Sigma / PC:** 플레이어블 캐릭터·모드 등을 확장한 강화판.
-- **PS4 / 2015-03-05 일본:** 콘솔 확장판. 추가 캐릭터·모드·커스터마이즈 강화.
-- **PS Vita / 2015-12-24 일본:** PS4판 계열의 휴대용 이식. PS4와 Cross-Buy·Cross-Save를 지원.
-- **PS Vita / 2016-03-01 북미:** 영어판.
-- **Switch / 2018 일본·2019 서구:** 후발 이식. 추가 의상을 기본 포함하고 Communication Mode 등 후발 구성 제공.
-- **Steam Deluxe Edition / 2019:** 콘솔 확장 요소를 포함한 후발 PC판. 영어·일본어·중국어 간체 지원.
+- 원형 PC Croixleur를 확장한 Sigma가 있고, 이후 PS4·Vita 콘솔판에서 캐릭터·모드가 늘었다.
+- 2015년 Vita판은 PS4 콘솔판 계열의 휴대용 이식이다.
+- Switch는 추가 의상과 Communication Mode 등을 포함한 후발 구성이다.
+- Steam Deluxe는 2019-11-19 발매한 후발 PC판이다. 초기 PC Sigma 리뷰와 서로 다른 판본으로 취급한다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
 | 판본 | 확인된 내용 |
 |---|---|
-| 초기 PC Sigma | 2캐릭터 중심 / 기본 모드·무기 구성 |
-| PS4 | 4캐릭터 / 추가 모드·커스터마이즈 / 60fps 계열 콘솔 확장 |
-| PS Vita | PS4 계열 콘텐츠 / Cross-Buy·Cross-Save / 휴대판 / 일부 그래픽 간소화 |
-| Switch | 추가 의상 묶음 / Communication Mode 포함 / 후발 휴대판 |
-| Steam Deluxe | 후발 콘솔 추가 요소 반영 / 46 Steam 업적 / 영어·일본어·중국어 |
+| 초기 PC 계열 | 콘솔판 이전 구성. 후발 콘텐츠를 소급하여 포함한 것으로 보지 않음 |
+| PS4 콘솔판 | 4캐릭터·확장 모드. 출시 자료가 **60fps** 명시 |
+| PS Vita | PS4와 기본 콘텐츠 동일, 크로스바이·공유 저장 및 트로피 안내. **30fps** 명시 |
+| Switch | 추가 의상 묶음과 Communication Mode 등 후발 구성 |
+| Steam Deluxe | 후발 확장 구성, 영어·일본어·중국어 간체 지원 |
 
-자료: [PLAYISM 공식](https://playism.com/en/game/croixleur-sigma/), [PlayStation Store 일본](https://store.playstation.com/ja-jp/concept/200855).
+[제작사 제공 출시 자료](https://www.4gamer.net/games/329/G032912/20151224140/)가 **PS4 60fps / Vita 30fps**를 분명히 구분한다. 실플레이 리뷰의 ‘안정적’이라는 표현을 ‘PS4와 같은 프레임’으로 바꾸지 않았다. 과거 크로스 기능의 현재 서비스 작동은 별도 실증이 필요하다.
 
 ## 현재 추천 버전
 
-**지금 새로 플레이한다면 Switch 또는 Steam Deluxe Edition이 가장 실용적이다.**
-
-두 판본 모두 Vita 이후 추가된 콘텐츠와 현대 플랫폼 접근성을 제공한다. Steam Deluxe는 현재 판매 중이고 공식 영어를 지원하며, Switch는 휴대 플레이를 유지하면서 추가 의상과 Communication Mode를 제공한다.
-
-PS Vita판의 가치는 **당시 휴대기판·Cross-Buy·Cross-Save 경험과 Vita 보존 목적**에 있다.
+전체 콘텐츠와 접근 경로를 고려하면 **Steam Deluxe 또는 Switch**를 우선 비교한다. Vita는 같은 핵심 액션을 휴대할 수 있으나 30fps이며 후발 추가 구성이 모두 있는 판본은 아니다. 후발판의 프레임·입력 지연을 이번에 직접 측정하지 않았으므로 무조건적인 성능 우위는 주장하지 않는다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성: **중상.** 조작감과 짧은 세션의 액션은 강하지만 반복·볼륨 약점이 큼.
-- 한국어 접근성: 공식 한국어·공개 Vita 한국어 패치 확인 못함.
-- 기존 영어 대안: Vita·Switch·Steam에 공식 영어 접근 가능.
-- 후발판: Switch·Steam Deluxe가 존재하고 Vita보다 콘텐츠 접근성이 좋음.
-- Vita 독자 콘텐츠: 핵심 본편 기준 매우 낮음.
-- 한글화 우선도: **C**.
-- 판단 근거: 한국어가 없는 점은 아쉽지만 텍스트 비중이 낮은 액션게임이고, 동일·확장 콘텐츠를 공식 영어로 즐길 수 있는 후발판이 충분해 Vita 전용 신규 프로젝트의 기회비용이 큼.
+- **품질 3.5/5:** 유연한 조작·무기 연결·재도전의 장점이 있고, 변화 부족과 반복이 상한을 만든다.
+- **번역 효용:** 장비 효과·튜토리얼·도전 조건·대화의 한국어 접근성 개선에 의미가 있다.
+- **우선도 C:** 같은 핵심 콘텐츠에 추가 구성까지 있는 후발판을 먼저 비교할 필요가 크다. Vita만을 골라야 하는 독자 콘텐츠는 확인되지 않았다.
+- 미소녀 미술이나 소규모 제작, 텍스트가 적다는 이유만으로 작품성 점수를 낮추지 않았다. 희귀성도 가점으로 쓰지 않았다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | 적음~중간 / 정확한 행 수 미확인 | 짧은 스토리 + 무기·메뉴·업적·모드 텍스트 |
-| 텍스트 추출 | 미확인 | Vita 원본 파일 구조 미분석 |
+| 예상 텍스트량 | 정확한 분량 미확인 | 대화·무기 효과·모드·메뉴·튜토리얼. 실제 행 수 미계수 |
+| 텍스트 추출 | 미확인 | Vita 파일 미분석 |
 | 텍스트 재삽입 | 미확인 | 문자열 컨테이너·길이 제한 미분석 |
-| 폰트 작업 | 미확인 | 한글 글리프·폰트 파일 위치 미분석 |
-| UI 이미지 / 아틀라스 | 미확인 | 메뉴·장비·아이콘 텍스트 구조 미분석 |
-| 영상 자막 | 미확인 | 영상 및 자막 구조 미분석 |
-| 제어문자 / 스크립트 구조 | 미확인 | 짧은 스토리 이벤트 스크립트 포맷 미분석 |
-| 실행 파일 수정 | 미확인 | 한글 렌더링을 위한 EBOOT 수정 필요 여부 미확인 |
-| 패치 배포 방식 | 미확인 | Vita용 rePatch 실증 자료 확인 못함 |
-| 실기·에뮬 검수 | 부분 확인 | Vita3K에서 PCSE00689 실행 로그가 존재하지만 한국어 수정본 검증은 없음 |
+| 폰트 작업 | 미확인 | 글리프·폰트 자산·렌더러 미분석 |
+| UI 이미지 / 아틀라스 | 미확인 | 메뉴·효과 설명의 자산 형태 미확인 |
+| 영상 자막 | 미확인 | 영상형 텍스트 범위 미확인 |
+| 제어문자 / 스크립트 구조 | 미확인 | 실제 스크립트 미분석 |
+| 실행 파일 수정 | 미확인 | 한글 표시를 위한 수정 필요 여부 미검증 |
+| 패치 배포 방식 | 미확인 | 수정본 적용 시험 없음 |
+| 실기·에뮬 검수 | 미확인 | 한국어 수정본 검수 없음 |
 
 ### 예상 한글화 난이도
 
-**미확인.**
-
-텍스트량 자체는 장편 VN보다 훨씬 적을 가능성이 높지만, 이것만으로 기술 난이도가 낮다고 단정할 수 없다. 현재 공개 자료에서 Vita판의 문자열 포맷·폰트·재삽입 경로를 확인하지 못했다.
-
-## 대표 스크린샷
-
-> 아래 3장은 **PS Vita판 발매 기사·갤러리에서 제공된 실제 게임 화면**이다. 저장소에는 저작권 이미지를 복제하지 않고 원출처 페이지를 연결한다.
-
-1. [4Gamer PS Vita판 실제 전투 화면 갤러리](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html)
-2. [4Gamer PS Vita판 기사 - 4캐릭터·전투 화면](https://www.4gamer.net/games/329/G032912/20151224140/)
-3. [GameFAQs PS Vita 미디어 - 실제 플레이 스크린샷·영상](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma/media)
+**미확인.** 스토리가 짧다는 이유로 기술 난이도를 낮음으로 표시하지 않는다. 메뉴·효과 설명의 폭, 점수·무기 UI와 입력 설명을 함께 검수해야 한다.
 
 ## 한줄평
 
-**손에 쥐면 즉시 재밌는 고속 콤보 액션이지만, 탑을 몇 바퀴 돌고 나면 몬스터보다 먼저 반복감이 달려드는 소형 아케이드 게임.**
+**빠른 이동과 무기 연결의 손맛은 탄탄하지만, 오래 붙들수록 전장과 과제의 변화가 아쉬운 아케이드 액션.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
+**PS Vita / 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
 
-등록선은 통과한다. Vita판은 적은 평론 표본이지만 Metacritic 71점이고, 실플레이 리뷰에서도 조작·프레임·로딩·비주얼 완성도를 호평한다. 반면 짧은 스토리, 제한된 적·보스·배경, 반복적인 아레나 구조는 4.0으로 올라가기 어려운 명확한 약점이다.
-
-C급인 이유는 작품성이 낮아서만이 아니다. **Vita 이후 Switch·Steam Deluxe라는 더 완성된 후발판이 있고, 공식 영어 지원도 충분하며, 한국어가 없어도 액션 중심 구조라 언어 장벽이 장편 VN보다 낮기 때문**이다.
+작품성 등록선을 유지한다. 4.0을 주기 어려운 핵심 이유는 모드 수와 별개로 반복되는 전장·적·전술 선택의 폭이다. C는 한국어 없는 액션이라서가 아니라 **후발 확장판에 비해 Vita판을 선택할 독자 가치가 작기 때문**이다.
 
 ## 참고 자료
 
-- [PLAYISM 공식](https://playism.com/en/game/croixleur-sigma/)
-- [PLAYISM 일본 공식](https://playism.com/game/croixleur-sigma/)
-- [PlayStation Blog 일본 Vita 발매 소개](https://blog.ja.playstation.com/2015/12/25/20151225-new-dlsoft/)
-- [PlayStation Store 일본](https://store.playstation.com/ja-jp/concept/200855)
-- [4Gamer Vita 발매 기사](https://www.4gamer.net/games/329/G032912/20151224140/)
-- [4Gamer Vita 스크린샷 갤러리](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html)
-- [Famitsu Vita 타이틀 페이지](https://www.famitsu.com/game/title/31851/page/1)
-- [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma)
-- [GameFAQs Vita 발매 정보](https://gamefaqs.gamespot.com/vita/184743-croixleur-sigma/data)
-- [Reviews 2 Go Vita 리뷰](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/)
-- [Reimaru Files 리뷰](https://www.reimarufiles.com/2016/02/08/croixleur-sigma-review/)
-- [Metacritic](https://www.metacritic.com/game/croixleur-sigma/)
-- [Steam Deluxe](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)
-- [Nintendo Switch 공식](https://www.nintendo.com/us/store/products/croixleur-sigma-switch/)
+- [PLAYISM 공식 시스템·언어·판본 소개](https://playism.com/en/game/croixleur-sigma/)
+- [제작사 제공 Vita 출시·30fps 안내 및 화면](https://www.4gamer.net/games/329/G032912/20151224140/)
+- [Vita Player / Marcos Codas](https://www.vitaplayer.co.uk/game-review-croixleur-sigma-ps-vita/)
+- [Reviews 2 Go / Vita 리뷰](https://reviews2go.home.blog/2016/03/11/croixleur-sigma-review/)
+- [Reimaru Files / PS4 리뷰](https://www.reimarufiles.com/2016/02/08/croixleur-sigma-review/)
+- [Push Square / PS4 리뷰](https://www.pushsquare.com/reviews/ps4/croixleur_sigma)
+- [Steam Deluxe 언어·집계](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)
+- [Nintendo Switch 상품 정보](https://www.nintendo.com/us/store/products/croixleur-sigma-switch/)
+- [국내 통용 제목 확인](https://librewiki.net/wiki/%ED%81%AC%EB%A1%9C%EC%99%80%EB%A3%A8%EB%A5%B4_%EC%8B%9C%EA%B7%B8%EB%A7%88)
+
