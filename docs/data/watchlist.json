@@ -7,7 +7,8 @@
     "platforms/ps3/games/maji-de-watashi-ni-koi-shinasai-r.md",
     "platforms/ps3/games/ar-nosurge-umareizuru-hoshi-e-inoru-uta.md",
     "platforms/ps3/games/battle-princess-of-arcadias.md",
-    "platforms/ps2/games/fragments-blue.md"
+    "platforms/ps2/games/fragments-blue.md",
+    "platforms/ps2/games/only-you-liber-cross.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -36,6 +37,10 @@
     },
     "platforms/ps2/games/fragments-blue.md": {
       "added": "2026-10-08T22:19:31.052Z",
+      "note": ""
+    },
+    "platforms/ps2/games/only-you-liber-cross.md": {
+      "added": "2026-10-08T22:19:50.901Z",
       "note": ""
     }
   }
