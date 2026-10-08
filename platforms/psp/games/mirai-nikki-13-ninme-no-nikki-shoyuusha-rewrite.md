@@ -1,5 +1,17 @@
 # Mirai Nikki: 13 Ninme no Nikki Shoyuusha RE:WRITE (미래일기 13번째의 일기 소유자 RE:WRITE)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.0/10 · PSP 전체 123개 중 36위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 일기 확인을 선택 인터페이스와 연결하고 음성을 보강한 설계가 능동적인 이야기 감상에 맞는다. 표정·배경과 장면 표현의 다양성은 아쉽지만 PSP 개정판의 한국어화 가치는 크다.
+- 자료 한계: 2010 원판과 2012 RE:WRITE의 평점을 구분했다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 조사 기준일: **2026-10-08 / Asia/Seoul**  
 > 대상 판본: **2012 PSP RE:WRITE**  
 > 발굴 추천도: **⭐⭐⭐½☆ (3.5/5)** · 상태: **🟢 후보**  
@@ -225,4 +237,3 @@ GameFAQs의 RE:WRITE 통계는 **약 23시간·4명 제출**이다. 첫 완료·
 - [2026년 1월 번역자 답변](https://www.reddit.com/r/mirainikki/comments/1qaafvh/future_diary_13th_owner_psp_translation_patch/)
 - [번역자 문서 공개 상태 원문](https://www.tumblr.com/sunniedesi/714511672590663680/future-diary-the-13th-diary-owner-google-drive)
 - [번역자 최근 공개 중단 공지 원문](https://www.tumblr.com/sunniedesi/829463997578428416/regarding-the-psp-translation)
-

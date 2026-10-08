@@ -15,9 +15,9 @@ const Core = window.WatchlistCore;
 const Exclusions = window.ExclusionCore;
 
 const PLATFORMS = {
-  ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md' },
-  psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md' },
-  psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md' },
+  ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md', rankingPath: 'platforms/ps2/recommendations.md' },
+  psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md', rankingPath: 'platforms/psp/recommendations.md' },
+  psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md', rankingPath: 'platforms/psvita/recommendations.md' },
   ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md', reservePath: 'platforms/ps3/reserve.md' },
   dreamcast: { label: 'DREAMCAST', short: 'Dreamcast', path: 'platforms/dreamcast/README.md' },
 };
@@ -52,7 +52,7 @@ function hasMarkdownTable(markdown, firstHeader = '게임') {
   return markdown.split(/\r?\n/).some(line => line.trim().startsWith(`| ${firstHeader} |`));
 }
 function parseMdLink(value) {
-  const m = String(value).match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+  const m = String(value).match(/^\[(.+)\]\(([^)]+)\)$/);
   return m ? { label: m[1], href: m[2] } : { label: value, href: '' };
 }
 function cleanText(value) {
@@ -143,6 +143,8 @@ async function initIndex() {
   const ps3Views = document.getElementById('ps3-views');
   const selectedButton = document.getElementById('ps3-selected');
   const reserveButton = document.getElementById('ps3-reserve');
+  const recommendationViews = document.getElementById('recommendation-views');
+  const recommendationButtons = [...document.querySelectorAll('.recommendation-view')];
   const settingsOpen = document.getElementById('settings-open');
   const settingsDialog = document.getElementById('settings-dialog');
   const tokenInput = document.getElementById('token-input');
@@ -167,7 +169,12 @@ async function initIndex() {
   const params = new URLSearchParams(location.search);
   let activePlatform = PLATFORMS[params.get('platform')] ? params.get('platform') : 'ps2';
   let reserveView = activePlatform === 'ps3' && params.get('view') === 'reserve';
-  let sortKey = activePlatform === 'ps3' ? 'personal' : 'priority';
+  let recommendationView = ['active', 'reserve'].includes(params.get('view')) ? params.get('view') : 'all';
+  const hasPersonalScores = platform => platform === 'ps3' || Boolean(PLATFORMS[platform].rankingPath);
+  const inCurrentView = row => !row.archived && (PLATFORMS[activePlatform].rankingPath
+    ? recommendationView === 'all' || row.reserve === (recommendationView === 'reserve')
+    : row.reserve === (activePlatform === 'ps3' && reserveView));
+  let sortKey = hasPersonalScores(activePlatform) ? 'personal' : 'priority';
   let ascending = true;
   let watchOnly = false;
   let myList = params.get('view') === 'my-list';
@@ -288,10 +295,12 @@ async function initIndex() {
       return {
         key,
         platform,
-        reserve,
+        reserve: reserve || raw['목록 구분'] === '후보군',
         reserveReason: cleanText(raw['예비 사유'] || ''),
-        personalScore: platform === 'ps3' && Number.isFinite(score) && score >= 1 && score <= 10 ? score : null,
-        personalRank: platform === 'ps3' && Number.isInteger(rank) && rank > 0 ? rank : null,
+        personalScore: hasPersonalScores(platform) && Number.isFinite(score) && score >= 1 && score <= 10 ? score : null,
+        personalRank: hasPersonalScores(platform) && Number.isInteger(rank) && rank > 0 ? rank : null,
+        rationale: cleanText(raw['추천 근거'] || ''),
+        scoreStatus: cleanText(raw['점수 구분'] || ''),
         title: cleanText(game.label),
         href: game.href,
         year: Number(cleanText(raw['발매'])) || 0,
@@ -313,13 +322,23 @@ async function initIndex() {
     if (platformLoads.has(platform)) return platformLoads.get(platform);
     const config = PLATFORMS[platform];
     const pending = (async () => {
-      const sources = [{ path: config.path, reserve: false }];
+      const sources = [{ path: config.rankingPath || config.path, reserve: false }];
       if (config.reservePath) sources.push({ path: config.reservePath, reserve: true });
       const lists = await Promise.all(sources.map(async source =>
         parseRows(await fetchText(`${RAW_BASE}${source.path}`), platform, source.reserve)));
       const rows = lists.flat();
       const keys = new Set(rows.map(row => row.key));
       if (keys.size !== rows.length || keys.has('')) throw new Error('후보 목록에 중복되거나 빈 문서 경로가 있습니다.');
+      if (config.rankingPath) {
+        // Keep existing favorites/started records reachable without restoring passed games to rankings.
+        const original = parseRows(await fetchText(`${RAW_BASE}${config.path}`), platform);
+        for (const row of original) {
+          if (!keys.has(row.key)) {
+            const passed = /패스|기준 미달|등록선 미달|탈락|후보 종료|활성 후보 제외/.test(row.state);
+            rows.push({ ...row, archived: passed, reserve: passed || /보류/.test(row.state), reserveReason: passed ? '명시 제외·조사 기록 보존' : '새 기록 · 개인 추천 미평가' });
+          }
+        }
+      }
       rowsByPlatform.set(platform, rows);
       return rows;
     })();
@@ -334,13 +353,19 @@ async function initIndex() {
   };
 
   const updateStats = allRows => {
-    const platformRows = visibleRows(rowsByPlatform.get(activePlatform) || []);
-    const rows = myList ? allRows : platformRows.filter(row => row.reserve === (activePlatform === 'ps3' && reserveView));
+    const platformRows = visibleRows(rowsByPlatform.get(activePlatform) || []).filter(row => !row.archived);
+    const rows = myList ? allRows : platformRows.filter(inCurrentView);
     const selectedCount = platformRows.filter(row => !row.reserve).length;
     const reserveCount = platformRows.filter(row => row.reserve).length;
     selectedButton.textContent = `선정 ${selectedCount}개`;
     reserveButton.textContent = `예비 ${reserveCount}개`;
-    const countLabel = myList ? '내 목록' : activePlatform === 'ps3' && reserveView ? '예비 기록' : '등록 후보';
+    recommendationButtons.forEach(button => {
+      const view = button.dataset.view;
+      button.textContent = view === 'all' ? `전체 순위 ${platformRows.length}개` : view === 'active' ? `기존 목록 ${selectedCount}개` : `후보군 ${reserveCount}개`;
+    });
+    const countLabel = myList ? '내 목록' : PLATFORMS[activePlatform].rankingPath
+      ? recommendationView === 'all' ? '전체 순위' : recommendationView === 'active' ? '기존 목록' : '후보군'
+      : activePlatform === 'ps3' && reserveView ? '예비 기록' : '등록 후보';
     const aCount = rows.filter(row => row.priorityRank === 0).length;
     const bCount = rows.filter(row => row.priorityRank === 1).length;
     const cCount = rows.filter(row => row.priorityRank === 2).length;
@@ -407,15 +432,15 @@ async function initIndex() {
       : '';
     return `<tr class="${rowClass}" data-key="${escapeHtml(row.key)}" data-reorderable="${reorderable}">
       <td class="rank-cell" data-label="우선">${handle}${rank ? `<span class="rank-number">${rank}</span>` : ''}${moveMenu}</td>
-      <td data-label="게임"><a class="game-link" href="${localizeGamePath(row.href, row.platform)}">${escapeHtml(row.title)}</a>${noteMarkup(row)}${patchMarkup(row)}</td>
+      <td data-label="게임"${PLATFORMS[row.platform].rankingPath ? ' class="recommendation-game"' : ''}><a class="game-link" href="${localizeGamePath(row.href, row.platform)}">${escapeHtml(row.title)}</a>${row.rationale ? `<p class="recommendation-rationale">${escapeHtml(row.rationale)}</p>` : ''}${noteMarkup(row)}${patchMarkup(row)}</td>
       <td data-label="발매">${row.year || ''}</td>
       <td data-label="장르">${escapeHtml(row.genre)}</td>
-      <td data-label="${row.platform === 'ps3' ? '개인 / 작품성' : '발굴 추천도'}" class="rating">${row.platform === 'ps3'
-        ? `<span class="rating-details"><span class="personal-rating">개인 ${row.personalScore == null ? '미평가' : `${row.personalScore.toFixed(1)}/10`}${row.personalRank ? ` · ${row.personalRank}위` : ''}</span><span class="quality-rating">작품성 ${escapeHtml(row.rating)}</span></span>`
+      <td data-label="${hasPersonalScores(row.platform) ? '개인 / 작품성' : '발굴 추천도'}" class="rating">${hasPersonalScores(row.platform)
+        ? `<span class="rating-details"><span class="personal-rating">개인 ${row.scoreStatus === '잠정' ? '<span class="provisional-score">잠정</span> ' : ''}${row.personalScore == null ? '미평가' : `${row.personalScore.toFixed(1)}/10`}${row.personalRank ? ` · ${row.personalRank}위` : ''}</span><span class="quality-rating">작품성 ${escapeHtml(row.rating)}</span></span>`
         : escapeHtml(row.rating)}</td>
       <td data-label="한글화 우선도">${priorityBadge(row.priority)}</td>
       <td data-label="타 기종 / 다른 버전" class="meta-muted">${escapeHtml(row.versions)}</td>
-      <td data-label="상태" class="state"><span>${escapeHtml(row.state)}${row.reserve ? `<span class="reserve-label">예비${row.reserveReason ? ` · ${escapeHtml(row.reserveReason)}` : ''}</span>` : ''}</span></td>
+      <td data-label="상태" class="state"><span>${escapeHtml(row.state)}${row.reserve ? `<span class="reserve-label">${PLATFORMS[row.platform].rankingPath ? '후보군' : '예비'}${row.reserveReason ? ` · ${escapeHtml(row.reserveReason)}` : ''}</span>` : ''}</span></td>
       <td data-label="관리">${actionMarkup(row)}</td>
     </tr>`;
   };
@@ -430,7 +455,7 @@ async function initIndex() {
       return visibleRows(all).filter(row => watchlist.items[row.key] || row.patchStatus === 'wip');
     }
     const rows = await loadPlatformRows(activePlatform);
-    return visibleRows(rows).filter(row => row.reserve === (activePlatform === 'ps3' && reserveView));
+    return visibleRows(rows).filter(inCurrentView);
   };
 
   const updateCompareBar = () => {
@@ -454,7 +479,7 @@ async function initIndex() {
       const query = (search.value || '').trim().toLocaleLowerCase('ko');
       let filtered = all.filter(row => {
         const note = (watchlist.items[row.key] || {}).note || '';
-        return `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority} ${row.reserveReason} ${note}`.toLocaleLowerCase('ko').includes(query);
+        return `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority} ${row.reserveReason} ${row.rationale} ${row.scoreStatus} ${note}`.toLocaleLowerCase('ko').includes(query);
       });
       if (watchOnly) filtered = filtered.filter(row => watchlist.items[row.key]);
 
@@ -470,24 +495,32 @@ async function initIndex() {
       body.innerHTML = html || `<tr><td colspan="9" class="meta-muted empty-row">${filtered.length ? '표시할 항목이 없습니다.' : '검색 결과가 없습니다.'}</td></tr>`;
       platformButtons.forEach(button => button.classList.toggle('active', !myList && button.dataset.platform === activePlatform));
       platformEyebrow.textContent = myList ? 'MY WATCHLIST' : PLATFORMS[activePlatform].label;
-      platformTitle.textContent = myList ? '내 목록' : activePlatform === 'ps3' ? (reserveView ? 'PS3 예비 목록' : 'PS3 선정 후보') : '현재 후보';
+      platformTitle.textContent = myList ? '내 목록' : activePlatform === 'ps3' ? (reserveView ? 'PS3 예비 목록' : 'PS3 선정 후보')
+        : PLATFORMS[activePlatform].rankingPath ? `${PLATFORMS[activePlatform].short} ${recommendationView === 'all' ? '전체 추천 순위' : recommendationView === 'active' ? '기존 목록' : '후보군'}` : '현재 후보';
       ps3Views.hidden = myList || activePlatform !== 'ps3';
+      recommendationViews.hidden = myList || !PLATFORMS[activePlatform].rankingPath;
+      recommendationButtons.forEach(button => {
+        button.classList.toggle('active', button.dataset.view === recommendationView);
+        button.setAttribute('aria-pressed', String(button.dataset.view === recommendationView));
+      });
       selectedButton.classList.toggle('active', !reserveView);
       selectedButton.setAttribute('aria-pressed', String(!reserveView));
       reserveButton.classList.toggle('active', reserveView);
       reserveButton.setAttribute('aria-pressed', String(reserveView));
       sortButtons.forEach(button => {
-        button.hidden = button.dataset.sort === 'personal' && (myList || activePlatform !== 'ps3');
+        button.hidden = button.dataset.sort === 'personal' && (myList || !hasPersonalScores(activePlatform));
         button.classList.toggle('active', button.dataset.sort === sortKey);
         button.setAttribute('aria-pressed', String(button.dataset.sort === sortKey));
         const label = button.dataset.label || button.textContent;
         button.textContent = button.dataset.sort === sortKey ? `${label} ${ascending ? '↑' : '↓'}` : label;
       });
       sourceNote.innerHTML = myList
-        ? '전체 기종의 <strong>★ 찜</strong>과 <strong>🛠 착수</strong> 항목을 모아 표시합니다. PS3 예비 기록도 포함하며 찜의 수동 순서를 유지합니다.'
+        ? '전체 기종의 <strong>★ 찜</strong>과 <strong>🛠 착수</strong> 항목을 모아 표시합니다. 각 기종의 후보군과 PS3 예비 기록도 포함하며 찜의 수동 순서를 유지합니다.'
         : activePlatform === 'ps3'
           ? `개인 추천점수(1–10)는 작품성(5점 만점)과 별개입니다. 한글화 후보 조건을 통과한 선정 후보와 예비 기록을 나눠 표시합니다. 개인 순위는 전체 기록 기준이며 찜의 수동 순서는 유지됩니다. <a href="${GITHUB_BASE}platforms/ps3/reassessments/2026-10-08-personal-top-30.md" target="_blank" rel="noreferrer">평가 근거와 선정 기준</a> · <a href="${GITHUB_BASE}${reserveView ? PLATFORMS.ps3.reservePath : PLATFORMS.ps3.path}" target="_blank" rel="noreferrer">${reserveView ? '예비 사유와 원본 보기' : '선정 원본 보기'}</a>`
-        : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
+        : PLATFORMS[activePlatform].rankingPath
+          ? `개인 추천점수(1–10)는 기존 작품성(5점 만점)과 별개입니다. 기존 목록과 살아 있는 후보군을 함께 채점했으며, 후보군은 활성 등록으로 바꾸지 않았습니다. 개인 순위는 전체 기록 기준이고 찜의 수동 순서는 유지됩니다. 근거가 부족한 점수는 ‘잠정’으로 표시하며 검색으로 모아 볼 수 있습니다. <a href="${GITHUB_BASE}platforms/${activePlatform}/reassessments/2026-10-08-personal-recommendations.md" target="_blank" rel="noreferrer">평가 근거·범위·동점 기준</a> · <a href="${GITHUB_BASE}${PLATFORMS[activePlatform].rankingPath}" target="_blank" rel="noreferrer">순위 원본</a>`
+          : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
       status.hidden = true;
       wrap.hidden = false;
       updateStats(all);
@@ -909,13 +942,14 @@ async function initIndex() {
     url.searchParams.set('platform', activePlatform);
     if (myList) url.searchParams.set('view', 'my-list');
     else if (reserveView && activePlatform === 'ps3') url.searchParams.set('view', 'reserve');
+    else if (PLATFORMS[activePlatform].rankingPath && recommendationView !== 'all') url.searchParams.set('view', recommendationView);
     else url.searchParams.delete('view');
     url.hash = '';
     if (url.href !== location.href) history.pushState(null, '', url);
   };
 
   const setPlatformSort = () => {
-    if (!myList && activePlatform === 'ps3') { sortKey = 'personal'; ascending = true; }
+    if (!myList && hasPersonalScores(activePlatform)) { sortKey = 'personal'; ascending = true; }
     else if (sortKey === 'personal') { sortKey = 'priority'; ascending = true; }
   };
 
@@ -923,6 +957,7 @@ async function initIndex() {
     myList = false;
     activePlatform = button.dataset.platform;
     reserveView = false;
+    recommendationView = 'all';
     setPlatformSort();
     search.value = '';
     syncLocation();
@@ -940,11 +975,19 @@ async function initIndex() {
   };
   selectedButton.addEventListener('click', () => selectPs3View(false));
   reserveButton.addEventListener('click', () => selectPs3View(true));
+  recommendationButtons.forEach(button => button.addEventListener('click', async () => {
+    recommendationView = button.dataset.view;
+    setPlatformSort();
+    search.value = '';
+    syncLocation();
+    await render();
+  }));
 
   window.addEventListener('popstate', async () => {
     const next = new URLSearchParams(location.search);
     activePlatform = PLATFORMS[next.get('platform')] ? next.get('platform') : 'ps2';
     reserveView = activePlatform === 'ps3' && next.get('view') === 'reserve';
+    recommendationView = ['active', 'reserve'].includes(next.get('view')) ? next.get('view') : 'all';
     myList = next.get('view') === 'my-list';
     setPlatformSort();
     search.value = '';

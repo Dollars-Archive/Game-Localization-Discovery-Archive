@@ -1,5 +1,17 @@
 # Croixleur Sigma (크로와루르 시그마)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 7.2/10 · PS Vita 전체 51개 중 44위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 여성 캐릭터의 빠른 이동과 무기 기술 연결은 짧은 액션 플레이에 잘 맞는다. 적·장소·목표의 반복과 후발 확장판을 고려하면 Vita의 대화·설명 번역은 중간 우선순위다.
+- 자료 한계: Vita 직접 리뷰 2명과 PS4 공통 설계 리뷰를 구분했다. 공식 Vita 30fps와 다른 판본 성능을 실측 비교하지 않았다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: クロワルール・シグマ
 > 대상 판본: PlayStation Vita
 > 상태: 🟢 후보
@@ -187,4 +199,3 @@ Push Square 상단의 **4.7·사용자 3명**과 본문 비평가 **6/10**은 �
 - [Steam Deluxe 언어·집계](https://store.steampowered.com/app/1052440/Croixleur_Sigma__Deluxe_Edition/)
 - [Nintendo Switch 상품 정보](https://www.nintendo.com/us/store/products/croixleur-sigma-switch/)
 - [국내 통용 제목 확인](https://librewiki.net/wiki/%ED%81%AC%EB%A1%9C%EC%99%80%EB%A3%A8%EB%A5%B4_%EC%8B%9C%EA%B7%B8%EB%A7%88)
-

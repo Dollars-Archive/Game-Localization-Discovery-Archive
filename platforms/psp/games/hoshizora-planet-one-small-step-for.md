@@ -1,5 +1,17 @@
 # Hoshizora Planet: One Small Step For... (호시조라 플래닛)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.0/10 · PSP 전체 123개 중 28위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 읽기 편한 문장과 학원 일상의 인물 표현, 음악이 잔잔한 감상 취향에 맞는다. 설명·감정 전달과 재독 편의에는 의견 차이가 있으나 PSP 수정·추가 구성을 읽는 가치는 남는다.
+- 자료 한계: PSP 완료평 2명의 상반된 평가이며 Best판의 기술적 우월성을 확정하지 않았다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: 星空☆ぷらねっと one small step for...  
 > 작품성 **3.5/5** · 한글화 우선도 **B** · 상태 **🟢 후보**  
 > 재검토일: **2026-10-08 / Asia/Seoul**
@@ -156,4 +168,3 @@ PC夢箱은 원작 계열 감상 대안이며 PSP의 모든 내용을 대신하�
 ## 참고 자료
 
 [PSP 발표·권리](https://www.4gamer.net/games/125/G012551/20101208082/), [시스템](https://game.watch.impress.co.jp/docs/news/412723.html), [PSP 긍정 완료평](https://koshinori.hatenablog.com/entry/2021/09/16/202539), [비판적 완료평](https://blog.livedoor.jp/sketchbook2/archives/52132990.html), [판본 혼합 회고](https://note.com/reukansa/n/n3541292d6308), [PSP 통계](https://gamefaqs.gamespot.com/psp/615379-hoshizora-planet-one-small-step-for), [Best 상품](https://www.play-asia.com/en/hoshizora-planet-one-small-step-for-best-hit-selection/13/704ldn).
-

@@ -1,0 +1,2698 @@
+{
+  "date": "2026-10-08",
+  "platform": "psvita",
+  "baselineCommit": "20e0f3b1796befd766370cd53b954d6300596654",
+  "counts": {
+    "currentTableRecordsBefore": 30,
+    "existingListAfter": 26,
+    "reserveAfter": 25,
+    "scoredTotal": 51,
+    "missingScores": 0,
+    "duplicateKeys": 0,
+    "scoreRange": [
+      6.7,
+      9.0
+    ]
+  },
+  "scoring": {
+    "weights": {
+      "experience": 0.4,
+      "personalFit": 0.3,
+      "localizationValue": 0.2,
+      "platformValue": 0.1
+    },
+    "range": "1.0–10.0, 0.1 단위 표시",
+    "rounding": "decimal ROUND_HALF_UP",
+    "tieBreak": [
+      "rawScore desc",
+      "localizationValue desc",
+      "personalFit desc",
+      "experience desc",
+      "platformValue desc",
+      "slug asc"
+    ],
+    "disclaimer": "자료 기반 주관적 추천. 직접 플레이 주장 없음. 기존 5점 작품성의 환산 아님. 미확정 작품성은 유지."
+  },
+  "scope": {
+    "date": "2026-10-08",
+    "baselineCommit": "20e0f3b1796befd766370cd53b954d6300596654",
+    "platform": "psvita",
+    "READMERecordedBefore": 30,
+    "READMEActiveBefore": 26,
+    "READMENonactiveBefore": 4,
+    "existingGameDocumentsBefore": 54,
+    "scored": 51,
+    "active": 26,
+    "reserve": 25,
+    "reserveBreakdown": {
+      "shortlistOnlyOmittedQuality4": 3,
+      "koreanAlternativeVerificationHold": 1,
+      "retainedProvisionalScreening": 21
+    },
+    "activeSlugs": [
+      "ar-nosurge-plus-ode-to-an-unborn-star",
+      "arcana-heart-3-love-max",
+      "charade-maniacs",
+      "chou-no-doku-hana-no-kusari",
+      "ciel-nosurge-offline",
+      "code-realize-wintertide-miracles",
+      "croixleur-sigma",
+      "deception-iv-blood-ties",
+      "demon-gaze-ii",
+      "fernz-gate",
+      "golden-time-vivid-memories",
+      "ia-vt-colorful",
+      "lost-dimension",
+      "miracle-girls-festival",
+      "mystery-chronicle-one-way-heroics",
+      "net-high",
+      "piofiore-no-banshou",
+      "psycho-pass-mandatory-happiness",
+      "reine-des-fleurs",
+      "to-love-ru-darkness-true-princess",
+      "tokushu-houdoubu",
+      "xblaze-code-embryo",
+      "xenon-valkyrie-plus",
+      "yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku",
+      "yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku",
+      "zanki-zero"
+    ],
+    "reserveSlugs": [
+      "dungeon-travelers-2",
+      "island",
+      "mobile-suit-gundam-seed-battle-destiny",
+      "ore-ni-hatarakette-iwaretemo-otsu-hd",
+      "alone-with-you",
+      "actual-sunlight",
+      "amnesia-world",
+      "astralair-no-shiroki-towa-white-eternity",
+      "akai-suna-ochiru-tsuki",
+      "bakumatsu-rock-ultra-soul",
+      "binarystar",
+      "chaos-rings-iii-prequel-trilogy",
+      "collar-x-malice",
+      "dance-with-devils",
+      "dungeon-travelers-2-2",
+      "flowers-le-volume-sur-printemps",
+      "flowers-le-volume-sur-ete",
+      "flowers-le-volume-sur-automne",
+      "flowers-le-volume-sur-hiver",
+      "fureraba-friend-to-lover",
+      "grand-kingdom",
+      "getsuei-gakuen-kou",
+      "hoshi-ori-yume-mirai-converted-edition",
+      "kurenai-no-homura-sanada-ninpocho",
+      "ken-ga-kimi-momoyo-tsuzuri"
+    ],
+    "excludedKoreanAlternativeTerminated": [
+      "kantai-collection-kai",
+      "summon-night-6-lost-borders",
+      "bloodstained-curse-of-the-moon",
+      "psychedelica-of-the-black-butterfly",
+      "psychedelica-of-the-ashen-hawk",
+      "hyperdimension-neptunia-rebirth1",
+      "hyperdimension-neptunia-rebirth2",
+      "hyperdimension-neptunia-rebirth3",
+      "malicious-rebirth",
+      "the-lost-child",
+      "superdimension-neptune-vs-sega-hard-girls",
+      "sorcery-saga-curse-of-the-great-curry-god",
+      "zero-escape-the-nonary-games",
+      "clannad",
+      "muv-luv-alternative",
+      "air",
+      "fate-hollow-ataraxia",
+      "nurse-love-syndrome",
+      "date-a-live-twin-edition-rio-reincarnation",
+      "muv-luv",
+      "the-legend-of-dark-witch"
+    ],
+    "excludedExplicitQualityBelowThreshold": [
+      "haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono",
+      "genkai-tokki-seven-pirates",
+      "tokyo-twilight-ghost-hunters"
+    ],
+    "policy": "활성 목록과 final-30-selection에 살아 있는 예비 후보만 채점. 과거 3.5 정예30 필터에 따른 미선정은 종료로 간주하지 않음. 명시 한국어대안 종료21개·등록선미달3개는 복원하지 않음. 그 밖의 배치 원장 보류·탈락작은 이번 생존 후보군으로 새 승격하지 않음.",
+    "uncertainty": "잠정21개는 quality:null, 기존 작품성·한글화우선도 미확정 유지. 사용자 상태와 활성 README를 변경하지 않고 웹 접근용 예비 문서·행만 제안.",
+    "sourcePaths": [
+      "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+      "platforms/psvita/reassessments/2026-10-08-full-review.md",
+      "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+    ],
+    "fileChangesByThisAgent": [
+      "psvita-proposals.json",
+      "psvita-scope.json",
+      "build_psvita_proposals.py"
+    ],
+    "noRepoEdits": true,
+    "rubric": {
+      "experience": 0.4,
+      "personalFit": 0.3,
+      "localizationValue": 0.2,
+      "platformValue": 0.1,
+      "rounding": "ROUND_HALF_UP to one decimal",
+      "tieBreak": "descending unrounded weighted rawScore, localizationValue, personalFit, experience, platformValue; slug ascending"
+    },
+    "verification": {
+      "uniqueSlugs": 51,
+      "noExcludedScored": true,
+      "componentRange": [
+        4.0,
+        9.7
+      ],
+      "personalScoreRange": [
+        6.7,
+        9.0
+      ],
+      "newDocContentCount": 21,
+      "rowCountForREADMEOutsideReserves": 24,
+      "scopeAndProposalsHaveSameSlugs": true,
+      "reviewedCount": 30,
+      "provisionalCount": 21,
+      "allProvisionalHaveAdditionalSources": true,
+      "koreanAlternativeCorrections": [
+        "flowers-le-volume-sur-printemps",
+        "flowers-le-volume-sur-ete",
+        "flowers-le-volume-sur-automne",
+        "flowers-le-volume-sur-hiver",
+        "fureraba-friend-to-lover",
+        "hoshi-ori-yume-mirai-converted-edition"
+      ]
+    },
+    "targets": [
+      {
+        "slug": "ar-nosurge-plus-ode-to-an-unborn-star",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/ar-nosurge-plus-ode-to-an-unborn-star.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "arcana-heart-3-love-max",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/arcana-heart-3-love-max.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "charade-maniacs",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/charade-maniacs.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "chou-no-doku-hana-no-kusari",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/chou-no-doku-hana-no-kusari.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "ciel-nosurge-offline",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/ciel-nosurge-offline.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "code-realize-wintertide-miracles",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/code-realize-wintertide-miracles.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "croixleur-sigma",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/croixleur-sigma.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "deception-iv-blood-ties",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/deception-iv-blood-ties.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "demon-gaze-ii",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/demon-gaze-ii.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "dungeon-travelers-2",
+        "pool": "reserve",
+        "scoreStatus": "reviewed",
+        "reason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+        "sourcePaths": [
+          "platforms/psvita/games/dungeon-travelers-2.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "fernz-gate",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/fernz-gate.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "golden-time-vivid-memories",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/golden-time-vivid-memories.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "ia-vt-colorful",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/ia-vt-colorful.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "island",
+        "pool": "reserve",
+        "scoreStatus": "reviewed",
+        "reason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+        "sourcePaths": [
+          "platforms/psvita/games/island.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "lost-dimension",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/lost-dimension.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "miracle-girls-festival",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/miracle-girls-festival.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "mobile-suit-gundam-seed-battle-destiny",
+        "pool": "reserve",
+        "scoreStatus": "reviewed",
+        "reason": "한국어 대안 원 배포 기록은 있으나 현행 이용 여부 미확인. 기존 활성 자격 보류를 유지하는 예비 후보.",
+        "sourcePaths": [
+          "platforms/psvita/games/mobile-suit-gundam-seed-battle-destiny.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "mystery-chronicle-one-way-heroics",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/mystery-chronicle-one-way-heroics.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "net-high",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/net-high.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "ore-ni-hatarakette-iwaretemo-otsu-hd",
+        "pool": "reserve",
+        "scoreStatus": "reviewed",
+        "reason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+        "sourcePaths": [
+          "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "piofiore-no-banshou",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/piofiore-no-banshou.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "psycho-pass-mandatory-happiness",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/psycho-pass-mandatory-happiness.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "reine-des-fleurs",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/reine-des-fleurs.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "to-love-ru-darkness-true-princess",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/to-love-ru-darkness-true-princess.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "tokushu-houdoubu",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/tokushu-houdoubu.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "xblaze-code-embryo",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/xblaze-code-embryo.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "xenon-valkyrie-plus",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/xenon-valkyrie-plus.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "zanki-zero",
+        "pool": "active",
+        "scoreStatus": "reviewed",
+        "reason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+        "sourcePaths": [
+          "platforms/psvita/games/zanki-zero.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+          "platforms/psvita/reassessments/2026-10-08-full-review.md",
+          "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+        ]
+      },
+      {
+        "slug": "alone-with-you",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "actual-sunlight",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "amnesia-world",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "astralair-no-shiroki-towa-white-eternity",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "akai-suna-ochiru-tsuki",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "bakumatsu-rock-ultra-soul",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-02-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "binarystar",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-02-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "chaos-rings-iii-prequel-trilogy",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "collar-x-malice",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "dance-with-devils",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "dungeon-travelers-2-2",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-04-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "flowers-le-volume-sur-printemps",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "flowers-le-volume-sur-ete",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "flowers-le-volume-sur-automne",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "flowers-le-volume-sur-hiver",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "fureraba-friend-to-lover",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · PC 간이 한국어 패치 고려 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "grand-kingdom",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "getsuei-gakuen-kou",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-06-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "hoshi-ori-yume-mirai-converted-edition",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · PC AI 번역·검수 자료 재검토 · 잠정",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-07-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "kurenai-no-homura-sanada-ninpocho",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-08-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      },
+      {
+        "slug": "ken-ga-kimi-momoyo-tsuzuri",
+        "pool": "reserve",
+        "scoreStatus": "provisional",
+        "reason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+        "sourcePaths": [
+          "platforms/psvita/reassessments/2026-10-06-batch-08-next-100-screening.md",
+          "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+        ]
+      }
+    ],
+    "excluded": [
+      {
+        "slug": "kantai-collection-kai",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "summon-night-6-lost-borders",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "bloodstained-curse-of-the-moon",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "psychedelica-of-the-black-butterfly",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "psychedelica-of-the-ashen-hawk",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "hyperdimension-neptunia-rebirth1",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "hyperdimension-neptunia-rebirth2",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "hyperdimension-neptunia-rebirth3",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "malicious-rebirth",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "the-lost-child",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "superdimension-neptune-vs-sega-hard-girls",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "sorcery-saga-curse-of-the-great-curry-god",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "zero-escape-the-nonary-games",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "clannad",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "muv-luv-alternative",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "air",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "fate-hollow-ataraxia",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "nurse-love-syndrome",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "date-a-live-twin-edition-rio-reincarnation",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "muv-luv",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "the-legend-of-dark-witch",
+        "reason": "공개 한국어 대안 확인으로 기존 원장에 후보 종료를 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json",
+        "category": "korean-alternative-terminated"
+      },
+      {
+        "slug": "haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono",
+        "reason": "2026-10-08 전체 재평가에서 3.0/5·작품성 등록선 미달로 후보 탈락을 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "category": "quality-below-threshold"
+      },
+      {
+        "slug": "genkai-tokki-seven-pirates",
+        "reason": "2026-10-08 전체 재평가에서 3.0/5·작품성 등록선 미달로 후보 탈락을 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "category": "quality-below-threshold"
+      },
+      {
+        "slug": "tokyo-twilight-ghost-hunters",
+        "reason": "2026-10-08 전체 재평가에서 3.0/5·작품성 등록선 미달로 후보 탈락을 명시",
+        "sourcePath": "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "category": "quality-below-threshold"
+      }
+    ],
+    "counts": {
+      "targets": 51,
+      "active": 26,
+      "reserve": 25,
+      "reviewed": 30,
+      "provisional": 21,
+      "excluded": 24,
+      "qualityUnconfirmed": 21,
+      "newDocumentsProposed": 21,
+      "newTableRowsProposed": 24
+    }
+  },
+  "games": [
+    {
+      "slug": "net-high",
+      "title": "Net High (넷 하이)",
+      "components": {
+        "experience": 8.6,
+        "personalFit": 8.8,
+        "localizationValue": 9.6,
+        "platformValue": 9.5
+      },
+      "rationale": "활기 있는 대사와 인물의 호흡, 음악·음성·화면 연출이 이야기 감상과 조작 경험을 함께 끌어 준다. 정답 유도와 느린 재독의 한계는 있지만 한국어 문맥을 살릴 효용과 Vita판 자체의 가치가 매우 높다.",
+      "evidenceLimits": "완료를 명시한 Vita 후기와 복수 기명 평가를 종합한 기존 4.0 재평가다. 일본 유행어의 번역 부담을 작품성 결함으로 환산하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/net-high.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.95,
+      "suggestedPersonalScore": 9.0,
+      "rawScore": 8.95,
+      "personalScore": 9.0,
+      "path": "platforms/psvita/games/net-high.md",
+      "personalRank": 1
+    },
+    {
+      "slug": "ciel-nosurge-offline",
+      "title": "Ciel Nosurge Offline: Ushinawareta Hoshi e Sasagu Uta (시엘 노서지 오프라인: 잃어버린 별에 바치는 노래)",
+      "components": {
+        "experience": 8.0,
+        "personalFit": 9.2,
+        "localizationValue": 9.7,
+        "platformValue": 9.0
+      },
+      "rationale": "일상 대화·여성 인물의 반응과 음악이 같은 감상 경험으로 이어져 취향에 특히 잘 맞는다. 반복 작업과 편의 문제는 남지만 Vita 터치 조작을 살린 OFFLINE의 한국어화 가치가 높다.",
+      "evidenceLimits": "Famitsu 4인·기명 플레이 글·소표본 독자 기록을 구분한 기존 평가다. 과거 서버 연동·음성팩의 현재 작동은 전수 검증하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/ciel-nosurge-offline.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.8,
+      "suggestedPersonalScore": 8.8,
+      "rawScore": 8.8,
+      "personalScore": 8.8,
+      "path": "platforms/psvita/games/ciel-nosurge-offline.md",
+      "personalRank": 2
+    },
+    {
+      "slug": "dungeon-travelers-2",
+      "title": "Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)",
+      "components": {
+        "experience": 8.6,
+        "personalFit": 9.1,
+        "localizationValue": 9.0,
+        "platformValue": 8.2
+      },
+      "rationale": "직업·스킬·자원 관리가 서로 맞물리는 탐색에 여성 동료의 대화와 음악이 더해져 취향 적합성이 높다. 평범한 큰 줄거리와 반복 이동은 약점이지만 전투 설명의 한국어화와 Vita판의 개선 가치가 충분하다.",
+      "evidenceLimits": "독립 Vita 리뷰 3곳에 기초하며 한 글은 미완주라고 명시한다. 1편의 PC 한국어 패치는 본작 대안이 아니고 본작의 5점 작품성은 기존 4.0을 보존한다.",
+      "sourcePaths": [
+        "platforms/psvita/games/dungeon-travelers-2.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "reserve",
+      "poolReason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "row": {
+        "게임": "[Dungeon Travelers 2: The Royal Library & the Monster Seal (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](games/dungeon-travelers-2.md)",
+        "발매": "2014",
+        "장르": "1인칭 던전 RPG",
+        "발굴 추천도": "⭐⭐⭐⭐☆ 4.0/5",
+        "한글화 우선도": "B",
+        "외부 평점 참고": "Vita RPGFan 80/100 / Gamecritics 8.5/10 / Kresnik 7.5/10",
+        "공개 PS Vita 한글패치": "2026-10-05 전체 감사에서 완성 대안 확인 못함",
+        "타 기종 / 다른 버전": "PSP 원작 / Windows 영어·번체중문판",
+        "상태": "🟡 예비 후보 · 활성 30개 압축 제외"
+      },
+      "suggestedRawScore": 8.79,
+      "suggestedPersonalScore": 8.8,
+      "rawScore": 8.79,
+      "personalScore": 8.8,
+      "path": "platforms/psvita/games/dungeon-travelers-2.md",
+      "personalRank": 3
+    },
+    {
+      "slug": "dungeon-travelers-2-2",
+      "title": "Dungeon Travelers 2-2",
+      "components": {
+        "experience": 8.2,
+        "personalFit": 9.0,
+        "localizationValue": 9.2,
+        "platformValue": 8.5
+      },
+      "rationale": "여성 동료의 표현과 직업·자원 운용을 함께 즐기는 던전 RPG 구성은 취향 적합성이 높다. 선행 감상과 반복 탐색 부담을 고려하되 한국어 설명의 실익과 Vita판 가치를 높게 본 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-04-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Dungeon Travelers 2-2](games/dungeon-travelers-2-2.md)",
+        "발매": "2017",
+        "장르": "3D 던전 RPG",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Famitsu Vita 32/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "Windows 영어판 / 2편과 별도 후속작",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Dungeon Travelers 2-2\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 3D 던전 RPG |\n| 발매 | 2017 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Famitsu Vita 32/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | Windows 영어판 / 2편과 별도 후속작 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n직업 육성·대열·장비와 던전 탐색을 연결하는 별도 후속 RPG다.\n\n여성 동료와 직업·자원 운용이 결합하며 공식 업데이트는 이동·비용·안정성을 개선했다.\n\n선행 작품의 인물·용어 맥락이 필요하며 전체 작품성의 정식 평정은 미확정이다.\n\n## 개인 추천의 근거\n\n여성 동료의 표현과 직업·자원 운용을 함께 즐기는 던전 RPG 구성은 취향 적합성이 높다. 선행 감상과 반복 탐색 부담을 고려하되 한국어 설명의 실익과 Vita판 가치를 높게 본 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-04-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.gematsu.com/2017/04/famitsu-review-scores-issue-1480)\n- [공개 근거 2](https://www.johren.net/games/download/dungeontravelers2-2-en/)\n- [공개 근거 3](https://aquaplus.jp/dt2-2/)\n",
+      "externalSources": [
+        "https://www.gematsu.com/2017/04/famitsu-review-scores-issue-1480",
+        "https://www.johren.net/games/download/dungeontravelers2-2-en/",
+        "https://aquaplus.jp/dt2-2/"
+      ],
+      "suggestedRawScore": 8.67,
+      "suggestedPersonalScore": 8.7,
+      "rawScore": 8.67,
+      "personalScore": 8.7,
+      "path": "platforms/psvita/games/dungeon-travelers-2-2.md",
+      "personalRank": 4
+    },
+    {
+      "slug": "golden-time-vivid-memories",
+      "title": "Golden Time: Vivid Memories (골든 타임 Vivid Memories)",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 9.0,
+        "localizationValue": 9.6,
+        "platformValue": 9.1
+      },
+      "rationale": "캠퍼스 회화와 여성 인물의 표정·음성, 일정 선택이 연애 이야기 감상 취향에 잘 맞는다. 반복 경로 탐색과 스킵 불편을 감안해도 한국어 대화의 실익과 Vita판 보존 가치는 높다.",
+      "evidenceLimits": "Vita 기명 플레이 글의 장단점을 종합했다. 모바일판 기능 동등성·현재 실행·판매는 확정하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/golden-time-vivid-memories.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.61,
+      "suggestedPersonalScore": 8.6,
+      "rawScore": 8.61,
+      "personalScore": 8.6,
+      "path": "platforms/psvita/games/golden-time-vivid-memories.md",
+      "personalRank": 5
+    },
+    {
+      "slug": "ar-nosurge-plus-ode-to-an-unborn-star",
+      "title": "Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)",
+      "components": {
+        "experience": 8.0,
+        "personalFit": 9.3,
+        "localizationValue": 9.3,
+        "platformValue": 7.6
+      },
+      "rationale": "인물 대화와 음악을 중심으로 전투·성장을 엮어 이야기와 여성 캐릭터 감상 취향에 잘 맞는다. 초기 설명과 Vita 성능의 약점을 감안해도 Plus의 추가 대화·편의 기능과 한국어 접근성 개선 가치가 크다.",
+      "evidenceLimits": "Vita 독립 리뷰 3곳을 종합한 기존 재평가다. 프레임을 직접 측정하지 않았으며 지역별 판매·DLC 현행성은 별도다.",
+      "sourcePaths": [
+        "platforms/psvita/games/ar-nosurge-plus-ode-to-an-unborn-star.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.61,
+      "suggestedPersonalScore": 8.6,
+      "rawScore": 8.61,
+      "personalScore": 8.6,
+      "path": "platforms/psvita/games/ar-nosurge-plus-ode-to-an-unborn-star.md",
+      "personalRank": 6
+    },
+    {
+      "slug": "chaos-rings-iii-prequel-trilogy",
+      "title": "Chaos Rings III: Prequel Trilogy",
+      "components": {
+        "experience": 8.1,
+        "personalFit": 8.7,
+        "localizationValue": 9.2,
+        "platformValue": 9.1
+      },
+      "rationale": "이야기와 파티 성장을 병행하고 짧은 시간에도 이어가기 쉬운 RPG 설계가 취향에 잘 맞는다. 심부름식 임무는 약점이지만 III 본편의 한국어 접근성과 Vita 조작·합본 가치가 높은 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Chaos Rings III: Prequel Trilogy](games/chaos-rings-iii-prequel-trilogy.md)",
+        "발매": "2014",
+        "장르": "턴제 JRPG / 합본",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 33/40·4명",
+        "공개 PS Vita 한글패치": "III 본편 한국어 미발견 / 합본 앞선 3작품 공식 한국어와 구분",
+        "타 기종 / 다른 버전": "모바일 III / Vita 이전 3작품 합본",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Chaos Rings III: Prequel Trilogy\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 턴제 JRPG / 합본 |\n| 발매 | 2014 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 33/40·4명 |\n| 한국어 접근성 | III 본편 한국어 미발견 / 합본 앞선 3작품 공식 한국어와 구분 |\n| 다른 판본 | 모바일 III / Vita 이전 3작품 합본 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n이야기 진행과 성장·전투 모드를 병행하는 턴제 RPG다.\n\n버튼·터치 선택과 친절한 안내, 짧은 세션에도 진행하기 쉬운 구성이 호평받는다.\n\n심부름식 임무와 성장 반복이 있으며 III와 합본 전작들의 언어 지원을 분리해야 한다.\n\n## 개인 추천의 근거\n\n이야기와 파티 성장을 병행하고 짧은 시간에도 이어가기 쉬운 RPG 설계가 취향에 잘 맞는다. 심부름식 임무는 약점이지만 III 본편의 한국어 접근성과 Vita 조작·합본 가치가 높은 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-03-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/30998/reviews)\n- [공개 근거 2](https://www.gematsu.com/2014/10/famitsu-review-scores-issue-1349)\n- [공개 근거 3](https://kbench.com/?q=node%2F146229)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/30998/reviews",
+        "https://www.gematsu.com/2014/10/famitsu-review-scores-issue-1349",
+        "https://kbench.com/?q=node%2F146229"
+      ],
+      "suggestedRawScore": 8.6,
+      "suggestedPersonalScore": 8.6,
+      "rawScore": 8.6,
+      "personalScore": 8.6,
+      "path": "platforms/psvita/games/chaos-rings-iii-prequel-trilogy.md",
+      "personalRank": 7
+    },
+    {
+      "slug": "demon-gaze-ii",
+      "title": "Demon Gaze II (데몬 게이즈 2)",
+      "components": {
+        "experience": 8.4,
+        "personalFit": 8.7,
+        "localizationValue": 9.0,
+        "platformValue": 8.2
+      },
+      "rationale": "빠른 전투·지도 작성·동료 활용이 캐릭터 대화와 이어져 게임성과 인물 감상을 함께 즐기기 좋다. 자금·재육성의 번거로움은 있지만 한국어 설명의 효용과 Vita 휴대 탐색 가치가 크다.",
+      "evidenceLimits": "일본 Vita 원판·서구판·Global Edition을 분리한 기존 재평가다. 전작 Extra의 한국어 지원을 II의 대안으로 혼동하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/demon-gaze-ii.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.59,
+      "suggestedPersonalScore": 8.6,
+      "rawScore": 8.59,
+      "personalScore": 8.6,
+      "path": "platforms/psvita/games/demon-gaze-ii.md",
+      "personalRank": 8
+    },
+    {
+      "slug": "astralair-no-shiroki-towa-white-eternity",
+      "title": "AstralAir no Shiroki Towa: White Eternity",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 9.0,
+        "localizationValue": 9.3,
+        "platformValue": 8.1
+      },
+      "rationale": "여성 인물의 대화와 다양한 음악, 세밀한 배경 분위기가 취향에 잘 맞는다. 긴 호흡과 서술 연결의 편차를 반영하되 Vita 추가 이벤트와 한국어 독서 실익이 큰 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[AstralAir no Shiroki Towa: White Eternity](games/astralair-no-shiroki-towa-white-eternity.md)",
+        "발매": "미확인",
+        "장르": "연애 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 29/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "PC 원작 / Vita 신규 이벤트",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# AstralAir no Shiroki Towa: White Eternity\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 연애 비주얼노벨 |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 29/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | PC 원작 / Vita 신규 이벤트 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n여성 인물별 대화를 읽는 장편 연애 비주얼노벨이다.\n\n배경의 빛·눈 표현과 다양한 음악, 장면 이동 편의가 감상을 돕는다.\n\n일부 대사 흐름이 길고 서술 연결이 편의적으로 느껴질 수 있다는 평이 있다.\n\n## 개인 추천의 근거\n\n여성 인물의 대화와 다양한 음악, 세밀한 배경 분위기가 취향에 잘 맞는다. 긴 호흡과 서술 연결의 편차를 반영하되 Vita 추가 이벤트와 한국어 독서 실익이 큰 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-01-first-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/33636/reviews)\n- [공개 근거 2](https://zettairenai.wordpress.com/2021/04/30/ps-vita-astralair-no-shiroki-towa-white-eternity-review/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/33636/reviews",
+        "https://zettairenai.wordpress.com/2021/04/30/ps-vita-astralair-no-shiroki-towa-white-eternity-review/"
+      ],
+      "suggestedRawScore": 8.45,
+      "suggestedPersonalScore": 8.5,
+      "rawScore": 8.45,
+      "personalScore": 8.5,
+      "path": "platforms/psvita/games/astralair-no-shiroki-towa-white-eternity.md",
+      "personalRank": 9
+    },
+    {
+      "slug": "ore-ni-hatarakette-iwaretemo-otsu-hd",
+      "title": "Ore ni Hatarakette Iwaretemo Otsu HD (오레니 하타라켓테 이와레테모 오츠 HD)",
+      "components": {
+        "experience": 8.5,
+        "personalFit": 7.6,
+        "localizationValue": 9.1,
+        "platformValue": 9.3
+      },
+      "rationale": "직업·성격·급여·시설을 엮는 파견 운영은 직접 전투와 다른 방식으로 게임성 관심을 충족한다. 서사와 연출 비중은 낮지만 정보 이해의 한국어화 실익과 Vita HD의 속도·시인성 개선이 크다.",
+      "evidenceLimits": "PSP 작품평가와 Vita HD 직접 플레이 칼럼을 구분했다. 모바일판의 모든 기능·현재 판매 상태를 전수 확인한 비교는 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "reserve",
+      "poolReason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "row": {
+        "게임": "[Ore ni Hatarakette Iwaretemo Otsu HD (오레니 하타라켓테 이와레테모 오츠 HD)](games/ore-ni-hatarakette-iwaretemo-otsu-hd.md)",
+        "발매": "2014",
+        "장르": "파견·경영 RPG",
+        "발굴 추천도": "⭐⭐⭐⭐☆ 4.0/5",
+        "한글화 우선도": "🔥 A",
+        "외부 평점 참고": "PSP 전격 점수 4명 / Vita HD 4Gamer·기명 후기",
+        "공개 PS Vita 한글패치": "2026-10-05 전체 감사에서 완성 대안 확인 못함",
+        "타 기종 / 다른 버전": "PSP 乙 / 모바일 乙携·음성 차이 / 酉는 별도 후속작",
+        "상태": "🟡 예비 후보 · 활성 30개 압축 제외"
+      },
+      "suggestedRawScore": 8.43,
+      "suggestedPersonalScore": 8.4,
+      "rawScore": 8.43,
+      "personalScore": 8.4,
+      "path": "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md",
+      "personalRank": 10
+    },
+    {
+      "slug": "getsuei-gakuen-kou",
+      "title": "Getsuei Gakuen: Kou",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 8.7,
+        "localizationValue": 9.3,
+        "platformValue": 8.1
+      },
+      "rationale": "대화의 리듬과 음악·음향, 장면 연출이 이야기·음악 취향에 잘 맞는다. 문자 가독성과 경로 조건의 불편을 반영하되 한국어로 읽을 효용이 높은 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-06-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Getsuei Gakuen: Kou](games/getsuei-gakuen-kou.md)",
+        "발매": "2013",
+        "장르": "학원 전기 ADV",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 31/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "Steam 일본어판",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Getsuei Gakuen: Kou\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 학원 전기 ADV |\n| 발매 | 2013 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 31/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | Steam 일본어판 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n인물 대화와 선택, 장면 감상 중심의 학원 ADV다.\n\n대화 리듬과 입상 배치·카메라·입체 음향이 읽는 경험을 돕는다. 공식 음악 담당은 이토 켄지다.\n\n작은·어두운 문자와 복잡한 경로 조건이 읽기·재감상에 부담이 될 수 있다.\n\n## 개인 추천의 근거\n\n대화의 리듬과 음악·음향, 장면 연출이 이야기·음악 취향에 잘 맞는다. 문자 가독성과 경로 조건의 불편을 반영하되 한국어로 읽을 효용이 높은 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-06-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/28554/reviews)\n- [공개 근거 2](https://www.flashfly.net/wp/73669)\n- [공개 근거 3](https://www.arcsystemworks.jp/getsueigakuen/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/28554/reviews",
+        "https://www.flashfly.net/wp/73669",
+        "https://www.arcsystemworks.jp/getsueigakuen/"
+      ],
+      "suggestedRawScore": 8.36,
+      "suggestedPersonalScore": 8.4,
+      "rawScore": 8.36,
+      "personalScore": 8.4,
+      "path": "platforms/psvita/games/getsuei-gakuen-kou.md",
+      "personalRank": 11
+    },
+    {
+      "slug": "yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku",
+      "title": "Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku (유우키 유우나는 용사다 수해의 기억)",
+      "components": {
+        "experience": 7.1,
+        "personalFit": 8.9,
+        "localizationValue": 9.4,
+        "platformValue": 9.6
+      },
+      "rationale": "여성 캐릭터의 일상 단편·음성과 성장 연동이 이야기와 캐릭터 감상 취향에 잘 맞는다. 전투 반복과 조작 마찰은 경험 가치에 반영하되 대화를 한국어로 읽는 실익과 Vita판 독자성은 높게 평가했다.",
+      "evidenceLimits": "공식 이벤트 수 안내는 번역 행 수 실측이 아니다. 기명 리뷰별 비판 항목을 분리했으며 직접 실행 평가가 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/games/yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.35,
+      "suggestedPersonalScore": 8.4,
+      "rawScore": 8.35,
+      "personalScore": 8.4,
+      "path": "platforms/psvita/games/yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku.md",
+      "personalRank": 12
+    },
+    {
+      "slug": "to-love-ru-darkness-true-princess",
+      "title": "To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)",
+      "components": {
+        "experience": 7.3,
+        "personalFit": 8.8,
+        "localizationValue": 9.0,
+        "platformValue": 9.5
+      },
+      "rationale": "여성 인물별 표정·연기와 대화 감상은 사용자 취향에 잘 맞고 한국어로 인물 표현을 읽을 실익이 높다. 육성 절차·느린 전환과 글쓰기 평가 편차를 경험 가치에 반영해 캐릭터 수만으로 높이지 않았다.",
+      "evidenceLimits": "일부 독립 비판은 3개 경로 감상 범위다. 이를 전체 경로의 확정 결함으로 확대하지 않았고 동일 작품 후발판은 확인되지 않은 상태다.",
+      "sourcePaths": [
+        "platforms/psvita/games/to-love-ru-darkness-true-princess.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.31,
+      "suggestedPersonalScore": 8.3,
+      "rawScore": 8.31,
+      "personalScore": 8.3,
+      "path": "platforms/psvita/games/to-love-ru-darkness-true-princess.md",
+      "personalRank": 13
+    },
+    {
+      "slug": "tokushu-houdoubu",
+      "title": "Tokushu Houdoubu (특수보도부)",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 8.0,
+        "localizationValue": 9.4,
+        "platformValue": 9.3
+      },
+      "rationale": "취재 자료·방송 조작과 인물 대화가 자연스럽게 이어져 읽기와 게임성 관심을 함께 충족한다. 개입과 묘사 깊이는 제한적이지만 한국어 자료 이해의 효용과 Vita 터치 구성의 가치가 크다.",
+      "evidenceLimits": "소표본 완료 감상과 기명 리뷰를 구분했다. 한국 Store의 지역 등록은 한국어 지원 근거가 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/games/tokushu-houdoubu.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.29,
+      "suggestedPersonalScore": 8.3,
+      "rawScore": 8.29,
+      "personalScore": 8.3,
+      "path": "platforms/psvita/games/tokushu-houdoubu.md",
+      "personalRank": 14
+    },
+    {
+      "slug": "island",
+      "title": "ISLAND (아일랜드)",
+      "components": {
+        "experience": 8.4,
+        "personalFit": 9.2,
+        "localizationValue": 7.0,
+        "platformValue": 7.5
+      },
+      "rationale": "여성 인물의 대화와 음악·배경 분위기, 장편 독서를 돕는 편의 기능이 취향에 잘 맞는다. 경로별 밀도와 긴 감상 부담, Switch 한국어 패치의 미검증 보고를 함께 고려해 예비 추천으로 남겼다.",
+      "evidenceLimits": "기존 4.0 작품성은 보존하며 추천 설명은 이야기 전개를 옮기지 않았다. 2026-10-05 대안 감사에서 Switch 한국어 패치 원 배포 근거 미확인 상태를 유지한 작품이다.",
+      "sourcePaths": [
+        "platforms/psvita/games/island.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "reserve",
+      "poolReason": "기존 4.0 작품성 유지. 2026-10-06 3.5 정예 30개 필터에서만 활성표 제외된 살아 있는 예비 후보.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "row": {
+        "게임": "[ISLAND (아일랜드)](games/island.md)",
+        "발매": "2017",
+        "장르": "연애 비주얼노벨",
+        "발굴 추천도": "⭐⭐⭐⭐☆ 4.0/5",
+        "한글화 우선도": "C",
+        "외부 평점 참고": "Famitsu Vita 32/40·4명 / PC 사용자 집계는 판본 별도",
+        "공개 PS Vita 한글패치": "2026-10-05 전체 감사에서 완성 대안 확인 못함",
+        "타 기종 / 다른 버전": "PC·PS4·Switch / Switch 한국어 패치 보고 원 배포 미검증",
+        "상태": "🟡 예비 후보 · 활성 30개 압축 제외"
+      },
+      "suggestedRawScore": 8.27,
+      "suggestedPersonalScore": 8.3,
+      "rawScore": 8.27,
+      "personalScore": 8.3,
+      "path": "platforms/psvita/games/island.md",
+      "personalRank": 15
+    },
+    {
+      "slug": "fureraba-friend-to-lover",
+      "title": "Fureraba ~Friend to Lover~",
+      "components": {
+        "experience": 8.0,
+        "personalFit": 9.2,
+        "localizationValue": 7.4,
+        "platformValue": 8.0
+      },
+      "rationale": "여성 인물과의 활기 있는 회화·응답 선택은 캐릭터 이야기 취향에 특히 잘 맞는다. 반복·정적 연출을 반영하고 PC 간이 한국어 패치와 Vita 범위 차이를 고려해 한국어화 추가 실익을 조정한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 PC 패키지 HD판 대상 간이 1.0 원 배포를 확인했다. 본문 기계번역과 선택지·일부 이미지 수작업이 혼합된 자료이며 전편 수동 번역 또는 Vita 직접용 완성 패치로 부르지 않는다. Vita 추가 콘텐츠의 번역 범위는 미확인이다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · PC 간이 한국어 패치 고려 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Fureraba ~Friend to Lover~](games/fureraba-friend-to-lover.md)",
+        "발매": "2015",
+        "장르": "연애 ADV / 회화 선택",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 32/40·4명",
+        "공개 PS Vita 한글패치": "PC HD 간이 1.0 공개 원 배포 확인 / Vita 범위 미확인",
+        "타 기종 / 다른 버전": "PC 원작·영어판 / PC HD 간이 한국어 패치 / Vita 추가 요소",
+        "상태": "🟡 예비 후보 · PC 간이 한국어 패치 고려 · 잠정"
+      },
+      "docContent": "# Fureraba ~Friend to Lover~\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · PC 간이 한국어 패치 고려 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 연애 ADV / 회화 선택 |\n| 발매 | 2015 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 32/40·4명 |\n| 한국어 접근성 | PC HD 간이 1.0 공개 원 배포 확인 / Vita 범위 미확인 |\n| 다른 판본 | PC 원작·영어판 / PC HD 간이 한국어 패치 / Vita 추가 요소 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n대화 주제·응답 선택을 통해 여성 인물별 이야기를 읽는 연애 ADV다.\n\n활기 있는 회화와 인물 표현, Vita 터치 조작의 편의가 강점이다.\n\n공통 회화가 반복 작업으로 느껴질 수 있고 개별 경로의 화면 연출은 정적이다.\n\n## 개인 추천의 근거\n\n여성 인물과의 활기 있는 회화·응답 선택은 캐릭터 이야기 취향에 특히 잘 맞는다. 반복·정적 연출을 반영하고 PC 간이 한국어 패치와 Vita 범위 차이를 고려해 한국어화 추가 실익을 조정한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 PC 패키지 HD판 대상 간이 1.0 원 배포를 확인했다. 본문 기계번역과 선택지·일부 이미지 수작업이 혼합된 자료이며 전편 수동 번역 또는 Vita 직접용 완성 패치로 부르지 않는다. Vita 추가 콘텐츠의 번역 범위는 미확인이다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/31649/reviews)\n- [공개 근거 2](https://store.steampowered.com/app/822760/Fureraba_Friend_to_Lover/?l=koreana)\n- [공개 근거 3](https://myskrpatch.tistory.com/110)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/31649/reviews",
+        "https://store.steampowered.com/app/822760/Fureraba_Friend_to_Lover/?l=koreana",
+        "https://myskrpatch.tistory.com/110"
+      ],
+      "suggestedRawScore": 8.24,
+      "suggestedPersonalScore": 8.2,
+      "rawScore": 8.24,
+      "personalScore": 8.2,
+      "path": "platforms/psvita/games/fureraba-friend-to-lover.md",
+      "personalRank": 16
+    },
+    {
+      "slug": "hoshi-ori-yume-mirai-converted-edition",
+      "title": "Hoshi Ori Yume Mirai Converted Edition",
+      "components": {
+        "experience": 7.9,
+        "personalFit": 9.3,
+        "localizationValue": 7.3,
+        "platformValue": 8.2
+      },
+      "rationale": "여성 인물의 일상 대화와 풍부한 보컬곡, 재감상 편의가 이야기·음악 취향에 잘 맞는다. 긴 구간의 느슨함·선택 폭과 PC판 AI 번역·검수 배포 정황을 반영해 한국어화 실익을 조정한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 공개 댓글의 원 제작자 Blu3lc가 AI 번역·검수 패치 제작자라고 밝힌 자료와 배포 URL을 확인했다. 대상은 PC Perfect Edition 배포 정황이다. 원 배포 본문은 접근이 막혀 내용·전수 완성도·Vita판 범위를 확인하지 못했다. 완성 수동 한국어판이나 후보 종료로 단정하지 않는다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-07-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · PC AI 번역·검수 자료 재검토 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Hoshi Ori Yume Mirai Converted Edition](games/hoshi-ori-yume-mirai-converted-edition.md)",
+        "발매": "2016",
+        "장르": "장편 연애 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 31/40·4명",
+        "공개 PS Vita 한글패치": "PC Perfect Edition AI 번역·검수 배포 정황 / 원문·Vita 범위 미확인",
+        "타 기종 / 다른 버전": "PC Perfect Edition AI 번역·검수 배포 정황 / Vita Converted Edition",
+        "상태": "🟡 예비 후보 · PC AI 번역·검수 자료 재검토 · 잠정"
+      },
+      "docContent": "# Hoshi Ori Yume Mirai Converted Edition\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · PC AI 번역·검수 자료 재검토 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 장편 연애 비주얼노벨 |\n| 발매 | 2016 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 31/40·4명 |\n| 한국어 접근성 | PC Perfect Edition AI 번역·검수 배포 정황 / 원문·Vita 범위 미확인 |\n| 다른 판본 | PC Perfect Edition AI 번역·검수 배포 정황 / Vita Converted Edition |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n여성 인물별 대화를 여러 감상 구간으로 읽는 장편 연애 비주얼노벨이다.\n\n일상적 인물 표현과 다양한 보컬곡, 되감기·선택지 위치 조정 등의 편의가 있다.\n\n긴 분량에 비해 선택의 변화가 적고 일부 구간이 느슨하게 느껴질 수 있다.\n\n## 개인 추천의 근거\n\n여성 인물의 일상 대화와 풍부한 보컬곡, 재감상 편의가 이야기·음악 취향에 잘 맞는다. 긴 구간의 느슨함·선택 폭과 PC판 AI 번역·검수 배포 정황을 반영해 한국어화 실익을 조정한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 공개 댓글의 원 제작자 Blu3lc가 AI 번역·검수 패치 제작자라고 밝힌 자료와 배포 URL을 확인했다. 대상은 PC Perfect Edition 배포 정황이다. 원 배포 본문은 접근이 막혀 내용·전수 완성도·Vita판 범위를 확인하지 못했다. 완성 수동 한국어판이나 후보 종료로 단정하지 않는다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-07-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/33400/reviews)\n- [공개 근거 2](https://www.famitsu.com/news/201602/12099182.html)\n- [공개 근거 3](https://github.com/hanabiworks/Hoshi-Ori-Yume-Mirai-Perfect-Edition-English-Translation)\n- [공개 근거 4](https://kone.gg/s/vndb/budy5ddEk1OxnWjfrBi50b)\n- [공개 근거 5](https://arca.live/b/yuzusoft/165749012)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/33400/reviews",
+        "https://www.famitsu.com/news/201602/12099182.html",
+        "https://github.com/hanabiworks/Hoshi-Ori-Yume-Mirai-Perfect-Edition-English-Translation",
+        "https://kone.gg/s/vndb/budy5ddEk1OxnWjfrBi50b",
+        "https://arca.live/b/yuzusoft/165749012"
+      ],
+      "suggestedRawScore": 8.23,
+      "suggestedPersonalScore": 8.2,
+      "rawScore": 8.23,
+      "personalScore": 8.2,
+      "path": "platforms/psvita/games/hoshi-ori-yume-mirai-converted-edition.md",
+      "personalRank": 17
+    },
+    {
+      "slug": "psycho-pass-mandatory-happiness",
+      "title": "Psycho-Pass: Mandatory Happiness (사이코패스: 선택 없는 행복)",
+      "components": {
+        "experience": 7.8,
+        "personalFit": 8.5,
+        "localizationValue": 9.1,
+        "platformValue": 6.7
+      },
+      "rationale": "선택의 긴장감과 대사·일본어 연기가 이야기 중심 취향에 잘 맞아 한국어로 읽을 효용이 크다. Vita의 작은 메뉴·전환 지연과 제한적인 화면 변화, 다른 판본 선택지를 함께 반영했다.",
+      "evidenceLimits": "주된 직접 리뷰는 영어 Vita판이며 교정 오류를 일본어 원작 결함으로 전가하지 않았다. 인물 묘사에 대한 매체별 평가 차이는 남는다.",
+      "sourcePaths": [
+        "platforms/psvita/games/psycho-pass-mandatory-happiness.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.16,
+      "suggestedPersonalScore": 8.2,
+      "rawScore": 8.16,
+      "personalScore": 8.2,
+      "path": "platforms/psvita/games/psycho-pass-mandatory-happiness.md",
+      "personalRank": 18
+    },
+    {
+      "slug": "collar-x-malice",
+      "title": "Collar × Malice",
+      "components": {
+        "experience": 8.3,
+        "personalFit": 7.5,
+        "localizationValue": 9.3,
+        "platformValue": 7.2
+      },
+      "rationale": "여성 주인공의 표현과 서사의 추진력, 다양한 음악·연기는 이야기와 음악 취향에 잘 맞는다. 남성 연애 인물 중심의 취향 차이와 상투적 묘사·정적 화면, 후발 Switch판을 함께 고려한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Collar × Malice](games/collar-x-malice.md)",
+        "발매": "미확인",
+        "장르": "여성향 수사 ADV",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Vita Metacritic 74/100·7명 / RPGFan Vita 83/100",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "Switch 영어판 / 별도 Unlimited",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Collar × Malice\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 수사 ADV |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Vita Metacritic 74/100·7명 / RPGFan Vita 83/100 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | Switch 영어판 / 별도 Unlimited |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n종류가 색으로 구분된 선택과 포인터 수사·타이밍 미니게임을 가진 ADV다.\n\nVita 직접 리뷰는 여성 주인공의 표현과 서사, 다양한 음악 장르·일본어 연기를 인정한다.\n\n장르의 상투적 묘사와 정적인 입상 표현이 있고 음악·음성 기본 음량의 조정이 필요할 수 있다. 본편과 팬디스크는 별도다.\n\n## 개인 추천의 근거\n\n여성 주인공의 표현과 서사의 추진력, 다양한 음악·연기는 이야기와 음악 취향에 잘 맞는다. 남성 연애 인물 중심의 취향 차이와 상투적 묘사·정적 화면, 후발 Switch판을 함께 고려한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-03-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.metacritic.com/game/collar-x-malice/critic-reviews/?platform=playstation-vita)\n- [공개 근거 2](https://www.rpgfan.com/review/collar-x-malice/)\n",
+      "externalSources": [
+        "https://www.metacritic.com/game/collar-x-malice/critic-reviews/?platform=playstation-vita",
+        "https://www.rpgfan.com/review/collar-x-malice/"
+      ],
+      "suggestedRawScore": 8.15,
+      "suggestedPersonalScore": 8.2,
+      "rawScore": 8.15,
+      "personalScore": 8.2,
+      "path": "platforms/psvita/games/collar-x-malice.md",
+      "personalRank": 19
+    },
+    {
+      "slug": "grand-kingdom",
+      "title": "Grand Kingdom",
+      "components": {
+        "experience": 8.1,
+        "personalFit": 8.1,
+        "localizationValue": 8.4,
+        "platformValue": 7.8
+      },
+      "rationale": "위치·타이밍과 용병 편성을 조합하는 전투에 뛰어난 음악이 더해져 게임성·음악 취향에 맞는다. 전형적인 이야기·인물과 필드 방향 입력의 마찰, 온라인 현행성 미검증을 고려한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Grand Kingdom](games/grand-kingdom.md)",
+        "발매": "미확인",
+        "장르": "용병단 전술 RPG",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Vita Metacritic 76/100·11명 / RPGFan Vita 85/100",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "PS4 / 한국 Store 영어판",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Grand Kingdom\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 용병단 전술 RPG |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Vita Metacritic 76/100·11명 / RPGFan Vita 85/100 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | PS4 / 한국 Store 영어판 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n임무 단위의 보드형 이동과 위치·행동량·타이밍을 조합한 용병단 전투를 진행하는 전술 RPG다.\n\nVita 직접 리뷰는 직업별 조작·편성의 다양성과 음악·2D 미술, 짧은 휴대 플레이에 맞는 임무 구성을 인정한다.\n\n이야기와 인물은 전형적이라는 평이 있고 기울어진 필드의 방향 입력이 불편할 수 있다. 과거 리뷰의 온라인 전쟁 호평은 현행 작동 근거로 삼지 않았다.\n\n## 개인 추천의 근거\n\n위치·타이밍과 용병 편성을 조합하는 전투에 뛰어난 음악이 더해져 게임성·음악 취향에 맞는다. 전형적인 이야기·인물과 필드 방향 입력의 마찰, 온라인 현행성 미검증을 고려한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.metacritic.com/game/grand-kingdom/?platform=playstation-vita)\n- [공개 근거 2](https://store.playstation.com/ko-kr/product/UP1063-CUSA04646_00-ASIA000000000000/)\n- [공개 근거 3](https://www.rpgfan.com/review/grand-kingdom/)\n",
+      "externalSources": [
+        "https://www.metacritic.com/game/grand-kingdom/?platform=playstation-vita",
+        "https://store.playstation.com/ko-kr/product/UP1063-CUSA04646_00-ASIA000000000000/",
+        "https://www.rpgfan.com/review/grand-kingdom/"
+      ],
+      "suggestedRawScore": 8.13,
+      "suggestedPersonalScore": 8.1,
+      "rawScore": 8.13,
+      "personalScore": 8.1,
+      "path": "platforms/psvita/games/grand-kingdom.md",
+      "personalRank": 20
+    },
+    {
+      "slug": "miracle-girls-festival",
+      "title": "MIRACLE GIRLS FESTIVAL (미라클 걸즈 페스티벌)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 9.1,
+        "localizationValue": 6.7,
+        "platformValue": 9.6
+      },
+      "rationale": "여성 캐릭터의 공연과 음악을 DIVA 계열 입력으로 즐기는 구성이 사용자 취향에 잘 맞는다. 곡 수와 반복 해금의 한계를 반영하되 Vita판의 독자성과 대화·메뉴 번역 가치는 별도로 인정했다.",
+      "evidenceLimits": "공개 영어 v0.3은 부분 번역이며 완성 한국어 대안이 아니다. 리듬 플레이 자체와 스토리·수집 설명의 번역 효용을 분리했다.",
+      "sourcePaths": [
+        "platforms/psvita/games/miracle-girls-festival.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.07,
+      "suggestedPersonalScore": 8.1,
+      "rawScore": 8.07,
+      "personalScore": 8.1,
+      "path": "platforms/psvita/games/miracle-girls-festival.md",
+      "personalRank": 21
+    },
+    {
+      "slug": "yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku",
+      "title": "Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 9.0,
+        "localizationValue": 7.8,
+        "platformValue": 7.5
+      },
+      "rationale": "여성 인물과의 대화·응답, 일본어 연기와 움직이는 입상이 캐릭터 이야기 취향에 잘 맞는다. 경로별 밀도와 선택 피드백의 약점을 반영하고 한국어 AI 초안의 검수·보완 가치를 신규 중복 번역과 비교했다.",
+      "evidenceLimits": "2026-10-06 공개 Vita 한국어 1.0은 제작자가 AI 초안·초반 검수라고 명시한다. 패치 설치나 전편 문맥 검수는 수행하지 않은 기존 기록이다.",
+      "sourcePaths": [
+        "platforms/psvita/games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.05,
+      "suggestedPersonalScore": 8.1,
+      "rawScore": 8.05,
+      "personalScore": 8.1,
+      "path": "platforms/psvita/games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md",
+      "personalRank": 22
+    },
+    {
+      "slug": "lost-dimension",
+      "title": "Lost Dimension (로스트 디멘션)",
+      "components": {
+        "experience": 7.8,
+        "personalFit": 8.0,
+        "localizationValue": 8.8,
+        "platformValue": 7.2
+      },
+      "rationale": "위치·지원 공격·행동 양도를 조합하는 전투와 동료 대화가 시스템과 이야기 관심을 함께 받쳐 준다. 성장 선택과 반복 진행·Vita 로딩은 약점이지만 능력 설명과 대사의 한국어화 실익은 크다.",
+      "evidenceLimits": "Vita 독립 리뷰를 종합했다. 특정 리뷰의 부가 임무 버그를 모든 지역·현재판의 확정 결함으로 확대하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/lost-dimension.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 8.0,
+      "suggestedPersonalScore": 8.0,
+      "rawScore": 8.0,
+      "personalScore": 8.0,
+      "path": "platforms/psvita/games/lost-dimension.md",
+      "personalRank": 23
+    },
+    {
+      "slug": "chou-no-doku-hana-no-kusari",
+      "title": "Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)",
+      "components": {
+        "experience": 8.5,
+        "personalFit": 6.6,
+        "localizationValue": 9.2,
+        "platformValue": 7.2
+      },
+      "rationale": "밀도 있는 감정 표현과 읽기 쉬운 문장, 음악·재감상 편의가 이야기 취향을 지지한다. 남성 인물 중심의 연애가 선호와 거리는 있지만 그 한 요소로 서사와 한글화 가치를 낮게 보지는 않았다.",
+      "evidenceLimits": "Vita 완전 완료 후기 등을 종합한 기존 재평가다. 성인 PC 원작과 콘솔판의 표현 차이·Switch 추가분을 구분하며 직접 플레이 평가는 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/games/chou-no-doku-hana-no-kusari.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.94,
+      "suggestedPersonalScore": 7.9,
+      "rawScore": 7.94,
+      "personalScore": 7.9,
+      "path": "platforms/psvita/games/chou-no-doku-hana-no-kusari.md",
+      "personalRank": 24
+    },
+    {
+      "slug": "zanki-zero",
+      "title": "Zanki Zero: Last Beginning (잔키 제로)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 8.0,
+        "localizationValue": 8.9,
+        "platformValue": 6.7
+      },
+      "rationale": "자원 수집·제작·거점·파티 운용과 인물 대화가 시스템 및 이야기 관심을 함께 받쳐 준다. 업데이트 후에도 관리 절차와 전투 반복이 남고 후발 판본 선택지가 있어 Vita 추천을 조절했다.",
+      "evidenceLimits": "일본 Vita 완료 후기와 공식 업데이트를 종합했다. 개선 전 아이템 소실 등을 현행판의 확정 결함으로 계산하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/zanki-zero.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.89,
+      "suggestedPersonalScore": 7.9,
+      "rawScore": 7.89,
+      "personalScore": 7.9,
+      "path": "platforms/psvita/games/zanki-zero.md",
+      "personalRank": 25
+    },
+    {
+      "slug": "alone-with-you",
+      "title": "Alone with You",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 7.6,
+        "localizationValue": 9.0,
+        "platformValue": 7.0
+      },
+      "rationale": "대화·픽셀 미술과 신시사이저 음악의 조합은 이야기·음악 취향과 한국어 문장 감상에 잘 맞는다. 이동·절차 반복과 Vita 직접 비평 표본의 한계를 감안한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Alone with You](games/alone-with-you.md)",
+        "발매": "2016",
+        "장르": "SF 서사 어드벤처",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Vita Metacritic 82/100·5명 / 공통 설계 직접 리뷰 별도",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "PS4·PC·Switch / Vita 세부 비교 미확인",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Alone with You\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | SF 서사 어드벤처 |\n| 발매 | 2016 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Vita Metacritic 82/100·5명 / 공통 설계 직접 리뷰 별도 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | PS4·PC·Switch / Vita 세부 비교 미확인 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n대화·선택과 탐색·퍼즐을 중심으로 진행하는 서사 어드벤처다.\n\n공통 설계 리뷰는 문장·픽셀 미술과 신시사이저 음악의 분위기를 강점으로 꼽는다.\n\n이동과 전환·생활 절차의 반복이 독서 호흡을 늦춘다는 비판이 있다. 해당 리뷰의 평가 기종은 명시되지 않아 Vita 성능 근거로 사용하지 않았다.\n\n## 개인 추천의 근거\n\n대화·픽셀 미술과 신시사이저 음악의 조합은 이야기·음악 취향과 한국어 문장 감상에 잘 맞는다. 이동·절차 반복과 Vita 직접 비평 표본의 한계를 감안한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-01-first-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.metacritic.com/game/alone-with-you-2017/)\n- [공개 근거 2](https://godisageek.com/reviews/alone-with-you-review/)\n",
+      "externalSources": [
+        "https://www.metacritic.com/game/alone-with-you-2017/",
+        "https://godisageek.com/reviews/alone-with-you-review/"
+      ],
+      "suggestedRawScore": 7.86,
+      "suggestedPersonalScore": 7.9,
+      "rawScore": 7.86,
+      "personalScore": 7.9,
+      "path": "platforms/psvita/games/alone-with-you.md",
+      "personalRank": 26
+    },
+    {
+      "slug": "ia-vt-colorful",
+      "title": "IA/VT Colorful (이아/VT 컬러풀)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 9.0,
+        "localizationValue": 5.9,
+        "platformValue": 9.3
+      },
+      "rationale": "악곡을 충분히 듣는 연주와 시각적 리듬 연출이 음악·게임성 관심에 강하게 맞는다. 해금과 긴 곡 재시도의 부담이 있고 한국어화 효용은 규칙·메뉴·가사 이해에 집중돼 서사형 작품보다 낮게 잡았다.",
+      "evidenceLimits": "음악 취향의 불호를 악곡 품질 결함으로 계산하지 않았다. 후발 타 기종판·현재 DLC 이용 가능성은 확인 범위 밖이다.",
+      "sourcePaths": [
+        "platforms/psvita/games/ia-vt-colorful.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.85,
+      "suggestedPersonalScore": 7.9,
+      "rawScore": 7.85,
+      "personalScore": 7.9,
+      "path": "platforms/psvita/games/ia-vt-colorful.md",
+      "personalRank": 27
+    },
+    {
+      "slug": "xblaze-code-embryo",
+      "title": "XBlaze Code: Embryo (엑스블레이즈 코드: 엠브리오)",
+      "components": {
+        "experience": 7.3,
+        "personalFit": 8.1,
+        "localizationValue": 8.9,
+        "platformValue": 7.0
+      },
+      "rationale": "여성 인물을 포함한 대화와 음악·음성, 장면 구도가 긴 독서에 시각적 리듬을 준다. 기사 확인과 경로 선택의 불분명한 연결, 반복 읽기 부담과 타 기종판을 고려했다.",
+      "evidenceLimits": "Vita 직접 후기와 공식 본편 동등성 안내를 사용했다. 초기 안정성 문제의 지역별 최신 수정 여부는 전수 검증하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/xblaze-code-embryo.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.83,
+      "suggestedPersonalScore": 7.8,
+      "rawScore": 7.83,
+      "personalScore": 7.8,
+      "path": "platforms/psvita/games/xblaze-code-embryo.md",
+      "personalRank": 28
+    },
+    {
+      "slug": "kurenai-no-homura-sanada-ninpocho",
+      "title": "Kurenai no Homura: Sanada Ninpōchō",
+      "components": {
+        "experience": 7.8,
+        "personalFit": 6.8,
+        "localizationValue": 9.0,
+        "platformValue": 7.3
+      },
+      "rationale": "역사풍 이야기와 장면 연출, 읽기 편의는 서사 관심을 받쳐 준다. 남성 연애 인물 중심 취향 차이는 반영하되 음악·글의 한국어화 가치와 조작 설계를 함께 본 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-08-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Kurenai no Homura: Sanada Ninpōchō](games/kurenai-no-homura-sanada-ninpocho.md)",
+        "발매": "미확인",
+        "장르": "여성향 역사·전기 ADV",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 32/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "Switch Homura: The Crimson Warriors 영어판",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Kurenai no Homura: Sanada Ninpōchō\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 역사·전기 ADV |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 32/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | Switch Homura: The Crimson Warriors 영어판 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n역사풍 인물 대화와 선택을 진행하는 ADV다.\n\n인물 표현과 배경·장면 연출, 용어·지도·UI 편의가 있다.\n\n반복되는 선택 절차와 행동 판단 설명 부족이 지적되며 남성 연애 인물 감상 비중이 크다.\n\n## 개인 추천의 근거\n\n역사풍 이야기와 장면 연출, 읽기 편의는 서사 관심을 받쳐 준다. 남성 연애 인물 중심 취향 차이는 반영하되 음악·글의 한국어화 가치와 조작 설계를 함께 본 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-08-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/35206/reviews)\n- [공개 근거 2](https://www.nintendo.com/us/store/products/homura-the-crimson-warriors-switch/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/35206/reviews",
+        "https://www.nintendo.com/us/store/products/homura-the-crimson-warriors-switch/"
+      ],
+      "suggestedRawScore": 7.69,
+      "suggestedPersonalScore": 7.7,
+      "rawScore": 7.69,
+      "personalScore": 7.7,
+      "path": "platforms/psvita/games/kurenai-no-homura-sanada-ninpocho.md",
+      "personalRank": 29
+    },
+    {
+      "slug": "piofiore-no-banshou",
+      "title": "Piofiore no Banshou (피오피오레의 만종)",
+      "components": {
+        "experience": 8.5,
+        "personalFit": 6.2,
+        "localizationValue": 9.0,
+        "platformValue": 6.0
+      },
+      "rationale": "분량을 배분한 인물 대화와 미술·음악·음성의 통일성이 이야기 감상 가치를 높인다. 남성 연애 인물 중심 구성은 취향 적합성을 제한하고 추가 이야기가 있는 Switch판은 Vita판 선택 가치를 낮춘다.",
+      "evidenceLimits": "일본어 Vita 원판의 우수한 구성과 영어판 교정 문제를 분리한 기존 평가다. 후발판 전 자산·성능을 직접 대조하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/piofiore-no-banshou.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 4.0,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.66,
+      "suggestedPersonalScore": 7.7,
+      "rawScore": 7.66,
+      "personalScore": 7.7,
+      "path": "platforms/psvita/games/piofiore-no-banshou.md",
+      "personalRank": 30
+    },
+    {
+      "slug": "bakumatsu-rock-ultra-soul",
+      "title": "Bakumatsu Rock: Ultra Soul",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 6.8,
+        "localizationValue": 8.7,
+        "platformValue": 8.3
+      },
+      "rationale": "남성 캐릭터의 공연 비중은 취향과 거리가 있지만 음악·리듬과 이야기의 결합은 관심을 끈다. 노래·대사를 함께 한국어로 이해할 가치와 Vita 전용 리듬 기능을 인정한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-02-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Bakumatsu Rock: Ultra Soul](games/bakumatsu-rock-ultra-soul.md)",
+        "발매": "2014",
+        "장르": "음악·리듬 / 스토리 ADV",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Famitsu Vita 32/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "PSP·Vita판 / 동일 작품 한국어 대안 미발견",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Bakumatsu Rock: Ultra Soul\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 음악·리듬 / 스토리 ADV |\n| 발매 | 2014 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Famitsu Vita 32/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | PSP·Vita판 / 동일 작품 한국어 대안 미발견 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n리듬 연주와 캐릭터 대화를 함께 진행하며 원작의 이야기·악곡과 신규 악곡을 포함하는 확장작이다.\n\n공식 자료에서 노래·리듬 콘텐츠와 애니메이션 주제가의 연주, Vita 전용 리듬 기능을 확인했다.\n\n가사 운율과 문맥을 함께 살릴 검수 부담이 크다. 확장 구성 확인과 실제 음악·조작 품질 비평은 별도여서 작품성은 미확정이다.\n\n## 개인 추천의 근거\n\n남성 캐릭터의 공연 비중은 취향과 거리가 있지만 음악·리듬과 이야기의 결합은 관심을 끈다. 노래·대사를 함께 한국어로 이해할 가치와 Vita 전용 리듬 기능을 인정한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-02-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.gematsu.com/2014/09/famitsu-review-scores-issue-1346)\n- [공개 근거 2](https://bakumatsu.marv.jp/game/ultrasoul/)\n- [공개 근거 3](https://bakumatsu.marv.jp/game/ultrasoul/system/)\n- [공개 근거 4](https://bakumatsu.marv.jp/game/ultrasoul/spec/)\n",
+      "externalSources": [
+        "https://www.gematsu.com/2014/09/famitsu-review-scores-issue-1346",
+        "https://bakumatsu.marv.jp/game/ultrasoul/",
+        "https://bakumatsu.marv.jp/game/ultrasoul/system/",
+        "https://bakumatsu.marv.jp/game/ultrasoul/spec/"
+      ],
+      "suggestedRawScore": 7.65,
+      "suggestedPersonalScore": 7.7,
+      "rawScore": 7.65,
+      "personalScore": 7.7,
+      "path": "platforms/psvita/games/bakumatsu-rock-ultra-soul.md",
+      "personalRank": 31
+    },
+    {
+      "slug": "flowers-le-volume-sur-ete",
+      "title": "Flowers: Le Volume sur Été",
+      "components": {
+        "experience": 8.2,
+        "personalFit": 9.4,
+        "localizationValue": 4.0,
+        "platformValue": 7.0
+      },
+      "rationale": "여성 인물의 세밀한 심리 표현과 미술·음악, 읽기 편의가 이야기 감상 취향에 잘 맞는다. 추리 입력의 호흡과 4부작 순서를 고려하되 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Flowers: Le Volume sur Été](games/flowers-le-volume-sur-ete.md)",
+        "발매": "2015",
+        "장르": "학원·백합 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 33/40·4명",
+        "공개 PS Vita 한글패치": "공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증",
+        "타 기종 / 다른 버전": "PC / 후발 Switch FLOWERS 四季",
+        "상태": "🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정"
+      },
+      "docContent": "# Flowers: Le Volume sur Été\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 학원·백합 비주얼노벨 |\n| 발매 | 2015 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 33/40·4명 |\n| 한국어 접근성 | 공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증 |\n| 다른 판본 | PC / 후발 Switch FLOWERS 四季 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n4부작을 순서대로 읽는 여성 인물 중심의 비주얼노벨이다.\n\n인물 심리·미술·음악과 스킵·되감기·터치의 감상 편의를 함께 인정하는 평가가 있다.\n\n추리 입력이 독서 호흡을 끊는다는 평가가 있으며 선행 권을 포함한 시리즈 접근이 필요하다.\n\n## 개인 추천의 근거\n\n여성 인물의 세밀한 심리 표현과 미술·음악, 읽기 편의가 이야기 감상 취향에 잘 맞는다. 추리 입력의 호흡과 4부작 순서를 고려하되 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/32523/reviews)\n- [공개 근거 2](https://www.prot.co.jp/switch/flowersq/)\n- [공개 근거 3](https://myskrpatch.tistory.com/219)\n- [공개 근거 4](https://store.onstove.com/ko/games/1360/)\n- [공개 근거 5](https://store.onstove.com/ko/games/1766/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/32523/reviews",
+        "https://www.prot.co.jp/switch/flowersq/",
+        "https://myskrpatch.tistory.com/219",
+        "https://store.onstove.com/ko/games/1360/",
+        "https://store.onstove.com/ko/games/1766/"
+      ],
+      "suggestedRawScore": 7.6,
+      "suggestedPersonalScore": 7.6,
+      "rawScore": 7.6,
+      "personalScore": 7.6,
+      "path": "platforms/psvita/games/flowers-le-volume-sur-ete.md",
+      "personalRank": 32
+    },
+    {
+      "slug": "flowers-le-volume-sur-hiver",
+      "title": "Flowers: Le Volume sur Hiver",
+      "components": {
+        "experience": 8.2,
+        "personalFit": 9.3,
+        "localizationValue": 4.0,
+        "platformValue": 7.0
+      },
+      "rationale": "여성 인물의 감정과 독백을 미술·음악으로 받치는 표현이 취향에 잘 맞는다. 선행 세 권의 감상 부담과 후발 합본을 고려하며 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Flowers: Le Volume sur Hiver](games/flowers-le-volume-sur-hiver.md)",
+        "발매": "2018",
+        "장르": "학원·백합 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 33/40·4명",
+        "공개 PS Vita 한글패치": "공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증",
+        "타 기종 / 다른 버전": "PC / 후발 Switch FLOWERS 四季",
+        "상태": "🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정"
+      },
+      "docContent": "# Flowers: Le Volume sur Hiver\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 학원·백합 비주얼노벨 |\n| 발매 | 2018 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 33/40·4명 |\n| 한국어 접근성 | 공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증 |\n| 다른 판본 | PC / 후발 Switch FLOWERS 四季 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n4부작을 순서대로 읽는 여성 인물 중심의 비주얼노벨이다.\n\n세밀한 감정·독백과 미술·BGM, 간결한 조작이 독서의 분위기를 함께 만든다.\n\n앞선 세 권의 감상 맥락을 요구하고 이전 내용을 되짚는 편의가 부족하다는 평이 있다.\n\n## 개인 추천의 근거\n\n여성 인물의 감정과 독백을 미술·음악으로 받치는 표현이 취향에 잘 맞는다. 선행 세 권의 감상 부담과 후발 합본을 고려하며 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/35602/reviews)\n- [공개 근거 2](https://www.prot.co.jp/switch/flowersq/)\n- [공개 근거 3](https://myskrpatch.tistory.com/219)\n- [공개 근거 4](https://store.onstove.com/ko/games/1753/)\n- [공개 근거 5](https://store.onstove.com/ko/games/1766/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/35602/reviews",
+        "https://www.prot.co.jp/switch/flowersq/",
+        "https://myskrpatch.tistory.com/219",
+        "https://store.onstove.com/ko/games/1753/",
+        "https://store.onstove.com/ko/games/1766/"
+      ],
+      "suggestedRawScore": 7.57,
+      "suggestedPersonalScore": 7.6,
+      "rawScore": 7.57,
+      "personalScore": 7.6,
+      "path": "platforms/psvita/games/flowers-le-volume-sur-hiver.md",
+      "personalRank": 33
+    },
+    {
+      "slug": "flowers-le-volume-sur-automne",
+      "title": "Flowers: Le Volume sur Automne",
+      "components": {
+        "experience": 8.1,
+        "personalFit": 9.3,
+        "localizationValue": 4.0,
+        "platformValue": 7.0
+      },
+      "rationale": "여성 인물의 세밀한 심리 표현과 문장·미술·음악은 이야기 감상 취향에 잘 맞는다. 선행 권의 맥락과 설명·대화의 한계를 반영하며 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Flowers: Le Volume sur Automne](games/flowers-le-volume-sur-automne.md)",
+        "발매": "2016",
+        "장르": "학원·백합 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 33/40·4명",
+        "공개 PS Vita 한글패치": "공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증",
+        "타 기종 / 다른 버전": "PC / 후발 Switch FLOWERS 四季",
+        "상태": "🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정"
+      },
+      "docContent": "# Flowers: Le Volume sur Automne\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 학원·백합 비주얼노벨 |\n| 발매 | 2016 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 33/40·4명 |\n| 한국어 접근성 | 공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증 |\n| 다른 판본 | PC / 후발 Switch FLOWERS 四季 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n4부작을 순서대로 감상하는 여성 인물 중심의 비주얼노벨이다.\n\nVita 직접 리뷰는 세밀한 심리·문장과 부드러운 미술·음악, 편한 읽기 조작을 인정한다.\n\n앞선 권을 모르는 독자를 위한 설명과 일부 대화 분량이 부족하다는 평이 있다. 4부작 순서와 후발 합본을 고려해야 한다.\n\n## 개인 추천의 근거\n\n여성 인물의 세밀한 심리 표현과 문장·미술·음악은 이야기 감상 취향에 잘 맞는다. 선행 권의 맥락과 설명·대화의 한계를 반영하며 공식 PC 한국어판이 있어 Vita 번역 실익은 낮춘 잠정 예비 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://en.wikipedia.org/wiki/Flowers_(video_game_series))\n- [공개 근거 2](https://www.famitsu.com/game/title/33955/reviews)\n- [공개 근거 3](https://www.prot.co.jp/switch/flowersq/)\n- [공개 근거 4](https://myskrpatch.tistory.com/219)\n- [공개 근거 5](https://store.onstove.com/ko/games/1361/)\n- [공개 근거 6](https://store.onstove.com/ko/games/1766/)\n",
+      "externalSources": [
+        "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+        "https://www.famitsu.com/game/title/33955/reviews",
+        "https://www.prot.co.jp/switch/flowersq/",
+        "https://myskrpatch.tistory.com/219",
+        "https://store.onstove.com/ko/games/1361/",
+        "https://store.onstove.com/ko/games/1766/"
+      ],
+      "suggestedRawScore": 7.53,
+      "suggestedPersonalScore": 7.5,
+      "rawScore": 7.53,
+      "personalScore": 7.5,
+      "path": "platforms/psvita/games/flowers-le-volume-sur-automne.md",
+      "personalRank": 34
+    },
+    {
+      "slug": "deception-iv-blood-ties",
+      "title": "Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)",
+      "components": {
+        "experience": 7.8,
+        "personalFit": 7.8,
+        "localizationValue": 7.3,
+        "platformValue": 5.6
+      },
+      "rationale": "함정 배치와 실시간 유인을 연결하는 조합 놀이가 게임성 관심에 맞는다. 본편 반복과 작은 글자, 원판 전체를 포함한 후발 확장판을 고려해 Vita 원판의 개인 추천을 조절했다.",
+      "evidenceLimits": "공식 업데이트로 개선된 초기 결함을 현재 확정 약점으로 반복 계산하지 않았다. 후발판의 전체 자산 동등성은 미검증이다.",
+      "sourcePaths": [
+        "platforms/psvita/games/deception-iv-blood-ties.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.48,
+      "suggestedPersonalScore": 7.5,
+      "rawScore": 7.48,
+      "personalScore": 7.5,
+      "path": "platforms/psvita/games/deception-iv-blood-ties.md",
+      "personalRank": 35
+    },
+    {
+      "slug": "arcana-heart-3-love-max",
+      "title": "Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 8.0,
+        "localizationValue": 6.7,
+        "platformValue": 6.5
+      },
+      "rationale": "여성 캐릭터별 전투와 알카나 조합을 연구하는 재미가 확실해 게임성 취향에 맞는다. 입문 설명과 작은 화면의 부담이 있고 후발 PC 확장판의 가치가 커서 Vita 번역 우선 추천은 중간 정도다.",
+      "evidenceLimits": "Vita 직접 리뷰와 공통 시스템 리뷰를 구별한 기존 평가다. 온라인 현행성·입력 지연 실측은 없다.",
+      "sourcePaths": [
+        "platforms/psvita/games/arcana-heart-3-love-max.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.43,
+      "suggestedPersonalScore": 7.4,
+      "rawScore": 7.43,
+      "personalScore": 7.4,
+      "path": "platforms/psvita/games/arcana-heart-3-love-max.md",
+      "personalRank": 36
+    },
+    {
+      "slug": "flowers-le-volume-sur-printemps",
+      "title": "Flowers: Le Volume sur printemps",
+      "components": {
+        "experience": 7.7,
+        "personalFit": 9.2,
+        "localizationValue": 4.0,
+        "platformValue": 7.0
+      },
+      "rationale": "여성 인물의 대화와 미술·음악을 감상하는 구성은 취향에 잘 맞고 Vita 읽기 편의도 있다. 공식 PC 한국어판이 확인돼 신규 Vita 번역의 추가 실익은 낮춰 잡고 판본 차이 재검토를 기다리는 잠정 예비 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-05-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정. 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Flowers: Le Volume sur printemps](games/flowers-le-volume-sur-printemps.md)",
+        "발매": "2014",
+        "장르": "학원·백합 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Famitsu Vita 31/40·4명",
+        "공개 PS Vita 한글패치": "공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증",
+        "타 기종 / 다른 버전": "PC / 후발 Switch FLOWERS 四季",
+        "상태": "🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정"
+      },
+      "docContent": "# Flowers: Le Volume sur printemps\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 공식 한국어 대안 재검토 보류 · 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 학원·백합 비주얼노벨 |\n| 발매 | 2014 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Famitsu Vita 31/40·4명 |\n| 한국어 접근성 | 공식 PC 한국어판 확인 / Vita 직접 패치·추가분 동등성 미검증 |\n| 다른 판본 | PC / 후발 Switch FLOWERS 四季 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n여성 인물들의 대화와 선택을 읽는 4부작의 첫 권이다.\n\n공식 발매 발표에서 Vita 화면·터치 읽기·되감기·선택지 이동 지원을 확인했다. 부드러운 미술·음악과 여성 인물의 심리 표현이 제품 소개의 감상 중심이다.\n\n4부작의 순서와 후발 합본을 고려해야 한다. 이번 추가 자료는 공식 제품 설명이며 독립 Vita 비평 본문의 추가 대조는 필요하다.\n\n## 개인 추천의 근거\n\n여성 인물의 대화와 미술·음악을 감상하는 구성은 취향에 잘 맞고 Vita 읽기 편의도 있다. 공식 PC 한국어판이 확인돼 신규 Vita 번역의 추가 실익은 낮춰 잡고 판본 차이 재검토를 기다리는 잠정 예비 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 2026-10-08 추가 감사에서 한국어화 팀의 STOVE 정식 발매 발표와 공식 PC 상품을 확인했다. 앞선 미발견 기록은 현재 안내로 사용하지 않는다. 현지화 본편 범위는 4권이며 Vita 전 자산·추가분 동등성은 미검증이다. 상품 페이지의 지역 제한으로 현재 지역 구매 가능성은 확인하지 못했다. 기존 잠정 예비를 보존하면서 대안 재검토를 보류한 상태다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-05-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://en.wikipedia.org/wiki/Flowers_(video_game_series))\n- [공개 근거 2](https://store.steampowered.com/app/452440/Flowers_Le_volume_sur_printemps/?l=koreana)\n- [공개 근거 3](https://www.famitsu.com/news/201407/19057509.html)\n- [공개 근거 4](https://www.prot.co.jp/psv/flowers/)\n- [공개 근거 5](https://www.prot.co.jp/switch/flowersq/)\n- [공개 근거 6](https://myskrpatch.tistory.com/219)\n- [공개 근거 7](https://store.onstove.com/ko/games/1359/)\n- [공개 근거 8](https://store.onstove.com/ko/games/1766/)\n",
+      "externalSources": [
+        "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+        "https://store.steampowered.com/app/452440/Flowers_Le_volume_sur_printemps/?l=koreana",
+        "https://www.famitsu.com/news/201407/19057509.html",
+        "https://www.prot.co.jp/psv/flowers/",
+        "https://www.prot.co.jp/switch/flowersq/",
+        "https://myskrpatch.tistory.com/219",
+        "https://store.onstove.com/ko/games/1359/",
+        "https://store.onstove.com/ko/games/1766/"
+      ],
+      "suggestedRawScore": 7.34,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.34,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/flowers-le-volume-sur-printemps.md",
+      "personalRank": 37
+    },
+    {
+      "slug": "charade-maniacs",
+      "title": "Charade Maniacs (샤레이드 매니악스)",
+      "components": {
+        "experience": 7.5,
+        "personalFit": 6.1,
+        "localizationValue": 9.0,
+        "platformValue": 7.0
+      },
+      "rationale": "대화의 호흡과 음악·연기가 읽기를 이끌고 한국어로 문장을 감상할 효용이 크다. 남성 인물과의 연애 비중은 취향 적합성을 제한하며 경로별 묘사 편차와 후발 Switch판도 함께 고려했다.",
+      "evidenceLimits": "Vita 일본어 리뷰와 Switch 영어 리뷰의 판본을 구분했다. 일부 반복 읽기 불편은 Switch 사례이며 Vita 전체에 전가하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/charade-maniacs.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.33,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.33,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/charade-maniacs.md",
+      "personalRank": 38
+    },
+    {
+      "slug": "akai-suna-ochiru-tsuki",
+      "title": "Akai Suna Ochiru Tsuki",
+      "components": {
+        "experience": 7.0,
+        "personalFit": 6.3,
+        "localizationValue": 9.1,
+        "platformValue": 8.0
+      },
+      "rationale": "남성 연애 인물 중심 구성은 취향과 거리가 있지만 선택·전투 연결과 여성 인물의 대화도 감상 가치가 있다. 짧은 경로와 연출의 한계를 반영하고 Vita 음성·추가 요소의 한국어화 실익을 인정한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Akai Suna Ochiru Tsuki](games/akai-suna-ochiru-tsuki.md)",
+        "발매": "미확인",
+        "장르": "여성향 비주얼노벨 / 선택·전투",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 28/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "PC 원작 / Vita 음성·추가 콘텐츠",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Akai Suna Ochiru Tsuki\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 비주얼노벨 / 선택·전투 |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 28/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | PC 원작 / Vita 음성·추가 콘텐츠 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n선택에 따른 성격·능력 수치와 대화, 전투를 연결하는 여성향 ADV다.\n\n선택의 수치가 대화와 조작에 반영되며 재감상·전투 스킵 등 편의가 있다.\n\n짧은 경로와 전형적 묘사, 단순한 연출에 대한 비판이 있다.\n\n## 개인 추천의 근거\n\n남성 연애 인물 중심 구성은 취향과 거리가 있지만 선택·전투 연결과 여성 인물의 대화도 감상 가치가 있다. 짧은 경로와 연출의 한계를 반영하고 Vita 음성·추가 요소의 한국어화 실익을 인정한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-01-first-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/32866/reviews)\n- [공개 근거 2](https://dramaticcreate.com/akasuna/)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/32866/reviews",
+        "https://dramaticcreate.com/akasuna/"
+      ],
+      "suggestedRawScore": 7.31,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.31,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/akai-suna-ochiru-tsuki.md",
+      "personalRank": 39
+    },
+    {
+      "slug": "binarystar",
+      "title": "BinaryStar",
+      "components": {
+        "experience": 7.1,
+        "personalFit": 5.8,
+        "localizationValue": 9.2,
+        "platformValue": 8.8
+      },
+      "rationale": "미술·인물 회화와 경로 확인 편의에는 감상 가치가 있다. 남성 연애 인물 중심 취향 차이와 선택 수치의 복잡함을 반영하되 대사 한국어화 효용과 Vita판 가치를 인정한 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-02-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[BinaryStar](games/binarystar.md)",
+        "발매": "미확인",
+        "장르": "여성향 비주얼노벨",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 31/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "Vita 중심 / 후발판 비교 미확인",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# BinaryStar\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 비주얼노벨 |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 31/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | Vita 중심 / 후발판 비교 미확인 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n선택 수치와 인물 대화, 경로 확인 기능을 사용하는 ADV다.\n\n미술의 색감과 인물 회화, 장면 재개와 버튼 설정 편의가 있다.\n\n여러 수치가 선택에 영향을 주어 판단이 복잡할 수 있고 긴장감의 지속성 평가는 갈린다.\n\n## 개인 추천의 근거\n\n미술·인물 회화와 경로 확인 편의에는 감상 가치가 있다. 남성 연애 인물 중심 취향 차이와 선택 수치의 복잡함을 반영하되 대사 한국어화 효용과 Vita판 가치를 인정한 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-02-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/30412/reviews)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/30412/reviews"
+      ],
+      "suggestedRawScore": 7.3,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.3,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/binarystar.md",
+      "personalRank": 40
+    },
+    {
+      "slug": "dance-with-devils",
+      "title": "Dance with Devils",
+      "components": {
+        "experience": 7.3,
+        "personalFit": 6.2,
+        "localizationValue": 8.9,
+        "platformValue": 7.3
+      },
+      "rationale": "보컬 주제가와 성우 연기·캐릭터 대화는 감상 관심을 끌지만 남성 연애 인물 중심 구성은 취향과 거리가 있다. 반복 BGM·주인공 무음성과 소표본의 한계를 표시하면서도 한국어 대사 감상 가치가 있는 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-03-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Dance with Devils](games/dance-with-devils.md)",
+        "발매": "2016",
+        "장르": "여성향 판타지 ADV",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Vita Planète Vita 88/100 / Zettai Renai 8/10",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "후발판·콘텐츠 비교 미확인",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Dance with Devils\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 판타지 ADV |\n| 발매 | 2016 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Vita Planète Vita 88/100 / Zettai Renai 8/10 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | 후발판·콘텐츠 비교 미확인 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n음악·음성과 캐릭터별 대화를 감상하는 여성향 ADV다. 리듬 연주 중심 게임으로 분류하지 않는다.\n\nVita 완료를 명시한 장르 전문 후기는 일본어 성우와 보컬 주제가를 강점으로 인정한다.\n\nBGM의 짧은 반복과 주인공 무음성, 그림 스타일의 호불호·매일 방문 수집 절차가 지적된다. 소표본 장르 전문 평가의 편향 가능성을 남긴다.\n\n## 개인 추천의 근거\n\n보컬 주제가와 성우 연기·캐릭터 대화는 감상 관심을 끌지만 남성 연애 인물 중심 구성은 취향과 거리가 있다. 반복 BGM·주인공 무음성과 소표본의 한계를 표시하면서도 한국어 대사 감상 가치가 있는 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-03-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://planetevita.fr/test-dance-with-devils-psvita-avis/)\n- [공개 근거 2](https://zettairenai.wordpress.com/2021/02/26/ps-vita-dance-with-devils-review/)\n",
+      "externalSources": [
+        "https://planetevita.fr/test-dance-with-devils-psvita-avis/",
+        "https://zettairenai.wordpress.com/2021/02/26/ps-vita-dance-with-devils-review/"
+      ],
+      "suggestedRawScore": 7.29,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.29,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/dance-with-devils.md",
+      "personalRank": 41
+    },
+    {
+      "slug": "mystery-chronicle-one-way-heroics",
+      "title": "Mystery Chronicle: One Way Heroics (이상한 크로니클)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 7.3,
+        "localizationValue": 6.8,
+        "platformValue": 7.0
+      },
+      "rationale": "전진 압박 속에서 위치·짐·장비 수명을 판단하는 반복 도전은 시스템 관심에 맞는다. 이야기·인물 감상 비중은 작고 무작위 반복과 작은 글자의 부담이 있어 개인 추천은 중간이다.",
+      "evidenceLimits": "Vita 직접 평가와 PC판 포팅 문제를 구분했다. 과거 교차 저장 등 온라인 기능의 현재 동작은 미검증이다.",
+      "sourcePaths": [
+        "platforms/psvita/games/mystery-chronicle-one-way-heroics.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.29,
+      "suggestedPersonalScore": 7.3,
+      "rawScore": 7.29,
+      "personalScore": 7.3,
+      "path": "platforms/psvita/games/mystery-chronicle-one-way-heroics.md",
+      "personalRank": 42
+    },
+    {
+      "slug": "reine-des-fleurs",
+      "title": "Reine des Fleurs (레느 데 플뢰르 / 렌 드 플뢰르)",
+      "components": {
+        "experience": 7.3,
+        "personalFit": 5.9,
+        "localizationValue": 9.0,
+        "platformValue": 7.4
+      },
+      "rationale": "미술·음악·음성의 일관된 분위기와 대화 선택의 시도는 감상 가치가 있다. 남성 연애 인물에 대한 관심과 반복 조작을 많이 요구하며 관계 묘사·선택 피드백의 부족도 개인 추천을 제한한다.",
+      "evidenceLimits": "Vita 직접 후기와 공식 판본 자료에 기초했다. Switch 신규 콘텐츠·DLC 통합 여부를 확인 없이 추정하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/reine-des-fleurs.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.23,
+      "suggestedPersonalScore": 7.2,
+      "rawScore": 7.23,
+      "personalScore": 7.2,
+      "path": "platforms/psvita/games/reine-des-fleurs.md",
+      "personalRank": 43
+    },
+    {
+      "slug": "croixleur-sigma",
+      "title": "Croixleur Sigma (크로와루르 시그마)",
+      "components": {
+        "experience": 7.5,
+        "personalFit": 7.7,
+        "localizationValue": 6.2,
+        "platformValue": 6.5
+      },
+      "rationale": "여성 캐릭터의 빠른 이동과 무기 기술 연결은 짧은 액션 플레이에 잘 맞는다. 적·장소·목표의 반복과 후발 확장판을 고려하면 Vita의 대화·설명 번역은 중간 우선순위다.",
+      "evidenceLimits": "Vita 직접 리뷰 2명과 PS4 공통 설계 리뷰를 구분했다. 공식 Vita 30fps와 다른 판본 성능을 실측 비교하지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/croixleur-sigma.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.2,
+      "suggestedPersonalScore": 7.2,
+      "rawScore": 7.2,
+      "personalScore": 7.2,
+      "path": "platforms/psvita/games/croixleur-sigma.md",
+      "personalRank": 44
+    },
+    {
+      "slug": "xenon-valkyrie-plus",
+      "title": "Xenon Valkyrie+ (제논 발키리+)",
+      "components": {
+        "experience": 7.1,
+        "personalFit": 7.6,
+        "localizationValue": 5.8,
+        "platformValue": 7.8
+      },
+      "rationale": "짧은 구간의 액션 숙련과 칩튠 음악은 게임성·음악 취향에 맞는다. 위험 가독성과 반복 변화가 고르지 않고 텍스트 감상 비중은 작아 한국어화와 개인 추천은 중간 수준이다.",
+      "evidenceLimits": "Vita 직접 리뷰의 조작감 평가가 갈린다. 개발사의 60fps 설명을 모든 장면 고정 실측으로 바꾸어 쓰지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/xenon-valkyrie-plus.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 7.06,
+      "suggestedPersonalScore": 7.1,
+      "rawScore": 7.06,
+      "personalScore": 7.1,
+      "path": "platforms/psvita/games/xenon-valkyrie-plus.md",
+      "personalRank": 45
+    },
+    {
+      "slug": "actual-sunlight",
+      "title": "Actual Sunlight",
+      "components": {
+        "experience": 7.0,
+        "personalFit": 6.0,
+        "localizationValue": 8.7,
+        "platformValue": 6.4
+      },
+      "rationale": "문장 중심의 짧은 서사에는 한국어로 감상할 가치가 있다. 제한적인 선택·조작과 여성 캐릭터·음악 감상 근거, 엇갈린 비평을 고려해 개인 추천은 보수적인 잠정값이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Actual Sunlight](games/actual-sunlight.md)",
+        "발매": "2015",
+        "장르": "텍스트 중심 서사 어드벤처",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Vita Metacritic 75/100·10명 / Push Square Vita 7/10",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "동일 작품 다른 판본·세부 비교 미확인",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Actual Sunlight\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 텍스트 중심 서사 어드벤처 |\n| 발매 | 2015 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Vita Metacritic 75/100·10명 / Push Square Vita 7/10 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | 동일 작품 다른 판본·세부 비교 미확인 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n짧은 텍스트를 읽고 간단한 이동·대상 확인으로 진행하는 서사 중심 작품이다.\n\nVita 직접 리뷰는 내면을 표현하는 문장과 일관된 감상 목적을 인정한다. 한국어 독서 접근성의 효용이 크다.\n\n선택과 조작의 폭이 매우 좁고 화면의 많은 부분이 텍스트 전달에 집중된다. 독립 비평 반응이 엇갈린 경계선 잠정 후보다.\n\n## 개인 추천의 근거\n\n문장 중심의 짧은 서사에는 한국어로 감상할 가치가 있다. 제한적인 선택·조작과 여성 캐릭터·음악 감상 근거, 엇갈린 비평을 고려해 개인 추천은 보수적인 잠정값이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-01-first-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.metacritic.com/game/actual-sunlight/)\n- [공개 근거 2](https://www.metacritic.com/game/actual-sunlight/critic-reviews/)\n- [공개 근거 3](https://www.pushsquare.com/reviews/psvita/actual_sunlight)\n",
+      "externalSources": [
+        "https://www.metacritic.com/game/actual-sunlight/",
+        "https://www.metacritic.com/game/actual-sunlight/critic-reviews/",
+        "https://www.pushsquare.com/reviews/psvita/actual_sunlight"
+      ],
+      "suggestedRawScore": 6.98,
+      "suggestedPersonalScore": 7.0,
+      "rawScore": 6.98,
+      "personalScore": 7.0,
+      "path": "platforms/psvita/games/actual-sunlight.md",
+      "personalRank": 46
+    },
+    {
+      "slug": "ken-ga-kimi-momoyo-tsuzuri",
+      "title": "Ken ga Kimi: Momoyo Tsuzuri",
+      "components": {
+        "experience": 7.5,
+        "personalFit": 5.2,
+        "localizationValue": 8.4,
+        "platformValue": 7.4
+      },
+      "rationale": "다양한 인물 대화와 미술을 한국어로 감상할 가치가 있다. 남성 연애 인물·본편에 대한 선행 관심과 느린 전환·메뉴 이동의 마찰을 고려해 팬디스크 예비로 보는 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-08-next-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Ken ga Kimi: Momoyo Tsuzuri](games/ken-ga-kimi-momoyo-tsuzuri.md)",
+        "발매": "2016",
+        "장르": "여성향 ADV / 단편 팬디스크",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "원장: Famitsu Vita 32/40·4명 / Vita 완료 후기 별도",
+        "공개 PS Vita 한글패치": "팬디스크 자체 한국어 미발견 / 본편 PC 패치와 구분",
+        "타 기종 / 다른 버전": "Steam 일본어·중국어 / 본편과 별도 팬디스크",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Ken ga Kimi: Momoyo Tsuzuri\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 ADV / 단편 팬디스크 |\n| 발매 | 2016 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | 원장: Famitsu Vita 32/40·4명 / Vita 완료 후기 별도 |\n| 한국어 접근성 | 팬디스크 자체 한국어 미발견 / 본편 PC 패치와 구분 |\n| 다른 판본 | Steam 일본어·중국어 / 본편과 별도 팬디스크 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n이야기를 선택해 읽고 감상·선택으로 보너스를 해금하는 다수 단편의 별도 팬디스크다.\n\n공식 PC 자료와 Vita 완료 후기는 다양한 인물 대화·미술과 보너스 수집 구조를 인정한다. PC 자료를 Vita 전 자산 동등성 근거로 사용하지 않았다.\n\n본편 인물에 대한 선행 관심을 많이 요구한다. Vita 후기는 느린 화면 전환·반복 메뉴 이동과 일부 터치·용어 확인 불편을 지적한다.\n\n## 개인 추천의 근거\n\n다양한 인물 대화와 미술을 한국어로 감상할 가치가 있다. 남성 연애 인물·본편에 대한 선행 관심과 느린 전환·메뉴 이동의 마찰을 고려해 팬디스크 예비로 보는 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-08-next-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.gematsu.com/2016/12/famitsu-review-scores-issue-1463)\n- [공개 근거 2](https://store.steampowered.com/app/1387350/Ken_ga_Kimi_Momoyo_Tsuzuri/)\n- [공개 근거 3](https://www.gtaku.net/vngameinfo/326)\n- [공개 근거 4](https://www.gamess.co.kr/ko/game/112667)\n- [공개 근거 5](https://rejetweb.jp/kengakimi/momoyo/)\n- [공개 근거 6](https://ryotome.wordpress.com/2021/12/28/ken-ga-kimi-momoyo-tsuzuri-review/)\n",
+      "externalSources": [
+        "https://www.gematsu.com/2016/12/famitsu-review-scores-issue-1463",
+        "https://store.steampowered.com/app/1387350/Ken_ga_Kimi_Momoyo_Tsuzuri/",
+        "https://www.gtaku.net/vngameinfo/326",
+        "https://www.gamess.co.kr/ko/game/112667",
+        "https://rejetweb.jp/kengakimi/momoyo/",
+        "https://ryotome.wordpress.com/2021/12/28/ken-ga-kimi-momoyo-tsuzuri-review/"
+      ],
+      "suggestedRawScore": 6.98,
+      "suggestedPersonalScore": 7.0,
+      "rawScore": 6.98,
+      "personalScore": 7.0,
+      "path": "platforms/psvita/games/ken-ga-kimi-momoyo-tsuzuri.md",
+      "personalRank": 47
+    },
+    {
+      "slug": "fernz-gate",
+      "title": "Fernz Gate (펀즈 게이트)",
+      "components": {
+        "experience": 7.1,
+        "personalFit": 6.8,
+        "localizationValue": 7.4,
+        "platformValue": 5.8
+      },
+      "rationale": "편성·지원 기술과 성장 피드백, 전투 조절 기능이 부담 적은 RPG 플레이를 돕는다. 탐색·표현의 변화가 제한되고 Vita 고유 콘텐츠가 뚜렷하지 않아 개인 취향과 판본 추천은 비교적 낮다.",
+      "evidenceLimits": "Vita 직접 기록이 제한적이며 여러 판본의 설계 비교 자료를 사용한 기존 평가다. 후발판 성능을 Vita 성능으로 바꾸어 쓰지 않았다.",
+      "sourcePaths": [
+        "platforms/psvita/games/fernz-gate.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 6.94,
+      "suggestedPersonalScore": 6.9,
+      "rawScore": 6.94,
+      "personalScore": 6.9,
+      "path": "platforms/psvita/games/fernz-gate.md",
+      "personalRank": 48
+    },
+    {
+      "slug": "code-realize-wintertide-miracles",
+      "title": "Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)",
+      "components": {
+        "experience": 7.5,
+        "personalFit": 5.0,
+        "localizationValue": 8.6,
+        "platformValue": 6.4
+      },
+      "rationale": "미술·음악·연기가 받쳐 주는 짧은 인물 대화를 골라 감상하는 장점이 있다. 남성 연애 인물과 기존 시리즈에 대한 관심을 많이 요구하고 에피소드 밀도와 후발 Switch 추가분도 고려해 개인 추천은 낮췄다.",
+      "evidenceLimits": "팬디스크의 선행 작품 의존성을 고려한 추천이다. 영어 교정 문제는 일본어 원작의 경험 가치 감점과 분리했다.",
+      "sourcePaths": [
+        "platforms/psvita/games/code-realize-wintertide-miracles.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "active",
+      "poolReason": "2026-10-08 전체 재평가의 활성 후보. 기존 활성 상태 유지.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 6.86,
+      "suggestedPersonalScore": 6.9,
+      "rawScore": 6.86,
+      "personalScore": 6.9,
+      "path": "platforms/psvita/games/code-realize-wintertide-miracles.md",
+      "personalRank": 49
+    },
+    {
+      "slug": "mobile-suit-gundam-seed-battle-destiny",
+      "title": "Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)",
+      "components": {
+        "experience": 7.6,
+        "personalFit": 6.8,
+        "localizationValue": 4.7,
+        "platformValue": 8.3
+      },
+      "rationale": "짧은 미션의 기체 조작과 튜닝은 게임성 취향에 맞고 원판 아드혹 기능에도 판본 가치가 있다. 이야기·여성 인물 감상 비중과 반복 임무의 한계, 후발 한국어 패치 배포 기록을 고려해 보류 예비 추천으로 둔다.",
+      "evidenceLimits": "Switch REMASTERED 한국어 패치 원 배포문은 확인됐지만 연결 파일 현재 이용·전체 실행은 미확인이다. 기존 후보 자격 보류를 풀거나 종료작으로 단정하지 않는다.",
+      "sourcePaths": [
+        "platforms/psvita/games/mobile-suit-gundam-seed-battle-destiny.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md",
+        "platforms/psvita/reassessments/2026-10-08-full-review.md",
+        "platforms/psvita/reassessments/2026-10-05-cross-platform-korean-audit.json"
+      ],
+      "pool": "reserve",
+      "poolReason": "한국어 대안 원 배포 기록은 있으나 현행 이용 여부 미확인. 기존 활성 자격 보류를 유지하는 예비 후보.",
+      "quality": 3.5,
+      "scoreStatus": "reviewed",
+      "suggestedRawScore": 6.85,
+      "suggestedPersonalScore": 6.9,
+      "rawScore": 6.85,
+      "personalScore": 6.9,
+      "path": "platforms/psvita/games/mobile-suit-gundam-seed-battle-destiny.md",
+      "personalRank": 50
+    },
+    {
+      "slug": "amnesia-world",
+      "title": "Amnesia World",
+      "components": {
+        "experience": 7.2,
+        "personalFit": 4.9,
+        "localizationValue": 8.4,
+        "platformValue": 6.5
+      },
+      "rationale": "이야기 묶음과 미니게임, 읽기 편의는 팬디스크 안에서 감상 가치를 만든다. 남성 연애 인물과 본편에 대한 관심을 많이 요구해 개인 취향 적합성이 낮지만 번역 가치와 작품성은 별도로 둔 잠정 추천이다.",
+      "evidenceLimits": "2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.",
+      "sourcePaths": [
+        "platforms/psvita/reassessments/2026-10-06-batch-01-first-100-screening.md",
+        "platforms/psvita/reassessments/2026-10-06-final-30-selection.md"
+      ],
+      "pool": "reserve",
+      "poolReason": "2026-10-06 최종 30개 압축에서만 미선정. 잠정 후보 원장에 살아 있는 예비이며 5점 작품성·우선도 미확정.",
+      "quality": null,
+      "scoreStatus": "provisional",
+      "row": {
+        "게임": "[Amnesia World](games/amnesia-world.md)",
+        "발매": "미확인",
+        "장르": "여성향 ADV / 팬디스크",
+        "발굴 추천도": "미확정",
+        "한글화 우선도": "미확정",
+        "외부 평점 참고": "Famitsu Vita 31/40·4명",
+        "공개 PS Vita 한글패치": "2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전",
+        "타 기종 / 다른 버전": "본편과 별도 팬디스크·후발판 비교 미확인",
+        "상태": "🟡 예비 후보 · 1차 심사 잠정"
+      },
+      "docContent": "# Amnesia World\n\n> 대상 판본: PlayStation Vita  \n> 상태: 🟡 예비 후보 · 1차 심사 잠정  \n> 기존 5점 작품성: **미확정**  \n> 개인 추천 검토: **잠정**  \n> 한글화 우선도: **미확정**  \n> 추천 검토일: 2026-10-08\n\n이 문서는 기존 잠정 후보 원장에 남아 있는 작품을 웹에서 읽고 찜·제외할 수 있도록 옮긴 예비 기록이다. 활성 후보로 승격하거나 5점 작품성을 새로 확정한 기록이 아니다. [최종 30개 선정 원장의 미선정 후보군](../reassessments/2026-10-06-final-30-selection.md)을 보존한다.\n\n## 한눈에 보기\n\n| 항목 | 내용 |\n|---|---|\n| 대상 | PlayStation Vita |\n| 장르 | 여성향 ADV / 팬디스크 |\n| 발매 | 미확인 |\n| 기존 작품성 | 미확정 / 정식 평정 전 |\n| 외부 평점 참고 | Famitsu Vita 31/40·4명 |\n| 한국어 접근성 | 2026-10-06 원장: 완성 공개 대안 미발견 / 추가 검증 전 |\n| 다른 판본 | 본편과 별도 팬디스크·후발판 비교 미확인 |\n| 기술 난이도 | 실제 파일 분석·한글 표시 검증 전까지 미확인 |\n\n## 공개 구조와 감상 가치\n\n여러 이야기 묶음과 미니게임을 고르는 팬디스크다.\n\n가벼운 회화와 콘텐츠별 플레이 변화, 이벤트 스킵·분기 확인 편의가 있다.\n\n본편 인물에 대한 사전 관심을 요구한다. 원장과 Famitsu의 신규 독자 접근성 평가는 같지 않다.\n\n## 개인 추천의 근거\n\n이야기 묶음과 미니게임, 읽기 편의는 팬디스크 안에서 감상 가치를 만든다. 남성 연애 인물과 본편에 대한 관심을 많이 요구해 개인 취향 적합성이 낮지만 번역 가치와 작품성은 별도로 둔 잠정 추천이다.\n\n추천은 경험 가치 40%·사용자 취향 30%·한국어화 실익 20%·Vita판 가치 10%로 판단한다. 플랫폼 전체 순위와 점수는 [추천 목록](../recommendations.md)에서 확인한다. 점수는 기존 작품성 5점과 별개의 자료 기반 주관적 추천이며 직접 플레이한 후기나 확정 작품성 평가가 아니다.\n\n## 자료의 한계\n\n2026-10-06 잠정 후보 원장에 남은 작품으로 기존 5점 작품성은 미확정이다. 공개 제품 구조 또는 실제 플레이를 서술한 원문 평가를 이번 점수 제안에 추가 대조했다. 자료 종류·평가 기종의 차이를 구분하며 여러 독립 평가와 완료 범위를 종합한 정식 심층 리뷰는 아니다. 외부 점수를 작품성 또는 추천점수로 환산하지 않았다. 한국어 대안은 2026-10-06 공개 감사의 미발견 기록이며 비공개 작업 부재의 증명이 아니다.\n\n본편·후속작·팬디스크와 언어판을 구분하며 한국어 배포물을 찾지 못했다는 결과를 절대 부재로 단정하지 않는다. 이번 기록에서는 게임 실행·패치 설치·실제 게임 파일 분석을 수행하지 않았다.\n\n## 근거\n\n- [기존 1차 심사 원장](../reassessments/2026-10-06-batch-01-first-100-screening.md)\n- [기존 최종 선정·후보 보존 결정](../reassessments/2026-10-06-final-30-selection.md)\n- [공개 근거 1](https://www.famitsu.com/game/title/29916/reviews)\n",
+      "externalSources": [
+        "https://www.famitsu.com/game/title/29916/reviews"
+      ],
+      "suggestedRawScore": 6.68,
+      "suggestedPersonalScore": 6.7,
+      "rawScore": 6.68,
+      "personalScore": 6.7,
+      "path": "platforms/psvita/games/amnesia-world.md",
+      "personalRank": 51
+    }
+  ]
+}

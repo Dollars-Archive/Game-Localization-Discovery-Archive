@@ -131,3 +131,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 [전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
 
+
+
+## 2026-10-08 개인 추천 순위
+
+기존 표와 작품성 판정을 보존하면서, **기존 목록 30개 + 살아 있는 후보군 93개 = 123개**의 개인 추천점수·플랫폼 내 순위를 별도로 작성했습니다. 후보군은 활성 등록으로 복귀시키지 않았습니다. [전체 순위·짧은 근거](recommendations.md) · [산식·범위·자료 한계](reassessments/2026-10-08-personal-recommendations.md) · [구조화된 점수·원장](reassessments/2026-10-08-personal-recommendations.json). 기존 표의 명시 탈락 기록은 그대로 보존하되 새 순위에서는 제외했습니다.

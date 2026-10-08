@@ -21,19 +21,20 @@ test('PS3 active/reserve is exactly 30/25, union preserves all 55 document keys'
   assert.deepEqual([...active, ...h.keys()].sort(), [...h.fixtures.keys].sort());
 });
 
-test('other platform first-table counts and ordinary sort behavior remain unchanged', async () => {
+test('PS3 controls remain exclusive while scored platforms expose personal sorting', async () => {
   const h = await createHarness({ query: '?platform=ps2' });
   for (const platform of otherPlatforms) {
-    const count = readRows(h.fixtures.data[`platforms/${platform}/README.md`]).length;
+    const count = readRows(h.fixtures.data[`platforms/${platform}/${platform === 'dreamcast' ? 'README.md' : 'recommendations.md'}`]).length;
     await h.platform(platform);
     assert.equal(h.keys().length, count);
     assert.equal(h.elements['ps3-views'].hidden, true);
-    assert.equal(h.sorts.find(x => x.dataset.sort === 'personal').hidden, true);
+    assert.equal(h.sorts.find(x => x.dataset.sort === 'personal').hidden, platform === 'dreamcast');
+    assert.equal(h.elements['recommendation-views'].hidden, platform === 'dreamcast');
   }
   await h.sort('title');
   await h.sort('title');
   await h.platform('psp');
-  assert.match(h.sorts.find(x => x.dataset.sort === 'title').textContent, /↓$/);
+  assert.ok(h.sorts.find(x => x.dataset.sort === 'personal').classes.has('active'));
 });
 
 test('direct reserve URL, repeated reserve clicks, platform switch and history restoration', async () => {
@@ -45,7 +46,7 @@ test('direct reserve URL, repeated reserve clicks, platform switch and history r
   assert.equal(h.keys().length, 30);
   assert.equal(h.location.searchParams.has('view'), false);
   await h.platform('psp');
-  assert.equal(h.keys().length, readRows(h.fixtures.data['platforms/psp/README.md']).length);
+  assert.equal(h.keys().length, readRows(h.fixtures.data['platforms/psp/recommendations.md']).length);
   assert.equal(h.location.searchParams.get('platform'), 'psp');
   await h.history.back();
   assert.equal(h.elements['platform-title'].textContent, 'PS3 선정 후보');
@@ -135,10 +136,11 @@ test('overlapping platform navigation renders only the most recent selection', a
   const h = await createHarness({ beforeFetch: async url => { if (url.includes('/psvita/README.md')) await wait; } });
   const first = h.platform('psvita');
   await h.platform('dreamcast');
-  assert.equal(h.keys().length, 2);
+  const expectedCount = readRows(h.fixtures.data['platforms/dreamcast/README.md']).length;
+  assert.equal(h.keys().length, expectedCount);
   release(); await first;
   assert.equal(h.elements['platform-eyebrow'].textContent, 'DREAMCAST');
-  assert.equal(h.keys().length, 2);
+  assert.equal(h.keys().length, expectedCount);
 });
 
 test('data contract rejects duplicate active/reserve keys and renders unavailable scores honestly', async () => {

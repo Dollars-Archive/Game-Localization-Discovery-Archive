@@ -1,5 +1,17 @@
 # Juujigen Rippoutai Cipher Portable (십차원 입방체 사이퍼 포터블)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.1/10 · PSP 전체 123개 중 18위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 화면 조사와 행동 선택, PSP 추가 단편이 수동적인 독서보다 능동적인 감상을 제공한다. 실시간 진행은 음성을 차분히 듣기 어렵게 하고 반복 회차의 부담도 있어 취향 적합을 조금 제한했다.
+- 자료 한계: PSP 직접 감상 2명의 범위이며 PC·PS2 공통 수치를 PSP 단독 평가로 합산하지 않았다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: **十次元立方体サイファーPORTABLE**  
 > 상태: **🟢 후보**  
 > 발굴 추천도: **⭐⭐⭐½☆ (3.5/5)**  
@@ -203,4 +215,3 @@ Windows판의 재유통 기록은 존재하므로 **PC 재출시가 없다고 �
 - [GAMEMAN: 산정·표본 미확인 PSP 표시 점수](https://www.gameman.jp/item/24672_y.html)
 - [게임小屋たるる: Windows 합본 재유통 이력](https://gametaruru.net/game/mystereet-series)
 - [Play-Asia: PSP 실제 화면 원출처](https://www.play-asia.com/en/juujimoto-ripputai-sypher-portable/13/703d27)
-

@@ -1,5 +1,17 @@
 # Twelve: Sengoku Fuushinden (트웰브 전국봉신전)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.0/10 · PSP 전체 123개 중 25위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 인물·음성·음악과 응원·군사·장비 조정이 이야기와 육성 취향을 함께 만족시킨다. 적 대응과 개별 대화의 깊이에는 편차가 있지만 PSP 독자 구성과 진행 중 한국어 작업의 실익은 크다.
+- 자료 한계: 한국어 제작 착수는 작품성 가산이 아니며 공개 완성판과 구분해 기록한다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: **Twelve ～戦国封神伝～**  
 > 상태: 🟢 후보 · 한국어 패치 제작 착수  
 > 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)  
@@ -173,4 +185,3 @@ k-MT 내부는 긍정 쪽이 많지만 이 5건을 전체 이용자의 지지율
 - [Amazon 평가 2차 집계](https://retoro.g-player.com/psp/rpg/index.html)
 - [Best판 상품·발매 기록](https://solarisjapan.com/fr/products/twelve-sengoku-fuushinden-konami-the-best)
 - [한국어 제작 프로젝트 공개 안내](https://github.com/Dollars-Archive/twelve-sengoku-fuushinden-kr-patch)
-

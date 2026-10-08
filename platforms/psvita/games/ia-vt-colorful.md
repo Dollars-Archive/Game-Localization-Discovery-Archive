@@ -1,5 +1,17 @@
 # IA/VT Colorful (이아/VT 컬러풀)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 7.9/10 · PS Vita 전체 51개 중 27위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 악곡을 충분히 듣는 연주와 시각적 리듬 연출이 음악·게임성 관심에 강하게 맞는다. 해금과 긴 곡 재시도의 부담이 있고 한국어화 효용은 규칙·메뉴·가사 이해에 집중돼 서사형 작품보다 낮게 잡았다.
+- 자료 한계: 음악 취향의 불호를 악곡 품질 결함으로 계산하지 않았다. 후발 타 기종판·현재 DLC 이용 가능성은 확인 범위 밖이다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: IA/VT -COLORFUL-（イア ビジュアルトラックス カラフル）  
 > 대상 판본: PlayStation Vita 일본판  
 > 상태: 🟢 후보  
@@ -224,4 +236,3 @@ Easy·Normal·Hard에서 기록을 갱신하며 성장하는 방식이다. Michi
 - [Digitally Downloaded: 기본곡 해금 시간 체험](https://www.digitallydownloaded.net/2015/08/ddnet-does-japan-day-4-import-review.html)
 - [GameBrew: 영어 UI 팬 패치 v1.1 배포 기록](https://www.gamebrew.org/wiki/IAVT_Colorful_English_Vita)
 - [GBAtemp: 영어 패치 원배포 스레드](https://gbatemp.net/threads/translation-project-ia-vt-colorful.441374/)
-

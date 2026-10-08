@@ -63,11 +63,11 @@ async function ui({owner=314692476,token='test-token',offline=false,deleted=fals
 test('actual app deletes a started/starred candidate, updates counts and comparison URL, then restores its note',async()=>{
   const f=await ui();
   assert.match(f.el('candidate-body').innerHTML,/candidate-delete/);
-  assert.match(f.el('stats').innerHTML,/등록 후보 <strong>2<\/strong>/);
+  assert.match(f.el('stats').innerHTML,/전체 순위 <strong>2<\/strong>/);
   await f.click('.candidate-delete');
   assert.equal(f.writes,1);
   assert.ok(!f.el('candidate-body').innerHTML.includes('게임 A'));
-  assert.match(f.el('stats').innerHTML,/등록 후보 <strong>1<\/strong>/);
+  assert.match(f.el('stats').innerHTML,/전체 순위 <strong>1<\/strong>/);
   assert.match(f.el('my-list-summary').textContent,/찜 1 · 🛠 착수 0/);
   assert.equal(f.el('compare-bar').hidden,true);
   assert.equal(f.context.location.hash,'');
@@ -76,7 +76,7 @@ test('actual app deletes a started/starred candidate, updates counts and compari
   await f.click('.candidate-restore');
   assert.match(f.el('candidate-body').innerHTML,/게임 A/);
   assert.match(f.el('candidate-body').innerHTML,/내 메모/);
-  assert.match(f.el('stats').innerHTML,/등록 후보 <strong>2<\/strong>/);
+  assert.match(f.el('stats').innerHTML,/전체 순위 <strong>2<\/strong>/);
   f.assertWatchlist();
 });
 test('public visitors and other accounts see deletion effects but no delete controls',async()=>{
@@ -92,7 +92,7 @@ test('failed writes retain row, watchlist and comparison selection and show no s
   const f=await ui({putStatus:403});await f.click('.candidate-delete');
   assert.match(f.el('candidate-body').innerHTML,/게임 A/);
   assert.match(f.el('toast').textContent,/저장하지 못했습니다/);
-  assert.match(f.el('stats').innerHTML,/등록 후보 <strong>2<\/strong>/);
+  assert.match(f.el('stats').innerHTML,/전체 순위 <strong>2<\/strong>/);
   f.assertWatchlist();
 });
 test('unavailable deletion state warns publicly and disables deletion writes',async()=>{

@@ -1,5 +1,17 @@
 # Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu (STAR DRIVER 빛의 타쿠토: 은하미소년 전설)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.0/10 · PSP 전체 123개 중 34위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 인물의 유머와 말투, 여성 인물의 교류와 보컬 음악이 캐릭터·음악 취향에 잘 맞는다. 단순한 전투와 정적인 대화 화면, 회차 안내 부족은 감상의 편의를 제한한다.
+- 자료 한계: 전격 실제 PSP 플레이리포트와 Famitsu 4명 본문을 재확인해 여성 인물의 교류·음악을 반영했다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 ## 대표 스크린샷
 
 ![PSP판 학교 배경과 대화창](https://dengekionline.com/elem/000/000/349/349364/c20110228_sd_play_14_cs1w1_480x272.jpg)
@@ -204,4 +216,3 @@
 - [BONES: 원작 TV 작품 정보](https://www.bones.co.jp/work/star-driver/)
 - [쇼치쿠: 극장판 작품 정보](https://www.shochiku.co.jp/cinema/database/04766/)
 - [국내 상품의 한국어 제목 표기·일본어판 안내](https://m.bunjang.co.kr/products/432225056)
-

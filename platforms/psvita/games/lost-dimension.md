@@ -1,5 +1,17 @@
 # Lost Dimension (로스트 디멘션)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.0/10 · PS Vita 전체 51개 중 23위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 위치·지원 공격·행동 양도를 조합하는 전투와 동료 대화가 시스템과 이야기 관심을 함께 받쳐 준다. 성장 선택과 반복 진행·Vita 로딩은 약점이지만 능력 설명과 대사의 한국어화 실익은 크다.
+- 자료 한계: Vita 독립 리뷰를 종합했다. 특정 리뷰의 부가 임무 버그를 모든 지역·현재판의 확정 결함으로 확대하지 않았다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: ロストディメンション  
 > 대상 판본: **PlayStation Vita**  
 > 상태: **🟢 후보**  
@@ -212,4 +224,3 @@
 - [DuracionDe 완료 범위별 시간](https://duracionde.com/lost-dimension)
 - [Ghostlight PC 개선 안내](https://www.ghostlight.uk.com/post/lost-dimension-is-out-now)
 - [Steam PC판·언어·게임 화면·DLC](https://store.steampowered.com/app/626600/Lost_Dimension/)
-

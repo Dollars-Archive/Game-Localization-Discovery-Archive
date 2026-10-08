@@ -17,6 +17,8 @@ function createFixtures(sourceRoot = root) {
   for (const platform of ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast']) {
     const name = `platforms/${platform}/README.md`;
     data[name] = fs.readFileSync(path.join(sourceRoot, name), 'utf8');
+    const ranking = `platforms/${platform}/recommendations.md`;
+    if (fs.existsSync(path.join(sourceRoot, ranking))) data[ranking] = fs.readFileSync(path.join(sourceRoot, ranking), 'utf8');
   }
   const reservePath = path.join(sourceRoot, 'platforms/ps3/reserve.md');
   const original = [...readRows(data['platforms/ps3/README.md']), ...(fs.existsSync(reservePath) ? readRows(fs.readFileSync(reservePath, 'utf8')) : [])];
@@ -66,7 +68,8 @@ async function createHarness({ query = '?platform=ps3', fixtures = createFixture
   const elements = Object.fromEntries(ids.map(id => [id, new Element(id)]));
   const platforms = ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast'].map(p => new Element('', { platform: p }));
   const sorts = ['personal', 'priority', 'rating', 'year', 'title'].map(p => new Element('', { sort: p }, p));
-  const document = { body: { dataset: {} }, getElementById: id => elements[id], querySelectorAll: selector => selector === '.platform-btn' ? platforms : sorts };
+  const views = ['all', 'active', 'reserve'].map(view => Object.assign(elements[`recommendations-${view}`], { dataset: { view } }));
+  const document = { body: { dataset: {} }, getElementById: id => elements[id], querySelectorAll: selector => selector === '.platform-btn' ? platforms : selector === '.recommendation-view' ? views : sorts };
   const events = new Element();
   const window = { WatchlistCore: core, ExclusionCore: exclusionCore, addEventListener: (...args) => events.addEventListener(...args) };
   const location = new URL('http://localhost:8763/' + query);

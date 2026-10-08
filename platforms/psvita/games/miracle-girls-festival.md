@@ -1,5 +1,17 @@
 # MIRACLE GIRLS FESTIVAL (미라클 걸즈 페스티벌)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.1/10 · PS Vita 전체 51개 중 21위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 여성 캐릭터의 공연과 음악을 DIVA 계열 입력으로 즐기는 구성이 사용자 취향에 잘 맞는다. 곡 수와 반복 해금의 한계를 반영하되 Vita판의 독자성과 대화·메뉴 번역 가치는 별도로 인정했다.
+- 자료 한계: 공개 영어 v0.3은 부분 번역이며 완성 한국어 대안이 아니다. 리듬 플레이 자체와 스토리·수집 설명의 번역 효용을 분리했다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: ミラクルガールズフェスティバル  
 > 대상 판본: **PlayStation Vita**  
 > 상태: **🟢 후보**  
@@ -217,4 +229,3 @@
 - [GameBrew 영어 패치 v0.3](https://www.gamebrew.org/wiki/Miracle_girls_Festival_English_Patch_Vita)
 - [영어 패치 원 공개 스레드](https://www.reddit.com/r/VitaPiracy/comments/kvpnwp/release_miracle_girls_festival_english_patch/)
 - [국내 통용 제목 사용례](https://namu.moe/w/%EB%AF%B8%EB%9D%BC%ED%81%B4%20%EA%B1%B8%EC%A6%88%20%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C)
-

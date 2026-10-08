@@ -1,5 +1,17 @@
 # Ciel Nosurge Offline: Ushinawareta Hoshi e Sasagu Uta (시엘 노서지 오프라인: 잃어버린 별에 바치는 노래)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.8/10 · PS Vita 전체 51개 중 2위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 일상 대화·여성 인물의 반응과 음악이 같은 감상 경험으로 이어져 취향에 특히 잘 맞는다. 반복 작업과 편의 문제는 남지만 Vita 터치 조작을 살린 OFFLINE의 한국어화 가치가 높다.
+- 자료 한계: Famitsu 4인·기명 플레이 글·소표본 독자 기록을 구분한 기존 평가다. 과거 서버 연동·음성팩의 현재 작동은 전수 검증하지 않았다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: シェルノサージュ OFFLINE ～失われた星へ捧ぐ詩～
 > 대상 판본: **PlayStation Vita / 2014 OFFLINE**
 > 상태: **🟢 후보**
@@ -206,4 +218,3 @@
 - [Atelier Traduction 영문 패치 원 발표](https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here)
 - [A Reyvateil's Melody 공동 프로젝트](https://www.tapatalk.com/groups/revatail_hymmne/ciel-nosurge-offline-translation-patch-project-t1044.html)
 - [GameBrew / 패치 설치 전제](https://www.gamebrew.org/wiki/Ciel_Nosurge:_Ushinawareta_Hoshi_e_Sasagu_Uta_Offline_Vita_-_English_Translation)
-

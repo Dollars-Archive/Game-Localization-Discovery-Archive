@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="color-scheme" content="light dark" />
   <title>Game Localization Discovery Archive</title>
-  <link rel="stylesheet" href="assets/style.css?v=20261008-ps3reserve1" />
+  <link rel="stylesheet" href="assets/style.css?v=20261008-personal-all1" />
 </head>
 <body data-page="index">
   <header class="topbar">
@@ -56,6 +56,13 @@
         <span class="sort-label">PS3 목록</span>
         <button class="sort-btn" id="ps3-selected" type="button" aria-pressed="true">선정 후보</button>
         <button class="sort-btn" id="ps3-reserve" type="button" aria-pressed="false">예비 목록</button>
+      </div>
+
+      <div class="sortbar recommendation-views" id="recommendation-views" aria-label="추천 순위 범위" hidden>
+        <span class="sort-label">목록</span>
+        <button class="sort-btn recommendation-view active" id="recommendations-all" data-view="all" type="button" aria-pressed="true">전체 순위</button>
+        <button class="sort-btn recommendation-view" id="recommendations-active" data-view="active" type="button" aria-pressed="false">기존 목록</button>
+        <button class="sort-btn recommendation-view" id="recommendations-reserve" data-view="reserve" type="button" aria-pressed="false">후보군</button>
       </div>
 
       <div class="sortbar" aria-label="정렬">
@@ -148,8 +155,8 @@
 
   <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
 
-  <script src="assets/watchlist-core.js?v=20261008-ps3reserve1"></script>
-  <script src="assets/exclusion-core.js?v=20261008-ps3reserve1"></script>
-  <script src="assets/app.js?v=20261008-ps3reserve1"></script>
+  <script src="assets/watchlist-core.js?v=20261008-personal-all1"></script>
+  <script src="assets/exclusion-core.js?v=20261008-personal-all1"></script>
+  <script src="assets/app.js?v=20261008-personal-all1"></script>
 </body>
 </html>

@@ -1,5 +1,17 @@
 # Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku (유우키 유우나는 용사다 수해의 기억)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.4/10 · PS Vita 전체 51개 중 12위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 여성 캐릭터의 일상 단편·음성과 성장 연동이 이야기와 캐릭터 감상 취향에 잘 맞는다. 전투 반복과 조작 마찰은 경험 가치에 반영하되 대화를 한국어로 읽는 실익과 Vita판 독자성은 높게 평가했다.
+- 자료 한계: 공식 이벤트 수 안내는 번역 행 수 실측이 아니다. 기명 리뷰별 비판 항목을 분리했으며 직접 실행 평가가 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: 結城友奈は勇者である 樹海の記憶  
 > 대상 판본: **PlayStation Vita / 일본판**  
 > 상태: **🟢 후보**  
@@ -203,4 +215,3 @@ Famitsu 합계는 **30/40(8·7·8·7)**이다. 4명의 단평과 장문 2명의 
 - [공개 한국어 패치 목록](https://www.hangulogame.com/platform/psv/)
 - [공개 문자열 변환 코드](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/Jukai%20no%20Kioku%20Gametext%20Serializer.py)
 - [공개 이벤트 변환 코드](https://github.com/Silvris/RandomScriptsAndTemplates/blob/main/Jukai%20no%20Kioku/JukaiNoKiokuScriptConvert/Program.cs)
-

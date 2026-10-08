@@ -1,5 +1,17 @@
 # Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.6/10 · PS Vita 전체 51개 중 6위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 인물 대화와 음악을 중심으로 전투·성장을 엮어 이야기와 여성 캐릭터 감상 취향에 잘 맞는다. 초기 설명과 Vita 성능의 약점을 감안해도 Plus의 추가 대화·편의 기능과 한국어 접근성 개선 가치가 크다.
+- 자료 한계: Vita 독립 리뷰 3곳을 종합한 기존 재평가다. 프레임을 직접 측정하지 않았으며 지역별 판매·DLC 현행성은 별도다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: アルノサージュ PLUS ～生まれいずる星へ祈る詩～  
 > 대상 판본: **PlayStation Vita / Plus**  
 > 상태: **🟢 후보**  
@@ -218,4 +230,3 @@ Ciel의 선행 감상은 배경 이해를 돕는다. 현재는 Offline 영어 �
 - [Steam DX 언어·표현 변경](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=english)
 - [2026 공식 판매·온라인 종료 공지](https://www.gamecity.ne.jp/support/notice/28981.html)
 - [Ciel Offline 영어 번역팀 발표](https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here)
-

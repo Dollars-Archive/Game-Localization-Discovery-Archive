@@ -1,5 +1,17 @@
 # Demon Gaze II (데몬 게이즈 2)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.6/10 · PS Vita 전체 51개 중 8위**
+- 점수 구분: **자료 검토**
+- 작품성: **4.0/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 빠른 전투·지도 작성·동료 활용이 캐릭터 대화와 이어져 게임성과 인물 감상을 함께 즐기기 좋다. 자금·재육성의 번거로움은 있지만 한국어 설명의 효용과 Vita 휴대 탐색 가치가 크다.
+- 자료 한계: 일본 Vita 원판·서구판·Global Edition을 분리한 기존 재평가다. 전작 Extra의 한국어 지원을 II의 대안으로 혼동하지 않았다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: デモンゲイズ2  
 > 대상 판본: **PlayStation Vita / 2016 일본 원판, 서구·Global Edition 별도 비교**  
 > 상태: **💎 우선 후보**  
@@ -213,4 +225,3 @@ PS4에서 시험한 다른 매체 점수는 Vita 점수로 옮기지 않았다. 
 - [Global Edition 공식](https://www.demongaze.jp/dg2ge/)
 - [추가 콘텐츠 발표](https://www.gematsu.com/2016/09/demon-gaze-ii-free-extra-content-call-grimodar-screenshots)
 - [전작 Extra Steam](https://store.steampowered.com/app/1732340/DEMON_GAZE_EXTRA/)
-

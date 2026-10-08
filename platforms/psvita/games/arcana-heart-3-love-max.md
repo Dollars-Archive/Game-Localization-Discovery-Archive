@@ -1,5 +1,17 @@
 # Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 7.4/10 · PS Vita 전체 51개 중 36위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 여성 캐릭터별 전투와 알카나 조합을 연구하는 재미가 확실해 게임성 취향에 맞는다. 입문 설명과 작은 화면의 부담이 있고 후발 PC 확장판의 가치가 커서 Vita 번역 우선 추천은 중간 정도다.
+- 자료 한계: Vita 직접 리뷰와 공통 시스템 리뷰를 구별한 기존 평가다. 온라인 현행성·입력 지연 실측은 없다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: アルカナハート3 LOVE MAX!!!!!  
 > 대상 판본: **PlayStation Vita**  
 > 상태: **🟢 후보**  
@@ -218,4 +230,3 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 - [Steam SIXSTARS XTEND: 추가 인물·언어·상품 구성](https://store.steampowered.com/app/661990/)
 - [Steam: Pistrix·Parace L'sia DLC의 날짜·이용 모드](https://store.steampowered.com/app/1209800/AH3X_Pistrix__Parace_Lsia_DLC/)
 - [Angel 제작자 README: PC XTEND용 비공식 개선 모드](https://github.com/super-continent/Angel/blob/main/README.md)
-

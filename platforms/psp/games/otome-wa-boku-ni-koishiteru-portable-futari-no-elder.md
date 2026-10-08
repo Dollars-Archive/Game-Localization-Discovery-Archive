@@ -1,5 +1,17 @@
 # Otome wa Boku ni Koishiteru Portable: Futari no Elder (소녀는 언니를 사랑한다 Portable: 두 사람의 엘더)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 8.6/10 · PSP 전체 123개 중 3위**
+- 점수 구분: **자료 검토**
+- 작품성: **4.0/5 (기존 평가 유지)**
+- 목록 구분: **기존 목록**
+- 인물 조합과 학원 대화, 주인공을 포함한 음성 연기가 관계 중심 감상에 잘 맞는다. PSP 고유 인물 구성의 가치가 크지만 원작 인물 일부의 교체와 긴 공통부 때문에 완전 상위판으로 보지는 않았다.
+- 자료 한계: PC와 PSP 공략 구성의 차이를 명시하고 소표본 PSP 평점을 단순 환산하지 않았다. 자료 기반 편집 추천이며 직접 플레이 평가는 아니다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 ## 대표 스크린샷
 
 ![PSP판 초반 화면: 벚꽃길의 인물과 대화창](https://www.4gamer.net/games/126/G012644/20110414080/SS/004.png)
@@ -225,4 +237,3 @@
 - [月幕Galgame: Windows 재발매·언어·판본 목록](https://www.ymgal.games/ga13525)
 - [ErogameScape 운영자 블로그: 당시 Android 배포 시장 기록](https://erscape.livedoor.blog/archives/cat_208709.html)
 - [한국어 작품 리뷰·통용 제목 확인](https://secret-laboratory.tistory.com/91)
-

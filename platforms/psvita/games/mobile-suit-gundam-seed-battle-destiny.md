@@ -1,5 +1,17 @@
 # Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)
 
+## 2026-10-08 개인 추천과 전체 순위
+
+- **개인 추천 6.9/10 · PS Vita 전체 51개 중 50위**
+- 점수 구분: **자료 검토**
+- 작품성: **3.5/5 (기존 평가 유지)**
+- 목록 구분: **후보군** · 한국어 대안 원 배포 기록은 있으나 현행 이용 여부 미확인. 기존 활성 자격 보류를 유지하는 예비 후보.
+- 짧은 미션의 기체 조작과 튜닝은 게임성 취향에 맞고 원판 아드혹 기능에도 판본 가치가 있다. 이야기·여성 인물 감상 비중과 반복 임무의 한계, 후발 한국어 패치 배포 기록을 고려해 보류 예비 추천으로 둔다.
+- 자료 한계: Switch REMASTERED 한국어 패치 원 배포문은 확인됐지만 연결 파일 현재 이용·전체 실행은 미확인이다. 기존 후보 자격 보류를 풀거나 종료작으로 단정하지 않는다.
+
+[전체 비교·산식·범위와 근거](../reassessments/2026-10-08-personal-recommendations.md). 자료 기반의 주관적 추천이며 직접 플레이 평점이나 기존 5점 별점의 환산이 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+
+
 > 원제: 機動戦士ガンダムSEED BATTLE DESTINY  
 > 대상 판본: **PlayStation Vita (2012)**  
 > 상태: **한국어 대안의 현재 이용 여부 확인 보류 / 상세 기록 보존**  
@@ -177,4 +189,3 @@ Famitsu의 ローリング内沢·吉池マリア·レオナ海老原·デビル
 - [Steam: REMASTERED 언어표](https://store.steampowered.com/app/1857740/?l=koreana)
 - [Switch 한국어 패치 원 배포문](https://teamninokuni.tistory.com/34)
 - [PC 한국어 패치 공개 게시문](https://zxcv3428.tistory.com/3)
-

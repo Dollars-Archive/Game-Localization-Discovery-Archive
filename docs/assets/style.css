@@ -66,6 +66,9 @@ h1, h2, h3 { line-height: 1.25; letter-spacing: -.035em; }
 .priority-c { background: #ececec; color: #606060; }
 .rating { white-space: nowrap; color: var(--gold); font-weight: 700; }
 .ps3-views[hidden], .sort-btn[hidden] { display: none; }
+.recommendation-views[hidden] { display: none; }
+.recommendation-rationale { margin: 7px 0 0; max-width: 48ch; color: var(--muted); font-size: 12px; font-weight: 400; line-height: 1.6; white-space: normal; overflow-wrap: anywhere; }
+.provisional-score { text-decoration: underline dotted; text-underline-offset: 3px; }
 .rating-details { display: block; }
 .personal-rating { display: block; margin-bottom: 3px; color: var(--accent); font-size: 13px; }
 .quality-rating { display: block; font-size: 12px; }
@@ -230,6 +233,8 @@ body { overflow-x: hidden; }
   }
   .candidate-table .rank-cell { width: 100%; text-align: left; align-items: center; }
   .game-link { overflow-wrap: anywhere; }
+  .recommendation-game > .recommendation-rationale { grid-column: 1 / -1; margin: 0; }
+  .recommendation-game > :not(.game-link):not(.recommendation-rationale) { grid-column: 2; }
   .table-wrap { overflow: visible; }
   .group-heading { display: block; }
   .group-heading th { display: block; width: 100%; border-radius: 10px; }
