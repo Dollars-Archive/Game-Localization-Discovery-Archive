@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 보존 항목: **30개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **2개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -30,7 +30,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)](games/to-love-ru-darkness-true-princess.md) | 2015 | 연애 시뮬레이션 / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Dengeki 정성평가 / Play-Asia 5/5·10평점 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 공식 영어판 없음 / 영문 팬 번역 자료 존재 | PS Vita 독점 / Battle Ecstasy와 별개 / 후발 공식 이식 확인 못함 | 🟢 후보 |
 | [Zanki Zero: Last Beginning (잔키 제로)](games/zanki-zero.md) | 2018 | 1인칭 생존 던전 RPG / 실시간 타일 전투 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40 / GameFAQs Vita 1.56·24명 / RPGFan 85·PS4 참고 / Steam 77%·650평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita 영문 정식판 없음 | 일본 Vita 원본 / v1.03 New Game+·UI 개선 / 서구 PS4·PC는 일부 CG·아동기 이벤트 변경 | 🟢 후보 |
 | [Tokushu Houdoubu (특수보도부)](games/tokushu-houdoubu.md) | 2012 | 초상현상 보도 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40 / 4Gamer 80·1명 / 가격.com 3.43·3명 / 게임카탈로그 판정 없음 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 한국 Store 지역 등록만 확인 | PS Vita 독점 / v1.01 / 공식 후발 이식·리마스터 없음 | 🟢 후보 |
-| [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 풍자 ADV / 토론 배틀 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | PS Vita 원판 / 후발 이식 확인 못함 | 🟢 후보 |
+| [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 문화 ADV / 조사·토론 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 34/40·4명 / Crystal AXIS·Goziline / 4Gamer 4본문 | 2026-10-08 공개 한국어 패치 확인 못함 / 웹 대사 번역 별도 | Vita 원작 / 후발 공식판 확인 못함 | 💎 우선 후보 |
 | [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
 | [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita 본문7명·4매체 / Famitsu33/40 / 투표3.77/5·52명 | 2026-10-08 공개 한국어 확인 못함 | PS4·Vita Global Edition / Extra는 전작 | 💎 우선 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
@@ -87,7 +87,7 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 보존 항목 | 30 |
 | 활성 후보 | 29 |
 | 비활성·자료 보류 | 1 |
-| 활성 발굴 우선 후보: 4.0 이상 | 2 |
+| 활성 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 10 |
 | 한글화 우선도 C | 16 |
