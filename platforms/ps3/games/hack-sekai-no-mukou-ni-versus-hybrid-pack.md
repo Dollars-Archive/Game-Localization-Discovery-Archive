@@ -1,6 +1,17 @@
 # .hack: Sekai no Mukou ni + Versus Hybrid Pack (닷핵 세계의 저편으로 + Versus Hybrid Pack)
 
-> 원제: ドットハック セカイの向こうに＋Versus Hybrid Pack / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.6/10 · 전체 55개 중 22위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 영화와 캐릭터 액션을 함께 보존하는 PS3 고유 패키지라는 점이 매력이다. 조작과 연출은 호평이 있지만 로스터·기술 폭이 작아, 장편 RPG나 깊은 경쟁 격투를 기대하기보다 시리즈 관심에 따라 선택할 만하다.
+- 현재 한국어 확인: 국내 BLKS-95001 일본어 기록. PS3 공식·공개 한국어 패치 미발견. Falions/RyudoGaming 영어 패치 원문·배포 링크 확인.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: ドットハック セカイの向こうに＋Versus Hybrid Pack / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -242,3 +253,4 @@ THE WORLD Edition의 차이는 주로 물리 특전이며 게임 본편 자체�
 - [VGIndex - BLKS-95001 일본어 데이터](https://www.vgindex.org/discs/?region=kr)
 - [Redump - 한국판 일본어 데이터](https://redump.info/discs?letter=D&region=kr&sort=version)
 - [Falions - 공개 영문패치 설치 가이드](https://falions.net/blog/posts/installation)
+

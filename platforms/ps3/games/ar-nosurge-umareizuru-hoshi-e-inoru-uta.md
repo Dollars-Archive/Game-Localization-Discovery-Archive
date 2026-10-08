@@ -1,6 +1,17 @@
 # Ar nosurge: Umareizuru Hoshi e Inoru Uta (아르 노서지: 태어나지 않은 별에 바치는 노래)
 
-> 원제: アルノサージュ ～生まれいずる星へ祈る詩～ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 8.4/10 · 전체 55개 중 6위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 인물 관계를 읽는 재미와 음악, 전투 성장의 연결이 취향에 특히 가깝다. 다만 전작 맥락의 진입장벽이 있고 Plus·DX가 보강판이어서, 작품 추천과 PS3 우선 제작은 나누어 볼 필요가 있다.
+- 현재 한국어 확인: 공식·공개 완성 한국어 대안 미발견. DX Steam 페이지 직접 읽기는 오류여서 언어 상태는 기존 조사와 이번 검색을 대조한 잠정 결론.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: アルノサージュ ～生まれいずる星へ祈る詩～ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -212,6 +223,8 @@ Plus는 PS3판보다 추가 콘텐츠와 튜토리얼 개선이 있고, DX는 �
 
 ## 참고 자료
 
+- [RPG Site — Zack Reese의 PS3 직접 리뷰 8/10](https://www.rpgsite.net/review/3938-ar-nosurge-ode-to-an-unborn-star-review): 2014-10-14 PS3 원판 리뷰. 인물 묘사·음악을 높게 평가하고 영어 현지화 오류·성능 문제를 지적한다. Vita Plus 리뷰와 대상 판본을 구별한다.
+
 - [Famitsu - PS3 리뷰 32/40](https://www.famitsu.com/game/title/29938/reviews)
 - [Famitsu - 골드 전당](https://www.famitsu.com/news/201402/28048799.html)
 - [4Gamer - 일본 PS3 발매일·제품 정보](https://www.4gamer.net/games/234/G023461/20131227001/)
@@ -222,3 +235,4 @@ Plus는 PS3판보다 추가 콘텐츠와 튜토리얼 개선이 있고, DX는 �
 - [Steam - Ar nosurge DX / 한국어 미지원](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=koreana)
 - [Redump - PS3 지역별 제품 코드](https://redump.info/discs?letter=A&sort=status&system=PS3)
 - [A Reyvateil's Melody - 2025 Ciel nosurge Offline 영문패치](https://www.tapatalk.com/groups/revatail_hymmne/ciel-nosurge-offline-translation-patch-project-t1044.html)
+

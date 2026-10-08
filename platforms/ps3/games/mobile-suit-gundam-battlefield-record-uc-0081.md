@@ -1,6 +1,17 @@
 # Mobile Suit Gundam: Battlefield Record U.C. 0081 (기동전사 건담전기 Battlefield Record U.C.0081)
 
-> 원제: 機動戦士ガンダム戦記 MOBILE SUIT GUNDAM BATTLEFIELD RECORD U.C.0081 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 8.2/10 · 전체 55개 중 9위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 부대 지휘·장비 준비·전투가 맞물리고, 캠페인 연출도 충실하다는 직접 리뷰가 있다. 메카 조작의 재미와 이야기 양쪽을 기대할 만하며, PS3 고유 작품을 한국어로 여는 가치가 높다.
+- 현재 한국어 확인: 국내 매뉴얼 한글화 기록과 게임 내 한국어는 구분. 게임 내 공식 한국어·공개 완성 패치 미발견.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: 機動戦士ガンダム戦記 MOBILE SUIT GUNDAM BATTLEFIELD RECORD U.C.0081 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -197,6 +208,8 @@ PS3 세대 건담 게임 가운데 **부대 지휘, 커스터마이즈, 비교�
 
 ## 참고 자료
 
+- [Mecha Damashii — Cacophanus의 PS3 직접 리뷰 8/10](https://www.mechadamashii.com/reviews/reviews-gundam-senki-0081/): 부대 명령·장비 준비·임무 구성 및 영상 연출을 긍정적으로 평가한 기명 전문 리뷰. 2026-10-08 추가 확인.
+
 - [GameFAQs - PS3 발매 데이터 / BCKS-10090](https://gamefaqs.gamespot.com/ps3/958883-mobile-suit-gundam-battlefield-record-uc-0081/data)
 - [GameFAQs - 사용자 평가·플레이타임](https://gamefaqs.gamespot.com/ps3/958883-mobile-suit-gundam-battlefield-record-uc-0081/stats)
 - [GameFAQs - 일본어→영어 번역 FAQ](https://gamefaqs.gamespot.com/ps3/958883-mobile-suit-gundam-battlefield-record-uc-0081/faqs/57672)
@@ -207,3 +220,4 @@ PS3 세대 건담 게임 가운데 **부대 지휘, 커스터마이즈, 비교�
 - [Jeuxvideo.com - 사용자 평가 16.2/20](https://www.jeuxvideo.com/jeux/playstation-3-ps3/00029940-mobile-suit-gundam-battlefield-record-u-c-0081.htm)
 - [국내 통용 제목·한국 정발 매뉴얼 한글화 기록](https://namu.moe/w/%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%EC%A0%84%EA%B8%B0%20Battlefield%20Record%20U.C.0081)
 - [4Gamer - PS3 스크린샷 갤러리](https://www.4gamer.net/games/087/G008790/screenshot.html)
+

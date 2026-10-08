@@ -1,6 +1,17 @@
 # E.X. Troopers (엑스 트루퍼즈)
 
-> 원제: エクストルーパーズ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 8.5/10 · 전체 55개 중 4위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 만화식 연출과 빠르게 익히는 슈팅 액션, 동료들과의 교류가 잘 어울린다. 적 반복은 감안하되 플레이의 즐거움이 분명하고, PS3판을 한국어로 즐길 대안도 아직 찾지 못했다.
+- 현재 한국어 확인: 공식·공개 완성 한국어 미발견. Fan Translators International의 PS3/3DS 영어 패치 v1.0.2는 확인.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: エクストルーパーズ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -216,3 +227,4 @@ EDN-2nd에서 온 열혈 소년 브렌 터너는 EDN-3rd의 아카데미에 특�
 - [Fan Translators International - 프로젝트 기술 정보](https://fantranslators.info/projects/e-x-troopers/)
 - [Fan Translators International - v1.0.2](https://fantranslators.info/2024/01/01/e-x-troopers-english-translation-update-v1-0-2/)
 - [한글로게임 - PS3 한국어 패치 목록](https://www.hangulogame.com/platform/ps3/)
+

@@ -1,6 +1,17 @@
 # Koihime Enbu (연희연무)
 
-> 원제: 恋姫†演武 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.2/10 · 전체 55개 중 32위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 지상전·견제·카운터의 기본기가 좋아 대전 재미로 고를 만하다. 원판 시나리오는 RyoRaiRai에서 빠졌지만 원판 PC로도 볼 수 있어 PS3 선택의 필요성은 중간 이하다.
+- 현재 한국어 확인: Steam 원판은 영어·일본어, RyoRaiRai/Version3는 영어·일본어·중문 계열로 한국어 없음. PS3 및 동일계열 공개 한국어 패치 미발견. 번들의 한국어 목록은 개별 게임 한국어 증거가 아니다.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: 恋姫†演武 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -21,7 +32,7 @@
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | C |
 | 한글화 난이도 | 미확인 |
-| 현재 추천 버전 | PC Koihime Enbu RyoRaiRai + Version 3 DLC |
+| 현재 추천 버전 | 전투·로스터 확장 목적은 PC Koihime Enbu RyoRaiRai + Version 3 DLC / 별도 Scenario Mode 감상 목적은 원판 PS3·PS4·PC |
 
 ## 스포일러 최소 시놉시스
 
@@ -108,7 +119,7 @@ Famitsu 역시 PS3/PS4판에 28/40을 줬고, 이후 아케이드 대회가 100�
 - 2016 말 이후: 아케이드 Version 2 『RyoRaiRai』로 장료·가후 추가, 군사 소속 제한 해제, 밸런스 조정.
 - 2018: PS4·Steam 『Koihime Enbu RyoRaiRai』 출시.
 - 2021: Version 3 계열에서 서황과 곽가 추가, 기존 캐릭터 모션·시스템 재조정.
-- RyoRaiRai는 단순 후속작이라기보다 원작 Koihime Enbu를 확장·개편한 상위 버전에 가깝다.
+- RyoRaiRai는 캐릭터·시스템을 확장·개편한 판본이지만 원판의 별도 Scenario Mode는 수록하지 않아 모든 콘텐츠를 대체하는 상위호환은 아니다. 짧은 Arcade Mode 이야기는 남아 있다. 원판 PC판에도 Scenario Mode가 있으므로 이 콘텐츠가 PS3 독점인 것은 아니다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
@@ -118,12 +129,12 @@ Famitsu 역시 PS3/PS4판에 28/40을 줬고, 이후 아케이드 대회가 100�
 | PS3판 | 13 캐릭터 / 7 군사 / Training·Challenge·Replay / 로컬·온라인 대전 |
 | PS4판 | PS3와 같은 가정용 기본 구성 |
 | PC 원판 | PS3/PS4 기반 / 영어·일본어 / 온라인 PvP |
-| PS4·PC RyoRaiRai | 장료·가후 추가 / 군사 제한 해제 / 밸런스·스테이지 개편 |
+| PS4·PC RyoRaiRai | 장료·가후 추가 / 군사 제한 해제 / 밸런스·스테이지 개편 / 원판 별도 Scenario Mode 미수록, Arcade Mode 이야기는 유지 |
 | RyoRaiRai Version 3 | 서황·곽가 추가 / 모션·시스템 재조정 / Challenge·Training 재정비 |
 
 ## 현재 추천 버전
 
-현재 플레이 목적이라면 **PC 『Koihime Enbu RyoRaiRai』 + Version 3 DLC**를 가장 우선 추천한다.
+전투·로스터 확장 목적이라면 **PC 『Koihime Enbu RyoRaiRai』 + Version 3 DLC**를 우선 추천한다. 다만 원판의 별도 **Scenario Mode**까지 보려면 원판 PS3·PS4·PC가 필요하다.
 
 RyoRaiRai에서 장료와 가후가 추가되고 군사 소속 제한이 사라졌으며, Version 3에서는 서황·곽가 추가와 시스템 재조정까지 들어갔다. 현재 Steam에서도 판매 중이고 사용자 평가는 매우 긍정적이다.
 
@@ -193,3 +204,4 @@ PC판과 후속 확장판에 영어 텍스트가 존재해 번역 대조에는 �
 - [PlayStation Store Japan - RyoRaiRai / 장료·가후 추가](https://store.playstation.com/ja-jp/concept/232269)
 - [Steam - RyoRaiRai 언어·현재 사용자 평가](https://store.steampowered.com/app/795510/Koihime_Enbu_RyoRaiRai/?l=koreana)
 - [Steam - RyoRaiRai Version 3 / 서황·곽가·시스템 재조정](https://store.steampowered.com/app/1603560/_Version_3/?l=koreana)
+

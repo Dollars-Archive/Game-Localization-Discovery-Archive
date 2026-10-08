@@ -67,6 +67,9 @@
   }
 
   function rowCompare(a, b, sortKey) {
+    if (sortKey === 'personal') return (b.personalScore || 0) - (a.personalScore || 0)
+      || (a.personalRank || Number.MAX_SAFE_INTEGER) - (b.personalRank || Number.MAX_SAFE_INTEGER)
+      || String(a.title).localeCompare(String(b.title), 'ko');
     if (sortKey === 'priority') return (a.priorityRank == null ? 9 : a.priorityRank) - (b.priorityRank == null ? 9 : b.priorityRank)
       || (b.ratingValue || 0) - (a.ratingValue || 0)
       || String(a.title).localeCompare(String(b.title), 'ko');

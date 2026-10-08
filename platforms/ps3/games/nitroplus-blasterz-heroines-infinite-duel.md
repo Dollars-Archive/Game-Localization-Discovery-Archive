@@ -1,6 +1,17 @@
 # Nitroplus Blasterz: Heroines Infinite Duel (니트로플러스 블래스터즈 -히로인즈 인피니트 듀얼-)
 
-> 원제: ニトロプラス ブラスターズ -ヒロインズ インフィニット デュエル- / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.2/10 · 전체 55개 중 30위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 두 지원 캐릭터를 엮는 빠른 전투와 각기 다른 기술이 매력적이다. 이야기·싱글 구성은 짧고 PC판이 DLC와 밸런스를 보강해 PS3 발굴의 긴급성은 낮다.
+- 현재 한국어 확인: PS3·PS4 공개 한국어 미확인. Steam은 영어·일본어만 지원하고 PC 공개 한국어 패치도 미발견. 한국 Steam 커뮤니티 언어는 게임 한국어 지원과 다르다.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: ニトロプラス ブラスターズ -ヒロインズ インフィニット デュエル- / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -206,3 +217,4 @@ LaunchBox Games Database가 **Sony PlayStation 3판**으로 분류한 실제 게
 - [LaunchBox - PS3 상세 정보](https://gamesdb.launchbox-app.com/games/details/81970)
 - [LaunchBox - PS3 스크린샷](https://gamesdb.launchbox-app.com/games/images/81970-nitroplus-blasterz-heroines-infinite-duel)
 - [리브레 위키 - 국내 통용 제목·일본어판 정보](https://librewiki.net/wiki/%EB%8B%88%ED%8A%B8%EB%A1%9C%ED%94%8C%EB%9F%AC%EC%8A%A4_%EB%B8%94%EB%9E%98%EC%8A%A4%ED%84%B0%EC%A6%88_-%ED%9E%88%EB%A1%9C%EC%9D%B8%EC%A6%88_%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8_%EB%93%80%EC%96%BC-)
+

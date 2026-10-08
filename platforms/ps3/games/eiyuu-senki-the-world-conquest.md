@@ -1,6 +1,17 @@
 # Eiyuu Senki: The World Conquest (영웅전희: 더 월드 컨퀘스트)
 
-> 원제: 英雄＊戦姫 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.7/10 · 전체 55개 중 18위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 인물별 능력을 활용한 전술과 지역 운영, 대화를 함께 즐길 수 있다. 인물 수가 많아도 묘사가 모두 깊지는 않다는 지적을 감안해야 하며, GOLD·WWW의 한국어 자료는 이 본편의 대안과 구별해야 한다.
+- 현재 한국어 확인: 본편 PS3·동일PC 한국어 완성 대안 미발견. GOLD 99% 준한글화와 2026WWW AI패치는 별도 작품이라 이 본편 제외사유 아님.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: 英雄＊戦姫 / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -210,3 +221,4 @@ PS3판은 성인 PC 원작을 콘솔용으로 재구성한 버전이며, 이후 
 - [Tech-Gaming - PS3 리뷰](https://www.tech-gaming.com/eiyuu-senki-the-world-conquest/)
 - [RPGamer - PS3 인상](https://archive.rpgamer.com/games/eiyuu/eiyuu/eiyuuimp.html)
 - [영웅전희 GOLD 99% 준한글화 자료](https://polaris.hided.net/index.php?document_srl=2566025&mid=aral_pds&order_type=desc&sort_index=last_update)
+

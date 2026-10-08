@@ -1,6 +1,17 @@
 # Ketsui: Kizuna Jigoku Tachi Extra (케츠이: 키즈나 지고쿠타치 EXTRA)
 
-> 원제: ケツイ ～絆地獄たち～ EXTRA / 상태: 💎 우선 후보 / 발굴 추천도: ⭐⭐⭐⭐☆ 4.0/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 8.0/10 · 전체 55개 중 13위**
+- 현재 작품성 **4.0/5** / 이전 기록 **4.0/5**
+- 목록 구분: **선정 30개**
+- 위험을 감수하는 근접 점수 설계와 탄막 공략의 밀도가 뛰어나다. 순수한 플레이 재미로 충분히 권할 수 있지만, 입문·연습은 PS4 Deathtiny가 편하고 PS3는 고유 X Mode에 의미가 있다.
+- 현재 한국어 확인: 공식·공개 완성 한국어 미발견. 검색의 무출처 ROM 사이트 '지원언어 한글' 문구는 패치 증거로 채택하지 않음.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: ケツイ ～絆地獄たち～ EXTRA / 상태: 💎 우선 후보 / 발굴 추천도: ⭐⭐⭐⭐☆ 4.0/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -198,3 +209,4 @@ M2가 아케이드 원작을 고정밀로 다시 이식했고, Super Easy·Custo
 - [MobyGames - Extra X Mode 설명](https://www.mobygames.com/game/114351/ketsui-kizuna-jigoku-tachi-extra/)
 - [M2 ShotTriggers - PS4 Deathtiny 공식 기능 소개](https://m2stg.com/en/ketsui/feature.php)
 - [M2 ShotTriggers - PS4 Deathtiny 공식 갤러리](https://m2stg.com/ketsui/gallery.php)
+

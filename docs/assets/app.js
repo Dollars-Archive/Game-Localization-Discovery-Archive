@@ -18,7 +18,7 @@ const PLATFORMS = {
   ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md' },
   psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md' },
   psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md' },
-  ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md' },
+  ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md', reservePath: 'platforms/ps3/reserve.md' },
   dreamcast: { label: 'DREAMCAST', short: 'Dreamcast', path: 'platforms/dreamcast/README.md' },
 };
 
@@ -140,6 +140,9 @@ async function initIndex() {
   const sortButtons = [...document.querySelectorAll('.sort-btn[data-sort]')];
   const watchOnlyButton = document.getElementById('watch-only');
   const myListButton = document.getElementById('my-list-summary');
+  const ps3Views = document.getElementById('ps3-views');
+  const selectedButton = document.getElementById('ps3-selected');
+  const reserveButton = document.getElementById('ps3-reserve');
   const settingsOpen = document.getElementById('settings-open');
   const settingsDialog = document.getElementById('settings-dialog');
   const tokenInput = document.getElementById('token-input');
@@ -163,15 +166,20 @@ async function initIndex() {
 
   const params = new URLSearchParams(location.search);
   let activePlatform = PLATFORMS[params.get('platform')] ? params.get('platform') : 'ps2';
-  let sortKey = 'priority';
+  let reserveView = activePlatform === 'ps3' && params.get('view') === 'reserve';
+  let sortKey = activePlatform === 'ps3' ? 'personal' : 'priority';
   let ascending = true;
   let watchOnly = false;
-  let myList = false;
+  let myList = params.get('view') === 'my-list';
   let watchlist = Core.normalizeWatchlist({});
   let lastSavedWatchlist = Core.cloneWatchlist(watchlist);
   let watchlistSha = '';
   let patches = new Map();
   const rowsByPlatform = new Map();
+  const platformLoads = new Map();
+  let renderVersion = 0;
+  let comparisonVersion = 0;
+  let comparisonHash = '';
   let compareKeys = new Set(Core.compareKeysFromHash(location.hash));
   const dirtyKeys = new Set();
   let orderDirty = false;
@@ -269,15 +277,21 @@ async function initIndex() {
     }
   };
 
-  const parseRows = (markdown, platform) => {
+  const parseRows = (markdown, platform, reserve = false) => {
     if (!hasMarkdownTable(markdown, '게임')) throw new Error('후보 표를 찾지 못했습니다.');
     return extractMarkdownTable(markdown, '게임').map(raw => {
       const game = parseMdLink(raw['게임']);
       const key = gameKeyFromHref(game.href, platform);
       const patch = patches.get(key) || null;
+      const score = Number(cleanText(raw['개인 추천점수'] || ''));
+      const rank = Number(cleanText(raw['개인 순위'] || ''));
       return {
         key,
         platform,
+        reserve,
+        reserveReason: cleanText(raw['예비 사유'] || ''),
+        personalScore: platform === 'ps3' && Number.isFinite(score) && score >= 1 && score <= 10 ? score : null,
+        personalRank: platform === 'ps3' && Number.isInteger(rank) && rank > 0 ? rank : null,
         title: cleanText(game.label),
         href: game.href,
         year: Number(cleanText(raw['발매'])) || 0,
@@ -296,11 +310,22 @@ async function initIndex() {
 
   const loadPlatformRows = async platform => {
     if (rowsByPlatform.has(platform)) return rowsByPlatform.get(platform);
+    if (platformLoads.has(platform)) return platformLoads.get(platform);
     const config = PLATFORMS[platform];
-    const markdown = await fetchText(`${RAW_BASE}${config.path}`);
-    const rows = parseRows(markdown, platform);
-    rowsByPlatform.set(platform, rows);
-    return rows;
+    const pending = (async () => {
+      const sources = [{ path: config.path, reserve: false }];
+      if (config.reservePath) sources.push({ path: config.reservePath, reserve: true });
+      const lists = await Promise.all(sources.map(async source =>
+        parseRows(await fetchText(`${RAW_BASE}${source.path}`), platform, source.reserve)));
+      const rows = lists.flat();
+      const keys = new Set(rows.map(row => row.key));
+      if (keys.size !== rows.length || keys.has('')) throw new Error('후보 목록에 중복되거나 빈 문서 경로가 있습니다.');
+      rowsByPlatform.set(platform, rows);
+      return rows;
+    })();
+    platformLoads.set(platform, pending);
+    try { return await pending; }
+    finally { platformLoads.delete(platform); }
   };
 
   const loadAllRows = async () => {
@@ -308,12 +333,18 @@ async function initIndex() {
     return [...rowsByPlatform.values()].flat();
   };
 
-  const updateStats = () => {
-    const rows = visibleRows(rowsByPlatform.get(activePlatform) || []);
+  const updateStats = allRows => {
+    const platformRows = visibleRows(rowsByPlatform.get(activePlatform) || []);
+    const rows = myList ? allRows : platformRows.filter(row => row.reserve === (activePlatform === 'ps3' && reserveView));
+    const selectedCount = platformRows.filter(row => !row.reserve).length;
+    const reserveCount = platformRows.filter(row => row.reserve).length;
+    selectedButton.textContent = `선정 ${selectedCount}개`;
+    reserveButton.textContent = `예비 ${reserveCount}개`;
+    const countLabel = myList ? '내 목록' : activePlatform === 'ps3' && reserveView ? '예비 기록' : '등록 후보';
     const aCount = rows.filter(row => row.priorityRank === 0).length;
     const bCount = rows.filter(row => row.priorityRank === 1).length;
     const cCount = rows.filter(row => row.priorityRank === 2).length;
-    stats.innerHTML = `<span class="stat">등록 후보 <strong>${rows.length}</strong></span><span class="stat">🔥 A <strong>${aCount}</strong></span><span class="stat">B <strong>${bCount}</strong></span><span class="stat">C <strong>${cCount}</strong></span>`;
+    stats.innerHTML = `<span class="stat">${countLabel} <strong>${rows.length}</strong></span><span class="stat">🔥 A <strong>${aCount}</strong></span><span class="stat">B <strong>${bCount}</strong></span><span class="stat">C <strong>${cCount}</strong></span>`;
     const wipCount = [...patches.values()].filter(patch => patch.status === 'wip' && patch.discovery && notDeleted(patch.discovery)).length;
     myListButton.textContent = `★ 찜 ${Object.keys(watchlist.items).filter(notDeleted).length} · 🛠 착수 ${wipCount} (전체 기종)`;
     myListButton.setAttribute('aria-pressed', String(myList));
@@ -379,10 +410,12 @@ async function initIndex() {
       <td data-label="게임"><a class="game-link" href="${localizeGamePath(row.href, row.platform)}">${escapeHtml(row.title)}</a>${noteMarkup(row)}${patchMarkup(row)}</td>
       <td data-label="발매">${row.year || ''}</td>
       <td data-label="장르">${escapeHtml(row.genre)}</td>
-      <td data-label="발굴 추천도" class="rating">${escapeHtml(row.rating)}</td>
+      <td data-label="${row.platform === 'ps3' ? '개인 / 작품성' : '발굴 추천도'}" class="rating">${row.platform === 'ps3'
+        ? `<span class="rating-details"><span class="personal-rating">개인 ${row.personalScore == null ? '미평가' : `${row.personalScore.toFixed(1)}/10`}${row.personalRank ? ` · ${row.personalRank}위` : ''}</span><span class="quality-rating">작품성 ${escapeHtml(row.rating)}</span></span>`
+        : escapeHtml(row.rating)}</td>
       <td data-label="한글화 우선도">${priorityBadge(row.priority)}</td>
       <td data-label="타 기종 / 다른 버전" class="meta-muted">${escapeHtml(row.versions)}</td>
-      <td data-label="상태" class="state">${escapeHtml(row.state)}</td>
+      <td data-label="상태" class="state"><span>${escapeHtml(row.state)}${row.reserve ? `<span class="reserve-label">예비${row.reserveReason ? ` · ${escapeHtml(row.reserveReason)}` : ''}</span>` : ''}</span></td>
       <td data-label="관리">${actionMarkup(row)}</td>
     </tr>`;
   };
@@ -396,7 +429,8 @@ async function initIndex() {
       const all = await loadAllRows();
       return visibleRows(all).filter(row => watchlist.items[row.key] || row.patchStatus === 'wip');
     }
-    return visibleRows(await loadPlatformRows(activePlatform));
+    const rows = await loadPlatformRows(activePlatform);
+    return visibleRows(rows).filter(row => row.reserve === (activePlatform === 'ps3' && reserveView));
   };
 
   const updateCompareBar = () => {
@@ -407,39 +441,63 @@ async function initIndex() {
   };
 
   const render = async () => {
-    const all = await currentRows();
-    compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
-    if (location.hash.startsWith('#compare=')) {
-      history.replaceState(null, '', `${location.pathname}${location.search}${compareKeys.size >= 2 ? Core.compareHash([...compareKeys]) : ''}`);
+    const version = ++renderVersion;
+    try {
+      const all = await currentRows();
+      if (version !== renderVersion) return;
+      compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+      if (location.hash.startsWith('#compare=')) {
+        history.replaceState(null, '', `${location.pathname}${location.search}${compareKeys.size >= 2 ? Core.compareHash([...compareKeys]) : ''}`);
+      }
+      if (compareKeys.size < 2) closeComparison();
+      if (!hasToken() && deletedDialog.open) deletedDialog.close();
+      const query = (search.value || '').trim().toLocaleLowerCase('ko');
+      let filtered = all.filter(row => {
+        const note = (watchlist.items[row.key] || {}).note || '';
+        return `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority} ${row.reserveReason} ${note}`.toLocaleLowerCase('ko').includes(query);
+      });
+      if (watchOnly) filtered = filtered.filter(row => watchlist.items[row.key]);
+
+      const grouped = Core.groupRows(filtered, watchlist, sortKey, ascending);
+      const html = [
+        groupHeading('🛠 착수', grouped.started.length, 'started'),
+        ...grouped.started.map(row => rowMarkup(row, 'started')),
+        groupHeading('★ 찜', grouped.star.length, 'starred'),
+        ...grouped.star.map(row => rowMarkup(row, 'star')),
+        ...grouped.rest.map(row => rowMarkup(row, 'rest')),
+      ].join('');
+
+      body.innerHTML = html || `<tr><td colspan="9" class="meta-muted empty-row">${filtered.length ? '표시할 항목이 없습니다.' : '검색 결과가 없습니다.'}</td></tr>`;
+      platformButtons.forEach(button => button.classList.toggle('active', !myList && button.dataset.platform === activePlatform));
+      platformEyebrow.textContent = myList ? 'MY WATCHLIST' : PLATFORMS[activePlatform].label;
+      platformTitle.textContent = myList ? '내 목록' : activePlatform === 'ps3' ? (reserveView ? 'PS3 예비 목록' : 'PS3 선정 후보') : '현재 후보';
+      ps3Views.hidden = myList || activePlatform !== 'ps3';
+      selectedButton.classList.toggle('active', !reserveView);
+      selectedButton.setAttribute('aria-pressed', String(!reserveView));
+      reserveButton.classList.toggle('active', reserveView);
+      reserveButton.setAttribute('aria-pressed', String(reserveView));
+      sortButtons.forEach(button => {
+        button.hidden = button.dataset.sort === 'personal' && (myList || activePlatform !== 'ps3');
+        button.classList.toggle('active', button.dataset.sort === sortKey);
+        button.setAttribute('aria-pressed', String(button.dataset.sort === sortKey));
+        const label = button.dataset.label || button.textContent;
+        button.textContent = button.dataset.sort === sortKey ? `${label} ${ascending ? '↑' : '↓'}` : label;
+      });
+      sourceNote.innerHTML = myList
+        ? '전체 기종의 <strong>★ 찜</strong>과 <strong>🛠 착수</strong> 항목을 모아 표시합니다. PS3 예비 기록도 포함하며 찜의 수동 순서를 유지합니다.'
+        : activePlatform === 'ps3'
+          ? `개인 추천점수(1–10)는 작품성(5점 만점)과 별개입니다. 한글화 후보 조건을 통과한 선정 후보와 예비 기록을 나눠 표시합니다. 개인 순위는 전체 기록 기준이며 찜의 수동 순서는 유지됩니다. <a href="${GITHUB_BASE}platforms/ps3/reassessments/2026-10-08-personal-top-30.md" target="_blank" rel="noreferrer">평가 근거와 선정 기준</a> · <a href="${GITHUB_BASE}${reserveView ? PLATFORMS.ps3.reservePath : PLATFORMS.ps3.path}" target="_blank" rel="noreferrer">${reserveView ? '예비 사유와 원본 보기' : '선정 원본 보기'}</a>`
+        : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
+      status.hidden = true;
+      wrap.hidden = false;
+      updateStats(all);
+      updateCompareBar();
+    } catch (error) {
+      if (version !== renderVersion) return;
+      status.hidden = false;
+      status.textContent = `목록을 불러오지 못했습니다: ${error.message}. 목록 버튼을 눌러 다시 시도해 주세요.`;
+      wrap.hidden = true;
     }
-    if (!hasToken() && deletedDialog.open) deletedDialog.close();
-    const query = (search.value || '').trim().toLocaleLowerCase('ko');
-    let filtered = all.filter(row => {
-      const note = (watchlist.items[row.key] || {}).note || '';
-      return `${row.title} ${row.genre} ${row.versions} ${row.state} ${row.priority} ${note}`.toLocaleLowerCase('ko').includes(query);
-    });
-    if (watchOnly) filtered = filtered.filter(row => watchlist.items[row.key]);
-
-    const grouped = Core.groupRows(filtered, watchlist, sortKey, ascending);
-    const html = [
-      groupHeading('🛠 착수', grouped.started.length, 'started'),
-      ...grouped.started.map(row => rowMarkup(row, 'started')),
-      groupHeading('★ 찜', grouped.star.length, 'starred'),
-      ...grouped.star.map(row => rowMarkup(row, 'star')),
-      ...grouped.rest.map(row => rowMarkup(row, 'rest')),
-    ].join('');
-
-    body.innerHTML = html || `<tr><td colspan="9" class="meta-muted empty-row">${filtered.length ? '표시할 항목이 없습니다.' : '검색 결과가 없습니다.'}</td></tr>`;
-    platformButtons.forEach(button => button.classList.toggle('active', !myList && button.dataset.platform === activePlatform));
-    platformEyebrow.textContent = myList ? 'MY WATCHLIST' : PLATFORMS[activePlatform].label;
-    platformTitle.textContent = myList ? '내 목록' : '현재 후보';
-    sourceNote.innerHTML = myList
-      ? '전체 기종의 <strong>★ 찜</strong>과 <strong>🛠 착수</strong> 항목을 모아 표시합니다.'
-      : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
-    status.hidden = true;
-    wrap.hidden = false;
-    updateStats();
-    updateCompareBar();
   };
 
   const queueSave = (label, key, changedOrder = false) => {
@@ -615,11 +673,19 @@ async function initIndex() {
     await applyVisibleOrder(visible);
   };
 
+  const closeComparison = () => {
+    comparisonVersion += 1;
+    comparisonHash = '';
+    if (compareDialog.open) compareDialog.close();
+  };
+
   const openComparison = async () => {
     compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
     if (compareKeys.size < 2) return;
+    const version = ++comparisonVersion;
     const keys = [...compareKeys].slice(0, 4);
-    history.replaceState(null, '', `${location.pathname}${location.search}${Core.compareHash(keys)}`);
+    comparisonHash = Core.compareHash(keys);
+    history.replaceState(null, '', `${location.pathname}${location.search}${comparisonHash}`);
     compareContent.innerHTML = '<p class="status">비교 정보를 불러오는 중…</p>';
     if (!compareDialog.open) compareDialog.showModal();
     try {
@@ -627,6 +693,7 @@ async function initIndex() {
         const markdown = await fetchText(`${RAW_BASE}${key}`);
         return { key, ...parseCompareDocument(markdown) };
       }));
+      if (version !== comparisonVersion || !compareDialog.open) return;
       const fields = [
         ['플랫폼', doc => doc.info['플랫폼']],
         ['발매일', doc => doc.info['발매일']],
@@ -672,6 +739,7 @@ async function initIndex() {
 
       compareContent.innerHTML = `<table class="compare-table">${head}<tbody>${rows.join('')}</tbody></table>`;
     } catch (error) {
+      if (version !== comparisonVersion || !compareDialog.open) return;
       compareContent.innerHTML = `<p class="status">비교 정보를 불러오지 못했습니다: ${escapeHtml(error.message)}</p>`;
     }
   };
@@ -700,7 +768,7 @@ async function initIndex() {
       showToast(deleted ? '후보 목록에서 삭제했습니다' : '후보 목록으로 복구했습니다');
       if (compareDialog.open) {
         compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
-        if (compareKeys.size < 2) compareDialog.close();
+        if (compareKeys.size < 2) closeComparison();
         else await openComparison();
       }
     } catch (_) {
@@ -728,6 +796,15 @@ async function initIndex() {
     renderDeleted();
     retrySync.disabled = false;
   });
+
+  const restoreComparison = () => {
+    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => watchlist.items[key] && notDeleted(key)));
+    if (compareKeys.size < 2) { closeComparison(); return; }
+    const hash = Core.compareHash([...compareKeys]);
+    // popstate and hashchange can describe the same history entry.
+    if (compareDialog.open && comparisonHash === hash) return;
+    return openComparison();
+  };
 
   body.addEventListener('click', event => {
     const remove = event.target.closest('.candidate-delete');
@@ -826,20 +903,55 @@ async function initIndex() {
     });
   });
 
+  const syncLocation = () => {
+    closeComparison();
+    const url = new URL(location.href);
+    url.searchParams.set('platform', activePlatform);
+    if (myList) url.searchParams.set('view', 'my-list');
+    else if (reserveView && activePlatform === 'ps3') url.searchParams.set('view', 'reserve');
+    else url.searchParams.delete('view');
+    url.hash = '';
+    if (url.href !== location.href) history.pushState(null, '', url);
+  };
+
+  const setPlatformSort = () => {
+    if (!myList && activePlatform === 'ps3') { sortKey = 'personal'; ascending = true; }
+    else if (sortKey === 'personal') { sortKey = 'priority'; ascending = true; }
+  };
+
   platformButtons.forEach(button => button.addEventListener('click', async () => {
     myList = false;
     activePlatform = button.dataset.platform;
+    reserveView = false;
+    setPlatformSort();
     search.value = '';
-    status.hidden = false;
-    status.textContent = '후보 목록을 불러오는 중…';
-    wrap.hidden = true;
-    const url = new URL(location.href);
-    url.searchParams.set('platform', activePlatform);
-    url.hash = '';
-    history.replaceState(null, '', url);
-    await loadPlatformRows(activePlatform);
+    syncLocation();
     await render();
   }));
+
+  const selectPs3View = async reserve => {
+    myList = false;
+    activePlatform = 'ps3';
+    reserveView = reserve;
+    setPlatformSort();
+    search.value = '';
+    syncLocation();
+    await render();
+  };
+  selectedButton.addEventListener('click', () => selectPs3View(false));
+  reserveButton.addEventListener('click', () => selectPs3View(true));
+
+  window.addEventListener('popstate', async () => {
+    const next = new URLSearchParams(location.search);
+    activePlatform = PLATFORMS[next.get('platform')] ? next.get('platform') : 'ps2';
+    reserveView = activePlatform === 'ps3' && next.get('view') === 'reserve';
+    myList = next.get('view') === 'my-list';
+    setPlatformSort();
+    search.value = '';
+    const comparison = restoreComparison();
+    await render();
+    await comparison;
+  });
 
   watchOnlyButton.addEventListener('click', async () => {
     watchOnly = !watchOnly;
@@ -850,12 +962,8 @@ async function initIndex() {
 
   myListButton.addEventListener('click', async () => {
     myList = !myList;
-    if (myList) {
-      status.hidden = false;
-      status.textContent = '전체 기종의 내 목록을 불러오는 중…';
-      wrap.hidden = true;
-      await loadAllRows();
-    }
+    setPlatformSort();
+    syncLocation();
     await render();
   });
 
@@ -883,12 +991,14 @@ async function initIndex() {
   });
 
   compareClear.addEventListener('click', async () => {
+    closeComparison();
     compareKeys.clear();
     history.replaceState(null, '', `${location.pathname}${location.search}`);
     await render();
   });
   compareOpen.addEventListener('click', openComparison);
-  compareClose.addEventListener('click', () => compareDialog.close());
+  compareClose.addEventListener('click', closeComparison);
+  compareDialog.addEventListener('cancel', closeComparison);
   compareContent.addEventListener('click', async event => {
     const button = event.target.closest('.compare-top');
     if (!button || !hasToken() || !notDeleted(button.dataset.key)) return;
@@ -900,10 +1010,9 @@ async function initIndex() {
   });
 
   window.addEventListener('hashchange', async () => {
-    if (!location.hash.startsWith('#compare=')) return;
-    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => watchlist.items[key] && notDeleted(key)));
+    const comparison = restoreComparison();
     await render();
-    if (compareKeys.size >= 2) await openComparison();
+    await comparison;
   });
 
   status.hidden = false;
@@ -912,7 +1021,7 @@ async function initIndex() {
   await verifyEditor();
   await Promise.all([loadDeletionState(), loadPatches(), loadWatchlist().then(value => { watchlist = value; lastSavedWatchlist = Core.cloneWatchlist(value); })]);
   compareKeys = new Set([...compareKeys].filter(key => watchlist.items[key] && notDeleted(key)));
-  await loadPlatformRows(activePlatform);
+  if (myList) setPlatformSort();
   await render();
   if (compareKeys.size >= 2) await openComparison();
 }

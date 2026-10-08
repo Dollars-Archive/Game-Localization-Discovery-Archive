@@ -1,6 +1,17 @@
 # Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)
 
-> 원제: 影牢 ～ダークサイド プリンセス～ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.6/10 · 전체 55개 중 19위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 함정을 연결해 자기만의 공략을 만드는 플레이가 독특하고, 여성 주인공도 직접 조작의 중심에 있다. 다만 본편 전체를 포함한 Nightmare Princess가 있으므로 PS3 원본보다 보강판을 먼저 검토하는 편이 합리적이다.
+- 현재 한국어 확인: 국내 원본 일본어 유통. Blood Ties 및 Nightmare Princess 공식/공개 완성 한국어 패치 미발견.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: 影牢 ～ダークサイド プリンセス～ / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -200,3 +211,4 @@ Blood Ties의 전체 콘텐츠를 포함하면서 Velguirie의 신규 Quest, 180
 - [GameFAQs - The Nightmare Princess 발매·추가 콘텐츠](https://gamefaqs.gamespot.com/ps4/108538-deception-iv-the-nightmare-princess/data)
 - [PlayStation Store - The Nightmare Princess PS4](https://store.playstation.com/en-us/product/UP4108-CUSA02859_00-DECEPTIONNP00000)
 - [PSPrices - The Nightmare Princess 자막 언어](https://psprices.com/region-mt/game/2877609/deception-iv-the-nightmare-princess?lang=ko)
+

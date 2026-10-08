@@ -1,6 +1,17 @@
 # Dengeki Bunko: Fighting Climax Ignition (전격문고 FIGHTING CLIMAX IGNITION)
 
-> 원제: 電撃文庫 FIGHTING CLIMAX IGNITION / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 조사 기준일: 2026-10-07
+## 2026-10-08 개인 추천과 선정 결과
+
+- **개인 추천 7.6/10 · 전체 55개 중 23위**
+- 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
+- 목록 구분: **선정 30개**
+- 전격문고 대전을 고른다면 원판보다 우선이다. 지원 조합과 라운드별 강화 선택이 늘어 손맛을 연구할 여지가 있고, 교류 대사 번역도 의미가 있다.
+- 현재 한국어 확인: 신빙성 있는 한국어 제작·배포 근거를 찾지 못했다. 일반 목록 제목과 ROM 배포 페이지의 공통 ‘한글패치’ 문구는 제외. 공개 비공식 영어 번역 기록은 한국어 대안이 아니다.
+
+[동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
+
+
+> 원제: 電撃文庫 FIGHTING CLIMAX IGNITION / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: C / 기초 조사: 2026-10-07 / 재심사: 2026-10-08
 
 ## 한눈에 보기
 
@@ -188,7 +199,7 @@ LaunchBox Games Database가 Sony PlayStation 3판으로 분류한 실제 게임 
 ## 최종 판정
 
 - 발굴 추천도: ⭐⭐⭐½☆ 3.5/5
-- 상태: 🟢 후보
+- 상태: **🟢 후보**
 - 한글화 우선도: C
 - PS3 후보 등록 기준: 통과
 - 한국어 대안 제외 규칙: 통과
@@ -210,3 +221,4 @@ LaunchBox Games Database가 Sony PlayStation 3판으로 분류한 실제 게임 
 - [4Gamer - 개발자 인터뷰](https://www.4gamer.net/games/316/G031655/20151217120/)
 - [MobyGames - Ignition 판본·DLC 관계](https://www.mobygames.com/game/143921/dengeki-bunko-fighting-climax-ignition/)
 - [LaunchBox - PS3판 스크린샷](https://gamesdb.launchbox-app.com/games/details/80866)
+

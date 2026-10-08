@@ -65,6 +65,11 @@ h1, h2, h3 { line-height: 1.25; letter-spacing: -.035em; }
 .priority-b { background: #e8eefc; color: #36538c; }
 .priority-c { background: #ececec; color: #606060; }
 .rating { white-space: nowrap; color: var(--gold); font-weight: 700; }
+.ps3-views[hidden], .sort-btn[hidden] { display: none; }
+.rating-details { display: block; }
+.personal-rating { display: block; margin-bottom: 3px; color: var(--accent); font-size: 13px; }
+.quality-rating { display: block; font-size: 12px; }
+.reserve-label { display: block; margin-top: 4px; color: var(--muted); font-size: 12px; white-space: normal; overflow-wrap: anywhere; }
 .state { white-space: nowrap; }
 .footnote { margin: 0; padding: 18px 30px 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
 .reader-shell { max-width: 980px; margin: 0 auto; padding: 48px 22px 90px; }

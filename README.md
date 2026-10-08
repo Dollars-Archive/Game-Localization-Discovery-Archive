@@ -14,7 +14,7 @@
 | PlayStation 2 | 40 | 5 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 7 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 30 | 4 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
-| PlayStation 3 | 55 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
+| PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 2 | 0 | 0 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 
 > [!NOTE]
@@ -27,6 +27,8 @@
 > PS Vita 보존 30개 중 활성 후보는 **26개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **4개**, A 3 / B 11 / C 12입니다. [2026-10-08 전체 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md).
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
+>
+> PS3는 **55개 기록을 보존**하며, 개인 추천점수와 후보 자격을 함께 심사해 **기본 선정 30개 / 예비 25개**로 나눴습니다. [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
 >
 > PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 >
@@ -189,4 +191,5 @@ PSP의 **3.5점 후보만 123개 → 30개**로 압축했습니다. 4.0점 22개
 ## PSP 후보 재심사 (2026-09-20)
 
 PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·자료 보류 9작품·중복 1행을 활성 후보표에서 분리했습니다. 4.0 이상 25작품과 사용자 승인 3.0 예외 1작품은 유지합니다. [검토 범위와 판정](platforms/psp/reassessments/2026-09-20-3-5-audit.md)
+
 
