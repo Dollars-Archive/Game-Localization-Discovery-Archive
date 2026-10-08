@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 보존 항목: **30개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **2개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **2개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -29,7 +29,6 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Psycho-Pass: Mandatory Happiness (사이코패스: 선택 없는 행복)](games/psycho-pass-mandatory-happiness.md) | 2016 | SF·범죄 비주얼노벨 / 선택형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | MC Vita 64·11평론 / RPG Site 8 / RPGFan 79 / Destructoid 7.5 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / PC도 공식 한국어 미지원 | Xbox One 2015 원작 / PS4·Vita 2016 / PC 2017 | 🟢 후보 |
 | [To Love-Ru Trouble Darkness: True Princess (투 러브 트러블 다크니스: 트루 프린세스)](games/to-love-ru-darkness-true-princess.md) | 2015 | 연애 시뮬레이션 / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Dengeki 정성평가 / Play-Asia 5/5·10평점 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 공식 영어판 없음 / 영문 팬 번역 자료 존재 | PS Vita 독점 / Battle Ecstasy와 별개 / 후발 공식 이식 확인 못함 | 🟢 후보 |
 | [Zanki Zero: Last Beginning (잔키 제로)](games/zanki-zero.md) | 2018 | 1인칭 생존 던전 RPG / 실시간 타일 전투 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40 / GameFAQs Vita 1.56·24명 / RPGFan 85·PS4 참고 / Steam 77%·650평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Vita 영문 정식판 없음 | 일본 Vita 원본 / v1.03 New Game+·UI 개선 / 서구 PS4·PC는 일부 CG·아동기 이벤트 변경 | 🟢 후보 |
-| [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 중심 비주얼노벨 / 사신의 혼돈 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / GameFAQs Great·16명·13h / Play-Asia 5/5·25평가 / Gamer 정성 호평 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 일본어 전용 | PS Vita 독점 / 전체 절반 이상 오리지널 / v1.10 FORKS GEAR 추가 / 후발 이식 없음 | 🟢 후보 |
 | [Tokushu Houdoubu (특수보도부)](games/tokushu-houdoubu.md) | 2012 | 초상현상 보도 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40 / 4Gamer 80·1명 / 가격.com 3.43·3명 / 게임카탈로그 판정 없음 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 한국 Store 지역 등록만 확인 | PS Vita 독점 / v1.01 / 공식 후발 이식·리마스터 없음 | 🟢 후보 |
 | [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 풍자 ADV / 토론 배틀 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | PS Vita 원판 / 후발 이식 확인 못함 | 🟢 후보 |
 | [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
@@ -50,6 +49,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Piofiore no Banshou / Piofiore: Fated Memories (피오피오레의 만종)](games/piofiore-no-banshou.md) | 2018 | 오토메 ADV / 느와르 로맨스 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / Switch -ricordo 영어판에 추가 콘텐츠 | 🟢 후보 |
 | [Reine des Fleurs (레느 데 플뢰르)](games/reine-des-fleurs.md) | 2015 | 오토메 판타지 ADV / 대화 전략 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / 일본어 Switch 이식판 | 🟢 후보 |
 | [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 미스터리 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / Switch 일본어·영어판 | 🟢 후보 |
+| [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 코미디 ADV / 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 리뷰 3명·호불호 / GameFAQs Great·16표 | 2026-10-08 공식·공개 완성 패치 미확인 | 동일 본편 후발 이식 미확인 / 공통부 반복·작은 분기 차이 | 기준 미달 / 조사 기록 보존 |
 
 ## 2026-10-05 전체 후보 한국어 대안 재감사
 
@@ -85,11 +85,11 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 항목 | 현재 |
 |---|---:|
 | 보존 항목 | 30 |
-| 활성 후보 | 30 |
-| 비활성·자료 보류 | 0 |
+| 활성 후보 | 29 |
+| 비활성·자료 보류 | 1 |
 | 활성 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 3 |
-| 한글화 우선도 B | 11 |
+| 한글화 우선도 B | 10 |
 | 한글화 우선도 C | 16 |
 
 최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
