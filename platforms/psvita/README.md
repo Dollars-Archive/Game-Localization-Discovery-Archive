@@ -7,16 +7,16 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 보존 항목: **30개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **1개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **2개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
-## 현재 후보
+## 검토 항목
 
 > [!NOTE]
 > 사용자가 보내는 게임 제목을 순서대로 조사하고, 기준을 통과한 작품만 추가합니다. 작품성 점수와 한글화 우선도는 별도로 판단합니다.
 >
-> 후보 표는 **한글화 우선도 `🔥 A → B → C` 순으로 정렬**합니다. 새 작품 추가 또는 우선도 변경 시 표 전체를 다시 정렬합니다.
+> 검토 표는 **한글화 우선도 A → B → C → 보류·미부여** 순으로 정렬합니다. 비활성 항목은 기록을 보존하며 활성 후보 집계에서 제외합니다.
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS Vita 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
@@ -33,7 +33,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Tokushu Houdoubu (특수보도부)](games/tokushu-houdoubu.md) | 2012 | 초상현상 보도 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40 / 4Gamer 80·1명 / 가격.com 3.43·3명 / 게임카탈로그 판정 없음 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 한국 Store 지역 등록만 확인 | PS Vita 독점 / v1.01 / 공식 후발 이식·리마스터 없음 | 🟢 후보 |
 | [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 풍자 ADV / 토론 배틀 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | PS Vita 원판 / 후발 이식 확인 못함 | 🟢 후보 |
 | [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
-| [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / 해외 Vita·PS4 영어판 | 🟢 후보 |
+| [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita 본문7명·4매체 / Famitsu33/40 / 투표3.77/5·52명 | 2026-10-08 공개 한국어 확인 못함 | PS4·Vita Global Edition / Extra는 전작 | 💎 우선 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 트랩 액션 / 전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 67·19평론 / Pocket Gamer 4/5 / GI 6.75 / Push Square 6/10 | 국내 정발 일본어 / 2026-09-21 공개 Vita 한글패치 확인 못함 | PS3 동시 발매 / The Nightmare Princess가 전 콘텐츠+확장 포함 | 🟢 후보 |
@@ -84,10 +84,12 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 30 |
-| 발굴 우선 후보: 4.0 이상 | 1 |
+| 보존 항목 | 30 |
+| 활성 후보 | 30 |
+| 비활성·자료 보류 | 0 |
+| 활성 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 11 |
 | 한글화 우선도 C | 16 |
 
-최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가 반영 시작**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
