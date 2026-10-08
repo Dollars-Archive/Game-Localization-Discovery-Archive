@@ -33,11 +33,11 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 문화 ADV / 조사·토론 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 34/40·4명 / Crystal AXIS·Goziline / 4Gamer 4본문 | 2026-10-08 공개 한국어 패치 확인 못함 / 웹 대사 번역 별도 | Vita 원작 / 후발 공식판 확인 못함 | 💎 우선 후보 |
 | [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
 | [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita 본문7명·4매체 / Famitsu33/40 / 투표3.77/5·52명 | 2026-10-08 공개 한국어 확인 못함 | PS4·Vita Global Edition / Extra는 전작 | 💎 우선 후보 |
+| [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 선택지형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40·4필자 / 4Gamer·완료 후기·부분 후기 교차 / GF 투표 4/5·1명 | 2026-10-06 Vita AI 초안 1.0 공개 / 잔존 미번역·초반만 검수 / 완성 대안과 구분 | 2017 PS4·2022 Switch 1편+속 합본 / Vita·Switch 영어 약94% / 기존 한국어 초안 보완 우선 비교 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita RPGFan 80·PSLS 7/10, 독립 본문 4명 | 공개적으로 확인되지 않음 | Switch 추가 단편·CG, 공식 한국어 대안 미확인 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Push Square 7/10·Hardcore Gamer 4/5·타 기종 보조분리 | 공개 확인 못함 | PS3·PC LOVE MAX·PC SIXSTARS XTEND, 한국어 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 함정 액션·전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 3명 / 일본 v1.02 개선 반영 | 공개적으로 확인되지 않음 | The Nightmare Princess가 원판 포함·편의 확장 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 4명 / Lada 8/10·Kresnik 6.5/10 / Famitsu 34/40은 간접 점수 | 2026-10-08 공개 한국어화 확인 못함 / 영어 UI 팬 패치는 별개 | Vita 원판·the Best / 기본 60곡·DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
-| [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / 4Gamer 정성평가 / GameFAQs Great·1명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita·Switch 영문 팬패치 스크립트 약 94% | Vita 원작 / 2017 PS4·2022 Switch 1편+속 합본 | 🟢 후보 |
 | [XBlaze Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | SF·판타지 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Review Network 8/10 / Push Square 5/10 / 독립 Vita 본문 4명 | 국내 영문판 심의 확인 / 공개 한국어 패치 확인 못함 | PS3 내용 동일·PC 이식 / 컨테이너 도구만 확인 | 🟢 후보 |
 | [Croixleur Sigma (크로와루르 시그마)](games/croixleur-sigma.md) | 2015 | 3D 아레나 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 본문 2명·PS4 본문 2명, 기종 분리 | 공개적으로 확인되지 않음 | Switch·Steam Deluxe 확장 구성 / Vita 30fps | 🟢 후보 |
 | [Mystery Chronicle: One Way Heroics (이상한 크로니클)](games/mystery-chronicle-one-way-heroics.md) | 2015 | 턴제 강제 횡스크롤 로그라이크 | ⭐⭐⭐½☆ 3.5/5 | C | Wccftech 8.8/10 / RPGamer 3.5/5 / MC Vita 68·4편 | 2026-10-08 공개 패치 확인 못함 | PS4·Steam / 원형 Plus 별도 | 🟢 후보 |
@@ -89,7 +89,7 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 비활성·자료 보류 | 4 |
 | 활성 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 3 |
-| 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 13 |
+| 한글화 우선도 B | 11 |
+| 한글화 우선도 C | 12 |
 
 최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
