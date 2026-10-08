@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 40 | 5 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 7 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 30 | 0 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 30 | 1 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 55 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 2 | 0 | 0 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 
@@ -23,6 +23,8 @@
 > PSP 보존 43개 중 활성 후보는 **30개**, 한국어 대안·재평가 보류 10개, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보 7개는 활성 후보 기준이며 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
+>
+> PS Vita 보존 30개 중 활성 후보는 **30개**이며, 발굴 우선 후보 **1개**는 활성 항목 기준입니다. 2026-10-08 순차 재평가의 작품별 상태·점수는 플랫폼 표를 기준으로 봅니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >

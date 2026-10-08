@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 등록 후보: **30개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **1개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -32,7 +32,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 중심 비주얼노벨 / 사신의 혼돈 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / GameFAQs Great·16명·13h / Play-Asia 5/5·25평가 / Gamer 정성 호평 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 일본어 전용 | PS Vita 독점 / 전체 절반 이상 오리지널 / v1.10 FORKS GEAR 추가 / 후발 이식 없음 | 🟢 후보 |
 | [Tokushu Houdoubu (특수보도부)](games/tokushu-houdoubu.md) | 2012 | 초상현상 보도 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40 / 4Gamer 80·1명 / 가격.com 3.43·3명 / 게임카탈로그 판정 없음 | 2026-09-22 공식·공개 Vita 한국어·영어 패치 확인 못함 / 한국 Store 지역 등록만 확인 | PS Vita 독점 / v1.01 / 공식 후발 이식·리마스터 없음 | 🟢 후보 |
 | [Net High (넷 하이)](games/net-high.md) | 2015 | SNS 풍자 ADV / 토론 배틀 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | PS Vita 원판 / 후발 이식 확인 못함 | 🟢 후보 |
-| [Chō no Doku Hana no Kusari: Taishō Enren Ibun (나비의 독, 꽃의 사슬)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 미스터리 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 32/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | PC·PSP·Vita·Steam / Steam 영어판 | 🟢 후보 |
+| [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
 | [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 33/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / 해외 Vita·PS4 영어판 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 | ⭐⭐⭐½☆ 3.5/5 | C | RPGFan Vita 80 / GameFAQs 3.75·20명·30.1h / RPG Site PS4 6 | 2026-09-22 Vita 한국어 확인 못함 / Vita 공식 영어판 있음 / PCSG-01110 UTF-8 런타임 훅 존재 | 본편→Future Blessings→Wintertide / PS4 동시 / Switch 2021 여름 단편·비치 CG 추가 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 / 알카나 조합 | ⭐⭐⭐½☆ 3.5/5 | C | Push Square Vita 7/10 / Hardcore Gamer Vita 4/5 / 기종 미확정·PS3 리뷰 별도 대조 | 2026-09-21 공식 Vita 한국어판·공개 유저 패치 확인 못함 / 한국어 홍보 페이지와 구분 | PS3 동시 이식 / PC LOVE MAX·SIXSTARS XTEND / Vita 아드호크·PS3 교차 대전 미지원 | 🟢 후보 |
@@ -85,7 +85,7 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 항목 | 현재 |
 |---|---:|
 | 등록 후보 | 30 |
-| 발굴 우선 후보: 4.0 이상 | 0 |
+| 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 11 |
 | 한글화 우선도 C | 16 |
