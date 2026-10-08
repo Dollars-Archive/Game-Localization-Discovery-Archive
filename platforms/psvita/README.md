@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 보존 항목: **30개** / 활성 후보: **27개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **26개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -42,11 +42,11 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Croixleur Sigma (크로와루르 시그마)](games/croixleur-sigma.md) | 2015 | 3D 아레나 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 본문 2명·PS4 본문 2명, 기종 분리 | 공개적으로 확인되지 않음 | Switch·Steam Deluxe 확장 구성 / Vita 30fps | 🟢 후보 |
 | [Mystery Chronicle: One Way Heroics (이상한 크로니클)](games/mystery-chronicle-one-way-heroics.md) | 2015 | 턴제 강제 횡스크롤 로그라이크 | ⭐⭐⭐½☆ 3.5/5 | C | Wccftech 8.8/10 / RPGamer 3.5/5 / MC Vita 68·4편 | 2026-10-08 공개 패치 확인 못함 | PS4·Steam / 원형 Plus 별도 | 🟢 후보 |
 | [Xenon Valkyrie+ (제논 발키리+)](games/xenon-valkyrie-plus.md) | 2017 | 2D 로그라이트 플랫폼 액션 / RPG | ⭐⭐⭐½☆ 3.5/5 | C | MC Vita 62·5평론 / Video Chums 8.4 / Vita Player 8 / GameFAQs user 8.0·14명 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / Steam도 한국어 미지원 | PC 원작 / Vita가 첫 + 강화판 / PS4·Xbox·Switch·PS5 후발판 | 🟢 후보 |
-| [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 학원 쥬브나일 전기 / 비주얼노벨·전술 SRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40 / MC Vita 63·12평론 / GameFAQs Good·68명·32h / Daybreak MC 64·9평론 | 한국 PS Store판 PCSH-00089 존재·한국어 지원 미확인 / 공식 영어 Vita판·Daybreak 있음 | PS3·Vita 원판 / Daybreak 강화판 / Steam 2017·한국어 미지원 | 🟢 후보 |
 | [Fernz Gate (펀즈 게이트)](games/fernz-gate.md) | 2018 | 턴제 JRPG / 파티 육성 | ⭐⭐⭐½☆ 3.5/5 | C | 독립 본문 5명 / Vita Suprak 본문 3.50·등록 4/10 / Switch 7·7/10·3/5 / PS4 8/10 | 2026-10-08 전 기종 공개 한국어화 확인 못함 / 공식 영어 존재 | 모바일 원작 / PS4·Vita·Xbox·Switch·PC·PS5 / PS5 콘텐츠는 PS4와 동일 | 🟢 후보 |
 | [Piofiore no Banshou (피오피오레의 만종)](games/piofiore-no-banshou.md) | 2018 | 오토메 ADV / 범죄 로맨스 | ⭐⭐⭐⭐☆ 4.0/5 | C | Planète Vita 80/100 / Zettai Renai 8.5/10 / 독립 총평 4명 | 2026-10-08 공개 한국어 패치 확인 못함 | Switch -ricordo- 이야기 12편·CG 추가 / 공식 영어판 | 💎 우선 후보 |
 | [Reine des Fleurs (레느 데 플뢰르)](games/reine-des-fleurs.md) | 2015 | 오토메 판타지 ADV / 대화 선택 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40·4명 / 4Gamer / 독립 개인 총평 3명 | 2026-10-08 공개 한국어 패치 확인 못함 | Switch 일본어·번체중문 / 영어 작업 중 기록 | 🟢 후보 |
 | [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Zettai Renai 7/10 / Switch RPGFan 79·Otome Kitten 정성평가 / Famitsu 33/40 전달 | 2026-10-08 Vita·Switch·모바일 한국어 대안 공개 확인 못함 | Vita 원판 / Switch 일본어·영어 / iOS·Android 일본어 / 영어 1.0.1 문장 수정 | 🟢 후보 |
+| [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 오컬트 ADV / 전술 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Destructoid 8/10 / RPGamer 3.5/5 / TSA 5/10 / Cubed3 4/10 | 공개 한국어 확인 못함·한국 판매 기록과 언어 구분 | Daybreak 강화판 별도 | 기준 미달·기록 보존 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | 보류 | Famitsu 32/40·4명 / Mecha Damashii 7/10 / GAME Watch 본문 | Vita 공개 패치 확인 못함 | REMASTERED Switch 한국어 배포문 확인·연결 파일 현재 이용 미확인 | ⚪ 한국어 대안 확인 보류 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 코미디 ADV / 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 리뷰 3명·호불호 / GameFAQs Great·16표 | 2026-10-08 공식·공개 완성 패치 미확인 | 동일 본편 후발 이식 미확인 / 공통부 반복·작은 분기 차이 | 기준 미달 / 조사 기록 보존 |
@@ -85,11 +85,11 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 항목 | 현재 |
 |---|---:|
 | 보존 항목 | 30 |
-| 활성 후보 | 27 |
-| 비활성·자료 보류 | 3 |
+| 활성 후보 | 26 |
+| 비활성·자료 보류 | 4 |
 | 활성 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 14 |
+| 한글화 우선도 C | 13 |
 
 최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
