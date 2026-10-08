@@ -2959,5 +2959,7 @@
       "path": "platforms/ps2/games/h2o-plus-footprints-in-the-sand.md",
       "personalRank": 69
     }
-  ]
+  ],
+  "historical": true,
+  "supersededBy": "2026-10-08-review-assessments.json"
 }

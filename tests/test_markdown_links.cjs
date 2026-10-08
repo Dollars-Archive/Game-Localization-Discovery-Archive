@@ -22,6 +22,13 @@ test('same-platform and cross-platform game Markdown links keep the existing gam
   ]) assert.equal(resolve(current, href), `game.html?file=${encodeURIComponent(target)}`);
 });
 
+test('review evidence links preserve the game-specific report fragment', () => {
+  const currentReview = 'platforms/ps2/games/guardian-angel.md';
+  const target = 'platforms/ps2/reassessments/2026-10-08-review-assessments.md#guardian-angel';
+  assert.equal(resolve(currentReview, '../reassessments/2026-10-08-review-assessments.md#guardian-angel'),
+    `https://github.com/Dollars-Archive/Game-Localization-Discovery-Archive/blob/main/${target}`);
+});
+
 test('external, mail, fragment, and non-Markdown links remain unchanged', () => {
   for (const href of ['https://example.com/report.md', 'mailto:example@example.com', '#review', '../images/screen.png']) {
     assert.equal(resolve(current, href), href);

@@ -2694,5 +2694,7 @@
       "path": "platforms/psvita/games/amnesia-world.md",
       "personalRank": 51
     }
-  ]
+  ],
+  "historical": true,
+  "supersededBy": "2026-10-08-review-assessments.json"
 }

@@ -69,6 +69,9 @@ h1, h2, h3 { line-height: 1.25; letter-spacing: -.035em; }
 .recommendation-views[hidden] { display: none; }
 .recommendation-rationale { margin: 7px 0 0; max-width: 48ch; color: var(--muted); font-size: 12px; font-weight: 400; line-height: 1.6; white-space: normal; overflow-wrap: anywhere; }
 .provisional-score { text-decoration: underline dotted; text-underline-offset: 3px; }
+.held-score { color: var(--muted); font-weight: 500; }
+.evidence-filter { display: inline-flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; }
+.evidence-filter select { max-width: 145px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 12px; background: var(--paper); color: var(--ink); font: inherit; }
 .rating-details { display: block; }
 .personal-rating { display: block; margin-bottom: 3px; color: var(--accent); font-size: 13px; }
 .quality-rating { display: block; font-size: 12px; }

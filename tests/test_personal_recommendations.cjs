@@ -5,10 +5,11 @@ const path = require('node:path');
 const { root, readRows, createFixtures, createHarness } = require('./helpers/index-harness.cjs');
 const expected = { ps2: [69, 40, 29], psp: [123, 30, 93], psvita: [51, 26, 25] };
 const data = p => JSON.parse(fs.readFileSync(path.join(root, `platforms/${p}/reassessments/2026-10-08-personal-recommendations.json`), 'utf8'));
+const currentData = p => JSON.parse(fs.readFileSync(path.join(root, `platforms/${p}/reassessments/2026-10-08-review-assessments.json`), 'utf8'));
 const slugOf = entry => typeof entry === 'string' ? entry : entry.slug;
 
 for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
-  test(`${platform}: all living candidates have one independent score and deterministic platform rank`, () => {
+  test(`${platform}: superseded personal recommendation data remains intact as history`, () => {
     const record = data(platform);
     assert.equal(record.games.length, total);
     assert.equal(record.games.filter(g => g.pool === 'active').length, active);
@@ -46,21 +47,12 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
       || b.components.platformValue - a.components.platformValue
       || (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));
     assert.deepEqual(slugs, sorted.map(g => g.slug));
-    const markdown = fs.readFileSync(path.join(root, `platforms/${platform}/recommendations.md`), 'utf8');
-    const rows = readRows(markdown);
-    assert.equal(rows.length, total);
-    for (const [i, row] of rows.entries()) {
-      const game = record.games[i];
-      assert.equal(Number(row['개인 순위']), game.personalRank);
-      assert.equal(Number(row['개인 추천점수']), game.personalScore);
-      assert.ok(row['게임'].includes(`games/${game.slug}.md`));
-      assert.equal(row['목록 구분'], game.pool === 'active' ? '기존 목록' : '후보군');
-      assert.equal(row['점수 구분'], game.scoreStatus === 'provisional' ? '잠정' : '자료 검토');
-    }
+    assert.equal(record.historical, true);
+    assert.equal(record.supersededBy, '2026-10-08-review-assessments.json');
   });
 
   test(`${platform}: all/active/reserve views, provisional search, favorites and exclusions survive`, async () => {
-    const record = data(platform);
+    const record = currentData(platform);
     const fixtures = createFixtures();
     fixtures.watchlist = { version: 1, order: [], items: {} };
     fixtures.patches = { patches: [] };
@@ -68,7 +60,7 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     assert.deepEqual(h.keys(), record.games.map(g => g.path));
     assert.equal(h.elements['ps3-views'].hidden, true);
     assert.equal(h.elements['recommendation-views'].hidden, false);
-    assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 미평가/);
+    assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 /);
     await h.click('recommendations-reserve');
     assert.deepEqual(h.keys(), record.games.filter(g => g.pool === 'reserve').map(g => g.path));
     assert.equal(h.location.searchParams.get('view'), 'reserve');
@@ -79,7 +71,7 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     await h.click('recommendations-all');
     await h.search('잠정');
     for (const game of record.games.filter(g => g.scoreStatus === 'provisional')) assert.ok(h.keys().includes(game.path));
-    assert.match(h.elements['candidate-body'].innerHTML, /provisional-score/);
+    if (record.games.some(g => g.scoreStatus === 'provisional')) assert.match(h.elements['candidate-body'].innerHTML, /provisional-score/);
     const candidates = record.games.filter(g => g.pool === 'reserve');
     const keys = [candidates[1].path, candidates[0].path];
     fixtures.watchlist = { version: 1, order: keys, items: Object.fromEntries(keys.map(key => [key, { added: '2026-10-08T00:00:00Z', note: 'preserved candidate memo' }])) };
@@ -109,7 +101,7 @@ test('previously visible passed records stay accessible in My list without retur
   assert.ok(h.calls.every(call => call.method === 'GET'));
 });
 
-test('a new living README record remains visible while awaiting a personal score', async () => {
+test('a new living README record remains visible while awaiting review evidence', async () => {
   const fixtures = createFixtures();
   const name = 'platforms/psp/README.md';
   const lines = fixtures.data[name].split('\n');
@@ -118,6 +110,6 @@ test('a new living README record remains visible while awaiting a personal score
   fixtures.data[name] = lines.join('\n');
   const h = await createHarness({ fixtures, query: '?platform=psp' });
   assert.ok(h.keys().includes('platforms/psp/games/new-living-fixture.md'));
-  assert.match(h.elements['candidate-body'].innerHTML, /개인 미평가/);
+  assert.match(h.elements['candidate-body'].innerHTML, /평가보류/);
   assert.equal(h.keys().length, 124);
 });

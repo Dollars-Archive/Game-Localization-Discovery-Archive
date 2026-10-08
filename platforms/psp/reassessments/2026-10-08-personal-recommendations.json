@@ -5814,5 +5814,7 @@
       "path": "platforms/psp/games/baka-to-test-to-shoukanjuu-portable.md",
       "personalRank": 123
     }
-  ]
+  ],
+  "historical": true,
+  "supersededBy": "2026-10-08-review-assessments.json"
 }
