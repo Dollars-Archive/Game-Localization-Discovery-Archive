@@ -6,7 +6,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 한글패치 확인 기준일: **2026-10-06**  
+> 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
 > 등록 후보: **30개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
@@ -20,7 +20,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS Vita 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
-| [Ciel Nosurge Offline: Ushinawareta Hoshi e Sasagu Uta (시엘 노서지 오프라인)](games/ciel-nosurge-offline.md) | 2014 | 7차원 커뮤니케이션 / 생활 시뮬레이션·ADV | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 31/40 / 4Gamer 70·1명 / Dengeki 정성 호평 / Game Catalog 찬반양론 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / 2025 완전 영문 패치 v1.01 존재 | 2012 온라인 원작 / Vita OFFLINE 완전판 / 2021 DX 일본어 전용 / 영문 패치가 DX 기능 일부 역이식 | 🟢 후보 |
+| [Ciel Nosurge Offline: Ushinawareta Hoshi e Sasagu Uta (시엘 노서지 오프라인)](games/ciel-nosurge-offline.md) | 2014 | 생활·커뮤니케이션 시뮬레이션 / ADV | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 31/40·기명 4명 / Dengeki·4Gamer 본문 대조 | 2026-10-08 공개 한국어 대안 확인 못함 / 영문 패치 v1.01 확인 | Vita OFFLINE / 후발 DX와 조작 차이 / 온라인 원작 2026-09 서비스 종료 | 🟢 후보 |
 | [Golden Time: Vivid Memories (골든 타임 Vivid Memories)](games/golden-time-vivid-memories.md) | 2014 | 캠퍼스 라이프 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 32/40 / GameFAQs 3.75·8명 / Play-Asia 5/5·10평가 | 2026-09-21 공식·공개 Vita 한국어 확인 못함 / 영문화 시도·전용 번역 툴체인 존재 | PS Vita 원판 / iOS·Android SP 후발판 / 현대 콘솔·PC 공식판 없음 | 🟢 후보 |
 | [Yuuki Yuuna wa Yuusha de Aru: Jukai no Kioku (유우키 유우나는 용사다 수해의 기억)](games/yuuki-yuuna-wa-yuusha-de-aru-jukai-no-kioku.md) | 2015 | 일상계 용사부 액션 / 액션·어드벤처 | ⭐⭐⭐½☆ 3.5/5 | 🔥 A | Famitsu 30/40 / GameFAQs 3.0·5명 / Dengeki·Famitsu 팬서비스 호평 | 2026-09-21 공식·공개 Vita 한국어·영어 패치 확인 못함 / Vita3K 런타임 훅·전용 gametext 도구 존재 | PS Vita 독점 / 애니 3~4화 사이 공식 감수 사이드스토리 / 후발 동일판 없음 | 🟢 후보 |
 | [Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)](games/ar-nosurge-plus-ode-to-an-unborn-star.md) | 2014 | 7차원 RPG / 스토리 중심 JRPG | ⭐⭐⭐½☆ 3.5/5 | B | MC 77·9평론 / RPGFan 78 / RPG Site 8/10 / Push Square 7/10 | 2026-09-21 공개 Vita 한글패치 확인 못함 / 서구판 공식 영어 텍스트 | PS3 원작 강화판 / 2021 DX는 Plus 리마스터·일본어만 지원 | 🟢 후보 |
@@ -90,4 +90,4 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 한글화 우선도 B | 11 |
 | 한글화 우선도 C | 16 |
 
-최근 갱신: **2026-10-06, 최종 30개 후보 압축 및 신규 상세 리뷰 반영**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가 반영 시작**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
