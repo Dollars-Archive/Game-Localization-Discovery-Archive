@@ -48,7 +48,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Fernz Gate (펀즈 게이트)](games/fernz-gate.md) | 2018 | 턴제 JRPG / 파티 육성 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Vita 리뷰 3.5/10 / Nintendo Life 7/10 / Cubed3 7/10 / Switch Player 3/5 | 2026-09-27 공식 한국어·공개 Vita 한글패치 확인 못함 / 북미 Vita 공식 영어 | 2016 Android 원작 / 2017 iOS / 2018 PS4·Vita·Xbox·Switch·PC / 2024~25 PS5 | 🟢 후보 |
 | [Piofiore no Banshou / Piofiore: Fated Memories (피오피오레의 만종)](games/piofiore-no-banshou.md) | 2018 | 오토메 ADV / 느와르 로맨스 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / Switch -ricordo 영어판에 추가 콘텐츠 | 🟢 후보 |
 | [Reine des Fleurs (레느 데 플뢰르)](games/reine-des-fleurs.md) | 2015 | 오토메 판타지 ADV / 대화 전략 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / 일본어 Switch 이식판 | 🟢 후보 |
-| [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 미스터리 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 33/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / Switch 일본어·영어판 | 🟢 후보 |
+| [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Zettai Renai 7/10 / Switch RPGFan 79·Otome Kitten 정성평가 / Famitsu 33/40 전달 | 2026-10-08 Vita·Switch·모바일 한국어 대안 공개 확인 못함 | Vita 원판 / Switch 일본어·영어 / iOS·Android 일본어 / 영어 1.0.1 문장 수정 | 🟢 후보 |
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 코미디 ADV / 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 리뷰 3명·호불호 / GameFAQs Great·16표 | 2026-10-08 공식·공개 완성 패치 미확인 | 동일 본편 후발 이식 미확인 / 공통부 반복·작은 분기 차이 | 기준 미달 / 조사 기록 보존 |
 
 ## 2026-10-05 전체 후보 한국어 대안 재감사
