@@ -1,226 +1,221 @@
 # Ar nosurge Plus: Ode to an Unborn Star (알 노서지 플러스: 태어나는 별에 기도하는 시)
 
 > 원제: アルノサージュ PLUS ～生まれいずる星へ祈る詩～  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **B**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 대상 판본: **PlayStation Vita / Plus**  
+> 상태: **🟢 후보**  
+> 발굴 추천도: **⭐⭐⭐½☆ 3.5/5**  
+> 한글화 우선도: **B**  
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> 본작은 **Ciel nosurge의 후속 이야기**이며 다수 주요 인물과 설정이 이어진다. 서구 Vita판은 공식 영어 텍스트와 일본어·영어 음성을 제공하지만, Ciel nosurge는 당시 서구에 정식 현지화되지 않아 사전지식 공백이 구조적으로 남는다. 2026-09-21 기준 공식 한국어판과 공개 PS Vita 한국어 패치는 확인하지 못했다.
+## 대표 스크린샷
+
+![Ar nosurge Plus PS Vita 일상 대화와 스킵·로그 UI](https://www.4gamer.net/games/263/G026302/20140913007/TN/006.jpg)
+
+![Ar nosurge Plus PS Vita 추가 대화 다시보기 화면](https://www.4gamer.net/games/263/G026302/20140913007/TN/007.jpg)
+
+![Ar nosurge Plus PS Vita 대화 선택지 UI](https://www.4gamer.net/games/263/G026302/20140913007/TN/009.jpg)
+
+출처: [4Gamer의 Plus 실제 플레이 소개](https://www.4gamer.net/games/263/G026302/20140913007/). 세 이미지의 픽셀과 일본어 문구를 직접 확인했으며 일반 대화·다시보기·선택지 화면을 골랐다. 사건의 전개·인물의 정체·특수 설정을 드러내는 화면과 홍보 렌더는 제외했다. 당시 개발 중 PS Vita판의 실제 게임 화면이며 저장소에 이미지를 복제하지 않는다.
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | アルノサージュ PLUS ～生まれいずる星へ祈る詩～ |
-| 영문 제목 | Ar nosurge Plus: Ode to an Unborn Star |
-| 한글 제목 | 알 노서지 플러스: 태어나는 별에 기도하는 시. 국내 통용은 알노서지 / 아르 노서지 등 표기가 혼재해 원제를 함께 병기 |
+| 영문 / 로마자 제목 | Ar nosurge Plus: Ode to an Unborn Star |
+| 한글 제목 | 알 노서지 플러스: 태어나는 별에 기도하는 시. 알노서지·아르 노서지 표기도 쓰임 |
 | 플랫폼 | PlayStation Vita |
 | 발매일 | 일본 2014-10-02 / 유럽 2015-07-01 / 북미 2015-07-02 |
 | 개발사 | Gust |
-| 발매사 | Koei Tecmo Games |
-| 장르 | 7차원 RPG / 스토리 중심 JRPG / 비주얼노벨 결합 |
-| 원산지 / 원문 언어 | 일본 / 일본어. 서구판은 영어 텍스트, 영어·일본어 음성 선택 |
-| 예상 플레이타임 | RPGFan 약 30~40시간 전체 감상, 리뷰어 플래티넘 약 35시간 / GameFAQs 53명 통계 Length 51 Hours |
+| 발매사 | Gust / Koei Tecmo Games, 지역·시점에 따른 표기 |
+| 장르 | 대화·캐릭터 서사 비중이 큰 JRPG |
+| 원산지 / 원문 언어 | 일본 / 일본어. 서구 Plus는 영어 텍스트와 일본어·영어 음성 |
+| 예상 플레이타임 | RPGFan 필자 1명: 플래티넘 약 35시간, 전체 감상 30~40시간 제시. 일반 평균 아님 |
 | 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | **B** |
-| 한글화 난이도 | **미확인**. 실제 Vita 파일·폰트·스크립트 구조 미분석 |
-| 현재 추천 버전 | **영어 접근성과 Vita 휴대성을 중시하면 Ar nosurge Plus. 일본어 가능·최신 리마스터를 원하면 2021 DX를 비교** |
+| 한글화 난이도 | **미확인** |
+| 현재 추천 버전 | 공식 영어가 필요하면 Vita Plus 서구판. 일본어·현대 기기 목적이면 DX를 비교하되 구매 지역·표현 차이 확인 |
 
-근거: [Gust 일본 공식 Plus 페이지](https://social.gust.co.jp/pc/arnosurge/vita/), [공식 발매일 자료](https://social.gust.co.jp/pc/arnosurge/vita/spe04.html), [RPGFan 게임 정보](https://www.rpgfan.com/game/ar-nosurge-plus-ode-to-an-unborn-star/), [Gematsu 서구판 기능·듀얼 오디오](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july).
+[일본 발매 발표](https://www.4gamer.net/games/263/G026302/20140625082/), [서구판 발표](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july).
 
 ## 스포일러 최소 시놉시스
 
-태양 수명을 앞둔 고향별 라셰라를 잃은 인류는 거대한 우주선에서 약 2000년 동안 새 보금자리를 찾아 떠돈다. 그 과정에서 노래와 정신세계가 현실에 직접 힘을 행사하는 세계관 속에서 인간과 샤르의 관계를 둘러싼 갈등이 커진다.
-
-플레이어는 **델타와 캐스티**, 그리고 **이온과 아셰스**라는 두 조를 번갈아 조작한다. 두 시점에서 진행되는 사건이 서로 맞물리며 하나의 진실로 수렴하고, 작품은 플레이어 자신을 세계관 안의 존재로 끌어들이는 메타적 장치를 적극적으로 사용한다.
+노래가 특별한 힘을 가지는 SF 판타지 세계를 배경으로, 인물들의 대화와 관계를 따라가며 탐색·전투를 진행하는 작품이다. 「Ciel nosurge」와 이어지는 시리즈 두 번째 작품이다. 이야기의 구조적 장치·인물 정체·사건 결과는 설명하지 않는다. [공식 판본 소개](https://social.gust.co.jp/pc/arnosurge/vita/)
 
 ## 게임 구조 / 루트 구조
 
-- **자핑 시스템:** 세이브 포인트 등에서 델타 측과 아셰스 측을 전환한다. 한쪽 진행이 잠기면 다른 쪽 이야기를 진행해 다시 연결되는 구조다.
-- **필드 탐색:** 지역을 이동하며 적과 조우한다. 에리어 내 적 WAVE를 모두 제거하면 해당 지역의 일반 전투가 사라진다.
-- **전투:** 주인공이 버튼별 스킬로 연속 공격하고, 히로인이 노래마법을 충전한다. 다음 행동 예정 적을 브레이크해 턴을 빼앗고, 충분히 충전한 노래마법으로 남은 WAVE를 한꺼번에 소거하는 흐름이 핵심이다.
-- **제노메트릭스:** 캐릭터의 정신세계에 다이브해 텍스트 중심 에피소드와 선택지를 진행한다. 캐릭터 심리와 관계 묘사의 중심이며 새 노래마법과 보상도 연결된다.
-- **정화 의식:** 캐릭터와 대화하며 관계와 설정을 보충하고 강화용 결정을 장착한다.
-- **조합:** 상점과 조합 이벤트를 통해 장비·아이템을 만들며, Plus판은 조합 이벤트를 메뉴에서 다시 볼 수 있도록 개선됐다.
-- **서사 비중:** 리뷰들은 전투·탐색보다 대화와 제노메트릭스의 비중이 훨씬 높다고 공통적으로 평가한다.
+- 이야기 진행, 지역 탐색, 전투, 캐릭터별 대화, 조합·강화를 번갈아 수행한다.
+- 전투는 버튼에 배정된 행동, 적의 행동 순서, 방어 타이밍과 노래마법 충전을 조합하는 방식이다. 여러 적 무리를 효율적으로 처리하는 것이 목표다.
+- 캐릭터 대화·선택형 에피소드가 성장 요소와 연결된다. 읽는 비중이 큰 것은 장르적 구성이고, 그 자체가 결함은 아니다.
+- 조합 이벤트의 재열람과 튜토리얼 개선은 Plus의 편의 보강이다.
+- 분기 정답, 해금 순서, 결말 조건과 숨겨진 구조는 공개하지 않는다. 플래티넘 완료가 모든 텍스트의 전수 확인과 같다고 가정하지 않는다.
 
-시스템 참고: [DX 공식 매뉴얼의 게임 진행](https://www.gamecity.ne.jp/manual/arnosurge/jp/3200.html), [전투 흐름](https://www.gamecity.ne.jp/manual/arnosurge/jp/5200.html), [제노메트릭스](https://www.gamecity.ne.jp/manual/arnosurge/jp/3300.html). DX는 Plus 기반 리마스터이므로 기본 시스템 구조 확인에 사용했으며, Vita 고유 기능은 별도 자료로 구분했다.
+[Plus 전투 공식 설명](https://www.famitsu.com/news/201407/14057087.html), [Plus 기능 발표](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july).
 
 ## 왜 발굴할 만한가
 
-이 작품의 강점은 전통적인 JRPG 전투보다 **세계관·음악·캐릭터의 정신세계·플레이어를 서사에 직접 끌어들이는 메타 구조**에 있다. RPGFan은 캐릭터 관계와 음악, 플레이어를 하나의 캐릭터처럼 다루는 장치를 주요 장점으로 꼽았고, RPG Site 역시 이야기와 제노메트릭스, 음악을 강하게 평가했다.
+대사·관계 묘사·음악이 작품의 중심을 이루고, 성장과 전투도 그 표현에 연결된다. 독립 Vita 리뷰 세 곳이 인물과 음악의 매력을 높게 평가하며, 단순한 PS3 축소 이식이 아니라 추가 대화·의상·DLC와 편의 보강을 갖춘 판본이라는 점도 분명하다.
 
-Plus판은 PS3 원작을 그대로 줄인 휴대판이 아니다. 신규 의상, Sarly·Nelo·Shurelia의 정화 의식 대화, 일부 PS3 DLC 내장, 튜토리얼 개편, 조합 이벤트 다시보기 등이 더해졌다. 휴대기에서 방대한 대사를 읽는 구성과도 궁합이 좋은 편이다.
+반면 매체별로 전투 평가에는 차이가 있다. RPGFan은 선택 폭이 좁다고 보는 반면 Push Square는 전투의 속도감과 연속 행동에 긍정적이다. 이 차이를 “모든 리뷰가 전투를 나쁘게 평가했다”로 평탄화하지 않았다. [RPGFan](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/), [Push Square](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus)
 
 ## 장점
 
-- 두 주인공 조의 시점이 맞물리는 자핑 구조와 플레이어 자신을 서사에 포함시키는 독특한 메타 연출.
-- 캐릭터의 내면을 텍스트 어드벤처처럼 탐색하는 제노메트릭스가 관계 묘사를 깊게 만든다.
-- 보컬곡과 노래마법을 포함한 음악이 서사·전투와 긴밀하게 결합되어 있으며 리뷰에서 가장 일관되게 호평받는다.
-- 일반 잡몹전을 에리어 단위 WAVE로 묶어 한 번 정리하면 반복 조우를 줄이는 구조.
-- Plus판의 신규 정화 파트너·의상·일부 DLC 내장·튜토리얼 개선은 PS3판보다 완성된 패키지를 만든다.
-- 서구 Vita판에 공식 영어 텍스트와 일본어·영어 음성이 있어 한글화 번역 대조 자료로 활용할 수 있다.
+- 관계를 충분히 다루는 대화와 음악의 결합이 인상적이라는 실플레이 평가가 일치한다.
+- 전투의 행동 연결과 노래마법은 읽기 중심 진행 사이에 명확한 리듬을 제공한다.
+- Plus의 튜토리얼·재열람 개선과 대화 추가는 대상 판본 자체의 장점이다.
+- 영어판은 일본어·영어 음성을 고를 수 있어 감상과 번역 대조에 선택지가 있다.
+
+[Zack Reese의 Vita 리뷰](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review), [Robert Ramsey의 Vita 리뷰](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus), [공식 서구판 기능 안내](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july).
 
 ## 단점
 
-- **Ciel nosurge의 직접 후속작 성격**이 강해 전작을 모르면 초반 세계관과 인물 관계가 상당히 난해하다.
-- 본편의 큰 비중이 긴 대화와 정신세계 이벤트라 전투 중심 JRPG를 기대하면 템포가 느리게 느껴질 수 있다.
-- RPGFan은 전투·조합·장비 같은 RPG 시스템을 비교적 얕다고 평가했고, 두 주인공 조의 전투 감각도 크게 다르지 않다.
-- 배경·NPC·적 모델 재사용 등 예산감이 드러나는 시각 요소가 있다.
-- RPG Site는 Vita판에서 눈에 띄는 프레임 저하를 경험했다고 기록했다.
-- Plus 추가점은 주로 캐릭터 대화·의상·DLC·편의 개선이며 메인 스토리 자체를 보강해 Ciel nosurge의 정보 공백을 해소하지는 않는다.
+- 전작 배경을 충분히 설명하지 않아 첫 진입 때 정보 연결이 어려울 수 있다.
+- 일부 대사의 반복적 표현과 선택지의 시행착오, 본편·부가 대화 사이의 매끄럽지 않은 연결이 보고됐다. 텍스트가 많다는 사실과 별개의 지적이다.
+- 장비·조합을 통한 전술 변화는 제한적이라는 비평이 있다.
+- Vita판의 마을 이동 등에서 프레임 저하가 보고됐다. 모든 장면의 수치나 프레임레이트는 직접 측정하지 않았다.
+- 환경·적 자산의 반복과 세부 시각적 완성도 편차가 있다.
+
+[RPGFan](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/), [RPG Site](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review), [Push Square](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus).
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처 / 필자 | 점수 | 표본 수 | 대상 판본·완료 범위 / 실제 본문 확인 |
 |---|---:|---:|---|
-| Metacritic / GameFAQs 집계 | 77/100 | 9개 평론 | PS Vita critic 집계 |
-| Metacritic 사용자 / GameFAQs 표시 | 8.3/10 | 45명 | PS Vita 사용자 점수 |
-| RPGFan | 78/100 | 1개 매체 리뷰 | PS Vita. 스토리 87 / 음악 82, 얕은 RPG 요소와 전작 의존 지적 |
-| RPG Site | 8/10 | 1개 매체 리뷰 | PS Vita. 스토리·음악·제노메트릭스 호평, 프레임 저하 지적 |
-| Push Square | 7/10 | 1개 매체 리뷰 | PS Vita 유럽판. 독특한 이야기·음악 호평, 과도한 대사와 RPG 깊이 부족 지적 |
-| GameFAQs 자체 사용자 평가 | Great | 108명 | PS Vita 제품 페이지의 사용자 평가 |
+| [RPGFan / Andrew Barker](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/) | 78/100 | 리뷰 1편·필자 1명 | PS Vita 명시. 약 35시간 플래티넘 명시. 관계·음악 호평, 전작 설명 부족·RPG 선택 폭·시각적 반복 지적 |
+| [RPG Site / Zack Reese](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review) | 8/10 | 리뷰 1편·필자 1명 | PS3 경험과 Vita Plus 직접 플레이를 구분. 추가 대화·튜토리얼 호평, 체감 프레임 저하 지적. Vita 전수 완료는 미명시 |
+| [Push Square / Robert Ramsey](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus) | 7/10 | 리뷰 1편·필자 1명 | PS Vita 유럽판 명시. 전투 리듬·캐릭터·음악 호평, 선택 시행착오·RPG 깊이·프레임 지적. 완료 범위 미명시 |
+| [Push Square 사용자란](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus) | 7.4/10 | 투표 5명 | 위 리뷰의 7/10과 별도. 사용자 투표이며 작성형 리뷰 5편이 아님 |
+| 과거 문서의 Metacritic·GameFAQs 집계 | 이번 재평가 수치로 미사용 | 현재 표본 재확인 미완료 | 2026-09-21의 77/100·9건, 8.3/10·45명 등을 현재 확정값으로 반복하지 않음 |
 
-- [GameFAQs 리뷰 집계](https://gamefaqs.gamespot.com/vita/814436-ar-nosurge-plus-ode-to-an-unborn-star/reviews)
-- [RPGFan 78/100](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/)
-- [RPG Site 8/10](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review)
-- [Push Square 7/10](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus)
-- [GameFAQs 게임 통계](https://gamefaqs.gamespot.com/vita/814436-ar-nosurge-plus-ode-to-an-unborn-star)
+**독립 작성자 3명·매체 3곳의 본문을 확인했다.** 집계에 포함되는 리뷰를 다시 더해 표본을 부풀리거나 평점을 단순 평균하지 않았다.
 
-> 외부 평점은 단순 평균하지 않았다. 70점대 후반의 비교적 안정적인 평가와 매우 강한 스토리·음악 평가가 있지만, 전작 의존·대사 과다·RPG 시스템의 얕음이 4.0 이상을 주기 어려운 구조적 약점이다.
+**3.5/5 판단:** 인물·음악·전투 표현이 강해 추천 하한을 넘는다. 다만 설명의 불친절, 보조 RPG 체계의 제한, 선택과 진행의 반복, Vita 성능이 함께 남아 4.0의 고른 완성도로 보기는 어렵다. “서사 중심 장르라서”, “대사가 많아서” 감점하지 않는다.
+
+**시점 보정:** 2015년 리뷰가 지적한 “전작의 공식 영어판 부재”와 현재의 전작 접근성은 다르다. Ciel nosurge Offline의 공개 영어 팬패치가 2025년에 나왔으므로 현재 영어로 전작을 접할 길은 있다. 그래도 Ar nosurge Plus 자체가 신규 이용자를 위해 배경 설명을 확장한 것은 아니다. [번역팀 발표](https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here)
 
 ## 플레이타임
 
-- RPGFan은 게임 전체를 보는 데 **약 30~40시간**을 제시했고, 리뷰어는 **약 35시간에 플래티넘 트로피**를 획득했다고 기록했다.
-- GameFAQs 제품 통계는 **53명 기준 Length 51 Hours**로 표시한다.
-- 커뮤니티에서는 일반 진행 약 30시간부터 모든 대화·정화·제노메트릭스까지 챙긴 50시간 이상 사례가 함께 보인다.
-- 한글화 검수에서는 메인 진행 시간보다 **제노메트릭스·정화 의식·조합 이벤트·도감성 텍스트**가 훨씬 중요한 변수다.
+| 범위 | 시간 | 표본 | 해석 |
+|---|---:|---:|---|
+| RPGFan 필자의 플래티넘 | 약 35시간 | 1명 | Vita 직접 플레이. 개인 사례 |
+| 같은 필자의 전체 감상 추정 | 약 30~40시간 | 동일 1명 | 위 행과 독립 표본이 아님 |
+| 첫 본편 클리어 | 미확인 | 분리 집계 미확보 | 35시간을 첫 엔딩 평균으로 사용하지 않음 |
+| 대화·선택지 전수 검수 | 미확인 | 없음 | 트로피 취득 시간과 다른 작업 범위 |
+
+[RPGFan 시간 명시](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/). 대사·선택지·조합 이벤트·능력 설명·UI를 확인해야 하며 실제 문자열 총량은 추출하지 않았다.
 
 ## 한국어화 상태
 
-- 공식 PS Vita 한국어판: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공개 PS Vita 유저 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 서구 공식판: 영어 텍스트 제공, **영어 / 일본어 음성 선택 가능**.
-- 후발 DX Steam판: **한국어 미지원, 영어도 미지원, 일본어만 지원**.
-- 따라서 공식 영어 스크립트를 참고할 수 있는 Vita Plus는 한국어 프로젝트에서 후발 DX와 다른 실용적 가치가 있다.
+| 구분 | 2026-10-08 조사 결과 |
+|---|---|
+| PS3 원작 공식·공개 유저 한국어 | 완료된 실사용 한국어 대안 공개 확인 못함 |
+| PS Vita Plus 공식·공개 유저 한국어 | 배포 제작자·버전·범위가 확인되는 완성 한글패치 공개 확인 못함 |
+| PS4·Switch·PC DX 공식·공개 유저 한국어 | 완성 한국어 대안 공개 확인 못함 |
+| Steam DX 공식 언어 | 공식 상점의 검색 수집 본문에는 일본어만 지원, 영어 미지원. 조사 브라우저 직접 열기는 지역 제공 오류여서 현 지역 구매 가능성은 확인하지 못함 |
+| Plus 공식 영어 | 서구판 영어 텍스트·일본어/영어 음성 확인 |
+| Ciel Offline 영어 팬패치 | 전작의 별도 영어 번역. 본작의 한국어판·DX 한국어판으로 세지 않음 |
+| 부분·기계번역·진행 중 한국어 작업 | 완성 배포로 확인할 근거 미확인 |
 
-후발판 언어 확인: [Steam 한국어 페이지](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=koreana), [Gematsu Vita Plus 듀얼 오디오](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july).
+검색에는 “알노서지 한글패치”, “알 노서지 DX 한글”, “Ar nosurge Korean patch”, “アルノサージュ 韓国語”, PS3·Vita·PS4·Switch·Steam 조합을 사용했다. [Steam DX 언어 표](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=english), [Plus 현지화 발표](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july). 발견하지 못한 것을 절대 부재로 단정하지 않는다.
 
-## 원작·이식·확장판 관계
+**한국어 대안 제외 규칙:** 확인된 실사용 한국어 대안이 없어 후보 자격 유지. Plus는 강화 이식판이며, 근거 없이 리메이크 예외를 적용하지 않았다.
 
-- 전작: **Ciel nosurge ～失われた星へ捧ぐ詩～**. Ar nosurge의 주요 인물·세계관과 직접 연결된다.
-- PS3 원작: **Ar nosurge ～生まれいずる星へ祈る詩～**, 일본 2014-03-06 발매.
-- PS Vita 강화판: **Ar nosurge Plus**, 일본 2014-10-02. 신규 의상·정화 파트너·일부 DLC·튜토리얼 개선 등을 포함.
-- 서구 Vita판: 2015-07-01 유럽 / 2015-07-02 북미. 공식 영어 텍스트와 듀얼 오디오 제공.
-- 후발 리마스터: **Ar nosurge DX**, 2021년 PS4·Switch·Steam. Koei Tecmo 지원 문서는 **Vita Plus의 리마스터**라고 명시한다.
-- DX 변경점: CG 리소스 품질 향상, 컨트롤러 대응, 과거 추가 콘텐츠 대부분 수록, 네트워크 기능 삭제, Ciel nosurge DX 세이브 연동 추가. Steam판은 일부 장면·스틸이 플랫폼 가이드라인에 맞춰 수정됐다.
-- DX 언어: Steam판은 일본어만 공식 지원.
+## 원작 / 이식 / 확장판 관계
 
-자료: [Koei Tecmo DX 변경점 지원 문서](https://support.gamecity.ne.jp/hc/ja/articles/41278849178137--%E3%82%A2%E3%83%AB%E3%83%8EDX-%E9%81%8E%E5%8E%BB%E4%BD%9C%E3%81%8B%E3%82%89%E3%81%AE%E5%A4%89%E6%9B%B4%E7%82%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84), [Surge Concerto DX 공식 특징](https://www.gamecity.ne.jp/surgedx/point/), [Steam DX](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/).
+| 판본 | 관계 |
+|---|---|
+| Ciel nosurge | 선행 작품. 같은 게임의 다른 플랫폼판이 아님 |
+| Ar nosurge / PS3 / 2014 | 본작의 원판 |
+| Ar nosurge Plus / Vita / 2014·서구 2015 | 추가 대화·의상·기존 DLC·튜토리얼 및 편의 기능을 보강한 이식 |
+| Ar nosurge DX / PS4·Switch·Steam / 2021 | 공식 지원 문서가 Vita Plus의 리마스터라고 명시 |
+
+[Plus 발표](https://www.4gamer.net/games/263/G026302/20140625082/), [DX 공식 변경점](https://support.gamecity.ne.jp/hc/ja/articles/41278849178137--%E3%82%A2%E3%83%AB%E3%83%8EDX-%E9%81%8E%E5%8E%BB%E4%BD%9C%E3%81%8B%E3%82%89%E3%81%AE%E5%A4%89%E6%9B%B4%E7%82%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84).
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 확인된 내용 |
+| 항목 | 확인 내용 |
 |---|---|
-| PS3 Ar nosurge | 2014 원작. Plus의 기반 |
-| PS Vita Ar nosurge Plus | 신규 의상 / Sarly·Nelo·Shurelia 정화 파트너 / 일부 PS3 DLC 내장 / 튜토리얼 개편 / 조합 이벤트 다시보기 / Vita 터치 요소 |
-| 서구 PS Vita Plus | Plus 콘텐츠 + 영어 텍스트 + 일본어·영어 음성 |
-| PS4·Switch·Steam Ar nosurge DX | Vita Plus 기반 리마스터 / CG 품질 향상 / 과거 DLC 대부분 포함 / 네트워크 기능 삭제 / Ciel nosurge DX 연동 |
-| Steam DX | 위 DX 구성 + 일부 장면·스틸 표현 수정 / 일본어만 지원 |
+| Plus 추가 대화·의상 | 대화 대상과 의상 추가. 사건 관련 인물명과 해금 조건은 생략 |
+| Plus 기존 DLC | PS3 DLC 일부 수록을 서구 발표에서 확인. 지역별 모든 DLC가 동일하다고 확장하지 않음 |
+| Plus 편의성 | 튜토리얼 보강·조합 이벤트 재열람 |
+| Plus 서구판 | 공식 영어 텍스트·듀얼 오디오. 일본어 원문과 번역 품질 대조는 별도 필요 |
+| DX | CG 자산 개선, 컨트롤러 대응, 과거 추가 콘텐츠 대부분 수록 |
+| DX 연동 | 네트워크 기능 삭제, Ciel nosurge DX와 저장 데이터 연동 추가 |
+| Steam DX 표현 | 공식 문서는 일부 장면·스틸 변경을 명시. 구체적인 장면을 설명하지 않음 |
+| 성능·화면·편의 세부 | 직접 구동 비교하지 않음. DX가 모든 면에서 완전 상위호환이라고 단정하지 않음 |
+
+[서구 Plus 안내](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july), [DX 지원 문서](https://support.gamecity.ne.jp/hc/ja/articles/41278849178137--%E3%82%A2%E3%83%AB%E3%83%8EDX-%E9%81%8E%E5%8E%BB%E4%BD%9C%E3%81%8B%E3%82%89%E3%81%AE%E5%A4%89%E6%9B%B4%E7%82%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84).
+
+### 현재 판매·온라인 기능 주의
+
+2026-07-02 공식 공지는 PS3 Ar nosurge와 Vita Plus의 다운로드 판매를 **2026-07-02 16:59 이후 순차 종료**, 온라인 서비스를 **2026-09-02 23:59 종료**한다고 안내한다. Ar nosurge는 Genomilink를 이용할 수 없지만 **게임 플레이 자체는 계속 가능**하다고 명시한다. 일본 공식 공지의 범위를 모든 국가 상점의 실시간 상태로 확대하지 않는다.
+
+[공식 종료 공지](https://www.gamecity.ne.jp/support/notice/28981.html). 해당 공지 본문을 클라우드 브라우저에서 직접 확인했다. 전작 온라인판의 종료와 Plus의 본편 플레이 불가를 혼동하지 않는다.
 
 ## 현재 추천 버전
 
-**플레이 목적에 따라 갈린다.**
+- **공식 영어로 감상:** 이미 보유했거나 적법하게 구할 수 있는 **서구 Vita Plus**를 검토한다. 과거 발매 정보만으로 현재 디지털 신규 구매가 가능하다고 안내하지 않는다.
+- **일본어·현대 기기:** **DX**의 화질·통합 콘텐츠·저장 데이터 연동을 비교한다. Steam 지역 판매와 표현 차이를 확인해야 한다.
+- **한글화 프로젝트:** **Vita Plus**의 영어·일본어 원문을 대조하며 파일 분석할 가치가 있다. 번역 대조 편의와 한글 구현 가능성은 다른 문제다.
 
-- **일본어 가능 + 최신 화질·DLC 통합:** Ar nosurge DX.
-- **공식 영어 텍스트 필요 + 휴대기 플레이:** Ar nosurge Plus PS Vita 서구판.
-- **PS Vita 한글화 프로젝트:** **Ar nosurge Plus 서구판을 우선 분석할 가치가 높다.** 공식 영어 스크립트가 존재하고 Plus 추가 콘텐츠까지 포함하기 때문이다.
-
-다만 작품을 가장 잘 이해하려면 Ciel nosurge의 서사를 먼저 접하는 것이 좋다. 최신 DX 세트는 Ciel nosurge DX와 Ar nosurge DX를 같은 세대로 묶고 세이브 연동도 지원하지만, 공식 언어가 일본어에 한정된다.
+Ciel의 선행 감상은 배경 이해를 돕는다. 현재는 Offline 영어 팬패치가 있으므로 영어 이용자에게 무조건 일본어 전작만 요구하지 않는다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성 / 희소성: **중상.** 강한 세계관·음악·캐릭터 관계와 독특한 메타 구조가 있다.
-- 한국어 접근성: 공식 한국어판과 공개 Vita 한국어 패치를 확인하지 못했다.
-- 기존 언어 대안: 서구 Vita Plus의 공식 영어 텍스트가 존재한다.
-- Vita판 독자성: PS3판보다 추가 콘텐츠와 편의 개선이 있으며, 후발 DX와 달리 공식 영어판이 존재한다.
-- 검수 부담: 대화·제노메트릭스·정화·조합 이벤트 비중이 매우 높아 상당할 가능성이 크다.
-- 한글화 우선도: **B**.
-- 판단 근거: 번역 효용은 높고 영어 대조 자료도 좋지만, 방대한 텍스트와 Ciel nosurge 사전지식 의존, 후발 DX 존재 때문에 즉시 A급으로 올리지는 않는다.
+| 축 | 판단 |
+|---|---|
+| 작품성 | 3.5/5. 인물·음악은 강하고 시스템·템포·Vita 기술 완성도에 약점 |
+| 한국어 접근성 | 확인된 완성 한국어 대안 없음 |
+| Plus 대상 가치 | 추가 대화와 영어 대조 자료. DX와 언어·조작·표현 차이 |
+| 검수 범위 | 메인·부가 대화, 선택지, 음악 관련 용어, 조합·능력·UI. 수치 미확인 |
+| 한글화 우선도 | **B** |
+| A가 아닌 이유 | DX와의 대상 판본 비교, 선행 작품의 용어 연계, 넓은 대사 검수 범위를 먼저 정해야 함 |
+
+판매 종료는 확보 조건에 영향을 주지만 작품성 점수의 가점·감점 근거로 삼지 않는다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | 많을 가능성 / 수치 미확인 | 리뷰에서 대부분의 시간이 대사·제노메트릭스에 쓰인다고 평가. 실제 행 수는 미분석 |
-| 텍스트 추출 | 미확인 | Vita 파일 구조 미분석 |
-| 텍스트 재삽입 | 미확인 | 실제 컨테이너·압축·무결성 구조 미분석 |
-| 폰트 작업 | 미확인 | 영어판 폰트 존재와 한글 글리프 지원은 별개이며 실파일 미확인 |
-| UI 이미지 / 아틀라스 | 미확인 | 이미지형 텍스트 비중 미분석 |
-| 영상 자막 | 미확인 | 영상 내 텍스트·자막 데이터 구조 미분석 |
-| 제어문자 / 스크립트 구조 | 미확인 | 대사 분기·제노메트릭스 제어코드 미분석 |
-| 실행 파일 수정 | 미확인 | 한국어 렌더링을 위한 EBOOT 수정 필요 여부 미확인 |
-| 패치 배포 방식 | 미확인 | rePatch 등 실제 패치 구성 실증 없음 |
-| 실기·에뮬 검수 | 미확인 | 한글 수정본 실기·Vita3K 검증 없음 |
+| 예상 텍스트량 | 미확인 | 실제 행·문자 수 미추출 |
+| 텍스트 추출 | 미확인 | 컨테이너·압축·인코딩 미분석 |
+| 텍스트 재삽입 | 미확인 | 포인터·정렬·무결성 미분석 |
+| 폰트 작업 | 미확인 | 한글 글리프·문자폭·개행 미검증 |
+| UI 이미지 / 아틀라스 | 미확인 | 이미지형 텍스트 미분석 |
+| 영상 자막 | 미확인 | 영상·자막 분리 여부 미분석 |
+| 제어문자 / 스크립트 구조 | 미확인 | 분기·화자·음성·표시 제어 미분석 |
+| 실행 파일 수정 | 미확인 | 필요 여부 미판정 |
+| 패치 배포 방식 | 미확인 | 지역판·업데이트·원본 식별과 차분 배포 설계 미확정 |
+| 실기·에뮬 검수 | 미확인 | 직접 실행·한글 수정본 검수 없음 |
 
 ### 예상 한글화 난이도
 
-**미확인.**
-
-공식 영어판이 있다는 점은 번역 대조에는 매우 유리하지만, 한국어 글꼴·텍스트 컨테이너·문자폭·UI 이미지와 방대한 이벤트 스크립트의 실제 구조를 열어보지 않았으므로 난이도를 추정 점수로 고정하지 않는다.
-
-## 대표 스크린샷
-
-> 아래 3장은 **Ar nosurge Plus PS Vita판 실제 게임 화면**이다. 외부 원출처 이미지를 링크하며 저장소에는 복제 업로드하지 않는다.
-
-### 1. 전투 / 노래마법 충전 UI
-
-![Ar nosurge Plus PS Vita 전투 화면](https://images.pushsquare.com/screenshots/69710/large.jpg)
-
-[출처: Push Square PS Vita 리뷰](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus)
-
-### 2. 지역 선택 / Quantury
-
-![Ar nosurge Plus PS Vita 지역 선택 화면](https://images.pushsquare.com/screenshots/69703/large.jpg)
-
-[출처: Push Square PS Vita 게임 페이지](https://www.pushsquare.com/games/psvita/ar_nosurge_plus)
-
-### 3. 정화 의식 / 캐릭터 대화
-
-![Ar nosurge Plus PS Vita 정화 의식 화면](https://images.rpgsite.net/image/da49c9a1/37509/original/ANSP_Jun172015_15.png)
-
-[출처: RPG Site PS Vita 리뷰](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review)
+**미확인.** 영어 공식판이나 전작 팬패치의 존재만으로 본작 한글 폰트·재삽입이 해결되었다고 보지 않는다.
 
 ## 한줄평
 
-**음악과 정신세계, 플레이어까지 끌어들이는 서사는 강렬하지만, 전작 의존과 방대한 대사·얕은 RPG 파트가 진입 장벽이 되는 독특한 스토리형 JRPG.**
+**인물과 음악의 힘이 뚜렷한 서사형 RPG지만, 초기 설명과 시스템의 깊이·Vita 성능까지 매끈하지는 않다.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 B / 기술 난이도 미확인.**
+**PS Vita Plus / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / B / 기술 난이도 미확인.**
 
-등록선은 통과한다. 77점대 종합평과 7~8점대 Vita 리뷰가 보여 주듯 전체 평가는 안정적이며, 특히 음악·캐릭터 관계·제노메트릭스·메타 서사는 뚜렷한 강점이다. 그러나 Ciel nosurge 의존이 큰데도 서구판에서는 그 공백이 해소되지 않았고, 지나치게 긴 대사와 얕은 RPG 시스템, Vita 성능 저하가 4.0을 막는다.
-
-한글화 우선도는 B다. 한국어 접근성이 없고 Plus판 자체의 추가 콘텐츠와 공식 영어 스크립트라는 이점이 있지만, 실제 프로젝트에서는 방대한 텍스트량과 전작 Ciel nosurge를 함께 어떻게 다룰지 먼저 정해야 한다.
+독립 Vita 리뷰 3명의 장단점과 실제 판본 차이를 근거로 기존 후보를 유지한다. 전작 영어 접근성의 개선, 2026년 판매·연동 종료를 현재 정보로 갱신했다. 희귀성·한글 부재·텍스트 중심 장르 자체는 별점에 반영하지 않았다.
 
 ## 참고 자료
 
-- [Gust: Ar nosurge Plus 일본 공식](https://social.gust.co.jp/pc/arnosurge/vita/)
-- [Gust: Plus AGENTPACK 및 2014-10-02 발매 정보](https://social.gust.co.jp/pc/arnosurge/vita/spe04.html)
-- [Famitsu: Plus 전투·신규 의상](https://www.famitsu.com/news/201407/14057087.html)
-- [Famitsu: 제노메트릭스·정화·추가 요소](https://www.famitsu.com/news/201407/28057927.html)
-- [Famitsu: 자핑 구조와 신규 코스튬](https://www.famitsu.com/news/201409/01060249.html)
-- [4Gamer: PS Vita판 발매 정보](https://www.4gamer.net/games/263/G026302/20140625082/)
-- [Gematsu: 서구 Plus 추가 요소·듀얼 오디오](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july)
-- [RPGFan 리뷰 78/100](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/)
-- [RPG Site 리뷰 8/10](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review)
-- [Push Square 리뷰 7/10](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus)
-- [GameFAQs Vita 통계·평가](https://gamefaqs.gamespot.com/vita/814436-ar-nosurge-plus-ode-to-an-unborn-star)
-- [GameFAQs critic·user score 집계](https://gamefaqs.gamespot.com/vita/814436-ar-nosurge-plus-ode-to-an-unborn-star/reviews)
-- [Koei Tecmo: DX의 Plus 대비 변경점](https://support.gamecity.ne.jp/hc/ja/articles/41278849178137--%E3%82%A2%E3%83%AB%E3%83%8EDX-%E9%81%8E%E5%8E%BB%E4%BD%9C%E3%81%8B%E3%82%89%E3%81%AE%E5%A4%89%E6%9B%B4%E7%82%B9%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84)
-- [Surge Concerto DX 공식 특징](https://www.gamecity.ne.jp/surgedx/point/)
-- [Steam DX 언어 지원](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=koreana)
+- [Gust Plus 공식](https://social.gust.co.jp/pc/arnosurge/vita/)
+- [일본 Plus 발매·추가점](https://www.4gamer.net/games/263/G026302/20140625082/)
+- [서구 Plus 발매·언어](https://www.gematsu.com/2015/05/ar-nosurge-plus-coming-west-july)
+- [Vita 시스템 발표](https://www.famitsu.com/news/201407/14057087.html)
+- [4Gamer 실제 플레이·이미지](https://www.4gamer.net/games/263/G026302/20140913007/)
+- [RPGFan / Andrew Barker](https://www.rpgfan.com/review/ar-nosurge-plus-ode-to-an-unborn-star/)
+- [RPG Site / Zack Reese](https://www.rpgsite.net/review/4432-ar-nosurge-plus-ode-to-an-unborn-star-review)
+- [Push Square / Robert Ramsey](https://www.pushsquare.com/reviews/psvita/ar_nosurge_plus)
+- [Steam DX 언어·표현 변경](https://store.steampowered.com/app/1477490/Ar_nosurge_Ode_to_an_Unborn_Star_Deluxe/?l=english)
+- [2026 공식 판매·온라인 종료 공지](https://www.gamecity.ne.jp/support/notice/28981.html)
+- [Ciel Offline 영어 번역팀 발표](https://ateliertraduction.forumgaming.fr/t83-the-release-of-the-ciel-nosurge-english-patch-on-ps-vita-is-finally-here)
+
