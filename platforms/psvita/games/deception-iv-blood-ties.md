@@ -1,222 +1,206 @@
 # Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)
 
-> 원제: 影牢 ～ダークサイド プリンセス～  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 원제: 影牢 ～ダークサイド プリンセス～
+> 대상 판본: PlayStation Vita
+> 상태: 🟢 후보
+> 발굴 추천도: ⭐⭐⭐½☆ **3.5/5**
+> 한글화 우선도: **C**
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> 국내에는 디지털터치를 통해 PS3·PS Vita판이 정식 유통됐지만, 당시 국내 자료와 현재 공개 DB에서는 **한국어 미지원 / 일본어판 기반 유통**으로 확인된다. 2026-09-21 기준 공개 PS Vita 한국어 패치는 검색으로 확인하지 못했다. 한편 2015년의 **Deception IV: The Nightmare Princess**는 Blood Ties의 전체 콘텐츠를 포함하면서 신규 주인공, 100개 퀘스트, 신규 스테이지와 추가 트랩을 더한 확장판이므로 현재 플레이와 신규 한글화 대상 선택에서는 반드시 함께 비교해야 한다.
+## 대표 스크린샷
+
+**Blood Ties PS Vita판 실제 게임 화면 3장**이다. 출처의 기종과 이미지 픽셀을 대조했다. 캐릭터의 정체·대사·사건 결과가 드러나는 장면을 피하고 전투 HUD와 배치 화면을 골랐다. 이미지는 원출처에 두며 저장소에 복제하지 않는다.
+
+![PS Vita Blood Ties: 함정과 전투 HUD](https://media.pocketgamer.com/artwork/na-dqw/PS_Vita_Deception_IV_Blood_Ties_04.jpg)
+*1. 타이머·함정 슬롯·점수·상태가 표시된 전투. [출처: Pocket Gamer Vita 리뷰](https://www.pocketgamer.com/deception-iv-blood-ties/review/)*
+
+![PS Vita Blood Ties: 함정 발동 중의 게임 화면](https://i0.wp.com/operationrainfall.com/wp-content/uploads/2014/04/2014-03-30-1031081.jpg?ssl=1)
+*2. 함정 발동과 장착 슬롯을 확인할 수 있는 화면. [출처: oprainfall Vita 직접 리뷰](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/)*
+
+![PS Vita Blood Ties: 격자 위에 함정을 배치하는 화면](https://media.pocketgamer.com/FCKEditorFiles/Deception_IV_Blood_Ties_4.jpg)
+*3. 배치 격자와 이동 경로·선택 UI. [출처: Pocket Gamer](https://www.pocketgamer.com/deception-iv-blood-ties/review/)*
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | 影牢 ～ダークサイド プリンセス～ |
-| 영문 제목 | Deception IV: Blood Ties |
-| 한글 제목 | 영뢰: 다크사이드 프린세스. 2014년 국내 정식 발매 기사에서 사용된 제목 |
-| 플랫폼 | 이번 평가: PlayStation Vita. PS3 동시 발매 |
+| 영문 / 로마자 | Deception IV: Blood Ties |
+| 한글 제목 | 영뢰: 다크사이드 프린세스 / 카게로 ~다크사이드 프린세스~ |
+| 플랫폼 | 평가 대상 PS Vita. PS3 동시 발매 |
 | 발매일 | 일본 2014-02-27 / 한국 2014-02-28 / 북미 2014-03-25 / 유럽 2014-03-28 |
-| 개발사 | Koei Tecmo Games |
-| 발매사 | 일본·서구 Koei Tecmo / 한국 유통 Digital Touch |
-| 장르 | 트랩 액션 / 전략 퍼즐 / 실시간 액션 |
-| 원산지 / 원문 언어 | 일본 / 일본어. 서구판은 영어 텍스트와 일본어 음성 |
-| 예상 플레이타임 | 메인 스토리 약 13시간대, 메인+추가 약 20시간대라는 집계가 있음. GameFAQs 사용자 통계는 20명 기준 Length 45 Hours로 더 길어 반복·도전 콘텐츠 편차가 큼 |
+| 개발사 / 발매사 | Koei Tecmo Games / 한국 유통 Digital Touch |
+| 장르 | 함정 배치·연쇄 액션 / 실시간 퍼즐·전략 |
+| 원산지 / 원문 언어 | 일본 / 일본어. 서구판은 영어 텍스트·일본어 음성 |
+| 예상 플레이타임 | Vita 본편 완료 약 18시간 사례 1명. 재시도·실험 포함, 전체 100미션 완료 시간 아님 |
 | 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | **C** |
-| 한글화 난이도 | **미확인**. 실제 Vita 파일·폰트·실행 파일 미분석 |
-| 현재 추천 버전 | **Deception IV: The Nightmare Princess**. Blood Ties 전 콘텐츠와 추가 캠페인·스테이지·트랩을 포함 |
+| 한글화 난이도 | **미확인** |
+| 현재 추천 버전 | 확장판 The Nightmare Princess. 휴대는 Vita, 거치는 PS4 등을 비교 |
+| 평가 시 유의점 | 일본판 v1.02의 저장·장비 변경 개선을 초기 리뷰의 불만과 구분 |
 
-근거: [일본 공식 제품 정보](https://www.gamecity.ne.jp/game/1462.html), [일본 공식 상세 사양](https://www.gamecity.ne.jp/kagero3/outline.html), [PlayStation Blog 북미 출시 안내](https://blog.playstation.com/2014/02/20/deception-iv-blood-ties-hits-ps3-ps-vita-on-march-25th/), [국내 발매 기사](https://www.gamemeca.com/view.php?gid=474775), [GameFAQs 지역별 발매 정보](https://gamefaqs.gamespot.com/vita/730568-deception-iv-blood-ties/data).
+발매 근거: [공식 제품 정보](https://www.gamecity.ne.jp/game/1462.html), [국내 발매 기사](https://www.gamemeca.com/view.php?gid=474775), [국내 일본어판 유통 명시](https://www.gamemeca.com/view.php?gid=476462), [북미 출시 공식 발표](https://blog.playstation.com/2014/02/20/deception-iv-blood-ties-hits-ps3-ps-vita-on-march-25th/).
 
 ## 스포일러 최소 시놉시스
 
-오래전 인류에게 봉인된 마신은 자신의 부활에 필요한 12개의 성언 조각을 되찾기 위해 자신의 영혼에서 태어난 딸 **레그리나**와 세 명의 메디움을 인간 세계로 보낸다. 레그리나는 검이나 총으로 직접 싸우는 대신 침입자들을 함정으로 유인해 쓰러뜨리고 성언의 행방을 추적한다.
-
-스토리는 함정 전투를 연결하는 다크 판타지 틀에 가깝고, 작품의 진짜 중심은 적의 이동·내성·방향을 읽어 여러 함정을 하나의 연쇄 장치처럼 연결하는 플레이에 있다.
+어두운 판타지풍 공간에서 함정을 설치하고 상대의 위치와 움직임을 유도하는 게임이다. 공간 배치, 발동 타이밍, 여러 장치의 연결이 플레이의 중심이다. 인물의 정체·목적·사건·결말은 여기서 소개하지 않는다.
 
 ## 게임 구조 / 루트 구조
 
-- **스토리 모드:** 챕터와 짧은 미션 단위로 진행된다. 각 전투는 침입자를 제거하고 메디움이 제시하는 요구 조건을 수행하는 구조다.
-- **함정 3계통:** 화려, 잔혹, 굴욕 계통의 함정이 있으며 계통별 사용과 과제를 통해 새 함정을 해금한다.
-- **트랩 시퀀스:** 여러 함정을 미리 발동 순서대로 배치해 긴 연쇄 콤보를 만들 수 있다.
-- **환경 기믹:** 성뿐 아니라 공장·놀이공원 등 각 스테이지에 고유 장치가 있어 함정 콤보에 끌어들일 수 있다.
-- **적 특성:** 직업·방어구·함정 내성 차이가 있어 같은 콤보가 항상 통하지 않는다. 약점을 이용해 방어구를 파괴하는 요소도 있다.
-- **미션 모드:** 본편 외에 100개의 독립 도전 미션이 제공된다는 Vita 리뷰들이 확인된다.
-- **프리 배틀 / 크로스 퀘스트:** 자유롭게 조건을 구성하고 다른 플레이어가 만든 과제를 내려받는 기능이 있다. 현재 온라인 기능의 실제 동작 여부는 별도 실증이 필요하다.
+- 배치 화면에서 함정을 놓고 실시간 이동으로 상대를 유인한 뒤 순서대로 발동한다.
+- 벽·바닥·천장 함정과 방에 설치된 장치를 연계한다. 방향·높이·거리·시간의 조합이 핵심이다.
+- 효과와 보상 성격이 다른 세 계통의 함정, 내성·방어 특성이 다른 적, 과제와 해금 요소가 있다.
+- 본편 외 **100개 독립 미션**, 자유 전투와 사용자 과제 관련 기능이 있다. 100개는 원판의 미션 수이며 후발 확장판의 새 퀘스트와 혼동하지 않는다.
+- 같은 함정에 플레이어도 걸릴 수 있어 안전한 이동 경로를 함께 고려해야 한다.
+- 온라인 과제·기록 관련 기능은 출시 당시 소개를 확인했다. 2026년 현재 연결 상태를 직접 시험하지 않았으므로 서비스가 정상 동작한다고 보장하지 않는다.
 
-공식 시스템 설명: [Koei Tecmo 제품 페이지](https://www.gamecity.ne.jp/game/1462.html), [PlayStation Blog](https://blog.playstation.com/2014/02/20/deception-iv-blood-ties-hits-ps3-ps-vita-on-march-25th/).
+근거: [Pocket Gamer Vita](https://www.pocketgamer.com/deception-iv-blood-ties/review/), [Push Square Vita](https://www.pushsquare.com/reviews/psvita/deception_iv_blood_ties), [oprainfall Vita](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/).
 
 ## 왜 발굴할 만한가
 
-전통적인 직접 전투를 버리고 **공간 배치와 타이밍만으로 적을 처리하는 역설계형 액션 퍼즐**에 집중한 작품이다. 바나나 껍질로 미끄러뜨리고, 벽으로 밀어내고, 갈고리로 끌어올린 뒤 화살이나 무대 장치로 마무리하는 식의 연쇄가 성공했을 때의 보상이 매우 분명하다.
-
-Pocket Gamer는 Vita판을 4/5로 평가하며 어둡고 독특한 퍼즐게임으로 보았고, Game Informer도 자유로운 콤보 시스템 자체의 만족감은 인정했다. 반대로 Push Square와 Game Informer는 반복되는 효율 콤보, 빈약한 AI, 구식으로 느껴지는 연출과 시스템을 주요 약점으로 지적했다. 즉 **핵심 아이디어는 강하지만 반복 플레이 설계가 그 아이디어를 끝까지 밀어 올리지 못한 작품**으로 보는 것이 적절하다.
+공간을 미리 설계하고 그 안에서 실시간 타이밍을 맞추는 두 단계가 맞물린다. 긴 연쇄가 성공하면 계획을 실제 움직임으로 구현했다는 보상이 분명하다. 독립 Vita 리뷰 세 명 모두 핵심 함정 조합의 재미를 인정한다. 그러나 본편은 긴 웨이브와 장소 재사용, 효율적인 단순 조합에 머물러도 진행 가능한 보상 구조 때문에 변화와 실험의 유도가 고르지 않다. **핵심은 강하지만 진행 전체의 밀도는 중상급인 3.5점**이다.
 
 ## 장점
 
-- 함정을 연결해 적을 원하는 위치로 날리고 밀고 떨어뜨리는 독보적인 콤보 퍼즐.
-- 단순 처치보다 화려·잔혹·굴욕 조건을 노릴수록 점수와 해금이 풍부해지는 설계.
-- 환경 기믹까지 포함한 긴 연쇄가 성공했을 때 강한 성취감을 줌.
-- 짧은 미션 단위가 휴대기인 Vita와 잘 맞는다는 당시 리뷰 평가가 있음.
-- 스토리 외 100개 미션, 프리 배틀, 크로스 퀘스트 등 추가 플레이 요소가 존재.
-- 일본어 원판뿐 아니라 서구 영어판도 존재하므로 번역 원문 선택지는 넓은 편.
+- **계획과 실행의 결합:** 배치와 실시간 유인을 연결해 같은 방에서도 여러 해법을 만들어 낼 수 있다.
+- **환경 장치와의 연계:** 직접 장착한 함정 밖의 구조물까지 활용할 수 있어 공간을 관찰하는 의미가 크다.
+- **조건형 미션의 가치:** oprainfall은 본편보다 독립 미션의 목적과 제한이 더 흥미로울 때가 있다고 평가했다.
+- **기본 실험의 만족감:** Pocket Gamer는 시행착오 끝에 연쇄가 성공하는 퍼즐의 보상을 높게 평가했다.
+- **업데이트 개선:** 일본판은 초기 저장·장비 운용 및 일부 동작 오류를 공식 패치로 개선했다. 수정된 문제를 그대로 현행판 감점에 반복 적용하지 않는다.
 
 ## 단점
 
-- 효율적인 몇몇 콤보를 익힌 뒤 같은 패턴을 반복하기 쉬워 실험 유도가 약해질 수 있음.
-- 적 AI가 단순하거나 비정상 동작을 보였다는 리뷰가 있고, 유인 과정이 번거로울 때가 있음.
-- 긴 함정 체인을 만들었을 때 작은 위치 오차 하나로 계획 전체가 어긋날 수 있음.
-- 중간 저장 제약과 반복 대사가 실패 재도전을 더 피곤하게 만든다는 Vita 리뷰 지적이 있음.
-- 그래픽과 캐릭터 모델, 카메라가 동시대 기준으로 투박하다는 평가가 많음.
-- 2015년 확장판 The Nightmare Princess가 같은 Vita에 Blood Ties 전체 콘텐츠와 추가 요소를 포함해 원판의 현재판 가치가 크게 낮아짐.
+- **효율 조합의 반복:** Push Square는 복잡한 연쇄를 설계하지 않아도 단순 반복으로 충분한 보상을 받는 점을 지적했다. 자유도 자체보다 실험을 유도하는 설계의 약점이다.
+- **본편의 길어진 웨이브·장소 재사용:** oprainfall은 같은 공간을 오래 쓰는 구간에서 반복 피로를 느꼈다.
+- **위치·시야 관리의 마찰:** 작은 방향 오차가 연쇄 실패로 이어지고, 화면 밖 공격을 신경 쓰며 유인해야 한다.
+- **Vita의 읽기·연출 품질:** oprainfall은 작은 글자와 정적인 장면 표현을, Pocket Gamer는 투박한 그래픽을 지적했다. 전체 작동이 나쁘다는 주장과는 구분한다.
+- **출시 초 결함을 구분할 필요:** 전투 사이 저장·장비 변경 불가와 적이 멈추는 오류는 아래 패치 사항이 확인된다. 모든 지역판의 최신 상태를 직접 테스트한 것은 아니다.
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처 / 작성자 | 점수 | 표본 수 | 대상 판본·완료 범위 / 본문 확인 |
 |---|---:|---:|---|
-| Metacritic | 67/100 | 19개 평론 | PS Vita. 긍정 4, 혼합 14, 부정 1 |
-| Pocket Gamer | 4/5 | 1개 매체 리뷰 | PS Vita. 독특한 퍼즐성과 함정 설계를 높게 평가 |
-| Game Informer | 6.75/10 | 1개 매체 리뷰 | PS Vita에서 직접 리뷰. 콤보 만족감과 반복·AI 문제를 함께 지적 |
-| Push Square | 6/10 | 1개 매체 리뷰 | 유럽 PS Vita판. 창의적 함정 조합과 반복·낮은 AI를 함께 평가 |
-| GameFAQs | 사용자 7.3/10 | 55명 | Metacritic 사용자 집계가 함께 표시되는 Vita 리뷰 페이지 |
+| [Pocket Gamer / Matthew Diener, 2014-04-01](https://www.pocketgamer.com/deception-iv-blood-ties/review/) | **4/5** | 리뷰 1편 | **Vita**. 함정 실험·재도전·100미션 논의. 전 콘텐츠 완료 선언 없음 |
+| [Push Square / Mat Growcott, 2014-03-25](https://www.pushsquare.com/reviews/psvita/deception_iv_blood_ties) | **6/10** | 리뷰 1편 | **유럽 Vita판**. 단순 반복 조합과 보상 설계 비판. 전 미션 완료 명시 없음 |
+| [oprainfall / Justin Guillou, 2014-04-29](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/) · [2쪽](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/2/) | **3.5/5** | 리뷰 1편 | **Vita 본편 완료 약 18시간** 명시. 별 아이콘 3개+반개 확인. 2쪽을 별도 작성자로 세지 않음 |
+| [Koei Tecmo 일본 공식 v1.02](https://www.gamecity.ne.jp/kagero3/top/b/ud/update.html) | 평가 점수 없음 | 공식 변경 기록 1건 | **PS3·Vita 일본판**, 2014-03-19. 리뷰의 일부 초기 불만이 수정됐음을 확인하는 근거 |
 
-- [Metacritic Vita critic reviews](https://www.metacritic.com/game/deception-iv-blood-ties/critic-reviews/)
-- [Pocket Gamer Vita review](https://www.pocketgamer.com/deception-iv-blood-ties/review/)
-- [Game Informer Vita review](https://www.gameinformer.com/games/deception_iv_blood_ties/b/playstation_vita/archive/2014/03/25/deception-iv-review.aspx)
-- [Push Square Vita review](https://www.pushsquare.com/reviews/psvita/deception_iv_blood_ties)
-- [GameFAQs Vita reviews](https://gamefaqs.gamespot.com/vita/730568-deception-iv-blood-ties/reviews)
+독립 실플레이 리뷰 **3명 모두 Vita**다. 점수뿐 아니라 본문과 마지막 쪽까지 확인했다. 제공받은 리뷰 사본과 실제 판매 최신 버전이 같다고 가정하지 않았다.
 
-> 평점은 단순 평균하지 않는다. 67점대 종합평과 6점대 리뷰가 약점을 분명히 보여 주지만, Pocket Gamer의 4/5처럼 핵심 트랩 퍼즐을 높게 평가한 사례도 있어 작품의 개성이 단순 평균치보다 중요하다.
+Push Square 상단 **사용자 6.4·5명**은 비평가 **6/10**과 별개다. 기존 문서의 GameFAQs **7.3/10·55명**은 해당 페이지에 함께 표시되는 타 서비스 사용자 지표를 GameFAQs 고유 투표처럼 읽을 위험이 있어 제거했다. 이번에 현재 원표·지역·완료 범위를 검증하지 않은 종합 점수는 판단의 중심으로 삼지 않는다.
+
+### 업데이트를 반영한 리뷰 해석
+
+[일본 공식 v1.02 변경 기록](https://www.gamecity.ne.jp/kagero3/top/b/ud/update.html)은 다음을 명시한다.
+
+- 스토리 모드 **전투 1회마다 저장 및 장비 변경** 가능
+- 함정 선택 중 상대의 내성·무효 정보 표시
+- 일부 적의 공격 빈도·이동 속도 조정
+- 적이 이동·공격하지 않는 오류 수정
+- 일부 진행·기록 오류 수정
+
+따라서 초기 리뷰의 ‘챕터 전체 동안 장비 고정’과 ‘전투 사이 저장 불가’를 일본 업데이트판의 확정 결함으로 쓰지 않는다. 이것은 자유로운 **전투 도중 언제든 저장**과도 다르다. 서구 리뷰 사본에 대응 업데이트가 포함됐는지는 본문에서 확인되지 않아 지역·버전 차이를 남겼다.
 
 ## 플레이타임
 
-- PSPrices에 표시된 플레이타임 집계는 **메인 스토리 약 13시간 23분**, **메인+추가 약 20시간 7분**이다.
-- Twinfinite 리뷰는 메인 캠페인을 약 8~9시간으로 기록했고, BagoGames는 약 10시간으로 적었다.
-- GameFAQs 사용자 통계는 **20명 기준 Length 45 Hours**로 표시해 훨씬 길다.
-- 이런 차이는 100개 미션, 프리 배틀, 함정 해금, 점수 도전과 반복 플레이까지 어디까지 포함하느냐에 따른 것으로 보는 편이 안전하다.
-- 따라서 한글화 검수량도 메인 스토리 시간만으로 추정하지 않는다.
+| 범위 | 시간 | 표본 / 해석 |
+|---|---|---|
+| Vita 본편 1회 완료 | **약 18시간** | oprainfall 작성자 1명. 사망 후 재시도와 함정 실험 포함 |
+| 100미션·해금·기록 도전 전체 | 미확인 | 리뷰에서 추가 콘텐츠 존재는 확인되지만 동일 조건 완전 완료 평균 없음 |
 
-자료: [PSPrices Vita 페이지](https://psprices.com/region-us/game/10505/deception-iv-blood-ties), [Twinfinite 리뷰](https://twinfinite.net/reviews/deception-iv-blood-ties-review-devils-daughter-castle-guillotine/), [BagoGames 리뷰](https://bagogames.com/deception-iv-review/), [GameFAQs 통계](https://gamefaqs.gamespot.com/vita/730568-deception-iv-blood-ties).
+기존 문서의 PSPrices 13시간대와 GameFAQs 45시간은 표본·완료 범위를 이번에 재확인하지 못해 현행 추정의 기준으로 쓰지 않았다. 18시간은 평균도, 모든 수집과 미션 완료 시간도 아니다. 번역 검수는 본편 대사 외 미션 조건·함정 효과·내성·적 프로필·각종 보상 UI를 포함한다.
 
 ## 한국어화 상태
 
-- 한국 정식 발매: **있음**. 디지털터치가 PS3·PS Vita판을 2014-02-28 국내 정식 발매했다.
-- 공식 한국어 지원: **확인되지 않으며, 국내 자료에서는 일본어판 기반 정발로 기록됨**.
-- 공개 PS Vita 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 영어판: 북미·유럽에 **Deception IV: Blood Ties**로 정식 발매. 영어 텍스트와 일본어 음성을 사용한다는 당시 리뷰가 확인된다.
-- 한국 Vita 제품 ID: GameFAQs 발매 DB에 **VLKS-66011**이 기록되어 있다.
+확인일: **2026-10-08**.
 
-자료: [게임메카 국내 발매 기사](https://www.gamemeca.com/view.php?gid=474775), [GameFAQs 지역별 발매 정보](https://gamefaqs.gamespot.com/vita/730568-deception-iv-blood-ties/data), [한국어 미지원 기록](https://namu.moe/w/%EC%B9%B4%EA%B2%8C%EB%A1%9C%20~%EB%8B%A4%ED%81%AC%EC%82%AC%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4~).
+| 판본 | 확인 결과 |
+|---|---|
+| Blood Ties Vita·PS3 한국 정발 | **정식 유통은 있었으나 일본어판**. [동시대 국내 발매 안내](https://www.gamemeca.com/view.php?gid=476462)가 일본어 버전을 명시 |
+| Blood Ties Vita·PS3 공개 한국어 패치 | 완성·배포·적용 가능한 패치가 공개적으로 확인되지 않음 |
+| The Nightmare Princess Vita·PS3·PS4 | 한국어 공식판 또는 공개 완료 한글패치가 공개적으로 확인되지 않음 |
+| 관련 의상 DLC·다른 게임 | ‘Deception Costume’에 붙은 한국어 지원 표시는 다른 게임의 의상 상품. 본작의 한국어 지원 근거가 아님 |
+| 번역 공략·게시물 | 한국어로 플레이 방법을 설명한 글은 게임 파일 패치와 구분 |
+
+‘영뢰’, ‘카게로’, 원제, Blood Ties, The Nightmare Princess에 ‘한국어’, ‘한글패치’, ‘Korean patch’와 각 기종을 조합해 검색했다. 공식 유통과 언어 지원, 원판과 확장판을 분리했다. **현재 공개 확인 범위에서 한국어 대안 제외 규칙에 해당하지 않는다.** 비공개 작업까지 없다고 단정하지 않는다.
 
 ## 원작·이식·확장판 관계
 
-- 전작 계열: 2005년 PS2의 **Kagero II: Dark Illusion / Trapt** 이후 약 8~9년 만의 신작.
-- Blood Ties 일본판: **影牢 ～ダークサイド プリンセス～**, 2014-02-27 PS3·PS Vita 동시 발매.
-- 서구판: 2014년 3월 **Deception IV: Blood Ties**로 현지화.
-- 확장판: 2015-03-26 일본에서 **影牢 ～もう1人のプリンセス～**, 서구에서 **Deception IV: The Nightmare Princess**로 PS4·PS3·PS Vita 발매.
-- The Nightmare Princess는 **Blood Ties의 전체 콘텐츠를 포함**하며 새 주인공 Velguirie, 100개 퀘스트의 신규 스토리, 신규 현대 스테이지, Enemy Edit, 180개 이상 트랩 등을 더한다.
-- Blood Ties에서 획득한 트랩·능력·코스튬을 The Nightmare Princess로 옮길 수 있다는 안내도 존재한다.
-
-자료: [Koei Tecmo Blood Ties 공식](https://www.gamecity.ne.jp/game/1462.html), [Koei Tecmo 확장판 공식](https://www.gamecity.ne.jp/game/1455.html), [The Nightmare Princess Vita 발매 설명](https://gamefaqs.gamespot.com/vita/108537-deception-iv-the-nightmare-princess/data), [PlayStation Store 설명](https://store.playstation.com/en-us/concept/200933).
+1. Blood Ties는 2014년 Vita·PS3판이다.
+2. 2015년 **The Nightmare Princess / 影牢 ～もう1人のプリンセス～**는 Vita·PS3·PS4로 나온 확장판이다.
+3. [현재 공식 PS Store 설명](https://store.playstation.com/en-us/concept/200933)은 **Blood Ties 전체 콘텐츠 포함**, 추가 퀘스트·스테이지·편집 기능·180개 이상 함정을 명시한다.
+4. 단순히 새 내용만 붙인 구성이 아니라 기존 스토리 모드에 챕터 선택과 난이도 재조정 등 변화가 있다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 확인된 내용 |
+| 판본 | 확인된 차이 |
 |---|---|
-| Blood Ties PS Vita | 2014 원판. 스토리, 3계통 트랩, 100개 미션, 프리 배틀·크로스 퀘스트 |
-| Blood Ties PS3 | 같은 시기 동시 발매. 기본 콘텐츠는 같은 계열이며 PS3판의 영상 공유 등 일부 플랫폼 기능 차이가 당시 안내됨 |
-| The Nightmare Princess PS Vita | Blood Ties 전체 콘텐츠 + Velguirie 중심 100개 퀘스트 + 신규 스테이지 + Enemy Edit + 추가 트랩 |
-| The Nightmare Princess PS4 | 확장판의 PS4 버전. Blood Ties 전체 콘텐츠와 확장 콘텐츠를 포함 |
-| 한국 정발 Blood Ties Vita | VLKS-66011. 국내 정식 유통은 확인되지만 한국어 지원은 확인되지 않음 |
+| Blood Ties Vita | 원판 본편·100미션·자유 전투. 일본판 v1.02 저장·장비·정보 표시 개선 |
+| Blood Ties PS3 | 동시 발매한 거치판. 같은 일본 v1.02 대상 |
+| The Nightmare Princess Vita·PS3·PS4 | 원판 콘텐츠 + 새 퀘스트·장치·스테이지·편집 기능 |
+| 확장판의 원판 캠페인 | 완료 챕터 재선택, 추가 함정 사용, 난이도 재조정, 방어 해제 조건 가시화 |
+
+확장판 변경은 [제작사 발표를 수록한 4Gamer 비교](https://www.4gamer.net/games/285/G028577/20150320044/)를 근거로 했다. 인물 이름·서사·결과는 옮기지 않았다. DLC를 포함한 모든 부가상품이 무조건 기본 패키지에 포함된다는 뜻은 아니다.
 
 ## 현재 추천 버전
 
-**현재 처음 플레이한다면 Deception IV: The Nightmare Princess를 우선한다.**
+**The Nightmare Princess를 우선한다.** Blood Ties를 포함하고 재도전 편의와 추가 플레이 구성이 있기 때문이다. 휴대 목적이면 Vita 확장판, 거치 환경이면 PS4판 등을 비교할 수 있다.
 
-공식·스토어 설명에서 Blood Ties의 모든 콘텐츠를 포함한다고 명시하고, 신규 주인공과 100개 퀘스트, 새 스테이지와 추가 트랩까지 더한다. 휴대성을 유지하려면 **PS Vita The Nightmare Princess**, 거치 환경까지 허용한다면 PS4판도 비교 대상이다.
-
-한글화 프로젝트 역시 특별히 2014 Blood Ties 원판을 보존하려는 목적이 아니라면 **The Nightmare Princess를 먼저 기술 분석하는 편이 합리적**이다. 이 문서는 사용자가 지정한 Blood Ties Vita판의 작품성과 아카이브 가치를 독립적으로 기록한다.
+원판을 이미 보유했다면 일본판은 적어도 **공식 v1.02 개선 내용**을 확인할 가치가 있다. 각 지역별 패치 번호·다운로드 가능 상태와 실기 적용은 이번 조사에서 검증하지 않았다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성 / 희소성: **중상.** 함정 연쇄 퍼즐은 매우 독특하고 지금도 대체제가 적다.
-- 한국어 접근성: 국내 정발은 있었지만 한국어 지원은 확인되지 않는다.
-- 기존 한국어화 대안: 2026-09-21 기준 공개 Vita 한글패치는 확인하지 못했다.
-- 영어 대안: 서구 정식 영어판이 존재해 원문 이해의 대체 경로가 있다.
-- 후발판 영향: 같은 Vita의 The Nightmare Princess가 Blood Ties 전체 콘텐츠를 포함해 원판 자체를 새로 번역할 실익은 낮아진다.
-- 한글화 우선도: **C**.
-- 판단 근거: 게임 자체는 등록 가치가 있지만, 새 프로젝트라면 Blood Ties보다 완전판 성격의 The Nightmare Princess를 먼저 분석하는 편이 시간 대비 효율이 높다.
+- **품질 3.5/5:** 공간·타이밍·연쇄의 핵심은 충분히 우수하지만 반복 구간과 실험 유도, 표시·연출에 한계가 있다.
+- **번역 효용:** 함정 효과와 내성·미션 조건의 정확한 이해가 플레이에 직접 영향을 준다.
+- **한국어 대안:** 현재 공개적으로 확인되지 않음.
+- **우선도 C:** **같은 Vita에 원판을 포함한 확장판이 존재**하므로 신규 번역은 확장판을 먼저 분석하는 편이 합리적이다.
+- 작품이 드물거나 자극적이라는 이유로 가산·감점하지 않았다. 확장판의 존재는 원판의 2014년 설계 완성도와 별도 축으로 다뤘다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | 미확인 | 스토리·튜토리얼·적 프로필·미션 설명이 있으나 실제 스크립트 행 수 미분석 |
-| 텍스트 추출 | 미확인 | Vita 게임 파일 구조 미분석 |
-| 텍스트 재삽입 | 미확인 | 실제 컨테이너·압축·무결성 조건 미분석 |
-| 폰트 작업 | 미확인 | 한국어 글리프·가변폭·렌더러 미확인 |
-| UI 이미지 / 아틀라스 | 미확인 | 이미지형 일본어의 범위 미분석 |
-| 영상 자막 | 미확인 | 영상 내 텍스트·자막 자산 여부 미분석 |
-| 제어문자 / 스크립트 구조 | 미확인 | 대사·메뉴 포맷 미분석 |
-| 실행 파일 수정 | 미확인 | 한글 출력에 EBOOT 수정이 필요한지 미확인 |
-| 패치 배포 방식 | 미확인 | rePatch 적용 가능성 포함 실증 없음 |
-| 실기·에뮬 검수 | 미확인 | 한국어 수정본을 실기·Vita3K에서 검증하지 않음 |
+| 예상 텍스트량 | 미확인 | 대사·튜토리얼·미션·적 정보·장비 설명. 실제 문자열 미계수 |
+| 텍스트 추출 | 미확인 | 원본 파일 미분석 |
+| 텍스트 재삽입 | 미확인 | 압축·포인터·길이 제한 미분석 |
+| 폰트 작업 | 미확인 | 한글 글리프·폭·렌더러 미분석 |
+| UI 이미지 / 아틀라스 | 미확인 | 이미지형 문자 범위 미분석 |
+| 영상 자막 | 미확인 | 영상·자막 자산 미확인 |
+| 제어문자 / 스크립트 구조 | 미확인 | 대사·미션 포맷 미분석 |
+| 실행 파일 수정 | 미확인 | 수정 필요 여부 실증 없음 |
+| 패치 배포 방식 | 미확인 | 수정본 적용 경로 미검증 |
+| 실기·에뮬 검수 | 미확인 | 한국어 수정본 시험 없음 |
 
 ### 예상 한글화 난이도
 
-**미확인.**
-
-서구 영어판 존재는 번역 참고에는 유리하지만, Vita판의 실제 폰트·컨테이너·UI 이미지 구조를 분석하지 않았으므로 기술 난이도를 낮다고 단정하지 않는다.
-
-## 대표 스크린샷
-
-> 아래 3장은 **PS Vita판 Blood Ties 리뷰에 수록된 실제 게임 화면**이다. 저장소에 이미지를 복제 업로드하지 않고 원출처를 링크한다.
-
-### 1. 함정 전투와 HUD
-
-![Deception IV Blood Ties PS Vita 함정 전투](https://media.pocketgamer.com/artwork/na-dqw/PS_Vita_Deception_IV_Blood_Ties_04.jpg)
-
-[출처: Pocket Gamer PS Vita 리뷰](https://www.pocketgamer.com/deception-iv-blood-ties/review/)
-
-### 2. 연쇄 트랩 콤보
-
-![Deception IV Blood Ties PS Vita 연쇄 트랩 콤보](https://i0.wp.com/operationrainfall.com/wp-content/uploads/2014/04/2014-04-19-001321.jpg?ssl=1)
-
-[출처: oprainfall PS Vita 리뷰](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/)
-
-### 3. 트랩 배치 그리드
-
-![Deception IV Blood Ties PS Vita 트랩 배치 화면](https://media.pocketgamer.com/FCKEditorFiles/Deception_IV_Blood_Ties_4.jpg)
-
-[출처: Pocket Gamer PS Vita 리뷰](https://www.pocketgamer.com/deception-iv-blood-ties/review/)
+**미확인.** Vita판의 작은 글자와 다수 동시 HUD를 고려하면 번역 후 가독성 검수는 중요하다. 그러나 실제 자산을 열지 않았으므로 기술적으로 쉽거나 어렵다고 단정하지 않는다. 확장판과 원판의 파일 호환·번역 재사용 가능성도 별도 분석 사항이다.
 
 ## 한줄평
 
-**함정을 이어 붙여 인간 핀볼 기계를 만드는 순간은 독보적이지만, 반복·AI·구식 설계와 완전판의 존재가 원판의 현재 가치를 깎는 컬트형 전략 액션.**
+**함정을 설계하고 연결하는 핵심 재미는 확실하지만, 반복을 줄이고 실험을 이끄는 본편 구성에는 여지가 남은 전략 액션.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
+**PS Vita / 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
 
-등록선은 통과한다. 함정 연계라는 독특한 게임성, 긴 콤보를 설계하는 퍼즐성, 다양한 환경 장치와 충분한 도전 콘텐츠가 분명한 강점이다. 다만 종합평은 60점대 후반에 머물렀고 반복·AI·그래픽·재도전 피로가 일관되게 지적되어 4.0으로 올리기 어렵다. 한글화 우선도 C는 작품성 때문이 아니라 **The Nightmare Princess가 같은 Vita에서 Blood Ties 전체 콘텐츠를 포함하는 명확한 후발 상위 후보**이기 때문이다.
+등록선은 유지한다. 저장·장비 운용 등 **공식적으로 개선된 초기 결함을 제외해도**, 반복 웨이브와 단순 효율 조합에 안주하기 쉬운 구조가 4.0을 주기 어려운 이유다. 우선도 C는 원판 전체를 포함하고 편의 기능도 더한 확장판을 먼저 검토해야 한다는 뜻이다.
 
 ## 참고 자료
 
-- [Koei Tecmo 일본 공식 제품 페이지](https://www.gamecity.ne.jp/game/1462.html)
-- [Koei Tecmo 일본 공식 상세 사양](https://www.gamecity.ne.jp/kagero3/outline.html)
-- [PlayStation Blog: 북미 PS3·Vita 출시 안내](https://blog.playstation.com/2014/02/20/deception-iv-blood-ties-hits-ps3-ps-vita-on-march-25th/)
-- [게임메카: 국내 PS3·Vita 정식 발매 안내](https://www.gamemeca.com/view.php?gid=474775)
-- [GameFAQs: Vita 제품·지역별 발매 정보](https://gamefaqs.gamespot.com/vita/730568-deception-iv-blood-ties/data)
-- [Metacritic: PS Vita critic reviews](https://www.metacritic.com/game/deception-iv-blood-ties/critic-reviews/)
-- [Pocket Gamer: PS Vita review](https://www.pocketgamer.com/deception-iv-blood-ties/review/)
-- [Game Informer: PS Vita review](https://www.gameinformer.com/games/deception_iv_blood_ties/b/playstation_vita/archive/2014/03/25/deception-iv-review.aspx)
-- [Push Square: PS Vita review](https://www.pushsquare.com/reviews/psvita/deception_iv_blood_ties)
-- [PlayStation LifeStyle: PS3/Vita review](https://www.playstationlifestyle.net/review/307733-deception-iv-blood-ties-review-ps3vita/)
-- [PSPrices: Blood Ties 플레이타임 집계](https://psprices.com/region-us/game/10505/deception-iv-blood-ties)
-- [Koei Tecmo: The Nightmare Princess 공식](https://www.gamecity.ne.jp/game/1455.html)
-- [GameFAQs: The Nightmare Princess Vita 발매 설명](https://gamefaqs.gamespot.com/vita/108537-deception-iv-the-nightmare-princess/data)
-- [PlayStation Store: The Nightmare Princess 설명](https://store.playstation.com/en-us/concept/200933)
+- [Koei Tecmo 원판](https://www.gamecity.ne.jp/game/1462.html)
+- [일본 공식 v1.02 패치 기록](https://www.gamecity.ne.jp/kagero3/top/b/ud/update.html)
+- [북미 Vita·PS3 출시 발표](https://blog.playstation.com/2014/02/20/deception-iv-blood-ties-hits-ps3-ps-vita-on-march-25th/)
+- [국내 발매 일정](https://www.gamemeca.com/view.php?gid=474775)
+- [국내 일본어판 명시](https://www.gamemeca.com/view.php?gid=476462)
+- [Pocket Gamer / Matthew Diener](https://www.pocketgamer.com/deception-iv-blood-ties/review/)
+- [Push Square / Mat Growcott](https://www.pushsquare.com/reviews/psvita/deception_iv_blood_ties)
+- [oprainfall / Justin Guillou 1쪽](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/)
+- [oprainfall 2쪽·시간·점수](https://operationrainfall.com/2014/04/29/review-deception-iv-blood-ties-ps-vita/2/)
+- [확장판 공식 PS Store](https://store.playstation.com/en-us/concept/200933)
+- [확장판의 원판 대비 시스템 변경](https://www.4gamer.net/games/285/G028577/20150320044/)
+
+원출처 리뷰에는 이야기 내용이 포함될 수 있다. 본문은 해당 내용 없이 시스템·평가·판본 정보만 정리했다.
+
