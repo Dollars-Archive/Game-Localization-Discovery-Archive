@@ -9,17 +9,16 @@
 
 ## 대표 스크린샷
 
-> 실제 픽셀을 확인한 대화·선택 화면 3장. 모두 Vita를 평가 대상으로 명시한 리뷰의 수록 화면이다. 리뷰에 일본어·영어 화면이 섞여 있어 각 파일의 캡처 기기까지 독립 검증한 것은 아니다. 장면의 관계나 결과를 설명하지 않으며, 저장소에는 이미지를 복제하지 않는다.
+**PC / Steam판 비교 화면 3장**이다. [The Gamer’s Lounge의 PC판 실플레이 리뷰](https://www.the-gamers-lounge.com/matthew-wilt/2017/4/17/psycho-pass-mandatory-happiness-review)는 Steam판과 PC 조작을 명시하며, 대화·메뉴 화면에서도 키보드 안내를 확인했다. 아래 화면을 Vita의 화질·성능 근거로 사용하지 않는다. 실제 픽셀을 확인해 이야기의 결과·비밀을 드러내는 장면과 홍보 일러스트를 제외했으며, 저장소에는 이미지를 복제하지 않는다.
 
-![Psycho-Pass 대화 UI](https://i0.wp.com/www.vitaplayer.co.uk/wp-content/uploads/2016/11/Psycho-Pass-3.jpg?resize=678%2C381)
+![PC Steam판 비교: 대화창과 키보드 조작 안내](https://images.squarespace-cdn.com/content/v1/5247081fe4b0240948a41898/1492472290705-RYL0BDHM4GIHDH8XQ2A9/image-asset.png)
+*1. PC / Steam판 대화 화면. 인물 스프라이트·대화창과 Enter·LShift·Delete 안내가 보인다.*
 
-[출처: Vita Player의 PS Vita 리뷰](https://www.vitaplayer.co.uk/game-review-psycho-pass-mandatory-happiness-ps-vita/)
+![PC Steam판 비교: 저장과 설정을 여는 게임 내 메뉴](https://images.squarespace-cdn.com/content/v1/5247081fe4b0240948a41898/1492473135566-MIG8REVKFT33UBSU3KF5/image-asset.png)
+*2. PC / Steam판 게임 내 메뉴. 저장·불러오기·용어·설정 항목과 방향키·Enter·Back Space 안내를 확인했다.*
 
-![Psycho-Pass 영어 대화와 조작 안내](https://images.rpgsite.net/image/da49c9a1/49239/article/PPMH_Sep282016_05.png)
-
-![Psycho-Pass 선택지 UI](https://images.rpgsite.net/image/da49c9a1/49235/block/PPMH_Sep282016_02.PNG)
-
-[2·3 출처: RPG Site의 PS Vita 리뷰](https://www.rpgsite.net/review/4998-psycho-pass-mandatory-happiness-review)
+![PC Steam판 비교: 숫자 타일 퍼즐 미니게임](https://images.squarespace-cdn.com/content/v1/5247081fe4b0240948a41898/1492473817404-893Z1QRAYY6KFNNIPX1T/image-asset.png)
+*3. PC / Steam판의 숫자 타일 퍼즐. 플레이 보드와 점수 UI가 보이는 실제 게임 화면이다. 세 이미지의 [수록 리뷰·출처](https://www.the-gamers-lounge.com/matthew-wilt/2017/4/17/psycho-pass-mandatory-happiness-review).*
 
 ## 한눈에 보기
 

@@ -9,16 +9,16 @@
 
 ## 대표 스크린샷
 
-[2015-12-24 Vita 발매 자료](https://www.4gamer.net/games/329/G032912/20151224140/)에 실린 **960×544 실제 플레이 화면**이다. HUD·캐릭터·전투 상황을 픽셀로 확인했다. 출처는 개발 중 화면이라고 명시하므로 최종판 실기 직접 캡처로 과장하지 않는다. 로고·4인 홍보 일러스트는 제외했고, 이미지는 저장소에 복제하지 않는다.
+**Nintendo Switch판 비교 화면 3장**이다. [Nintendo 공식 Switch 상품 페이지](https://www.nintendo.com/fr-fr/Jeux/Jeux-a-telecharger-sur-Nintendo-Switch/Croixleur-Sigma-1531722.html)의 갤러리 원본으로, 모두 1280×720이다. 실제 픽셀의 전투·점수·체력 HUD와 Switch의 ZL·A/B/X/Y 안내를 확인했다. 평가 대상인 Vita의 화질·프레임을 보여주는 자료로 사용하지 않는다. 대화나 이야기의 결과를 드러내는 장면은 포함하지 않으며, 이미지는 저장소에 복제하지 않는다.
 
-![PS Vita판 개발 화면: 원형 전장에서 공격을 연결하는 모습](https://www.4gamer.net/games/329/G032912/20151224140/SS/001.jpg)
-*1. 타이머·점수·무기 UI가 보이는 전투 화면. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=001)*
+![Nintendo Switch판 비교: 원형 전장에서 적을 상대하는 전투](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_01.jpg)
+*1. Switch판 전투 화면. 타이머·점수·체력·무기 UI가 보인다. [개별 원본](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_01.jpg)*
 
-![PS Vita판 개발 화면: 적을 상대로 공중 공격을 하는 모습](https://www.4gamer.net/games/329/G032912/20151224140/SS/006.jpg)
-*2. 전투 중 점프·공격과 연속 타격 HUD. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=006)*
+![Nintendo Switch판 비교: 무기 공격 효과와 전투 HUD](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_03.jpg)
+*2. Switch판 전투 중 공격 효과. 캐릭터 상태와 버튼 안내가 함께 보이는 실제 게임 화면이다. [개별 원본](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_03.jpg)*
 
-![PS Vita판 개발 화면: 전투 효과와 캐릭터 상태 UI](https://www.4gamer.net/games/329/G032912/20151224140/SS/009.jpg)
-*3. 전투 효과가 표시된 게임 화면. CG나 홍보용 렌더가 아니다. [개별 원본](https://www.4gamer.net/games/329/G032912/20151224140/screenshot.html?num=009)*
+![Nintendo Switch판 비교: 공중 공격과 연속 타격 표시](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_05.jpg)
+*3. Switch판 공중 공격 화면. 적·공격 궤적·연속 타격 HUD를 확인했다. [개별 원본](https://www.nintendo.com/eu/media/images/06_screenshots/games_5/nintendo_switch_download_software_2/nswitchds_croixleursigma/NSwitchDS_CroixleurSigma_05.jpg)*
 
 ## 한눈에 보기
 
