@@ -1,247 +1,190 @@
 # Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)
 
-> 원제: Code：Realize ～白銀の奇跡～  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-22 / Asia/Seoul**
+> 원제: Code：Realize ～白銀の奇跡～
+> 대상 판본: PlayStation Vita
+> 평가 범위: 일본·서구 Vita 공통 작품 설계. 실플레이 근거는 영어판 리뷰 중심이며 영어 번역·교정 오류는 원작 작품성 감점에서 제외
+> 상태: 🟢 후보
+> 발굴 추천도: ⭐⭐⭐½☆ **3.5/5**
+> 한글화 우선도: **C**
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> Code: Realize ~Wintertide Miracles~는 「Code: Realize ~창세의 공주~」와 첫 팬디스크 「~축복의 미래~ / Future Blessings」 이후를 다루는 **두 번째 팬디스크**다. 일본 PS Vita판은 2017-12-21, 북미·유럽 영어 Vita판은 2019-02-14에 출시됐다. 본편과 Future Blessings의 인물 관계·분기 결과를 전제로 하기 때문에 신규 입문용 작품은 아니다. 2026-09-22 기준 공식 Vita 한국어판과 공개 Vita 한국어 패치는 확인되지 않지만, Vita 자체에 공식 영어판이 있고 2021 Nintendo Switch판에는 Vita·PS4에 없는 짧은 여름 에피소드와 비치 CG가 추가됐다.
+## 대표 스크린샷
+
+실제 **영어 PS Vita판 대화 화면 3장**이다. 인물 입상·대화창·화자명과 화면 문구를 직접 확인했고, 사건 설명이나 관계의 결말을 보여 주는 CG는 제외했다. 이미지는 원출처에만 두며 저장소에 복제하지 않는다.
+
+![PS Vita판: 실내에서 머리 모양에 관해 나누는 대화](https://www.playstationlifestyle.net/wp-content/uploads/sites/9/gallery/wintertide-miracles-review/2019-02-08-233140.jpg)
+*1. 실내 대화와 자동 진행 UI. [출처: Vita v1.00 직접 리뷰](https://www.playstationlifestyle.net/review/746625-code-realize-wintertide-miracles-review-ps4-vita/)*
+
+![PS Vita판: 거리 배경과 물건의 디자인에 관한 대화](https://nabepura.wordpress.com/wp-content/uploads/2020/11/2019-10-16-080223.jpg)
+*2. 거리 배경·인물 입상·대화창. [출처: Vita 영어판 현지화 점검](https://nabepura.wordpress.com/2020/11/07/coderealize-wintertide-miracles-the-localization-hour/)*
+
+![PS Vita판: 실내의 일상 대화와 텍스트 표시](https://nabepura.wordpress.com/wp-content/uploads/2020/11/2019-10-13-025818.jpg)
+*3. 일상 대화 화면. 우측 글자 넘침을 포함한 원본 캡처이며 편집으로 만든 홍보 이미지가 아니다. [동일 출처](https://nabepura.wordpress.com/2020/11/07/coderealize-wintertide-miracles-the-localization-hour/)*
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | Code：Realize ～白銀の奇跡～ |
-| 영문 제목 | Code: Realize ~Wintertide Miracles~ |
+| 영문 / 로마자 | Code: Realize ~Wintertide Miracles~ |
 | 한글 제목 | 코드: 리얼라이즈 ~백은의 기적~ |
-| 플랫폼 | PlayStation Vita / PS Vita TV |
-| 발매일 | 일본 2017-12-21 / 북미·유럽 디지털 2019-02-14 / 유럽 패키지 2019-02-15 |
-| 개발사 | Otomate / Design Factory / Idea Factory |
+| 플랫폼 | 평가 대상 PS Vita. PS4판과 동시 개발된 두 번째 팬디스크 |
+| 발매일 | 일본 Vita·PS4 2017-12-21 / 서구 Vita·PS4 2019-02-14 |
+| 개발사 | Idea Factory / Design Factory / Otomate |
 | 발매사 | 일본 Idea Factory / 서구 Aksys Games |
-| 제품 코드 | 일본 PCSG-01110·VLJM-38057 / 북미 PCSE-01278 / 유럽·호주 PCSB-01270 |
-| 장르 | 여성향 연애 ADV / 오토메 비주얼노벨 팬디스크 |
-| 원산지 / 원문 언어 | 일본 / 일본어 |
-| Vita 공식 언어 | 일본판 일본어 / 서구판 영어 자막 + 일본어 음성 |
-| 예상 플레이타임 | GameFAQs Vita 평균 약 30.1시간·14명 / 팬 리뷰 전수 약 10~15시간 사례 |
+| 장르 | 여성향 연애 ADV / 비주얼노벨 |
+| 원산지 / 원문 언어 | 일본 / 일본어. Vita 공식 영어 자막판 존재 |
+| 예상 플레이타임 | 전 콘텐츠 10~15시간이라는 Vita 리뷰 1명 사례. 같은 조건의 다수 표본 평균은 미확인 |
 | 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | **C** |
-| 한글화 난이도 | **미확인에 가까운 부분 확인**. Vita3K UTF-8 런타임 텍스트 훅·CPK 구조·Playable은 확인했지만 재삽입·폰트·패치 배포는 미검증 |
-| 현재 추천 버전 | **Nintendo Switch 2021 영어판** / Vita 보존·영어판은 PCSE-01278·PCSB-01270 |
+| 한글화 난이도 | **미확인** |
+| 현재 추천 버전 | 추가 단편을 포함한 Switch판. 이미 Vita판을 가진 경우 재구매 필요성은 작음 |
 
-근거: [Otomate Vita/PS4 공식 제품 정보](https://www.otomate.jp/code-realize/fd2/info/?page=vita_ps4), [GameFAQs Vita 발매 데이터](https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/data), [Aksys Switch 공식](https://www.aksysgames.com/products/switch-wintertide/).
+발매·개발 정보: [Otomate 공식 제품 정보](https://www.otomate.jp/code-realize/fd2/info/?page=vita_ps4), [Aksys 공식](https://www.aksysgames.com/wintertide/).
 
 ## 스포일러 최소 시놉시스
 
-19세기 스팀펑크 런던을 무대로, 독성의 몸 때문에 타인과 접촉할 수 없었던 카르디아는 루팡 일행과 함께 여러 사건을 거치며 자신의 출생과 가족, 그리고 사랑을 둘러싼 진실을 마주해 왔다.
-
-Wintertide Miracles는 그 뒤의 겨울을 배경으로 한다. 카르디아와 동료들은 눈 덮인 강철도시에서 각자의 관계를 다시 이어 가고, Future Blessings에서 추가된 피니스와 에를록 숄메스의 이후 이야기, 새로운 여성 인물 칸타렐라의 사건, 복수 인물 조합의 데이트 에피소드 등을 경험한다.
-
-새로운 장편 본편이라기보다 **이미 형성된 관계에 후일담·축제·대체 시간선·팬서비스를 덧붙이는 확장형 이야기 묶음**에 가깝다.
+스팀펑크풍 미술과 겨울의 계절감을 바탕으로 인물들의 대화를 읽는 이야기 모음이다. 기존 Code: Realize 본편과 첫 팬디스크 Future Blessings를 읽은 사람을 위한 작품이다. 인물 정체, 이전 작품의 결과, 각 이야기의 시작 조건이나 도착점은 설명하지 않는다.
 
 ## 게임 구조 / 루트 구조
 
-- **Triangle Date:** 메인 남성 5명 중 둘을 조합해 짧은 2대1 데이트 에피소드를 감상한다. 총 13개 조합이 존재한다.
-- **First Christmas / Wintertide Routes:** Future Blessings의 피니스 루트 이후를 바탕으로 메인 5인과 카르디아의 겨울 연애 이야기를 다룬다.
-- **Finis Epilogue:** Future Blessings 피니스 루트의 후일담.
-- **Herlock Sholmès Epilogue:** Future Blessings 숄메스 루트의 후일담.
-- **Cantarella:** 본편 공통 루트 시기에 들어가는 신규 사이드 스토리. 카르디아와 칸타렐라의 우정·가족 문제를 중심으로 전개된다.
-- **Special Epilogues:** 다른 주요 콘텐츠를 모두 완료하면 열리는 메인 5인의 추가 후일담.
-- **선택지 비중 낮음:** 피니스·숄메스 에필로그는 선택지가 없고, 다른 루트도 일반 오토메 VN보다 선택지 밀도가 낮다.
-- **CG·앨범 회수:** 각 에피소드와 Triangle Date 조합마다 신규 CG가 배치된다.
-- **Switch 추가 콘텐츠:** 2021 Switch판은 캐릭터별 짧은 여름·해변 에피소드와 비치 CG를 추가한다. Vita·PS4에는 없다.
-
-자료: [Aksys 공식 스토리](https://www.aksysgames.com/wintertide/story/), [StrategyWiki 구조](https://strategywiki.org/wiki/Code%3A_Realize_-_Wintertide_Miracles/Walkthrough), [Switch 추가 콘텐츠 비교](https://otomekitten.com/2019/03/08/code-realize-wintertide-miracles-review/).
+- 장편 하나를 새로 시작하기보다 여러 길이의 단편·개별 에피소드를 메뉴에서 골라 읽는다.
+- 인물 조합별 짧은 대화, 계절 중심 에피소드, 비교적 긴 추가 이야기, 감상 요소로 구성된다.
+- 선택지보다 텍스트 감상 비중이 높다. 이는 비주얼노벨의 설계 선택이며, 선택지 수가 적다는 사실만으로 감점하지 않는다.
+- 저장·불러오기·자동 진행·스킵·백로그를 사용한다. 일부 콘텐츠는 독서 이력에 따라 열린다. 구체적인 해금 조건은 적지 않는다.
+- 본편과 Future Blessings가 선행 권장작이라는 점은 입문 순서와 번역 사업의 범위에 반영한다.
 
 ## 왜 발굴할 만한가
 
-Wintertide Miracles의 가치는 새로운 세계관을 개척하는 데보다 **기존 Code: Realize 캐릭터 관계를 정리하고 보상하는 팬디스크**라는 데 있다.
-
-RPGFan의 Vita 리뷰는 피니스·숄메스 후일담과 칸타렐라 스토리, 각종 에필로그가 기존 팬에게 좋은 마무리를 제공한다고 평가했고 전체 점수 **80/100**을 줬다. 특히 칸타렐라는 기존 남성 루트 중심 구조에서 벗어나 카르디아와 다른 여성 인물의 관계를 다루며, Future Blessings 이후의 서사를 단순 연애 팬서비스만으로 채우지 않는다.
-
-또한 Code: Realize 시리즈의 장점인 정교한 캐릭터 일러스트, 스팀펑크 런던의 미술, 일본어 풀보이스, 성우 연기는 그대로 유지된다.
-
-다만 작품 스스로도 독립성을 거의 주장하지 않는다. 본편과 Future Blessings를 모르면 인물 관계·과거 사건·피니스 루트의 의미가 충분히 설명되지 않으며, 일부 에피소드는 상호작용보다 텍스트 감상에 가깝다. 그래서 시리즈 팬 만족도는 높지만 독립 게임으로서 4.0을 주기는 어렵다.
+짧은 이야기마다 인물의 말투와 대화 조합을 즐기도록 설계했고, 미술·성우 연기·계절 분위기가 이를 안정적으로 받쳐 준다. 팬디스크라는 형식 안에서 감상 목적을 달성한다는 Vita 실플레이 평가가 있다. 다만 장면의 감정과 대화 소재를 되풀이한다고 느끼는 리뷰, 긴 에피소드의 밀도가 부족하다는 리뷰도 있어 **완성도가 고르지 않은 3.5점**으로 판단한다.
 
 ## 장점
 
-- RPGFan **80/100**, 실제 리뷰 플랫폼이 **PS Vita**다.
-- GameFAQs Vita 사용자 평점 **3.75/5·20명**으로 중상 수준.
-- GameFAQs Vita 플레이타임 평균 **30.1시간·14명**으로 팬디스크치고 회수 가능한 콘텐츠가 적지 않다.
-- 피니스·숄메스 루트의 후일담을 통해 Future Blessings에서 열린 관계를 마무리한다.
-- 5명의 메인 연애 상대에게 별도의 겨울 이야기를 제공한다.
-- Triangle Date는 캐릭터 조합을 바꿔 가며 시리즈의 인물 관계를 코믹하게 활용한다.
-- 칸타렐라 시나리오는 로맨스 외에도 카르디아의 여성 우정과 가족 문제를 다룬다.
-- 메인 시리즈와 동일하게 CG·캐릭터 디자인·배경 미술의 완성도가 높다.
-- 일본어 성우 연기가 안정적이고 음악·효과음도 호평받는다.
-- 공식 영어 Vita판이 존재해 비일본어권 접근성이 좋다.
-- Vita판은 Switch판보다 일부 강제 스킵·로딩에서 더 안정적이었다는 직접 비교 리뷰가 있다.
+- **시각·청각 표현:** RPGFan은 일러스트와 음악·성우 연기를 강점으로 평가했다. 텍스트를 오래 읽는 형식에서 제작 표현이 실제 감상 가치를 만든다.
+- **다양한 길이와 인물 조합:** 짧은 단편을 골라 읽을 수 있어 한 번에 긴 공통부를 반복하는 구조보다 감상 단위를 나누기 쉽다.
+- **팬디스크로서의 만족:** Otome Kitten은 전 콘텐츠를 마친 뒤 긍정적으로 평가했고, PlayStation LifeStyle도 여러 짧은 에피소드의 매력은 인정했다.
+- **Vita판 운용:** Vita·Switch를 모두 읽은 Otome Kitten은 Vita 쪽 로딩과 스킵 경험을 상대적으로 더 안정적으로 기록했다. 한 사람의 경험이며 모든 기기의 성능 보증으로 확대하지 않는다.
 
 ## 단점
 
-- **본편 + Future Blessings의 사전 지식이 사실상 필수**다.
-- RPG Site는 PS4판에 **6/10**을 주며 이전 작품들보다 가볍고 덜 인상적이라고 평가했다.
-- PlayStation LifeStyle의 PS4 평가는 **7/10**이며 하드코어 팬에게만 적합하다고 강조했다.
-- Metacritic은 비평 표본이 부족해 플랫폼별 정식 Metascore가 형성되지 않았다.
-- 피니스·숄메스 에필로그에는 선택지가 아예 없어 일부 구간은 순수 독서에 가깝다.
-- 다른 루트도 선택지 밀도가 낮아 게임플레이 비중은 약하다.
-- 주요 에피소드 상당수가 후일담·축제·팬서비스 성격이라 세계관에 새로운 큰 축을 더하지 않는다.
-- 서구판에는 오탈자·텍스트박스 넘침·번역 오류를 지적한 팬 조사도 존재한다.
-- Nintendo Switch판이 짧지만 추가 여름 에피소드·비치 CG를 갖고 있어 Vita판이 최종 완전판은 아니다.
-- 현재 신규 플레이 기준으로는 Vita 하드웨어를 고집할 이유가 줄었다.
+- **에피소드별 밀도 차이:** PlayStation LifeStyle의 Keri Honea는 짧은 내용과 긴 내용 사이의 흥미 차이를 지적했다. 길다는 사실 자체보다 대사와 전개의 밀도 문제다.
+- **소재·감정 표현의 반복:** RPG Site의 Elizabeth Henges는 이전 작품에서 이미 충분히 다룬 감정을 다시 읽는 피로와 일부 조합 대화의 어색함을 비판했다.
+- **영어판에 한정한 교정 편차(원작 점수 감점 제외):** RPGFan은 소수 오타 수준으로 봤지만, Otome Kitten과 zcatcracker는 글자 넘침·오타·번역의 어색함을 구체적으로 기록했다. 관찰 범위와 기준이 다르므로 어느 한쪽만 전체 합의로 삼지 않는다.
+- **판본 선택상 약점:** Switch 추가분이 Vita에는 없다. 이는 원래 이야기의 작품성 감점 사유와 분리하여 번역 우선도에 반영한다.
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+| 출처 / 작성자 | 점수 | 표본 수 | 대상 판본·플레이 범위 / 확인 내용 |
 |---|---:|---:|---|
-| RPGFan | **80/100** | 1편 | **PS Vita 직접 리뷰** |
-| GameFAQs | **3.75/5** | **20명** | PS Vita 사용자 |
-| GameFAQs Length | **30.1시간** | **14명** | PS Vita |
-| RPG Site | **6/10** | 1편 | PS4 보조 참고 |
-| PlayStation LifeStyle | **7/10** | 1편 | PS4 보조 참고 |
-| Metacritic 사용자 | **5.7/10** | 6명 | 전체 플랫폼 페이지 / 극소표본 |
+| [RPGFan / Audra Bowling, 2019-12-11](https://www.rpgfan.com/review/code-realize-wintertide-miracles/) | **80/100** | 리뷰 1편 | **Vita 직접 리뷰**. 여러 에피소드와 감상 기능을 논함. 전 트로피 완료 선언은 없음 |
+| [PlayStation LifeStyle / Keri Honea, 2019-02-12](https://www.playstationlifestyle.net/review/746625-code-realize-wintertide-miracles-review-ps4-vita/) | **7/10** | 리뷰 1편 | 본문 말미에 **Vita v1.00** 명시. 제목의 PS4/Vita 표기를 PS4 실기 평가로 오인하지 않음 |
+| [Otome Kitten / Kitty-chlo, 2019-03-08 및 후속 수정](https://otomekitten.com/2019/03/08/code-realize-wintertide-miracles-review/) | 별도 총점 없음 / 추천 | 리뷰 1편 | Vita 전 콘텐츠 10~15시간 진술 + Switch 비교. 두 기종을 두 명의 리뷰로 세지 않음 |
+| [RPG Site / Elizabeth Henges, 2019-02-15](https://www.rpgsite.net/review/8280-code-realize-wintertide-miracles-review) | **6/10** | 리뷰 1편 | **PS4 tested** 명시. 공통 시나리오의 페이스 참고이며 Vita 성능 근거로 쓰지 않음 |
+| [あらゆる / zcatcracker, 2020-11-07](https://nabepura.wordpress.com/2020/11/07/coderealize-wintertide-miracles-the-localization-hour/) | 총점 없음 | 현지화 점검 1편 | Vita 영어판의 화면 예시를 포함한 교정·번역 점검. 완성도 총평 1명과 동일하게 취급하지 않음 |
 
-- [RPGFan Vita 80/100](https://www.rpgfan.com/review/code-realize-wintertide-miracles/)
-- [GameFAQs Vita 통계](https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/stats)
-- [RPG Site 6/10](https://www.rpgsite.net/review/8280-code-realize-wintertide-miracles-review)
-- [Metacritic](https://www.metacritic.com/game/coderealize-wintertide-miracles/)
+**완성도 리뷰는 독립 작성자 4명**, 이 중 Vita 플레이를 명시한 작성자 3명이다. 추가 현지화 점검 1명은 별도 보조 근거다. 같은 글의 업데이트와 매체 평점 재인용을 중복 집계하지 않았다. 독자 추천·좋아요·댓글 수는 점수가 아니다.
 
-> 3.5는 본편 Code: Realize의 높은 명성을 그대로 계승해 준 점수가 아니다. 기존 팬을 위한 에필로그와 캐릭터 활용은 분명 좋은데, 독립성·선택지 밀도·새로운 서사적 야심이 낮고 평가도 6~8점대로 갈려 4.0 우수작에는 못 미친다.
+기존 문서의 GameFAQs 3.75/5·20명, 30.1시간·14명은 이번 확인에서 현재 집계와 완료 범위를 함께 검증하지 못하여 현행 근거에서 제외했다. 비평가 점수를 기계적으로 평균해 5점제로 환산하지 않았다.
 
 ## 플레이타임
 
-- GameFAQs Vita는 **14명 평균 약 30.1시간**.
-- 분포는 약 20시간 42.86%, 약 40시간 21.43%, 약 12시간 14.29% 등으로 편차가 크다.
-- Otome Kitten의 전수 플레이 사례는 **약 10~15시간**.
-- Triangle Date 13조합, 5개의 겨울 루트, 피니스·숄메스 에필로그, 칸타렐라, Special Epilogues까지 모두 읽는지가 플레이타임을 크게 좌우한다.
-- 한글화 검수에서는 본편보다 분기 수는 적지만 대사량·CG·앨범·다수 짧은 에피소드가 분산돼 있어 전수 확인 비용이 적지 않다.
+| 출처 | 시간 | 표본 / 완료 범위 |
+|---|---|---|
+| Otome Kitten | **10~15시간** | 작성자 1명, “전부 마침” 진술. 독서 속도·음성 청취·스킵 조건 상세 없음 |
+| 나머지 확인 리뷰 | 정확한 시간 미기재 | 에피소드 감상 범위는 논하지만 동일 조건의 전체 시간 측정은 없음 |
 
-자료: [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/stats), [Otome Kitten](https://otomekitten.com/2019/03/08/code-realize-wintertide-miracles-review/).
+10~15시간은 특정 독자의 사례다. 모든 음성을 끝까지 듣는 독서 시간이나 번역 전수 검수량으로 그대로 사용하지 않는다. 각각의 메뉴·선택·해금·백로그·CG 감상 텍스트를 확인해야 하므로 단일 클리어 시간보다 검수 범위가 넓다.
 
 ## 한국어화 상태
 
-- 공식 PS Vita 한국어판: **2026-09-22 기준 확인되지 않음**.
-- 공개 PS Vita 한국어 패치: **2026-09-22 기준 공개적으로 확인되지 않음**.
-- 일본 Vita판 PCSG-01110: 일본어.
-- 북미 Vita판 PCSE-01278: **공식 영어 자막 + 일본어 음성**.
-- 유럽 Vita판 PCSB-01270: **공식 영어 자막 + 일본어 음성**.
-- Nintendo Switch 서구판: **공식 영어**, 2021-02-25 출시.
-- 한국어 공식 지원 판본은 이번 조사에서 확인하지 못했다.
-- 국내에서는 「코드: 리얼라이즈 ~백은의 기적~」이라는 표기가 통용된다.
+확인일: **2026-10-08**.
 
-자료: [Aksys Europe Vita 제품 페이지](https://eustore.aksyseurope.com/products/code-realize-wintertide-miracles-ps-vita), [Nintendo Switch 공식 언어](https://www.nintendo.com/us/store/products/code-realize-wintertide-miracles-switch/), [국내 작품 정보](https://readonly.wiki/w/Code%20%3A%20Realize%20~%EC%B0%BD%EC%84%B8%EC%9D%98%20%EA%B3%B5%EC%A3%BC~).
+| 판본 | 공식 한국어 / 공개 패치 확인 |
+|---|---|
+| PS Vita 일본판·서구판 | 공식 일본어·영어판 존재. 공식 한국어 및 공개 완료 한국어 패치는 공개적으로 확인되지 않음 |
+| PS4판 | 공식 영어판 존재. 한국어 공식판·공개 완료 패치는 공개적으로 확인되지 않음 |
+| Switch 일본판·서구판·중문 유통판 | 영어 지역판의 [Nintendo 공식 언어 표](https://www.nintendo.com/us/store/products/code-realize-wintertide-miracles-switch/)는 American English만 명시. 다른 지역의 한국어판 또는 공개 완료 한국어 패치도 공개적으로 확인되지 않음 |
+| 본편·Future Blessings | 서로 다른 작품. 번역 정보가 발견되더라도 Wintertide 완료 패치로 합치지 않음 |
+
+원제·영문명·‘백은의 기적’에 한국어, 한글패치, Korean patch, Vita, PS4, Switch를 조합해 재검색했다. 한국어로 작성된 작품 소개·수입품 판매 문구는 게임 내 한국어 지원 증거가 아니다. 비공개 작업의 부재까지 단정하지 않는다.
+
+**현재 확인 범위에서는 한국어 대안 제외 규칙에 해당하지 않는다.**
 
 ## 원작·이식·확장판 관계
 
-- **Code: Realize ~創世の姫君~ / Guardian of Rebirth / Vita 2014:** 본편.
-- **Code: Realize ~祝福の未来~ / Future Blessings / Vita 2016:** 첫 팬디스크. 피니스·숄메스 신규 루트와 메인 5인의 후일담 수록.
-- **Code: Realize ~白銀の奇跡~ / Wintertide Miracles / Vita·PS4 2017 일본:** **이번 대상. 두 번째 팬디스크**.
-- **Wintertide Miracles 서구 Vita·PS4 / 2019:** 공식 영어판.
-- **Nintendo Switch / 2021:** Vita·PS4판 기반 후발 이식. **추가 해변 CG와 짧은 여름 에피소드** 수록.
-- **Bouquet of Rainbows / PS4:** Guardian of Rebirth + Future Blessings 합본이며 Wintertide Miracles는 포함하지 않는다.
+1. Guardian of Rebirth는 본편, Future Blessings는 첫 팬디스크다.
+2. 이번 Wintertide Miracles는 Vita·PS4에 나온 **두 번째 팬디스크**다. 앞선 두 작품의 합본이 아니다.
+3. 일본 Switch판은 **2020-07-16**, 서구 Switch판은 **2021-02-25** 발매. 기존 문서의 ‘Switch 2021’은 영어권 발매 시점만 뜻한다.
+4. Switch판에는 여름 테마 추가 단편·CG가 있다. 내용과 인물별 결과는 소개하지 않는다.
+
+근거: [Otomate 공식](https://www.otomate.jp/code-realize/fd2/info/?page=vita_ps4), [Switch 일본 발표 자료](https://document.4gamer.net/games/500/G050058/20200601001/), [Aksys Switch](https://www.aksysgames.com/products/switch-wintertide/).
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 확인된 내용 |
+| 판본 | 확인된 차이 |
 |---|---|
-| 일본 Vita 2017 | 원본 White Silver Miracle / 일본어 / PSTV 대응 |
-| 서구 Vita 2019 | 공식 영어 자막 + 일본어 음성 / 본편 콘텐츠 동일 |
-| PS4 2017·2019 | Vita와 본편 콘텐츠 동일 계열 / 고해상도 출력 |
-| Switch 2021 | Vita·PS4 콘텐츠 + **추가 해변 CG·여름 단편** / 서구판 공식 영어 / 터치 지원 |
-| Bouquet of Rainbows | 본편 + Future Blessings 합본 / Wintertide Miracles는 별도 |
+| Vita / PS4 원판 | Wintertide의 기본 에피소드 구성. PS4는 거치 화면 출력 환경 |
+| Vita 영어판 | 영어 텍스트·일본어 음성. 이번 평가의 주된 실플레이 근거 |
+| Switch판 | 원판 콘텐츠 + 추가 여름 단편·CG. 후발 휴대·거치 겸용 이식 |
+| Switch 성능 참고 | Otome Kitten의 로딩 지연·강제 스킵 충돌 2회 기록. 당시 단일 환경 사례이며 2026 현재 전체판 동일 현상으로 확정하지 않음 |
 
 ## 현재 추천 버전
 
-**현재 영어 플레이 기준 추천은 Nintendo Switch판이다.**
-
-Vita·PS4판의 모든 주요 Wintertide 콘텐츠를 유지하면서 캐릭터별 해변 CG와 짧은 여름 에피소드를 추가한다. 휴대·TV 모드와 공식 영어도 지원한다.
-
-다만 Otome Kitten의 직접 비교에 따르면 Switch 추가 에피소드는 **짧고 무음성**이며, Switch판은 강제 스킵 중 크래시와 느린 로딩 사례도 있었다. 이미 Vita 영어판을 보유하고 있다면 이 짧은 추가분만을 위해 반드시 다시 살 정도의 차이는 아니다.
+**처음 구매하여 전체 추가 콘텐츠까지 읽으려면 Switch판**을 우선한다. 추가분의 존재와 플랫폼 접근성이 근거다. Vita판을 이미 보유했다면 추가 단편만으로 재구매를 필수로 권하지 않는다. 영어 문장의 교정 편차를 감안하면 일본어 독해가 가능한 사람은 원문판도 합리적인 선택이다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성: **중상 / 기존 팬 대상 3.5급 팬디스크**.
-- 한국어 접근성: 공식 한국어·공개 Vita 한국어 패치 없음.
-- 영어 접근성: **Vita 자체에 공식 영어판 존재**.
-- Vita 독자 가치: 낮음. PS4와 본편 콘텐츠가 같고 Switch가 추가 콘텐츠까지 보유.
-- 현행 대안: Switch 공식 영어판이 가장 완전.
-- 텍스트 의존도: 매우 높음.
-- 한글화 우선도: **C**.
-- 판단 근거: 한국어가 없다는 번역 가치는 있지만, 공식 영어 Vita판이 이미 존재하고 Switch가 후발 완전판에 가까우며 본편·Future Blessings 선행 지식까지 요구한다. Vita 독점·언어고립 A/B 후보보다 신규 Vita 한글화의 상대 우선순위가 낮다.
+- **작품성 3.5/5:** 미술·음성과 짧은 에피소드의 매력이 확실하지만, 긴 구간의 밀도와 반복 표현에 평가 편차가 있다.
+- **한국어 접근성:** 텍스트 감상이 핵심이어서 번역 효용은 높다. 영어판이 있다는 이유만으로 한국어화 가치가 사라지지는 않는다.
+- **대상 판본 선택:** 같은 작품에 추가 내용을 포함한 Switch가 있으므로 신규 프로젝트를 Vita에 고정하기 전 비교가 필요하다.
+- **우선도 C:** Vita만의 필수 독자 콘텐츠가 확인되지 않고 후발판이 더 넓은 내용을 담는다. 선행 작품의 번역 접근성도 함께 고려해야 한다.
+- **감점하지 않은 요소:** 여성향, 팬디스크, 희귀도, 선행작 필요성, 낮은 선택지 수 그 자체.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | **많음 / 정확한 행 수 미확인** | 다수 에필로그·13 Triangle Date·5 겨울 루트·칸타렐라 |
-| 런타임 텍스트 캡처 | **확인** | PCSG-01110 전용 Vita3K 훅이 UTF-8 본문·사전 텍스트를 캡처 |
-| 문자 인코딩 | **부분 확인** | 공개 훅에서 readUtf8String 및 CODEC_UTF8 사용 |
-| 컨테이너 구조 | **부분 확인** | Vita3K 설치 로그에서 CONTENTS/GAME.cpk·MOVIE.cpk·SOUND.cpk 확인 |
-| 텍스트 추출 | **런타임만 확인 / 파일 추출 미확인** | 훅은 대사 캡처 가능, GAME.cpk 내부 스크립트 추출 도구는 이번 조사에서 미확인 |
-| 텍스트 재삽입 | 미확인 | CPK 내부 수정·재패킹·문자열 길이 처리 실증 없음 |
-| 폰트 작업 | 미확인 | 한글 글리프·폰트 리소스 위치 미분석 |
-| UI 이미지 / 아틀라스 | 미확인 | GAME.cpk 내부 UI 자산 구조 미분석 |
-| 영상 | **컨테이너 위치 확인** | MOVIE.cpk 존재 |
-| 음성·BGM | **컨테이너 위치 확인** | SOUND.cpk 존재 |
-| 제어문자 / 스크립트 구조 | **약한 부분 확인** | 런타임 훅이 #계열 태그 제거를 수행하지만 실제 명령 포맷은 미분석 |
-| 실행 파일 수정 | 미확인 | 한글 렌더링에 EBOOT 수정 필요 여부 미확인 |
-| 패치 배포 방식 | 미확인 | 완성 Vita 한국어 rePatch 사례 확인 못함 |
-| 실기·에뮬 검수 | **확인에 가까운 부분 확인** | Vita3K PCSG-01110 호환성 이슈에서 Everything works·Playable 보고 |
+| 예상 텍스트량 | 정확한 분량 미확인 | 다수 단편·메뉴·용어·감상 텍스트가 있으나 파일 계수 없음 |
+| 텍스트 추출 | 미확인 | 공개 런타임 훅 링크는 있으나 이번 조사에서 파일 추출 실증을 수행하지 않음 |
+| 텍스트 재삽입 | 미확인 | 컨테이너 재작성·문자열 길이 처리 미분석 |
+| 폰트 작업 | 미확인 | 한글 글리프·폭·렌더링 미검증 |
+| UI 이미지 / 아틀라스 | 미확인 | 이미지형 문자의 범위 미분석 |
+| 영상 자막 | 미확인 | 수정 대상·내장 자막 구조 미분석 |
+| 제어문자 / 스크립트 구조 | 미확인 | 캡처 도구와 패치용 스크립트 분석은 별개 |
+| 실행 파일 수정 | 미확인 | 수정 필요 여부 실증 없음 |
+| 패치 배포 방식 | 미확인 | 한국어 수정본의 적용·재현 시험 없음 |
+| 실기·에뮬 검수 | 미확인 | 원본 에뮬 호환 보고를 한글 패치 호환성으로 대체하지 않음 |
 
 ### 예상 한글화 난이도
 
-**미확인에 가까운 부분 확인.**
+**미확인.** 기존 문서의 CPK·UTF-8 런타임 훅 단서는 후속 조사용으로 남기되, 그것만으로 재삽입이나 한글 출력 성공을 주장하지 않는다. 영어판에서 글자 넘침이 관찰되는 만큼 번역 후 줄바꿈·화자명·백로그·선택지 길이의 전수 확인이 중요하다.
 
-다른 미분석 Vita VN보다 시작점은 좋다. 0xDC00/scripts에는 **PCSG-01110 전용 Vita3K 훅**이 공개돼 있고 본문 주소 0x80015bcc, 사전 텍스트 주소 0x80038e76에서 UTF-8 문자열을 읽는다. LunaTranslator에도 같은 게임용 UTF-8 훅이 들어 있다.
-
-또한 Vita3K 로그는 일본판의 GAME.cpk, MOVIE.cpk, SOUND.cpk 구조를 확인해 준다. 즉 **런타임 텍스트가 어디에서 잡히는지와 큰 컨테이너 분리**는 증거가 있다.
-
-그러나 이 사실은 패치 제작 경로와 다르다. GAME.cpk 내부에서 실제 스크립트를 추출·수정·재삽입하는 도구, 한글 폰트, 줄바꿈·텍스트박스 폭 검증은 아직 확인되지 않았다. 따라서 기술 난이도를 낮음으로 단정하지 않는다.
-
-기술 자료:
-- [PCSG-01110 Vita3K 전용 텍스트 훅](https://github.com/0xDC00/scripts/blob/master/PSVita_PCSG01110_Code_Realize_Shirogane_no_Kiseki.js)
-- [LunaTranslator PCSG-01110 UTF-8 훅](https://github.com/HIllya51/LunaTranslator/blob/main/src/NativeImpl/LunaHook/LunaHook/emulators/vita3k_1.cpp)
-- [Vita3K PCSG-01110 Playable 보고](https://github.com/Vita3K/compatibility/issues/1562)
-- [Vita3K PCSG-01110 설치 로그](https://github.com/nishinji/Vita3K_Logs/blob/master/compatibility/Code_Realize_Silver_Miracle_PCSG01110_.log)
-
-## 대표 스크린샷
-
-> 아래는 실제 Wintertide Miracles 게임 화면을 확인할 수 있는 출처다. Vita판 우선으로 선정하고, 같은 콘텐츠의 공식 페이지는 보조 확인용으로 사용한다.
-
-1. [Aksys Europe - PS Vita 제품 페이지·실제 영어 게임 화면](https://eustore.aksyseurope.com/products/code-realize-wintertide-miracles-ps-vita)
-2. [RPGFan - PS Vita 직접 리뷰·스크린샷](https://www.rpgfan.com/review/code-realize-wintertide-miracles/)
-3. [Otomate 일본 공식 - Vita/PS4 원판 갤러리·플레이 화면](https://www.otomate.jp/code-realize/fd2/info/?page=news)
+기술 참고: [공개 Vita3K 런타임 훅](https://github.com/0xDC00/scripts/blob/master/PSVita_PCSG01110_Code_Realize_Shirogane_no_Kiseki.js), [Vita3K 원본 호환 보고](https://github.com/Vita3K/compatibility/issues/1562). 해당 자료는 한국어 패치 완성 증거가 아니다.
 
 ## 한줄평
 
-**본편의 새 장이라기보다 오래 함께한 캐릭터들에게 크리스마스 카드와 후일담을 한가득 건네는 팬디스크로, 기존 팬에게는 달콤하지만 시리즈 밖에서는 문 앞부터 입장권을 요구한다.**
+**표현의 매력과 인물 대화는 살아 있지만, 에피소드별 밀도 차이와 반복감까지 고르게 다듬지는 못한 팬디스크.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인에 가까운 부분 확인.**
+**PS Vita / 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
 
-등록선은 통과한다. RPGFan Vita 80/100, GameFAQs 3.75/5·20명, 30시간대 플레이 통계는 단순 초단편 DLC 수준을 넘어선 콘텐츠 양과 팬 만족도를 보여 준다. 반면 RPG Site 6/10, 선택지 부족, 본편·첫 팬디스크 의존, 에필로그 중심 구조 때문에 독립적인 4.0급 작품으로 보기는 어렵다.
-
-C급인 이유는 **Vita 공식 영어판이 이미 존재하고 Switch 후발판이 짧은 추가 콘텐츠까지 보유**하기 때문이다. 기술 단서는 오히려 좋은 편이지만, 신규 Vita 한국어화의 상대 효용이 낮다.
+등록선을 유지한다. **4.0을 주기 어려운 이유는 팬디스크라는 분류나 여성향 취향이 아니라 에피소드별 페이스·반복의 편차**다. 영어판 번역·교정 문제는 해당 현지화 판본의 참고 사항이며 일본어 원작의 작품성 점수에는 감점하지 않았다. 한국어 대안은 현재 공개적으로 확인되지 않는다. C는 후발 Switch판을 먼저 비교해야 한다는 판본 선택 결론이며 작품성 점수와 별도다.
 
 ## 참고 자료
 
-- [Otomate Vita/PS4 공식 제품 정보](https://www.otomate.jp/code-realize/fd2/info/?page=vita_ps4)
-- [Otomate 공식 뉴스·갤러리](https://www.otomate.jp/code-realize/fd2/info/?page=news)
+- [Otomate 제품 정보](https://www.otomate.jp/code-realize/fd2/info/?page=vita_ps4)
 - [Aksys Wintertide 공식](https://www.aksysgames.com/wintertide/)
-- [Aksys Europe PS Vita 제품 페이지](https://eustore.aksyseurope.com/products/code-realize-wintertide-miracles-ps-vita)
-- [GameFAQs Vita 발매 데이터](https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/data)
-- [GameFAQs Vita 통계](https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/stats)
-- [RPGFan Vita 80](https://www.rpgfan.com/review/code-realize-wintertide-miracles/)
-- [RPG Site 6/10](https://www.rpgsite.net/review/8280-code-realize-wintertide-miracles-review)
-- [Metacritic](https://www.metacritic.com/game/coderealize-wintertide-miracles/)
-- [Nintendo Switch 공식](https://www.nintendo.com/us/store/products/code-realize-wintertide-miracles-switch/)
-- [Aksys Switch 공식](https://www.aksysgames.com/products/switch-wintertide/)
-- [Otome Kitten Vita·Switch 비교](https://otomekitten.com/2019/03/08/code-realize-wintertide-miracles-review/)
-- [StrategyWiki](https://strategywiki.org/wiki/Code%3A_Realize_-_Wintertide_Miracles/Walkthrough)
-- [PCSG-01110 Vita3K 텍스트 훅](https://github.com/0xDC00/scripts/blob/master/PSVita_PCSG01110_Code_Realize_Shirogane_no_Kiseki.js)
-- [LunaTranslator Vita3K 훅](https://github.com/HIllya51/LunaTranslator/blob/main/src/NativeImpl/LunaHook/LunaHook/emulators/vita3k_1.cpp)
-- [Vita3K Playable 보고](https://github.com/Vita3K/compatibility/issues/1562)
+- [RPGFan / Vita 리뷰](https://www.rpgfan.com/review/code-realize-wintertide-miracles/)
+- [PlayStation LifeStyle / Vita v1.00 리뷰](https://www.playstationlifestyle.net/review/746625-code-realize-wintertide-miracles-review-ps4-vita/)
+- [RPG Site / PS4 리뷰](https://www.rpgsite.net/review/8280-code-realize-wintertide-miracles-review)
+- [Otome Kitten / Vita·Switch 실플레이 비교](https://otomekitten.com/2019/03/08/code-realize-wintertide-miracles-review/)
+- [zcatcracker / Vita 현지화 화면 점검](https://nabepura.wordpress.com/2020/11/07/coderealize-wintertide-miracles-the-localization-hour/)
+- [일본 Switch판 발표](https://document.4gamer.net/games/500/G050058/20200601001/)
+- [Nintendo 영어판 언어·발매일](https://www.nintendo.com/us/store/products/code-realize-wintertide-miracles-switch/)
+
+원출처 리뷰에는 이야기 내용이 포함될 수 있다. 이 문서는 해당 부분을 옮기지 않고 평가·판본·시스템 근거만 사용했다.
+
