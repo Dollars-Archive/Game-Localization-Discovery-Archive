@@ -2,11 +2,22 @@
 
 > 원제: アルカナハート3 LOVE MAX!!!!!  
 > 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 상태: **🟢 후보**  
+> 발굴 추천도: **⭐⭐⭐½☆ 3.5/5**  
+> 한글화 우선도: **C**  
+> 조사 기준일: **2026-10-08 / Asia/Seoul**
 
-> [!IMPORTANT]
-> **한국어로 작성된 공식 소개 페이지와 게임의 한국어 지원은 다르다.** Steam의 LOVE MAX 언어 표는 한국어 미지원을 명시한다. Vita 공식 한국어판과 공개 유저 한글패치는 이번 조사에서 확인하지 못했다. C급은 이미 한국어판이 있다는 뜻이 아니라 번역 효용·후발 판본을 고려한 프로젝트 판단이다.
+## 대표 스크린샷
+
+> PS Vita를 평가 대상으로 명시한 Push Square 리뷰의 실제 전투 화면 3장. 모두 960×544 이미지의 픽셀을 확인했고, HUD·전투 스프라이트가 있는 화면을 골랐다. 공동 홍보 자료의 기종을 추정해 섞지 않았다. 사건이나 결말을 보여주는 스토리 이미지 없이 외부 원본만 연결한다.
+
+![Arcana Heart 3 LOVE MAX PS Vita 전투 화면 1](https://images.pushsquare.com/screenshots/62278/large.jpg)
+
+![Arcana Heart 3 LOVE MAX PS Vita 전투 화면 2](https://images.pushsquare.com/screenshots/62276/large.jpg)
+
+![Arcana Heart 3 LOVE MAX PS Vita 전투 화면 3](https://images.pushsquare.com/screenshots/62275/large.jpg)
+
+[세 화면의 출처: Push Square PS Vita 리뷰](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max)
 
 ## 한눈에 보기
 
@@ -16,7 +27,7 @@
 | 영문 제목 | Arcana Heart 3: LOVE MAX!!!!! |
 | 한글 제목 | 알카나 하트 3 러브 맥스!!!!!. Arc System Works 한국어 제품 소개의 표기. 국내에는 아르카나 표기도 사용됨 |
 | 플랫폼 | 이번 평가: PS Vita. PS3 동시 이식 및 후발 Windows판 존재 |
-| Vita 발매일 | 일본 2014-05-29 / 북미 2014-09-23 / 유럽은 Push Square가 2014-11-21로 기록 |
+| 발매일 | 일본 2014-05-29 / 북미 2014-09-23 / 유럽은 Push Square가 2014-11-21로 기록 |
 | 개발사 | EXAMU. 콘솔·PC 발매 및 이식 관련 Arc System Works 표기와 구분 |
 | 발매사 | 일본 Arc System Works / 북미 Aksys Games / 유럽 NIS America |
 | 장르 | 2D 대전 격투 / 캐릭터·알카나 조합 |
@@ -32,7 +43,7 @@
 
 ## 스포일러 최소 시놉시스
 
-관동의 큰 사건이 끝난 뒤, 일본 각지에 차원의 균열이 발생한다. 성령과 힘을 나누는 소녀들은 재앙을 막기 위해 움직이며, 드렉슬러 기관과 인공 발키리를 둘러싼 사건에 휘말린다. 공식 도입부의 위기까지 남은 시간은 6일이다. 각 인물의 시점과 전투 전후 대화를 따라가는 구조다. [공식 스토리](https://www.arcsystemworks.jp/ah3lm/story/index.html)
+캐릭터와 보조 능력인 알카나를 조합해 싸우는 2D 대전 격투게임이다. 캐릭터별 대화와 별도의 이야기 모드도 제공한다. 사건·인물 관계·비밀과 결말은 설명하지 않는다.
 
 ## 게임 구조 / 루트 구조
 
@@ -56,20 +67,20 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 
 - **입문 설명의 약점:** This Is My Joystick은 복잡한 시스템을 단계적으로 가르치는 안내와 Trial의 과제 설명이 부족하다고 지적했다. 해당 리뷰의 실제 평가 기종은 단독 확정하지 못했으므로 공통 시스템 보조 평가로 사용한다. [원문](https://thisismyjoystick.com/reviews/arcana-heart-3-love-max/)
 - **Vita에서 복잡하게 보이는 화면:** Push Square는 양옆 캐릭터 패널과 작은 표시 영역을 비판했다. 다만 공식적으로 링크 애니메이션을 끌 수 있으며, 그 경우 플레이어 상태창으로 바뀐다. 무조건 켜야 한다거나 끄면 전장이 16:9로 확장된다고 쓰지 않는다. [Vita 리뷰](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max), [공식 설정 설명](https://www.arcsystemworks.jp/ah3lm/game_mode/index.html)
-- **이야기의 낮은 몰입도:** 두 Vita 리뷰 모두 본편·후일담의 글쓰기를 약점으로 꼽는다. 격투게임에 긴 이야기가 없어서가 아니라, 실제 제공된 이야기의 전달력이 약하다는 평가다. [Push Square](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max), [Hardcore Gamer](https://web.archive.org/web/20140926052450/http://www.hardcoregamer.com/2014/09/22/review-arcana-heart-3-love-max/106547/)
+- **이야기 모드 평가 편차:** 두 서구 Vita 리뷰는 본편·후일담의 전달력에 비판적이다. 영어판 독해의 평가이며 일본어 원문 자체를 전수 판정한 근거는 아니다. 핵심 대전 품질과 별도 보조 항목으로 읽는다. [Push Square](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max), [Hardcore Gamer](https://web.archive.org/web/20140926052450/http://www.hardcoregamer.com/2014/09/22/review-arcana-heart-3-love-max/106547/)
 
 ## 외부 평가
 
 | 출처 | 점수 | 표본 수 | 대상 판본·비고 |
 |---|---:|---:|---|
-| [Push Square](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max) | **7/10** | 매체 리뷰 1건 | 북미 PS Vita / Edwin Garcia / 2014-10-01 |
-| [Hardcore Gamer 보존본](https://web.archive.org/web/20140926052450/http://www.hardcoregamer.com/2014/09/22/review-arcana-heart-3-love-max/106547/) | **4/5** | 매체 리뷰 1건 | Version Reviewed: PS Vita 명시 / Marcus Estrada / 2014-09-22. 원문 보존본의 점수 이미지 표기 확인 |
-| [This Is My Joystick](https://thisismyjoystick.com/reviews/arcana-heart-3-love-max/) | **혼합 정성평가** | 매체 리뷰 1건 | Andy Corrigan / 2014-12-03. 실제 평가 기종 단독 미확정, 숫자 점수 없음 |
-| [Digitally Downloaded](https://www.digitallydownloaded.net/2014/11/review-arcana-heart-3-love-max-sony.html) | **비판적 정성평가** | 매체 리뷰 1건 | Matt S. / 2014-11-26 / **PS3**. 전투 복잡성과 입문·서사 문제의 보조 근거 |
+| [Push Square](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max) | **7/10** | 매체 리뷰 1건 | 북미 PS Vita / Edwin Garcia / 2014-10-01. 전투·여러 모드 경험, 모든 인물·과제 완료는 미표기 |
+| [Hardcore Gamer 보존본](https://web.archive.org/web/20140926052450/http://www.hardcoregamer.com/2014/09/22/review-arcana-heart-3-love-max/106547/) | **4/5** | 매체 리뷰 1건 | Version Reviewed: PS Vita 명시 / Marcus Estrada / 2014-09-22. 원문 보존본 본문 및 4/5 점수 이미지 메타데이터 확인. 전수 완료는 미표기 |
+| [This Is My Joystick](https://thisismyjoystick.com/reviews/arcana-heart-3-love-max/) | **혼합 정성평가** | 매체 리뷰 1건 | Andy Corrigan / 2014-12-03. 실제 평가 기종 단독 미확정, 숫자 점수 없음. 대전·훈련·과제 직접 경험; 대화를 스킵했다고 명시해 완독 평가로 세지 않음 |
+| [Digitally Downloaded](https://www.digitallydownloaded.net/2014/11/review-arcana-heart-3-love-max-sony.html) | **비판적 정성평가** | 매체 리뷰 1건 | Matt S. / 2014-11-26 / **PS3**. 복수 캐릭터의 Story 완료 명시. 전투·입문 지원의 보조 근거, Vita 성능 판단에 사용하지 않음 |
 
 독립적인 리뷰 네 건을 대조했지만 **Vita 직접 리뷰 네 건을 확보했다는 뜻은 아니다.** Vita 명시 2건과 기종 미확정 1건·PS3 1건을 분리했다. 후자의 글로 Vita 성능을 평가하지 않는다. Push Square의 사용자 점수와 매체 7점, Steam의 PC 사용자 평가도 서로 합산하지 않았다. 오래된 리뷰의 온라인 매칭 실패 경험을 현재 접속자 수나 서버 폐쇄의 증거로 쓰지 않는다.
 
-**아카이브 판정: 3.5/5.** 전투와 조합에 일관된 장점이 있어 등록선을 통과한다. 그러나 학습 지원·작은 화면의 정보 배치·Vita의 대전 연결 제약을 포함한 전체 구성이 4.0의 우수작 기준에 도달했다고 보기는 어렵다. 후발판이나 한국어 부재 때문에 작품성 점수를 조정한 것도, 7점을 기계적으로 5점제로 환산한 것도 아니다.
+**아카이브 판정: 3.5/5 유지.** 핵심 전투와 조합은 여러 리뷰가 일관되게 인정한다. 반면 학습 지원·Vita의 작은 화면 정보 배치·근거리 대전 기능의 부재를 포함한 제품 구성이 4.0에 이르지는 못한다. 서사의 분량이나 미소녀 격투라는 장르를 자동 감점하지 않으며, 영문 평론의 글쓰기 불만을 일본어 원문 결함으로 확정하지 않는다. 외부 7점의 기계 환산도 아니다.
 
 ## 플레이타임
 
@@ -84,7 +95,7 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 
 ## 한국어화 상태
 
-| 구분 | 2026-09-21 공개 조사 결과 |
+| 구분 | 2026-10-08 공개 조사 결과 |
 |---|---|
 | 공식 Vita 한국어판 | 공개적으로 확인되지 않음 |
 | Vita 유저 한글패치 | 본작·판본·제작자·배포 버전이 일치하는 공개 배포 원문 미확보 |
@@ -95,6 +106,8 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 | 부분·기계번역·제작 중·중단 | 본작으로 검증할 만한 공개 진행·배포 자료를 확보하지 못함 |
 
 [LOVE MAX 언어 표](https://store.steampowered.com/app/370460/Arcana_Heart_3_LOVE_MAX/?l=koreana), [SIXSTARS XTEND 언어 표](https://store.steampowered.com/app/661990/). [Arc System Works 한국어 홍보 페이지](https://www.arcsystemworks.jp/steam/ah3lm/kor/)가 존재하지만 이것을 게임 텍스트 한국어화의 증거로 사용하지 않는다.
+
+한국어 공식 홍보 문서나 국내 정식 유통은 게임의 한국어 지원과 다르다. 검색 결과의 상점 목록에 다른 게임의 한국어 표기가 섞여도 언어 증거로 쓰지 않았다.
 
 검색어는 `Arcana Heart 3 Korean patch`, `Arcana Heart 3 Love Max Vita Korean`, `알카나 하트 3 한글패치`, `아르카나 하트 3 한글 비타`, `러브 맥스 한글패치`, `アルカナハート3 韓国語` 등을 사용했다. 검색에 섞인 원작·다른 격투게임·ROM 제공 사이트·번역된 상점 UI는 제외했다. 비공개·비색인 자료와 과거 게시물 접근 제한이 있으므로 **공개 확인 못함은 절대 존재하지 않음과 다르다.**
 
@@ -108,9 +121,11 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 | 2014년 | 북미·유럽 PS3 / PS Vita | 지역별 영어 현지화판 |
 | 2015-09-29 | Windows LOVE MAX | 후발 PC 이식. SIXSTARS와 별도 Steam 상품 |
 | 2017-12-12 | Windows LOVEMAX SIXSTARS | Steam 표시일 기준. 미노리와 혈액의 알카나 Ichor가 추가된 후발 확장 계열 |
-| 2021년 | Windows SIXSTARS XTEND | 확장·DLC 계열. Pistrix와 Parace L'sia 팩은 Steam 기준 2021-04-29 발매 |
+| 2021년 | Windows SIXSTARS XTEND | SIXSTARS 소유자에게 무료 업데이트. 16:9 화면비·새 스테이지·게임 조정 추가, 신규 인물은 별도 DLC |
 
 근거: [원작과 개선판의 관계](https://web.archive.org/web/20140926052450/http://www.hardcoregamer.com/2014/09/22/review-arcana-heart-3-love-max/106547/), [공식 FAQ](https://www.arcsystemworks.jp/ah3lm/faq/index.html), [콘솔 발매](https://www.arcsystemworks.jp/ah3lm/), [LOVE MAX PC](https://store.steampowered.com/app/370460/Arcana_Heart_3_LOVE_MAX/), [SIXSTARS XTEND](https://store.steampowered.com/app/661990/), [2021 DLC](https://store.steampowered.com/app/1209800/AH3X_Pistrix__Parace_Lsia_DLC/).
+
+[Arc System Works의 XTEND 공식 발표](https://www.arcsystemworks.com/arcana-heart-3-lovemax-sixstars-update-and-new-character-dlc-launches-on-steam-pc-today/)는 무료 본체 업데이트와 유료 캐릭터 DLC를 구분하고 16:9 화면비 개선을 명시한다.
 
 **SIXSTARS / XTEND는 Vita판을 업데이트하면 그대로 얻는 콘텐츠가 아니다.** 본 조사에서 Vita용 SIXSTARS·XTEND나 본작의 PS4·PS5·Switch 발매를 확인하지 못했다. 위 표는 이번 비교에 필요한 가정용·PC 중심 연혁이며, 아케이드 전 리비전의 완전한 목록은 아니다.
 
@@ -125,7 +140,7 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 | 추가 이야기 | 본편과 After Story는 음성 수록. Memories는 과거 모바일 Card of Glory 소재를 조정한 무음성 단편 모음 |
 | 양옆 링크 애니메이션 | OFF 가능. OFF 시 플레이어 상태창으로 대체되며 전장 폭이 넓어진다는 의미는 아님 |
 | PC LOVE MAX | 별도 이식과 144페이지 디지털 설정 자료집 특전 안내. 새로운 본편 루트 추가 근거는 미확보 |
-| PC SIXSTARS / XTEND | 추가 캐릭터·알카나와 별도 DLC가 존재. Complete Edition은 현재 상점의 본체+2종 DLC 묶음이며 별도 Vita 완전판이 아님 |
+| PC SIXSTARS / XTEND | 추가 캐릭터·알카나와 별도 DLC. XTEND는 16:9 화면비·새 스테이지도 제공. Complete Edition은 현재 상점의 본체+2종 DLC 묶음이며 별도 Vita 완전판이 아님 |
 | XTEND DLC의 서사 범위 | Pistrix·Parace L'sia의 이용 모드는 대전·서바이벌·타임어택·훈련·온라인으로 안내. 추가 캐릭터에 새 Story가 자동 제공된다고 추정하지 않음 |
 | 해상도·성능·심의·음성 차이 | 동일 조건 실측·전수 비교 미실시. FPS·입력 지연·로딩 배율, 지역별 삭제 장면을 확정하지 않음 |
 
@@ -133,13 +148,13 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 
 ### 후발 PC판의 비공식 대전 개선 자료
 
-2026-09-21에 [Angel 제작자 README](https://github.com/super-continent/Angel/blob/main/README.md)를 직접 확인했다. 제작자는 **SIXSTARS XTEND의 개조 이용자 간 Player Match에 롤백을 적용하고, 비개조 상대와는 지연 기반 방식으로 전환한다**고 안내한다. 이는 공식 업데이트·한국어 패치·Vita용 도구가 아니다. 실행 파일 수정이나 DLL 설치를 수행하지 않았으므로 안정성·호환성·지연 개선을 직접 검증한 결과로 제시하지 않는다. 최신판 대전 환경 비교 시 참고할 선행 자료로만 기록한다.
+2026-10-08에 [Angel 제작자 README](https://github.com/super-continent/Angel/blob/main/README.md)를 직접 확인했다. 제작자는 **SIXSTARS XTEND의 개조 이용자 간 Player Match와 Ranked Match에 롤백을 적용하고, 비개조 상대와는 지연 기반 방식으로 전환한다**고 안내한다. 이는 공식 업데이트·한국어 패치·Vita용 도구가 아니다. 실행 파일 수정이나 DLL 설치를 수행하지 않았으므로 안정성·호환성·지연 개선을 직접 검증한 결과로 제시하지 않는다. 최신판 대전 환경 비교 시 참고할 선행 자료로만 기록한다.
 
 ## 현재 추천 버전
 
 **휴대용 원기기에서 기존 LOVE MAX를 즐기는 목적이면 Vita판**이다. 단, 근거리 아드호크 대전이나 PS3와의 연동을 기대해서는 안 된다. **추가 인물과 데스크톱 대전 환경이 목적이면 PC SIXSTARS XTEND를 먼저 비교**한다. 필요한 추가 캐릭터는 DLC 구성을 따로 확인해야 한다. 이 판단은 모든 콘텐츠·지역 특전의 완전 상위호환이나 현재 매칭 상대 확보를 보장하지 않는다.
 
-**한글화 프로젝트의 평가 대상은 Vita LOVE MAX**다. 한국어 도움말·기술·대사 번역은 유용할 수 있지만, 후발 PC판과의 대상 선택 및 이야기 콘텐츠의 상대적 우선도를 먼저 검토하는 편이 낫다는 판단이다. 영어판과 한국어판은 구분하며 한국어로 바로 즐길 검증된 대안은 이번 조사에서 확보하지 못했다.
+**한글화 프로젝트의 평가 대상은 Vita LOVE MAX**다. 한국어 도움말·기술·대사 번역은 유용할 수 있지만, 후발 PC 확장판과의 대상 선택 및 번역 결과를 장기적으로 사용할 판본을 먼저 검토하는 편이 낫다는 판단이다. 영어판과 한국어판은 구분하며 한국어로 바로 즐길 검증된 대안은 이번 조사에서 확보하지 못했다.
 
 ## 한글화 후보 평가
 
@@ -153,7 +168,7 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 | 기존 판본 대안 | PC LOVE MAX 및 후발 SIXSTARS XTEND. 한국어 대안이라는 뜻은 아님 |
 | Vita 독자 가치 | 휴대용 원기기 플레이. 별도 독점 시나리오 추가는 확인되지 않음 |
 | 한글화 우선도 | **C** |
-| A/B가 아닌 이유 | 신규 번역의 상대적 효용과 후발판을 비교해야 하며, 서사 중심 프로젝트로서의 추천 근거도 약함 |
+| A/B가 아닌 이유 | 후발 PC 확장판의 추가 캐릭터·화면 개선을 고려하면 먼저 번역 대상 판본을 선택할 필요가 큼. Vita에는 근거리 대전·교차 저장도 없어 동일 번역의 활용 범위를 비교해야 함 |
 | 후보 유지 이유 | 플레이 가치와 새 한국어화 착수 우선순위는 다른 축 |
 
 ### 기술 난이도
@@ -173,29 +188,7 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 
 ### 예상 한글화 난이도
 
-**미확인.** 격투게임이라는 이유로 텍스트가 적거나 수정이 쉽다고 판단하지 않는다. PC 확장판의 대전 모드가 공개돼 있다는 사실도 Vita의 추출·폰트 작업 가능성을 증명하지 않는다.
-
-## 대표 스크린샷
-
-> 실제 게임 화면 3개를 외부 링크로 수록했다. **1번은 Push Square의 Vita 리뷰 수록 전투 화면, 2·3번은 일본 공식 PS3·Vita 공동 소개의 화면 묶음**이다. 공동 자료의 개별 캡처 기종은 독립 확인하지 못했다. 세 직접 이미지 URL을 열어 내용을 확인했으며, 직접 실기 촬영한 결과나 한국어판 화면이 아니다. 이미지를 저장소에 복제 업로드하지 않았다.
-
-### 1. 전투·게이지·사이드 패널
-
-![Arcana Heart 3 Love Max 전투 화면, Push Square Vita 리뷰 수록](https://images.pushsquare.com/screenshots/62278/large.jpg)
-
-[출처: Push Square Vita 리뷰](https://www.pushsquare.com/reviews/psvita/arcana_heart_3_love_max)
-
-### 2. 이야기 대화·상대 선택
-
-![Arcana Heart 3 Love Max 스토리 화면, PS3·Vita 공식 공동 자료](https://www.arcsystemworks.jp/ah3lm/game_mode/img/SS_1.png)
-
-[출처: 공식 Story 모드 소개](https://www.arcsystemworks.jp/ah3lm/game_mode/index.html)
-
-### 3. 트라이얼 과제·달성 결과
-
-![Arcana Heart 3 Love Max 트라이얼 화면, PS3·Vita 공식 공동 자료](https://www.arcsystemworks.jp/ah3lm/game_mode/img/SS_4.png)
-
-[출처: 공식 Trial 모드 소개](https://www.arcsystemworks.jp/ah3lm/game_mode/index.html)
+**미확인.** C는 장르의 우열이나 자료 부족에 대한 벌점이 아니라 번역 대상 판본을 고르는 우선순위다. 격투게임이라는 이유로 텍스트가 적거나 수정이 쉽다고 판단하지 않는다. PC 확장판의 대전 모드가 공개돼 있다는 사실도 Vita의 추출·폰트 작업 가능성을 증명하지 않는다.
 
 ## 한줄평
 
@@ -205,7 +198,7 @@ Story와 After Story 외에도 Survival Score Attack, Trial, Time Attack, Traini
 
 **PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
 
-Vita 직접 리뷰와 타 기종 보조 평가를 구분해 등록선을 판정했다. 전투의 장점으로 후보에 남기되 사용성·학습·연결 제약 때문에 4.0으로 올리지 않는다. 한글화 우선도 C는 공식 한국어판 존재나 기술 난이도에 대한 판정이 아니다. 현재 온라인 환경, 게임 구동과 실제 번역 가능성은 후속 실증 대상이다.
+독립 필자 네 명의 본문을 재확인하고 Vita 직접 리뷰와 타 기종 보조 평가, 대화 스킵과 Story 완료 범위를 구분해 등록선을 판정했다. 전투의 장점으로 후보에 남기되 사용성·학습·연결 제약 때문에 4.0으로 올리지 않는다. 한글화 우선도 C는 공식 한국어판 존재나 기술 난이도에 대한 판정이 아니다. 현재 온라인 환경, 게임 구동과 실제 번역 가능성은 후속 실증 대상이다.
 
 ## 참고 자료
 
@@ -225,3 +218,4 @@ Vita 직접 리뷰와 타 기종 보조 평가를 구분해 등록선을 판정�
 - [Steam SIXSTARS XTEND: 추가 인물·언어·상품 구성](https://store.steampowered.com/app/661990/)
 - [Steam: Pistrix·Parace L'sia DLC의 날짜·이용 모드](https://store.steampowered.com/app/1209800/AH3X_Pistrix__Parace_Lsia_DLC/)
 - [Angel 제작자 README: PC XTEND용 비공식 개선 모드](https://github.com/super-continent/Angel/blob/main/README.md)
+
