@@ -1,213 +1,247 @@
 # Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)
 
 > 원제: 限界凸旗 セブンパイレーツ  
-> 대상 판본: **PlayStation Vita**  
-> 상태: **🟢 후보** / 발굴 추천도: **⭐⭐⭐½☆ 3.5/5** / 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-21 / Asia/Seoul**
+> 대상 판본: PlayStation Vita 일본판. 초기판과 공식 v1.02 조정 구분  
+> 상태: ⚪ 기준 미달 · 평가 보존  
+> 발굴 추천도: ⭐⭐⭐☆☆ 3.0/5  
+> 한글화 우선도: 해당 없음 · 활성 후보 제외  
+> 조사 기준일: 2026-10-08 / Asia/Seoul
 
-> [!IMPORTANT]
-> 2016년 PS Vita 원판은 일본 전용 발매다. 2026-09-21 기준 공식 Vita 한국어판과 공개 Vita 한국어 패치는 확인하지 못했다. 2022년 Nintendo Switch용 **Seven Pirates H**가 Vita판의 모든 DLC를 포함하고 조작·진동을 개선했으며, 서구판은 공식 영어·번체중문 자막을 지원한다. 신규 한국어화 프로젝트라면 Vita보다 Switch H를 먼저 비교할 가치가 높다.
+## 대표 스크린샷
+
+**PS Vita판 실제 게임 화면 3장.** 4Gamer의 2016-07-30 사전 플레이리포트에 실린 이미지다. 2026-10-08에 각 이미지의 픽셀을 열어 월드맵·필드 이동·적 심볼 접근 화면임을 확인했다. 사건 대사·이벤트 CG·특정 인물의 신분이나 대립을 암시하는 장면은 싣지 않았다. 사전판 이미지이므로 v1.02 적용 화면이라는 뜻은 아니다.
+
+### 1. 배로 이동하는 월드맵
+
+![Seven Pirates Vita판 월드맵과 항해 UI](https://www.4gamer.net/games/347/G034767/20160725027/SS/004.jpg)
+
+### 2. 3D 필드 이동
+
+![Seven Pirates Vita판 섬의 지형을 이동하는 필드 화면](https://www.4gamer.net/games/347/G034767/20160725027/SS/022.jpg)
+
+### 3. 필드의 적 심볼
+
+![Seven Pirates Vita판 필드에서 적 심볼에 접근하는 화면](https://www.4gamer.net/games/347/G034767/20160725027/SS/024.jpg)
+
+[이미지 원출처: 4Gamer Vita 사전 플레이리포트](https://www.4gamer.net/games/347/G034767/20160725027/). 이미지는 원출처 외부 링크로 수록한다.
 
 ## 한눈에 보기
 
 | 항목 | 내용 |
 |---|---|
 | 원제 | 限界凸旗 セブンパイレーツ |
-| 영문 제목 | Genkai Tokki: Seven Pirates |
-| 한글 제목 | 한계돌기 세븐 파이러츠 |
-| 플랫폼 | 이번 평가: PlayStation Vita |
-| 발매일 | 일본 2016-08-04 |
+| 영문 / 로마자 | Genkai Tokki: Seven Pirates |
+| 한글 제목 | 한계돌기 세븐 파이러츠. 국내 상품에는 세븐 파이레츠 표기도 사용 |
+| 플랫폼 | PlayStation Vita 일본판 / 공식 Vita TV 비대응 |
+| 발매일 | 2016-08-04 / 밸런스 조정 v1.02는 2016-09-29 |
 | 개발사 | Felistella / Compile Heart |
 | 발매사 | Compile Heart |
-| 장르 | 해양 탐험 RPG / 턴제 JRPG |
+| 장르 | 3D 탐색·턴제 전투 RPG / 캐릭터 육성 |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
-| 제품 코드 | VLJM-30183 패키지 / PCSG-00882 다운로드 |
-| 예상 플레이타임 | GameFAQs 9명 평균 약 **27시간** |
-| 발굴 추천도 | ⭐⭐⭐½☆ **3.5/5** |
-| 상태 | 🟢 후보 |
-| 한글화 우선도 | **C** |
-| 기술 난이도 | **미확인**. Vita 영문 이식 시도에서 폰트 문제가 보고됐으나 전체 파일 구조·한국어 렌더링은 미검증 |
-| 현재 추천 버전 | 일반 플레이는 Switch **Seven Pirates H** / Vita 원기기 보존은 2016 원판 |
+| 예상 플레이타임 | Vita 사용자 제출 27시간·9명, 완료 범위 혼합. 별도 리뷰에 플래티넘 약20시간 설명. 대표 보장 시간으로 단정하지 않음 |
+| 발굴 추천도 | ⭐⭐⭐☆☆ 3.0/5 |
+| 상태 | ⚪ 기준 미달 · 평가 보존 |
+| 한글화 우선도 | 해당 없음 · 활성 후보 제외 |
+| 한글화 난이도 | 미확인 |
+| 현재 추천 버전 | 신규 플레이는 Switch Seven Pirates H 비교 우선. Vita 원기기 이용은 v1.02 변경 사항 확인 |
 
-근거: [4Gamer Vita 제품 페이지](https://www.4gamer.net/games/347/G034767/), [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates), [GameFAQs 발매 데이터](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates/data), [Switch 공식](https://www.compileheart.com/seven_pirates/switch/).
+발매·Vita TV 비대응·저작권사는 [Vita 공식 사이트](https://www.compileheart.com/seven_pirates/), 업데이트 날짜와 항목은 [공식 패치 기록](https://www.compileheart.com/seven_pirates/dlc/?page=patch), 한국어 표기는 [국내 Vita 상품 데이터](https://prod.danawa.com/info/?pcode=4377040)를 확인했다.
 
 ## 스포일러 최소 시놉시스
 
-해적 소녀 **파르테 카이리**는 보물을 찾아 항해하던 중 정체불명의 몬스터 **오톤**과 부딪혀 바다에 빠지고, 전설의 보물이 잠들었다는 환상의 바다 **몬스피 해**에 표류한다.
-
-그곳에서 여러 몬스터 소녀와 해적 세력을 만나고, 7개의 비보를 찾아 각 섬과 던전을 돌며 동료를 늘린다. 이야기는 가볍고 코믹한 해적 모험물로 시작하며, 후반에는 몬스피 해를 지배하는 세력과 숨겨진 진실로 이어진다.
+해적 모험과 섬 탐색을 소재로 한 가벼운 분위기의 RPG다. 배를 움직여 지역을 고르고, 캐릭터를 육성하며 던전과 의뢰를 진행한다. 인물의 사정과 사건 전개는 설명하지 않는다.
 
 ## 게임 구조 / 루트 구조
 
-- **월드맵 항해:** 해도를 획득하면서 구름으로 가려진 해역을 열고 새로운 섬과 이벤트 지점에 접근한다.
-- **3D 던전 탐색:** 필드와 던전은 3D로 구성되며, 적 심볼과 접촉하면 전투가 시작된다.
-- **4인 턴제 전투:** 전투 시작 시 행동 순서가 정해지고 화면 하단에 표시된다.
-- **MP 기반 강화:** 공격·피격으로 MP를 모아 스킬과 강화 상태를 사용한다.
-- **오톤 전용 BP:** 오톤 전용 게이지를 모아 특수 공격을 사용할 수 있다.
-- **독자 육성 시스템:** 일반적인 경험치 레벨 대신 캐릭터 신체 파라미터를 조정하는 특수 육성으로 능력치 보너스와 스킬 해금을 결정한다.
-- **파이족 스카우트:** 해적·상인·학자 타입 지원 캐릭터를 찾아 전투 지원·상점 확장·발견물 탐색 효과를 얻는다.
-- **사이드 퀘스트·장비·아이템 제작:** 섬 탐색 중 수집한 자원과 보상을 이용해 파티를 강화한다.
+- **항해와 탐색:** 월드맵에서 섬과 이벤트 지점을 고르고, 3D 필드에서는 적 심볼을 피해 가거나 접촉해 전투한다.
+- **파티 전투:** 최대 4인으로 행동 순서와 속성 관계를 고려해 명령을 선택한다. 공격·방어·기술·아이템을 쓰는 기본은 익숙하다.
+- **자원 운용:** 전투 중 MP를 모아 기술이나 강화에 사용한다. 별도 보조 게이지를 쓰는 행동도 있다.
+- **육성:** 일반적인 레벨 상승을 특수한 터치 육성 과정으로 바꾸었다. 외형 조정과 능력치 보정·기술 습득이 연결된다. 성적 팬서비스가 UI·연출과 이 육성 과정에 지속적으로 등장한다.
+- **의뢰·지원 수집:** 재료 수집, 적 처치, 지원 캐릭터 확보를 통해 장비·상점·전투 지원을 늘린다.
+- **검수 범위:** 대사만이 아니라 의뢰 조건, 속성·능력치, 기술·장비 설명, 터치 안내와 결과 표시를 따로 봐야 한다. 첫 본편 완료만으로 모든 텍스트가 노출되었다고 볼 수 없다.
 
-자료: [4Gamer 플레이리포트](https://www.4gamer.net/games/347/G034767/20160725027/), [Compile Heart 전투 시스템](https://www.compileheart.com/seven_pirates/system/?page=battle), [Gematsu 시스템 소개](https://www.gematsu.com/2016/05/genkai-tokki-seven-pirates-full-length-trailer-system-details).
+구조 근거: [공식 기본·전투 시스템](https://www.compileheart.com/seven_pirates/system/), [4Gamer의 Vita 실제 체험](https://www.4gamer.net/games/347/G034767/20160725027/). 시스템 설명을 이야기 전개나 공략 해답으로 확장하지 않았다.
 
 ## 왜 발굴할 만한가
 
-이 작품은 Genkai Tokki 시리즈 가운데 **1인칭 던전 RPG에서 3D 해양 탐험형 RPG로 구조를 크게 바꾼 실험작**이다. 월드맵 항해, 섬 탐색, 심볼 인카운트, 4인 파티 턴제 전투를 묶어 휴대용 RPG로 비교적 직관적인 흐름을 만든다.
+해양 지도, 3D 탐색, 명확한 전투 UI와 캐릭터 커스터마이즈를 하나의 가벼운 모험에 묶은 점은 개성이다. 장르를 바꾸면서도 조작을 이해하기 쉽게 만들었으며, 외형과 육성을 연결하려는 시도는 단순한 장식 이상의 의미가 있다.
 
-특수 육성 시스템이 단순 팬서비스 장치에 머물지 않고 능력치·스킬 해금에 직접 연결된다는 점도 독특하다. 다만 이러한 기믹의 개성에 비해 일반 전투와 던전 설계 자체는 단순한 편이라 장기 플레이에서 반복성이 드러난다.
+그러나 **흥미로운 발상과 완성도 높은 장기 플레이는 다르다.** 실제 Vita 리뷰를 읽으면 던전과 적의 다양성, 육성 절차에 드는 반복, 전투의 선택 폭에 대한 불만이 드러난다. 업데이트로 초기 불편이 완화된 사실까지 반영해도, 높은 완성도의 후보로 추천하기에는 시스템을 오래 다룰 때의 보상이 제한적이다. 이 문서는 그 장점과 한계를 보존하되 3.5 등록선은 통과시키지 않는다.
 
 ## 장점
 
-- Famitsu가 **8/8/8/8 = 32/40**으로 평가해 Vita 원판의 기본 완성도는 준수하게 인정받았다.
-- 4Gamer는 3D 모델, 전투 밸런스, 육성과 스킬 해금의 결합을 긍정적으로 평가했다.
-- 월드맵 항해 → 섬 탐색 → 전투 → 보물 수집이라는 흐름이 이해하기 쉽다.
-- 캐릭터별 능력치와 스킬을 특수 육성 시스템으로 조정할 수 있어 빌드 차이가 생긴다.
-- 동료와 지원 캐릭터를 모으는 수집 요소가 휴대기 반복 플레이와 잘 맞는다.
-- GameFAQs Vita 이용자 평가는 Good·21명, 평균 플레이타임은 약 27시간으로 짧지 않은 편이다.
-- Vita 전용 시절의 독특한 터치·후면 터치 활용을 기록하는 판본 가치가 있다.
+- **정돈된 UI:** Planète Vita는 메뉴와 전투 화면의 시인성, 작품 주제에 맞춘 인터페이스를 구체적으로 호평한다. [Tentacle Blue](https://planetevita.fr/test-genkai-tokki-seven-pirates/)
+- **일관된 가벼움:** AstiN은 등장인물의 개성과 명랑한 분위기를 장점으로 인정한다. 진지한 장편 서사가 아니라는 이유만으로 감점하지 않는다. [Vita 미니리뷰](https://astin.hatenablog.com/entry/2016/08/08/012028)
+- **육성과 표현의 연결:** 능력치와 외형을 같이 조정하고 결과를 게임 모델에서 확인하는 구조는 독자적인 목표를 만든다. [4Gamer](https://www.4gamer.net/games/347/G034767/20160725027/)
+- **출시 후 조정:** v1.02는 적 행동·상태이상, 특수 게이지와 터치, 대기·전투불능 캐릭터 성장 보상을 손봤다. 초기 불편을 방치한 채 그대로 남은 게임으로 서술하면 부정확하다. [공식 패치 기록](https://www.compileheart.com/seven_pirates/dlc/?page=patch)
 
 ## 단점
 
-- 후발 Switch판 리뷰들은 **전투가 단순하고 오래 플레이하면 반복적**이라고 공통 지적한다.
-- 던전 크기와 구조의 다양성이 약하고, 후반에 기존 지역을 다시 도는 구간이 있다.
-- 시리즈 이전작보다 몬스터 캐릭터 수와 육성 깊이가 줄었다는 비교 평가가 있다.
-- 보스전은 일반전보다 체력만 크게 늘어져 지루해질 수 있다는 지적이 있다.
-- 특정 터치 기반 조작은 Vita에서 손에 부담이 크고, 커뮤니티 장기 리뷰에서도 조작성 문제가 언급된다.
-- 스토리와 캐릭터는 가볍고 코미디 중심이라 서사적 깊이를 기대하면 약하다.
-- 후발 Switch H가 모든 Vita DLC를 포함하고 조작까지 개선해 원판의 실용적 우위가 크게 줄었다.
+- **탐색·적 구성이 좁다:** 작은 던전과 제한적인 적 구성에 관한 Vita 지적이 있고, 후발판 리뷰에서도 던전의 변화가 적다는 평가가 이어진다. [Planète Vita](https://planetevita.fr/test-genkai-tokki-seven-pirates/), [Nintendo Life](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h)
+- **육성이 절차를 늘린다:** 松山勝弘는 수치 상승을 위해 매번 육성 과정을 거치는 수고와 편성 선택의 감소를 아쉬워한다. 성적 소재가 있다는 사실이 아니라 반복 조작과 시스템 선택 폭이 평가 대상이다. [클리어 후 Vita 평가](https://game-masahiro.liblo.jp/archives/1060476225.html)
+- **전투 재미의 지속력이 약하다:** 외형·능력 조정이 충분한 전술적 변화로 이어지는지에 의문이 남는다. Switch의 장기 리뷰도 반복 전투와 적은 다양성을 문제 삼아, 패치 전 난도 문제와 구별되는 구조적 한계를 보인다. [Nintendo Life](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h), [Capsule Computers](https://www.capsulecomputers.com.au/2022/05/seven-pirates-h-review/)
+- **초기판과 수정판을 혼동하기 쉽다:** 2016년 8월 Vita 리뷰의 높은 난도·충전 불편을 v1.02의 확정 문제로 유지할 수 없다. 반대로 Switch의 쉬운 난도·영문 문장·특정 버그를 일본 Vita에 그대로 옮길 수도 없다.
 
 ## 외부 평가
 
-| 출처 | 점수 | 표본 수 | 대상 판본·비고 |
+### 실제 본문을 확인한 리뷰
+
+| 출처·작성자 | 점수 | 표본 수 | 시험 판본·플레이 완료 범위·버전 한계 |
 |---|---:|---:|---|
-| Famitsu | **32/40** | 4명 | PS Vita. 8/8/8/8 |
-| 4Gamer | 점수 없음 | 편집부 플레이리포트 1건 | PS Vita. 모델·전투 밸런스·육성 완성도 긍정 |
-| GameFAQs | **Good** | 21명 | PS Vita 사용자 평가 / Length 9명 약 27시간 |
-| MobyGames | **6.9/10** | 종합 DB | Vita·Switch 혼합 자료. 참고용 |
-| Metacritic | **64/100** | 8평론 | Switch Seven Pirates H. Vita 점수로 직접 환산하지 않음 |
-| Nintendo Life | **6/10** | 1개 리뷰 | Switch. 반복 전투·단조로운 던전 지적 |
-| Noisy Pixel | **6.5/10** | 1개 리뷰 | Switch. 가볍고 중독성 있으나 난도·깊이 부족 |
-| Siliconera | **5/10** | 1개 리뷰 | Switch. 이전 Genkai Tokki작보다 단순화됐다고 평가 |
+| [Planète Vita / Tentacle Blue](https://planetevita.fr/test-genkai-tokki-seven-pirates/) | **72/100** | 작성자 1명·리뷰 1건 | 2016-08-21 / 일본 Vita. 플래티넘 약20시간을 설명하지만 개인 트로피 인증은 없음. 일본어 이해가 제한적이고 번역 앱을 사용했다고 밝힘. v1.02 이전 게시, 2023년 페이지 수정일만으로 재플레이를 뜻하지 않음 |
+| [松山勝弘 / game_masahiro](https://game-masahiro.liblo.jp/archives/1060476225.html) | **2/10, 개인 특수 척도** | 작성자 1명·리뷰 1건 | 2016-08-24 / Vita **클리어 명시**. 전투·육성과 수집 선택의 폭을 평가. 전 트로피·DLC 완료는 미확인. v1.02 이전 게시 |
+| [白い林檎、硝子のスープ / AstiN](https://astin.hatenablog.com/entry/2016/08/08/012028) | 정성평가·수치 없음 | 작성자 1명·리뷰 1건 | 2016-08-08 / Vita. 전체 진행에 관한 평과 구체적인 전투 경험이 있으나 완료 체크리스트·시간 미기재. v1.02 이전 게시 |
+| [Nintendo Life / Trent Cannon](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h) | **6/10** | 작성자 1명·리뷰 1건 | 2022-05-12 / 북미 Switch H. 단순한 전투·긴 보스전·던전 다양성 비판. 클리어·모든 의뢰 완료 선언과 총시간 미기재 |
+| [Capsule Computers / Travis Bruno](https://www.capsulecomputers.com.au/2022/05/seven-pirates-h-review/) | **7/10** | 작성자 1명·리뷰 1건 | 2022-05-14 / Switch H. 분위기와 표현의 일관성을 긍정하면서 쉬운 전투·반복을 인정. 완료 범위·총시간 미기재 |
+| [WayTooManyGames / FerniWrites](https://waytoomany.games/2022/05/18/review-seven-pirates-h/) | **5.5/10** | 작성자 1명·리뷰 1건 | 2022-05-18 / Switch H. **30시간 조금 넘게 플레이하고 완료했다고 명시**. MP 운용에 따른 느린 전투를 비판. Switch 충돌 보고와 영어 현지화 평가는 Vita 문제로 전가하지 않음 |
 
-- [Famitsu 점수 정리](https://www.gematsu.com/2016/07/famitsu-review-scores-issue-1443)
-- [4Gamer Vita 플레이리포트](https://www.4gamer.net/games/347/G034767/20160725027/)
-- [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates)
-- [Nintendo Life Switch 리뷰](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h)
-- [GameFAQs Switch 리뷰 집계](https://gamefaqs.gamespot.com/switch/349488-seven-pirates-h/reviews)
+**독립성 확인:** Vita 세 작성자와 후발 Switch 세 작성자의 본문을 확인했다. Planète Vita의 상단 공용 명의 대신 본문의 서명 Tentacle Blue를 사용했다. 같은 글의 전재·검색 요약·집계 페이지는 새 표본이 아니다. 각 리뷰는 1명의 의견이며 점수를 투표 수로 바꾸지 않는다.
 
-> Switch H의 평론 점수는 Vita판 점수로 직접 옮기지 않는다. 기본 콘텐츠가 같은 후발 완전판이므로 반복성·전투 깊이 같은 구조적 약점을 교차 확인하는 보조 자료로 사용한다.
+松山의 2/10은 0 아래 점수도 사용할 수 있다는 개인 척도 설명이 붙는다. 보통의 10점 척도와 기계적으로 평균·환산하지 않는다. Tentacle Blue의 이야기 평가는 일본어 이해 제한을 고려해 낮은 비중으로 읽는다. AstiN이 제시한 초기 전투 불편도 공식 수정 범위와 먼저 대조한다.
+
+### 보조 자료와 사용자 투표
+
+| 출처 | 점수·표시 | 표본 수 | 대상 판본·용도 |
+|---|---|---:|---|
+| [Famitsu 1443호 점수를 전한 Gematsu](https://www.gematsu.com/2016/07/famitsu-review-scores-issue-1443) | **32/40 (8·8·8·8)** | 한 매체 평가자 4명 | Vita 점수의 간접 확인. 원 평론 본문·완료 범위 미확보, 독립 완독 리뷰 4곳으로 세지 않음 |
+| [4Gamer / ginger](https://www.4gamer.net/games/347/G034767/20160725027/) | 정성평가·수치 없음 | 작성자 1명 | **2016-07-30 발매 전 Vita 체험**. 모델·구조·육성의 설명과 긍정적 인상. 완주 리뷰 1건으로 세지 않음 |
+| [GameFAQs Vita 사용자 평가](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates) | **Good** | 평점 투표 21건 | 표시된 정성 등급. 임의의 수치 평균을 만들지 않음. 난도 16건·시간 9건은 별도 제출 집합 |
+| [GameFAQs의 플랫폼 통합 리뷰 목록](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates/reviews) | Switch H 평론 집계 노출 | Vita 전용 표본 아님 | Vita URL에도 Switch 리뷰·64 메타스코어가 섞여 있다. Vita 평점으로 옮기지 않음 |
+
+기존 문서에서 강조한 Famitsu 점수와 사전 플레이리포트만으로 작품 전체의 추천선을 정하지 않았다. 이번 판단은 실제 체험 본문의 장단점과 그 적용 판본을 우선한다.
+
+### 패치 전후와 점수 판단
+
+[공식 v1.02](https://www.compileheart.com/seven_pirates/dlc/?page=patch)는 2016-09-29 다음을 수정했다.
+
+- 적의 기술 사용 빈도와 상태이상 부여 확률 하향
+- 충전 터치 감도 조정, BP 증가량 상향과 특정 상태의 추가 BP
+- 특수 공격으로 끝내야 하는 적의 수 감소
+- 내성이 있을 때의 표시 개선
+- 대기·전투불능 캐릭터도 성장 자원 획득
+
+따라서 초기 리뷰의 난도·충전 피로를 최신 Vita의 미수정 결함으로 합산하지 않는다. 이 수정이 던전·적 종류나 전체 육성 구조를 확장했다는 공식 안내는 없다. 실제 v1.02를 실행해 모든 문제가 얼마나 줄었는지 계측하지 않았으므로 “완전히 해결” 혹은 “여전히 동일”도 보증하지 않는다.
+
+**재평가 3.0/5:** 명확한 UI·주제에 맞춘 육성·가벼운 캐릭터 표현은 인정한다. 하지만 탐색의 변화, 편성·육성 선택이 주는 깊이, 반복 의뢰와 전투의 지속적인 보상이 충분히 강하다는 합의가 없다. 완성된 후발판의 독립 체험까지 구조적 약점을 뒷받침한다. 개선된 충전·적 행동을 감점에서 덜어 내더라도, 기본 RPG가 3.5 등록선을 통과할 정도로 고르게 다듬어졌다고 판단하기 어렵다. 팬서비스의 호불호·희귀성·한국어 유무·후발판 존재는 별점 사유가 아니다.
 
 ## 플레이타임
 
-- GameFAQs Vita는 **9명 평균 약 27시간**.
-- Switch H는 GameFAQs 18명 평균 약 **29시간**으로 유사하다.
-- 사이드 퀘스트·수집·장비·스킬 해금까지 포함하면 20시간대 후반 규모로 볼 수 있다.
-- 후발 리뷰들은 본편 길이 자체보다 반복 전투·재방문 구조가 체감 시간을 늘린다고 지적한다.
+| 범위 | 시간 | 표본 | 해석 |
+|---|---:|---:|---|
+| Vita 사용자 제출 | **27시간** | 9건 | GameFAQs Length. 본편·수집·트로피 범위가 섞일 수 있어 첫 완료 시간으로 확정하지 않음 |
+| Vita 플래티넘 참고 | **약20시간** | 리뷰 1건 | Tentacle Blue의 설명. 트로피 로그·개인 실측 인증 없음. v1.02 전 자료 |
+| Switch H 완료 체험 | **30시간 조금 이상** | FerniWrites 1명 | 저자가 완료했다고 직접 명시한 별도 판본 기록. Vita 평균과 합산하지 않음 |
+| Vita 첫 본편 완료만 | 미확인 | 독립된 시간 표본 미확보 | 松山은 클리어를 명시하지만 소요 시간은 적지 않음 |
+| Vita v1.02의 전체 수집·DLC·트로피 | 미확인 | 버전이 명확한 분리 통계 미확보 | 위 세 숫자 어느 것도 검수 상한으로 쓰지 않음 |
+
+시간 출처: [GameFAQs](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates), [Planète Vita](https://planetevita.fr/test-genkai-tokki-seven-pirates/), [WayTooManyGames](https://waytoomany.games/2022/05/18/review-seven-pirates-h/).
 
 ## 한국어화 상태
 
-- 공식 PS Vita 한국어판: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공개 PS Vita 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
-- 공식 Vita 영어판: 없음. 일본 전용 발매.
-- Vita 팬 영문화: 공개 완성 패치는 이번 조사에서 확인하지 못했다.
-- 2022년 Vita 커뮤니티에서는 Switch 영문 스크립트 이식을 검토했으나 폰트 동작 문제와 폰트 파일 위치 미확인 때문에 진전이 막혔다는 작업자 언급이 있다.
-- Switch Seven Pirates H: 공식 **일본어 음성 / 영어·번체중문 자막**, 한국어 미지원.
-- 공개 Switch 한국어 패치: **2026-09-21 기준 공개적으로 확인되지 않음**.
+| 판본·상태 | 2026-10-08 공개 재조사 결과 |
+|---|---|
+| Vita 공식 한국어 | 확인되지 않음. 일본판 발매와 국내 수입 상품의 일본어 표기 확인 |
+| Vita 공개 한글패치 | 실제 배포 원문·제작자·완성 범위를 공개적으로 확인하지 못함 |
+| Switch Seven Pirates H 공식 한국어 | 확인되지 않음. [Eastasiasoft 언어표](https://www.eastasiasoft.com/games/Seven-Pirates-H)는 일본어 음성 및 영어·번체중문 자막 |
+| Switch 공개 한글패치 | 실사용 가능한 완성 패치 배포 원문 확인 못함 |
+| PC·PS4·PS5·Xbox·모바일 | 본작의 해당 공식 이식과 그 한국어판·패치 확인 못함. 같은 시리즈의 다른 게임과 구별 |
+| 부분·기계번역·진행 중·중단 한국어화 | 검증할 수 있는 본작의 공개 진행·배포 근거 미확보 |
+| Vita 영어 팬 번역 | 과거 부분 번역 시도·배포 링크 소실을 언급한 기록은 있으나, 현재 이용 가능한 완성본 검증 못함. 한국어 대안으로 취급하지 않음 |
 
-자료: [GameFAQs Vita 발매 데이터](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates/data), [Eastasiasoft Switch 언어](https://www.eastasiasoft.com/games/Seven-Pirates-H), [Vita 영문 이식 시도 언급](https://www.reddit.com/r/VitaPiracy/comments/xn0dj8/to_love_ru_darkness_battle_ecstasy_english/).
+한계돌기 세븐 파이러츠·세븐 파이레츠·Genkai Tokki Seven Pirates·Seven Pirates H·원제에 한국어·한글패치·Korean patch·Vita·Switch·PC를 조합해 검색했다. [국내 Vita 상품](https://prod.danawa.com/info/?pcode=4377040)은 일본어 수입판이며, 같은 시리즈의 모에로 크로니클·모에로 크리스탈·캐슬팬처즈 한국어판은 **본작의 다른 판본이 아니다**.
 
-## 원작·이식·확장판 관계
+영어 부분 번역의 과거 기록은 [2020~2021년 커뮤니티 논의](https://www.reddit.com/r/VitaPiracy/comments/jj34ce/)에서 확인했다. 원배포 파일과 실제 적용은 검증하지 않았으므로 완성 대안이나 기술 해결의 증거로 삼지 않는다. 비색인·비공개 작업의 존재를 부정하는 조사 결과는 아니다.
 
-- **Genkai Tokki: Seven Pirates / PS Vita / 2016:** 일본 전용 원판.
-- **Seven Pirates H / Nintendo Switch / 2022:** Vita판 기반 후발 이식·완전판.
-- Switch H는 **Vita판에서 배포된 모든 DLC를 기본 수록**한다.
-- Switch H는 특수 육성·오톤 차지에 L/R 스틱 조작을 추가하고 터치 조작도 유지한다.
-- Switch H는 HD Rumble을 추가한다.
-- 서구 Switch판은 2022-05-12 출시되며 공식 영어·번체중문 자막을 제공한다.
-- 별도 PC·PS4·Xbox 공식 이식은 이번 조사에서 확인하지 못했다.
+**이번 활성 후보 제외 사유는 작품성 기준 미달이다.** 확정 한국어 대안을 발견해서 제외하는 것은 아니다. 후발 H판에 영어가 있다는 사실도 한국어 대안 규칙의 제외 조건이 아니다.
+
+## 원작 / 이식 / 확장판 관계
+
+| 시기 | 판본 | 관계 |
+|---|---|---|
+| 2016-08-04 | 일본 PS Vita | 원판. 다른 작품의 리메이크가 아님 |
+| 2016-08-04 / 2016-09-29 | Vita v1.01 / v1.02 | 추가 콘텐츠 대응·문구 수정, 뒤이어 전투·충전·보상 조정. 신규 게임과 구별 |
+| 2022-02-03 | 일본 Switch Seven Pirates H | 기존 게임의 후발 확장 이식. 배포된 DLC 포함 및 조작·진동 대응 |
+| 2022-05-12 | 해외 Switch Seven Pirates H | 영어·번체중문 자막 제공. Vita 공식 영어판으로 오인하지 않음 |
+
+근거: [Vita 공식](https://www.compileheart.com/seven_pirates/), [패치 내역](https://www.compileheart.com/seven_pirates/dlc/?page=patch), [Switch 일본 공식](https://www.compileheart.com/seven_pirates/switch/), [해외 발매사](https://www.eastasiasoft.com/games/Seven-Pirates-H).
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 확인된 내용 |
-|---|---|
-| PS Vita 2016 | 원판 / 일본어 / 터치·후면 터치 활용 / DLC 별도 |
-| Switch H 2022 일본 | Vita 본편 + 기존 DLC 전부 / L·R 스틱 조작 / 터치 / HD Rumble |
-| Switch H 2022 서구 | 위 완전판 + 공식 영어·번체중문 자막 / 일본어 음성 |
-| 한국어판 | Vita·Switch 모두 공식 지원 확인 못함 |
+| 항목 | Vita 원판 | Switch H |
+|---|---|---|
+| 기본 콘텐츠 | 2016년 본편 | 본편을 기반으로 이식. 별도 신작 시나리오 확대는 확인 못함 |
+| DLC | 별도 배포 기록 | 공식 안내상 기존 배포 DLC 전부 기본 수록 |
+| 특수 육성·충전 입력 | 화면·후면 터치, v1.02에서 감도와 관련 수치 조정 | L/R 스틱 조작 추가, 터치도 지원 |
+| 진동 | Switch와 동일 기능으로 확인되지 않음 | 공식 신규 요소로 진동 추가 |
+| 언어 | 일본판 일본어 | 일본판과 해외판 구별. 해외판 영어·번체중문 자막 |
+| 기기 제약 | 공식 Vita TV 비대응 | TV·휴대 환경의 조작 선택지가 늘어남 |
+| 성능·저장·모든 지역판 차이 | 직접 계측·전 지역 실증 없음 | 직접 계측·세이브 호환 검증 없음 |
+
+[공식 Switch 신규 요소](https://www.compileheart.com/seven_pirates/switch/system/)는 스틱 입력·진동·DLC 포함을 명시한다. 이름에 H가 붙는다고 모든 시스템을 다시 만든 전면 리메이크로 해석하지 않는다. 원판 삭제 콘텐츠, 화질 향상 폭이나 정확한 프레임을 검증 없이 단정하지 않는다.
 
 ## 현재 추천 버전
 
-**현재 일반 플레이는 Nintendo Switch의 Seven Pirates H를 우선한다.**
+**일반 플레이:** 본작을 선택한다면 Switch H를 먼저 비교한다. DLC 포함과 터치 외 조작, 해외 공식 언어가 실용적 장점이다. 이것이 기본 RPG 설계의 약점을 모두 해결했다는 뜻은 아니다.
 
-Vita판 본편에 모든 DLC를 포함하고, 원판의 터치 중심 조작을 스틱으로도 대체할 수 있으며, 서구판에는 공식 영어까지 있다.
+**Vita 이용:** 원기기 조작을 원하는 경우 원판을 선택할 수 있지만, 초기판과 v1.02의 차이를 구분해야 한다. 현재 계정에서의 업데이트·DLC 취득 가능성은 직접 검증하지 않았다.
 
-PS Vita판을 대상으로 새 한국어화를 진행할 실익은 휴대기 보존·원판 연구 목적에 가깝고, 실제 플레이·번역 프로젝트 효율은 Switch H가 더 높다.
+**한국어화 프로젝트:** 이번 평가에서는 활성 후보로 우선하지 않는다. 작품을 다시 프로젝트 대상으로 검토한다면 Vita의 보존 목표가 명확한지와 H판의 활용 범위를 먼저 비교할 필요가 있다.
 
 ## 한글화 후보 평가
 
 ### 한글화 가치
 
-- 작품성: **중상.** Famitsu 32/40과 4Gamer의 긍정적인 Vita 평가로 기본 완성도는 분명하다.
-- 한국어 접근성: Vita·Switch 모두 공식 한국어 확인 못함.
-- 영어 대안: Switch H 공식 영어 존재.
-- Vita 독자성: 터치·후면 터치 기반 원판 조작과 보존 가치는 있으나 콘텐츠는 Switch H가 상위호환.
-- 한글화 우선도: **C**.
-- 판단 근거: 한국어가 없는 점은 번역 가치가 있지만, 완전판·공식 영어가 있는 Switch H가 더 효율적인 프로젝트 대상이다.
+- **작품성:** 3.0/5. 후보 등록 하한 3.5 미달.
+- **한국어 접근성:** 완성된 공개 대안은 확인 못했으나, 미번역 여부 자체는 작품성을 보충하지 않는다.
+- **판본 선택:** Switch H가 DLC와 입력 선택지를 갖추므로 Vita만을 별도 번역할 효용은 따로 입증해야 한다.
+- **한글화 우선도:** 해당 없음. 기준 미달 작품을 C급 활성 후보로 남기지 않는다.
+- **보존 범위:** 상세 평가·이미지·출처는 남겨 향후 판본 연구에 활용할 수 있게 한다.
 
 ### 기술 난이도
 
 | 항목 | 평가 | 근거 |
 |---|---|---|
-| 예상 텍스트량 | 중간 / 정확한 행 수 미확인 | 본편·퀘스트·상점·스킬·아이템·이벤트 |
-| 텍스트 추출 | 미확인 | Vita 원본 스크립트 포맷 미분석 |
-| 텍스트 재삽입 | 미확인 | 공개 완성 영문패치 없음 |
-| 폰트 작업 | **문제 사례 있음 / 해결 미확인** | Switch 영문 스크립트 Vita 이식 시 폰트 동작 문제가 보고됨 |
-| UI 이미지 / 아틀라스 | 미확인 | 자산 구조 미분석 |
-| 영상 자막 | 미확인 | OP·영상 자산 미분석 |
-| 제어문자 / 스크립트 구조 | 미확인 | 이벤트·전투·퀘스트 구조 미분석 |
-| 실행 파일 수정 | 미확인 | 한글 렌더링 수정 필요 여부 미확인 |
-| 패치 배포 방식 | 미확인 | 완성 rePatch 사례 확인 못함 |
-| 실기·에뮬 검수 | 미확인 | 한국어 수정본 검증 없음 |
+| 예상 텍스트량 | 미확인 | 본편·의뢰·스킬·장비·조작 안내의 실제 행 수 미추출 |
+| 텍스트 추출 | 미확인 | Vita 아카이브·스크립트 포맷 직접 미분석 |
+| 텍스트 재삽입 | 미확인 | 길이·포인터·압축·갱신 패치와의 관계 미검증 |
+| 폰트 작업 | 미확인 | 한글 글리프와 렌더링 경로 미분석 |
+| UI 이미지 / 아틀라스 | 미확인 | 이미지화 문자와 자산 구조 미확인 |
+| 영상 자막 | 미확인 | 영상·음성·자막 분리 여부 미확인 |
+| 제어문자 / 스크립트 구조 | 미확인 | 이름·수치 삽입 및 조건 분기 형식 미분석 |
+| 실행 파일 수정 | 미확인 | 문자 처리 수정의 필요성 미판정 |
+| 패치 배포 방식 | 미확인 | 원본 버전 식별과 합법적 차분 배포 구조 미검증 |
+| 실기·에뮬레이터 검수 | 미확인 | 한글 수정본 미실행. v1.02·터치·의뢰·저장 검수 필요 |
 
 ### 예상 한글화 난이도
 
-**미확인.**
-
-Vita 커뮤니티의 영문 포팅 시도에서 폰트가 장애물로 언급된 것은 기술적 경고 신호다. 그러나 정확한 폰트 포맷·렌더링 경로·실행 파일 수정 필요 여부가 공개 분석으로 확정된 것은 아니므로 전체 난이도를 단정하지 않는다.
-
-## 대표 스크린샷
-
-> 저작권 이미지는 저장소에 복제 업로드하지 않는다. 아래는 **PS Vita판 실제 플레이 화면을 다수 포함한 검증된 원출처 페이지**다.
-
-1. [4Gamer PS Vita 플레이리포트 - 3D 던전·전투·월드맵 화면 다수](https://www.4gamer.net/games/347/G034767/20160725027/)
-2. [Gematsu PS Vita 첫 스크린샷 갤러리](https://www.gematsu.com/2016/04/genkai-tokki-seven-pirates-first-screenshots-new-characters-detailed)
-3. [Gematsu PS Vita 50분 실플레이 영상](https://www.gematsu.com/2016/08/50-minutes-genkai-tokki-seven-pirates-gameplay)
+**미확인.** 영어 번역 이식 시도나 폰트에 관한 커뮤니티 언급만으로 한국어 구현 비용을 확정하지 않는다. 실제 파일 분석을 하지 않았으므로 텍스트량도 “중간”처럼 단정하지 않는다.
 
 ## 한줄평
 
-**기믹은 매우 튀지만 기본 RPG도 의외로 단정하게 만든 작품. 다만 전투·던전의 깊이는 기믹의 존재감만큼 따라오지 못한다.**
+**육성 발상과 해적풍 UI는 선명하지만, 반복을 견딜 만큼 탐색과 전투가 충분히 확장되지는 못한 소규모 RPG.**
 
 ## 최종 판정
 
-**PS Vita / ⭐⭐⭐½☆ 3.5/5 / 🟢 후보 / 한글화 우선도 C / 기술 난이도 미확인.**
+**PS Vita / ⭐⭐⭐☆☆ 3.0/5 / ⚪ 기준 미달 · 평가 보존 / 한글화 우선도 해당 없음 / 기술 난이도 미확인.**
 
-등록선은 통과한다. Famitsu 32/40, 4Gamer의 긍정적인 실플레이 평가, 20시간대 후반의 콘텐츠와 독자적인 육성·해양 탐험 구조가 근거다. 반면 후발판에서도 반복 전투·단조로운 던전·낮은 전략 깊이가 반복적으로 지적되며, 이전 Genkai Tokki작보다 단순화된 부분도 있어 4.0으로 올리지는 않는다.
-
-C급인 이유는 **2022 Switch Seven Pirates H가 Vita DLC 전부와 조작 개선, 공식 영어까지 포함한 사실상의 상위판**이기 때문이다.
+기존 3.5에서 3.0으로 재평가한다. 출시 초기의 불편은 공식 수정 내역과 분리하고, 실제 Vita 세 작성자의 체험과 후발판 세 작성자의 구조적 평가를 교차 확인했다. UI·외형과 육성의 연결은 장점이지만 던전 다양성, 육성의 반복과 전투 선택의 지속적인 재미가 등록선을 지지할 만큼 강하지 않다. 원문의 평가에 영어 번역 결함을 섞지 않았으며, 취향·팬서비스·희귀성·한국어 대안과 별점을 분리했다. 상세 문서를 보존하고 활성 후보에서는 제외한다.
 
 ## 참고 자료
 
-- [Compile Heart PS Vita 공식](https://www.compileheart.com/seven_pirates/)
-- [PlayStation Blog 일본](https://blog.ja.playstation.com/2016/07/04/20160704-sevenpirates/)
-- [Famitsu 32/40 - Gematsu](https://www.gematsu.com/2016/07/famitsu-review-scores-issue-1443)
-- [4Gamer PS Vita 플레이리포트](https://www.4gamer.net/games/347/G034767/20160725027/)
-- [4Gamer PS Vita 제품 페이지](https://www.4gamer.net/games/347/G034767/)
-- [GameFAQs Vita](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates)
-- [GameFAQs Vita 발매 데이터](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates/data)
-- [Gematsu 시스템 소개](https://www.gematsu.com/2016/05/genkai-tokki-seven-pirates-full-length-trailer-system-details)
-- [Gematsu Vita 실플레이](https://www.gematsu.com/2016/08/50-minutes-genkai-tokki-seven-pirates-gameplay)
-- [Switch H 공식](https://www.compileheart.com/seven_pirates/switch/)
-- [Switch H 추가 요소](https://www.compileheart.com/seven_pirates/switch/system/)
-- [Eastasiasoft 서구판 언어](https://www.eastasiasoft.com/games/Seven-Pirates-H)
-- [Nintendo Life 6/10](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h)
-- [Vita 영문 포팅 시도 언급](https://www.reddit.com/r/VitaPiracy/comments/xn0dj8/to_love_ru_darkness_battle_ecstasy_english/)
+- [Compile Heart: Vita 공식 제품·기기 정보](https://www.compileheart.com/seven_pirates/)
+- [Compile Heart: Vita v1.01·v1.02 공식 변경 내역](https://www.compileheart.com/seven_pirates/dlc/?page=patch)
+- [Compile Heart: Vita 시스템](https://www.compileheart.com/seven_pirates/system/)
+- [Gematsu: Famitsu 1443호 Vita 점수 32/40](https://www.gematsu.com/2016/07/famitsu-review-scores-issue-1443)
+- [4Gamer: ginger의 2016-07-30 사전 체험·실제 화면](https://www.4gamer.net/games/347/G034767/20160725027/)
+- [Planète Vita: Tentacle Blue의 Vita 평가, 72/100](https://planetevita.fr/test-genkai-tokki-seven-pirates/)
+- [松山勝弘: Vita 클리어 평가, 개인 척도 2/10](https://game-masahiro.liblo.jp/archives/1060476225.html)
+- [AstiN: Vita 실플레이 정성평가](https://astin.hatenablog.com/entry/2016/08/08/012028)
+- [GameFAQs: Vita 이용자 평가·제출 시간](https://gamefaqs.gamespot.com/vita/187697-genkai-tokki-seven-pirates)
+- [Nintendo Life: Trent Cannon의 Switch H 평가](https://www.nintendolife.com/reviews/switch-eshop/seven-pirates-h)
+- [Capsule Computers: Travis Bruno의 Switch H 평가](https://www.capsulecomputers.com.au/2022/05/seven-pirates-h-review/)
+- [WayTooManyGames: FerniWrites의 Switch H 완료 평가](https://waytoomany.games/2022/05/18/review-seven-pirates-h/)
+- [Compile Heart: Switch H 발매 정보](https://www.compileheart.com/seven_pirates/switch/)
+- [Compile Heart: Switch H 조작·DLC 차이](https://www.compileheart.com/seven_pirates/switch/system/)
+- [Eastasiasoft: 해외 H판 언어·발매 정보](https://www.eastasiasoft.com/games/Seven-Pirates-H)
+- [다나와: Vita 일본어 수입판·한국어 음역](https://prod.danawa.com/info/?pcode=4377040)
+- [커뮤니티: Vita 부분 영어 번역의 과거 기록과 이용 제한](https://www.reddit.com/r/VitaPiracy/comments/jj34ce/)

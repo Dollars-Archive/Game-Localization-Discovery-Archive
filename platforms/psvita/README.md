@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **작품별 확인일 참고 (2026-10-08 순차 재검토)**  
-> 보존 항목: **30개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
+> 보존 항목: **30개** / 활성 후보: **28개** / 활성 발굴 우선 후보: **3개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -36,7 +36,6 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita RPGFan 80·PSLS 7/10, 독립 본문 4명 | 공개적으로 확인되지 않음 | Switch 추가 단편·CG, 공식 한국어 대안 미확인 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Push Square 7/10·Hardcore Gamer 4/5·타 기종 보조분리 | 공개 확인 못함 | PS3·PC LOVE MAX·PC SIXSTARS XTEND, 한국어 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 함정 액션·전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 3명 / 일본 v1.02 개선 반영 | 공개적으로 확인되지 않음 | The Nightmare Princess가 원판 포함·편의 확장 | 🟢 후보 |
-| [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 해양 탐험 RPG / 턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / 4Gamer 정성평가 / GameFAQs Good·21명·27h / Switch MC 64 참고 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Switch H 공식 영어·한국어 미지원 | Vita 원판 / 2022 Switch H는 DLC 전부·스틱 조작·HD Rumble·공식 영어 포함 | 🟢 후보 |
 | [IA/VT Colorful (이아/VT 컬러풀)](games/ia-vt-colorful.md) | 2015 | 리듬게임 / 악곡·도전 과제 해금 | ⭐⭐⭐½☆ 3.5/5 | C | Michibiku 8/10 / Kresnik 6.5/10 / Aaron 정성평가 / Famitsu 34/40 간접 확인 | 2026-09-20 공개 한글패치 확인 못함 / 영어 UI 팬 패치 기록과 구분 | Vita 원작 / 2016 the Best 재판 / 기본 60곡과 DLC 구분 / 타 기종 이식 미확인 | 🟢 후보 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 건담 배틀 액션 / 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / 4Gamer 82·2명 / Mecha Damashii 7/10 / GameFAQs Great·103명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / REMASTERED 공식 영어·한국어 미지원 | Vita 원작 아드혹 협력·대전 / 2025 Switch·PC REMASTERED 그래픽·UI·락온 개선 | 🟢 후보 |
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / 4Gamer 정성평가 / GameFAQs Great·1명 | 2026-09-21 공개 Vita 한글패치 확인 못함 / Vita·Switch 영문 팬패치 스크립트 약 94% | Vita 원작 / 2017 PS4·2022 Switch 1편+속 합본 | 🟢 후보 |
@@ -49,6 +48,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Piofiore no Banshou / Piofiore: Fated Memories (피오피오레의 만종)](games/piofiore-no-banshou.md) | 2018 | 오토메 ADV / 느와르 로맨스 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / Switch -ricordo 영어판에 추가 콘텐츠 | 🟢 후보 |
 | [Reine des Fleurs (레느 데 플뢰르)](games/reine-des-fleurs.md) | 2015 | 오토메 판타지 ADV / 대화 전략 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40·4명 | 2026-10-06 공개 한국어 패치 확인 못함 | Vita 원판 / 일본어 Switch 이식판 | 🟢 후보 |
 | [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Zettai Renai 7/10 / Switch RPGFan 79·Otome Kitten 정성평가 / Famitsu 33/40 전달 | 2026-10-08 Vita·Switch·모바일 한국어 대안 공개 확인 못함 | Vita 원판 / Switch 일본어·영어 / iOS·Android 일본어 / 영어 1.0.1 문장 수정 | 🟢 후보 |
+| [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 코미디 ADV / 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 리뷰 3명·호불호 / GameFAQs Great·16표 | 2026-10-08 공식·공개 완성 패치 미확인 | 동일 본편 후발 이식 미확인 / 공통부 반복·작은 분기 차이 | 기준 미달 / 조사 기록 보존 |
 
 ## 2026-10-05 전체 후보 한국어 대안 재감사
@@ -85,11 +85,11 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 | 항목 | 현재 |
 |---|---:|
 | 보존 항목 | 30 |
-| 활성 후보 | 29 |
-| 비활성·자료 보류 | 1 |
+| 활성 후보 | 28 |
+| 비활성·자료 보류 | 2 |
 | 활성 발굴 우선 후보: 4.0 이상 | 3 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 16 |
+| 한글화 우선도 C | 15 |
 
 최근 갱신: **2026-10-08, PS Vita 목록 순차 재평가**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
