@@ -4,7 +4,8 @@
     "platforms/ps2/games/guardian-angel.md",
     "platforms/ps2/games/eien-no-aselia-kono-daichi-no-hate-de.md",
     "platforms/ps3/games/the-guided-fate-paradox.md",
-    "platforms/ps3/games/maji-de-watashi-ni-koi-shinasai-r.md"
+    "platforms/ps3/games/maji-de-watashi-ni-koi-shinasai-r.md",
+    "platforms/ps3/games/ar-nosurge-umareizuru-hoshi-e-inoru-uta.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -21,6 +22,10 @@
     },
     "platforms/ps3/games/maji-de-watashi-ni-koi-shinasai-r.md": {
       "added": "2026-10-08T08:30:38.134Z",
+      "note": ""
+    },
+    "platforms/ps3/games/ar-nosurge-umareizuru-hoshi-e-inoru-uta.md": {
+      "added": "2026-10-08T08:35:39.513Z",
       "note": ""
     }
   }
