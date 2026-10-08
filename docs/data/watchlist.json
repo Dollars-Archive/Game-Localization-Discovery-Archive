@@ -2,8 +2,7 @@
   "version": 1,
   "order": [
     "platforms/ps2/games/guardian-angel.md",
-    "platforms/ps2/games/eien-no-aselia-kono-daichi-no-hate-de.md",
-    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md"
+    "platforms/ps2/games/eien-no-aselia-kono-daichi-no-hate-de.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -12,10 +11,6 @@
     },
     "platforms/ps2/games/eien-no-aselia-kono-daichi-no-hate-de.md": {
       "added": "2026-10-07T11:35:10.797Z",
-      "note": ""
-    },
-    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md": {
-      "added": "2026-10-08T08:25:57.996Z",
       "note": ""
     }
   }
