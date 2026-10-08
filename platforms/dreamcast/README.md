@@ -6,8 +6,8 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
-> 한글패치 확인 기준일: **2026-10-08**  
-> 등록 후보: **3개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
+> 한글패치 확인 기준일: **2026-10-09**  
+> 등록 후보: **4개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -22,6 +22,7 @@
 |---|---:|---|---:|---:|---|---|---|---|
 | [Seireiki Rayblade (성령기 라이블레이드)](games/seireiki-rayblade.md) | 2000 | 시뮬레이션 RPG / 전술 SRPG·연애 ADV 하이브리드 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.9·10명 / Gavas 3.8·4건 / 플레이타임 76.7시간·6명 | 2026-10-08 공식 한국어판·공개 완성 한글패치 확인 못함 / JP→EN 번역·해킹은 진행 중 | PS 원판의 오류 수정·시나리오·일러스트 추가 강화판 / 현행기 리마스터 확인 못함 | 🟢 후보 |
 | [Sister Princess Premium Edition (시스터 프린세스 프리미엄 에디션)](games/sister-princess-premium-edition.md) | 2002 | 연애 ADV / 비주얼노벨·일정 관리형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 4.0·3건 / GameFAQs Good·8표 / DC Magazine 독자 9.0 | 2026-10-08 공식 한국어판·공개 완성 한글패치 확인 못함 | PS1 본편 + Pure Stories 합본 / Sister Princess 2는 별도 후속작 / 현행기 동일 통합판 미확인 | 🟢 후보 |
+| [Comic Party (코믹파티)](games/comic-party.md) | 2001 | 연애 ADV / 비주얼노벨·일정 관리·동인지 제작 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·26명 / 장문 리뷰 8·1건 / Gavas 일반 2.0·1건·한정 4.5·2건 | 2026-10-09 공식 한국어판·공개 DC 완성 한글패치 확인 못함 / PC 2004 번역 기록은 내부 완성·외부 비공개 종료 자료와 충돌 | 1999 Win 원작 / DC 강화판 / 2003 Win DCE 역이식 / 2005 PSP Portable 후발판 | 🟢 후보 |
 | [Tantei Shinshi DASH! (탐정신사 대시)](games/tantei-shinshi-dash.md) | 2000 | 하드보일드 탐정 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 75.71·56명 / Gavas 4.0·2건 / GameFAQs Great·4표 | 2026-10-07 공식 한국어판·공개 DC 한글패치 확인 못함 / 2026 현행기판 공식 언어 일본어 | 2000 Win 원작 / DC DASH! / Win HardCore·Rebirth·Origin / 2009 PS2 리메이크 / 2026 Switch·PS4·Xbox 현행기판 | 🟢 후보 |
 
 ## Dreamcast 등록 운영
@@ -38,10 +39,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 3 |
+| 등록 후보 | 4 |
 | 발굴 우선 후보: 4.0 이상 | 0 |
 | 한글화 우선도 A | 0 |
 | 한글화 우선도 B | 2 |
-| 한글화 우선도 C | 1 |
+| 한글화 우선도 C | 2 |
 
-최근 갱신: **2026-10-08, Seireiki Rayblade 후보 등록. Dreamcast 활성 후보 3개**.
+최근 갱신: **2026-10-09, Comic Party 후보 등록. Dreamcast 활성 후보 4개**.
