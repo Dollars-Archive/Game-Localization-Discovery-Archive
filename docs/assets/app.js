@@ -128,6 +128,9 @@ function parseCompareDocument(markdown) {
 }
 
 async function initIndex() {
+  const desktopLayout = typeof window.matchMedia === 'function'
+    ? window.matchMedia('(min-width: 1024px) and (hover: hover) and (pointer: fine)')
+    : null;
   const status = document.getElementById('status');
   const wrap = document.getElementById('table-wrap');
   const body = document.getElementById('candidate-body');
@@ -414,7 +417,7 @@ async function initIndex() {
       : '';
   };
 
-  const actionMarkup = row => {
+  const actionMarkup = (row, desktop = false) => {
     const starred = Boolean(watchlist.items[row.key]);
     const star = hasToken()
       ? `<button type="button" class="star-toggle ${starred ? 'active' : ''}" data-key="${escapeHtml(row.key)}" aria-label="${starred ? '찜 해제' : '찜 추가'}" title="${starred ? '찜 해제' : '찜 추가'}">${starred ? '★' : '☆'}</button>`
@@ -423,11 +426,12 @@ async function initIndex() {
       ? `<label class="compare-check-label"><input class="compare-check" type="checkbox" data-key="${escapeHtml(row.key)}" ${compareKeys.has(row.key) ? 'checked' : ''}> 비교</label>`
       : '';
     const remove = hasToken()
-      ? `<button class="candidate-delete" type="button" data-key="${escapeHtml(row.key)}" ${!deletionStore.ready || deletionStore.busy ? 'disabled' : ''} aria-label="${escapeHtml(row.title)} 후보 목록에서 삭제">삭제</button>` : '';
-    return `<div class="row-actions">${star}${compare}${remove}</div>`;
+      ? `<button class="candidate-delete" type="button" data-key="${escapeHtml(row.key)}" ${!deletionStore.ready || deletionStore.busy ? 'disabled' : ''} aria-label="${escapeHtml(row.title)} 후보 목록에서 삭제" title="후보 목록에서 삭제">${desktop ? '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M9 6V3h6v3M5 6l1 15h12l1-15M10 10v7M14 10v7"/></svg>' : '삭제'}</button>` : '';
+    return `<div class="row-actions${desktop ? ' desktop-inline-actions' : ''}">${star}${compare}${remove}</div>`;
   };
 
   const rowMarkup = (row, groupName) => {
+    const desktop = Boolean(desktopLayout && desktopLayout.matches);
     const starred = Boolean(watchlist.items[row.key]);
     const rank = starred ? watchlist.order.filter(notDeleted).indexOf(row.key) + 1 : 0;
     const reorderable = starred && hasToken() && (groupName === 'star' || myList);
@@ -439,7 +443,7 @@ async function initIndex() {
       ? `<div class="move-menu"><button type="button" data-move="up" data-key="${escapeHtml(row.key)}">위로</button><button type="button" data-move="down" data-key="${escapeHtml(row.key)}">아래로</button><button type="button" data-move="top" data-key="${escapeHtml(row.key)}">맨 위로</button></div>`
       : '';
     return `<tr class="${rowClass}" data-key="${escapeHtml(row.key)}" data-reorderable="${reorderable}">
-      <td class="rank-cell" data-label="우선">${handle}${rank ? `<span class="rank-number">${rank}</span>` : ''}${moveMenu}</td>
+      <td class="rank-cell" data-label="우선">${handle}${rank ? `<span class="rank-number">${rank}</span>` : ''}${moveMenu}${desktop ? actionMarkup(row, true) : ''}</td>
       <td data-label="게임"${PLATFORMS[row.platform].rankingPath ? ' class="recommendation-game"' : ''}><a class="game-link" href="${localizeGamePath(row.href, row.platform)}">${escapeHtml(row.title)}</a>${row.rationale ? `<p class="recommendation-rationale">${escapeHtml(row.rationale)}</p>` : ''}${noteMarkup(row)}${patchMarkup(row)}</td>
       <td data-label="발매">${row.year || ''}</td>
       <td data-label="장르">${escapeHtml(row.genre)}</td>
@@ -451,7 +455,7 @@ async function initIndex() {
       <td data-label="한글화 우선도">${priorityBadge(row.priority)}</td>
       <td data-label="타 기종 / 다른 버전" class="meta-muted">${escapeHtml(row.versions)}</td>
       <td data-label="상태" class="state"><span>${escapeHtml(row.state)}${row.reserve ? `<span class="reserve-label">${PLATFORMS[row.platform].rankingPath ? '후보군' : '예비'}${row.reserveReason ? ` · ${escapeHtml(row.reserveReason)}` : ''}</span>` : ''}</span></td>
-      <td data-label="관리">${actionMarkup(row)}</td>
+      <td data-label="관리">${desktop ? '' : actionMarkup(row)}</td>
     </tr>`;
   };
 
@@ -1094,6 +1098,7 @@ async function initIndex() {
   if (myList) setPlatformSort();
   await render();
   if (compareKeys.size >= 2) await openComparison();
+  desktopLayout?.addEventListener?.('change', () => { render(); });
 }
 
 function resolveRelativeMarkdownLink(currentFile, href) {

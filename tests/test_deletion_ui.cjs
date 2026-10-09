@@ -18,7 +18,7 @@ class Element {
   showModal() { this.open=true; }
   close() { this.open=false; }
 }
-async function ui({owner=314692476,token='test-token',offline=false,deleted=false,putStatus=200}={}) {
+async function ui({owner=314692476,token='test-token',offline=false,deleted=false,putStatus=200,desktop=false}={}) {
   const elements = new Map();
   const el = id => { if(!elements.has(id)) elements.set(id,new Element());return elements.get(id); };
   const storage = new Map(token?[['discovery-watchlist-token-v1',token]]:[]);
@@ -50,6 +50,8 @@ async function ui({owner=314692476,token='test-token',offline=false,deleted=fals
     location,history:{replaceState(_a,_b,url){location.hash=String(url).includes('#')?'#'+String(url).split('#')[1]:'';}},
     setTimeout:()=>1,clearTimeout(){}
   };
+  const media = {matches:desktop, addEventListener(type, handler){this.changed=handler;}};
+  context.window.matchMedia = () => media;
   vm.createContext(context);
   const code=fs.readFileSync(path.join(__dirname,'../docs/assets/app.js'),'utf8').replace("if (page === 'index') initIndex();","if (page === 'index') globalThis.initialized = initIndex();");
   vm.runInContext(code,context);await context.initialized;
@@ -58,7 +60,7 @@ async function ui({owner=314692476,token='test-token',offline=false,deleted=fals
     el(selector==='.candidate-delete'?'candidate-body':'deleted-content').listeners.click({target:{closest:s=>s===selector?{dataset:{key:keyValue}}:null}});
     await drain();
   };
-  return {el,click,context,storage,drain,get writes(){return writes;},get exclusions(){return exclusions;},assertWatchlist(){assert.equal(JSON.stringify(watchlist),originalWatchlist);}};
+  return {el,click,context,storage,drain,media,get writes(){return writes;},get exclusions(){return exclusions;},assertWatchlist(){assert.equal(JSON.stringify(watchlist),originalWatchlist);}};
 }
 test('actual app deletes a started/starred candidate, updates counts and comparison URL, then restores its note',async()=>{
   const f=await ui();
@@ -100,4 +102,36 @@ test('unavailable deletion state warns publicly and disables deletion writes',as
   assert.equal(f.el('deletion-sync-notice').hidden,false);
   assert.match(f.el('candidate-body').innerHTML,/candidate-delete[^>]+disabled/);
   await f.click('.candidate-delete');assert.equal(f.writes,0);
+});
+
+
+test('desktop actions appear once in rank cells and keep working after a mobile layout switch', async () => {
+  const f = await ui({desktop:true});
+  const desktop = f.el('candidate-body').innerHTML;
+  assert.match(desktop, /class="rank-cell"[^>]*>[^]*?desktop-inline-actions/);
+  assert.equal((desktop.match(/class="candidate-delete"/g) || []).length, 2);
+  assert.match(desktop, /<svg[^]*?aria-hidden="true"/);
+  assert.ok(!desktop.includes('<td data-label="관리"><div'));
+  f.media.matches = false;
+  f.media.changed();
+  await f.drain();
+  const mobile = f.el('candidate-body').innerHTML;
+  assert.ok(!mobile.includes('desktop-inline-actions'));
+  assert.ok(!mobile.includes('<svg'));
+  assert.match(mobile, /<td data-label="관리"><div class="row-actions">/);
+  assert.equal((mobile.match(/class="candidate-delete"/g) || []).length, 2);
+  await f.click('.candidate-delete');
+  assert.equal(f.writes, 1);
+  f.assertWatchlist();
+});
+
+test('desktop trash icon uses the existing delete and restore flow', async () => {
+  const f = await ui({desktop:true});
+  await f.click('.candidate-delete');
+  assert.equal(f.writes, 1);
+  assert.ok(!f.el('candidate-body').innerHTML.includes('게임 A'));
+  await f.click('.candidate-restore');
+  assert.match(f.el('candidate-body').innerHTML, /게임 A/);
+  assert.match(f.el('candidate-body').innerHTML, /desktop-inline-actions/);
+  f.assertWatchlist();
 });
