@@ -18,7 +18,8 @@
     "platforms/ps2/games/ma-gi-marginal.md",
     "platforms/ps2/games/mystereet-yasogami-kaoru-no-jiken-file.md",
     "platforms/ps2/games/12riven-the-psycliminal-of-integral.md",
-    "platforms/ps2/games/kyuuketsu-kitan-moonties.md"
+    "platforms/ps2/games/kyuuketsu-kitan-moonties.md",
+    "platforms/ps2/games/elysion-eien-no-sanctuary.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -91,6 +92,10 @@
     },
     "platforms/ps2/games/kyuuketsu-kitan-moonties.md": {
       "added": "2026-10-09T13:56:33.774Z",
+      "note": ""
+    },
+    "platforms/ps2/games/elysion-eien-no-sanctuary.md": {
+      "added": "2026-10-09T14:13:31.781Z",
       "note": ""
     }
   }
