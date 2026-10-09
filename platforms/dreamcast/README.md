@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **27개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **28개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -33,6 +33,7 @@
 | [Orange Pocket: Cornet (오렌지 포켓 -코넷-)](games/orange-pocket-cornet.md) | 2004 | 학원·전원 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 일반 4.5·2건 / 한정 4.0·1건 / PC 장문 6점·20시간+ / VNDB 6.8·19명 | 2026-10-09 PC·DC·PS2 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 Win 원작 / DC 코로네 전용 공략 루트 / PS2 Lute 아리카 전용 루트 / 2006·2019 Win Ver1.10 계열 | 🟢 후보 |
 | [D+Vine Luv (디바인 러브)](games/d-vine-luv.md) | 2001 | 2D 액션 RPG / 던전 탐색·아이템 파밍·VN 이벤트 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 3.8·5건 / GameFAQs Good·10표 / 8시간·3명 / Densetsu PC 88.71%·62표 | 2026-10-09 PC·DC 공식 한국어판·공개 완성 한글패치 확인 못함 / DC VGA 출력 패치는 번역 아님 | 2000 Win 18금 원작 / 2001 DC 전연령·성우·KOTOKO 주제가 / 2005 DVDPG / 2009 Win DL | 🟢 후보 |
 | [Pandora no Yume (판도라의 꿈)](games/pandora-no-yume.md) | 2002 | 학원 루프 미스터리 / 연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·6표 / Gavas DC 한정 5.0·1건 / Bangumi PC 7.0·134명 / ADVGAMER B− / 8시간·2건 | 2026-10-09 Dreamcast·Windows 공식 한국어판·공개 완성 한글패치 확인 못함 | 2001 Windows 원작 / 2002 DC 새 CG·후일담·분기·팬디스크 통합 / 2003 DC DreKore | 🟢 후보 |
+| [Typing of the Date (타이핑 오브 더 데이트)](games/typing-of-the-date.md) | 2001 | 커뮤니케이션 타이핑 / 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Dorimaga 80·87 / Famitsu 73 / Gavas 4.0·1건 / GameFAQs Playable·6표 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1998 N64 Getter Love!! 캐릭터 계보 / 2001 DC 독점 타이핑 파생작 / 모바일 Gettyping Love!! 계열 별도 | 🟢 후보 |
 | [Chocolat: Maid Cafe "Curio" (쇼콜라 -메이드 카페 큐리오-)](games/chocolat-maid-cafe-curio.md) | 2003 | 메이드 카페 연애 ADV / 장소 선택·점장 업무 | ⭐⭐⭐½☆ 3.5/5 | C | 드리마가 독자 8.6315 / Gavas 4.0·2건 / GameFAQs Fair·10표 / 18시간·8명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / Win Re-Order 한패 진행 중·UI 부분패치 있음 | 2003 Win 원작 / 2003 DC 시나리오·CG·OP·ED 강화 / 2005 PS2 추가 단편·CG·BGM·시스템 강화 / 2025 Switch Re-Order 계보 | 🟢 후보 |
 | [Comic Party (코믹파티)](games/comic-party.md) | 2001 | 연애 ADV / 비주얼노벨·일정 관리·동인지 제작 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·26명 / 장문 리뷰 8·1건 / Gavas 일반 2.0·1건·한정 4.5·2건 | 2026-10-09 공식 한국어판·공개 DC 완성 한글패치 확인 못함 / PC 2004 번역 기록은 내부 완성·외부 비공개 종료 자료와 충돌 | 1999 Win 원작 / DC 강화판 / 2003 Win DCE 역이식 / 2005 PSP Portable 후발판 | 🟢 후보 |
 | [Prismaticallization (프리즈마티컬라이제이션)](games/prismaticallization.md) | 2000 | 서큘레이트 ADV / 루프형 비주얼노벨·플래그 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·2건 / GameFAQs 장문 7·1건 / ADVGAMER B- / 게임카탈로그 스루메게·밸런스 불안정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / GTAKU PS·DC 지원 언어 일본어 | 1999 PS 원작 / 2000 DC 그래픽 강화·VGA / 2002 PS SuperLite / 2007 PSOne Classics 계보 | 🟢 후보 |
@@ -62,10 +63,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 27 |
+| 등록 후보 | 28 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
-| 한글화 우선도 B | 12 |
+| 한글화 우선도 B | 13 |
 | 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-09, Pandora no Yume 후보 등록. Dreamcast 활성 후보 27개**.
+최근 갱신: **2026-10-09, Typing of the Date 후보 등록. Dreamcast 활성 후보 28개**.
