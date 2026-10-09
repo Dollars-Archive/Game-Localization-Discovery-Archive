@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **25개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **26개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -31,6 +31,7 @@
 | [Revive... Sosei (리바이브 ~소생~)](games/revive-sosei.md) | 1999 | 트랩 어드벤처 / 탈출·미스터리·시간제한 퍼즐·멀티 엔딩 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 3.7·3건 / ADVGAMER B− / 전격 20주년 회고·고난도 평가 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / Windows판도 미확인 | 1998 Saturn 통곡 그리고… 시스템적 전작 / 2003 Win 이식 / 2004 Win DC edition 힌트·조작 개선 | 🟢 후보 |
 | [Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary (달은 동쪽으로 해는 서쪽으로)](games/tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary.md) | 2004 | 학원 연애 ADV / 비주얼노벨·8인 히로인·SF 미스터리 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas DC 5.0·2건 / 가격닷컴 DC 4.0·1건 / PS2 GameFAQs 4.07·7명 / PC Bangumi 6.5·172명 | 2026-10-09 PC·DC·PS2 공식 한국어판·공개 완성 한글패치 확인 못함 / PC 영어 번역은 체험판 한정 | 2003 Win 원작 6인 / 2004 DC 신규 2인·최종 루트·보너스 12편 / 2004 PS2 후발 이식 | 🟢 후보 |
 | [Orange Pocket: Cornet (오렌지 포켓 -코넷-)](games/orange-pocket-cornet.md) | 2004 | 학원·전원 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 일반 4.5·2건 / 한정 4.0·1건 / PC 장문 6점·20시간+ / VNDB 6.8·19명 | 2026-10-09 PC·DC·PS2 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 Win 원작 / DC 코로네 전용 공략 루트 / PS2 Lute 아리카 전용 루트 / 2006·2019 Win Ver1.10 계열 | 🟢 후보 |
+| [D+Vine Luv (디바인 러브)](games/d-vine-luv.md) | 2001 | 2D 액션 RPG / 던전 탐색·아이템 파밍·VN 이벤트 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 3.8·5건 / GameFAQs Good·10표 / 8시간·3명 / Densetsu PC 88.71%·62표 | 2026-10-09 PC·DC 공식 한국어판·공개 완성 한글패치 확인 못함 / DC VGA 출력 패치는 번역 아님 | 2000 Win 18금 원작 / 2001 DC 전연령·성우·KOTOKO 주제가 / 2005 DVDPG / 2009 Win DL | 🟢 후보 |
 | [Chocolat: Maid Cafe "Curio" (쇼콜라 -메이드 카페 큐리오-)](games/chocolat-maid-cafe-curio.md) | 2003 | 메이드 카페 연애 ADV / 장소 선택·점장 업무 | ⭐⭐⭐½☆ 3.5/5 | C | 드리마가 독자 8.6315 / Gavas 4.0·2건 / GameFAQs Fair·10표 / 18시간·8명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / Win Re-Order 한패 진행 중·UI 부분패치 있음 | 2003 Win 원작 / 2003 DC 시나리오·CG·OP·ED 강화 / 2005 PS2 추가 단편·CG·BGM·시스템 강화 / 2025 Switch Re-Order 계보 | 🟢 후보 |
 | [Comic Party (코믹파티)](games/comic-party.md) | 2001 | 연애 ADV / 비주얼노벨·일정 관리·동인지 제작 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·26명 / 장문 리뷰 8·1건 / Gavas 일반 2.0·1건·한정 4.5·2건 | 2026-10-09 공식 한국어판·공개 DC 완성 한글패치 확인 못함 / PC 2004 번역 기록은 내부 완성·외부 비공개 종료 자료와 충돌 | 1999 Win 원작 / DC 강화판 / 2003 Win DCE 역이식 / 2005 PSP Portable 후발판 | 🟢 후보 |
 | [Prismaticallization (프리즈마티컬라이제이션)](games/prismaticallization.md) | 2000 | 서큘레이트 ADV / 루프형 비주얼노벨·플래그 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·2건 / GameFAQs 장문 7·1건 / ADVGAMER B- / 게임카탈로그 스루메게·밸런스 불안정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / GTAKU PS·DC 지원 언어 일본어 | 1999 PS 원작 / 2000 DC 그래픽 강화·VGA / 2002 PS SuperLite / 2007 PSOne Classics 계보 | 🟢 후보 |
@@ -60,10 +61,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 25 |
+| 등록 후보 | 26 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
-| 한글화 우선도 B | 10 |
+| 한글화 우선도 B | 11 |
 | 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-09, Suika 후보 등록. Dreamcast 활성 후보 25개**.
+최근 갱신: **2026-10-09, D+Vine [Luv] 후보 등록. Dreamcast 활성 후보 26개**.
