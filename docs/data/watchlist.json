@@ -16,7 +16,8 @@
     "platforms/ps3/games/akatsuki-no-goei-trinity.md",
     "platforms/ps2/games/juujigen-rippoutai-cipher-game-of-survival.md",
     "platforms/ps2/games/ma-gi-marginal.md",
-    "platforms/ps2/games/mystereet-yasogami-kaoru-no-jiken-file.md"
+    "platforms/ps2/games/mystereet-yasogami-kaoru-no-jiken-file.md",
+    "platforms/ps2/games/12riven-the-psycliminal-of-integral.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -81,6 +82,10 @@
     },
     "platforms/ps2/games/mystereet-yasogami-kaoru-no-jiken-file.md": {
       "added": "2026-10-09T13:29:53.682Z",
+      "note": ""
+    },
+    "platforms/ps2/games/12riven-the-psycliminal-of-integral.md": {
+      "added": "2026-10-09T13:54:24.885Z",
       "note": ""
     }
   }
