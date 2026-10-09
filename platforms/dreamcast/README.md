@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **12개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
+> 등록 후보: **13개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -31,7 +31,7 @@
 | [Prismaticallization (프리즈마티컬라이제이션)](games/prismaticallization.md) | 2000 | 서큘레이트 ADV / 루프형 비주얼노벨·플래그 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·2건 / GameFAQs 장문 7·1건 / ADVGAMER B- / 게임카탈로그 스루메게·밸런스 불안정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / GTAKU PS·DC 지원 언어 일본어 | 1999 PS 원작 / 2000 DC 그래픽 강화·VGA / 2002 PS SuperLite / 2007 PSOne Classics 계보 | 🟢 후보 |
 | [Tantei Shinshi DASH! (탐정신사 대시)](games/tantei-shinshi-dash.md) | 2000 | 하드보일드 탐정 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 75.71·56명 / Gavas 4.0·2건 / GameFAQs Great·4표 | 2026-10-07 공식 한국어판·공개 DC 한글패치 확인 못함 / 2026 현행기판 공식 언어 일본어 | 2000 Win 원작 / DC DASH! / Win HardCore·Rebirth·Origin / 2009 PS2 리메이크 / 2026 Switch·PS4·Xbox 현행기판 | 🟢 후보 |
 | [Happy Lesson (해피☆레슨)](games/happy-lesson.md) | 2001 | 연애 ADV / 비주얼노벨·장소 선택형 ADV | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 70.71·28명 / Gavas 4.3·3건 / GameFAQs Good·13표 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | Dreamcast 본편 독점 / First Lesson은 선행 팬디스크 / 2002 DreKore는 저가 재판 | 🟢 후보 |
-
+| [Dancing Blade Katte ni Momotenshi II: Tears of Eden Kanzenban (댄싱 블레이드 천방지축 복숭아 천사 II ~Tears of Eden~ 완전판)](games/dancing-blade-katte-ni-momotenshi-ii-tears-of-eden-kanzenban.md) | 1999 | 인터랙티브 애니메이션 / 분기형 ADV | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·20표 / Gavas 4.0·2건 / Sega-Mag 4점 / 1회 약 30분·7엔딩 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1999 PS 원작 / 1999 DC 추가 영상·7엔딩 완전판 / 2006 PSP는 1편 UMD-Video | 🟢 후보 |
 | [Interlude (인터루드)](games/interlude.md) | 2003 | Parallel Novel ADV / SF·미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 초회 4.0·6건 / 일반 3.5·2건 / GameFAQs 3.75·2명·장문 8점 / Bangumi 7.2·38명 통합 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 DC 원작 / 2003 PS2 시나리오·CG 대폭 보강 / 2004 Win 후발판 / 2007 PS2 Best | 🟢 후보 |
 
 ## Dreamcast 등록 운영
@@ -48,10 +48,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 12 |
+| 등록 후보 | 13 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 6 |
-| 한글화 우선도 C | 5 |
+| 한글화 우선도 C | 6 |
 
-최근 갱신: **2026-10-09, GaiaMaster: Kessen! Seiki-ou Densetsu 후보 등록. Dreamcast 활성 후보 12개**.
+최근 갱신: **2026-10-09, Dancing Blade Katte ni Momotenshi II: Tears of Eden Kanzenban 후보 등록. Dreamcast 활성 후보 13개**.
