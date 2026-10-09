@@ -13,7 +13,8 @@
     "platforms/ps2/games/fantastic-fortune-2-triple-star.md",
     "platforms/ps2/games/doko-e-iku-no-anohi-hikaru-ashita-e.md",
     "platforms/ps2/games/f-fanatic.md",
-    "platforms/ps3/games/akatsuki-no-goei-trinity.md"
+    "platforms/ps3/games/akatsuki-no-goei-trinity.md",
+    "platforms/ps2/games/juujigen-rippoutai-cipher-game-of-survival.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -66,6 +67,10 @@
     },
     "platforms/ps2/games/f-fanatic.md": {
       "added": "2026-10-09T13:17:52.016Z",
+      "note": ""
+    },
+    "platforms/ps2/games/juujigen-rippoutai-cipher-game-of-survival.md": {
+      "added": "2026-10-09T13:19:11.516Z",
       "note": ""
     }
   }
