@@ -23,7 +23,8 @@
     "platforms/ps2/games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md",
     "platforms/ps2/games/jewels-ocean-star-of-sierra-leone.md",
     "platforms/psp/games/twelve-sengoku-fuushinden.md",
-    "platforms/psp/games/summon-night-3.md"
+    "platforms/psp/games/summon-night-3.md",
+    "platforms/psp/games/summon-night-4.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -116,6 +117,10 @@
     },
     "platforms/psp/games/summon-night-3.md": {
       "added": "2026-10-09T14:24:37.499Z",
+      "note": ""
+    },
+    "platforms/psp/games/summon-night-4.md": {
+      "added": "2026-10-09T14:26:43.167Z",
       "note": ""
     }
   }
