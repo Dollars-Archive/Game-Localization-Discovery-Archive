@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **20개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **21개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -40,6 +40,7 @@
 | [Interlude (인터루드)](games/interlude.md) | 2003 | Parallel Novel ADV / SF·미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 초회 4.0·6건 / 일반 3.5·2건 / GameFAQs 3.75·2명·장문 8점 / Bangumi 7.2·38명 통합 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 DC 원작 / 2003 PS2 시나리오·CG 대폭 보강 / 2004 Win 후발판 / 2007 PS2 Best | 🟢 후보 |
 | [Plus Plumb (플러스 플럼)](games/plus-plumb.md) | 1999 | 대전형 낙하 퍼즐 / 3매치·천칭 무게 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·3건 / Emu Nova 4점·1건 / Lunatic 장문 비추천 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1999 DC 원작 / 2004 Xbox 후속작 Plus Plumb 2 / 2006 PS2·PSP 후속 계보 | 🟢 후보 |
 | [Missing Parts 3: The Tantei Stories (미싱 파츠 3: 탐정 이야기)](games/missing-parts-3-the-tantei-stories.md) | 2003 | 본격 미스터리 ADV / 커맨드 선택형 탐정 어드벤처 | ⭐⭐⭐⭐☆ 4.0/5 | C | Gavas 4.3·3건 / GameFAQs Good·7표 / 27시간·3건 / ADVGAMER AA- | Part 3 자체 한패 확인 못함 / Part 1은 2026-09-24 공개 한패 있음 | DC Part 3는 5·6화 / PS2 Side B는 4·5·6화+보너스 / PSP Complete는 전6화+추가 시나리오 | 💎 우선 후보 |
+| [Yume no Tsubasa: Fate of Heart (꿈의 날개 -Fate of Heart-)](games/yume-no-tsubasa-fate-of-heart.md) | 2001 | 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·3건 / GameFAQs Fair·3표 / 51시간·2명 / Second Tea 세계관 긍정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2000 PS 원작 / 2001 DC 유키 재작화·히로인별 오마케·아펜드 / 2002 Win 본편 DC 계보·아펜드 미수록 | 🟢 후보 |
 
 ## Dreamcast 등록 운영
 
@@ -55,10 +56,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 20 |
+| 등록 후보 | 21 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 10 |
+| 한글화 우선도 C | 11 |
 
-최근 갱신: **2026-10-09, Missing Parts 3: The Tantei Stories 후보 등록. Dreamcast 활성 후보 20개**.
+최근 갱신: **2026-10-09, Yume no Tsubasa: Fate of Heart 후보 등록. Dreamcast 활성 후보 21개**.
