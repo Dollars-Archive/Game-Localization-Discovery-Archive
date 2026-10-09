@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **10개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
+> 등록 후보: **11개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -31,6 +31,8 @@
 | [Tantei Shinshi DASH! (탐정신사 대시)](games/tantei-shinshi-dash.md) | 2000 | 하드보일드 탐정 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 75.71·56명 / Gavas 4.0·2건 / GameFAQs Great·4표 | 2026-10-07 공식 한국어판·공개 DC 한글패치 확인 못함 / 2026 현행기판 공식 언어 일본어 | 2000 Win 원작 / DC DASH! / Win HardCore·Rebirth·Origin / 2009 PS2 리메이크 / 2026 Switch·PS4·Xbox 현행기판 | 🟢 후보 |
 | [Happy Lesson (해피☆레슨)](games/happy-lesson.md) | 2001 | 연애 ADV / 비주얼노벨·장소 선택형 ADV | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 70.71·28명 / Gavas 4.3·3건 / GameFAQs Good·13표 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | Dreamcast 본편 독점 / First Lesson은 선행 팬디스크 / 2002 DreKore는 저가 재판 | 🟢 후보 |
 
+| [Interlude (인터루드)](games/interlude.md) | 2003 | Parallel Novel ADV / SF·미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 초회 4.0·6건 / 일반 3.5·2건 / GameFAQs 3.75·2명·장문 8점 / Bangumi 7.2·38명 통합 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 DC 원작 / 2003 PS2 시나리오·CG 대폭 보강 / 2004 Win 후발판 / 2007 PS2 Best | 🟢 후보 |
+
 ## Dreamcast 등록 운영
 
 - 이 구역의 조사·등록 대상은 **Dreamcast판**입니다. 원제·부제·시리즈 순번·실제 발매 기종을 먼저 확인하고 다른 플랫폼 판본과 혼동하지 않습니다.
@@ -45,10 +47,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 10 |
+| 등록 후보 | 11 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 5 |
-| 한글화 우선도 C | 4 |
+| 한글화 우선도 C | 5 |
 
-최근 갱신: **2026-10-09, Sakura Taisen: Hanagumi Taisen Columns 2 및 Shirotsume Souwa: Episode of the Clovers 반영. Dreamcast 활성 후보 10개**.
+최근 갱신: **2026-10-09, Interlude 후보 등록. Dreamcast 활성 후보 11개**.
