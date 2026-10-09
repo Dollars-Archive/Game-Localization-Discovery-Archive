@@ -22,7 +22,8 @@
     "platforms/ps2/games/elysion-eien-no-sanctuary.md",
     "platforms/ps2/games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md",
     "platforms/ps2/games/jewels-ocean-star-of-sierra-leone.md",
-    "platforms/psp/games/twelve-sengoku-fuushinden.md"
+    "platforms/psp/games/twelve-sengoku-fuushinden.md",
+    "platforms/psp/games/summon-night-3.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -111,6 +112,10 @@
     },
     "platforms/psp/games/twelve-sengoku-fuushinden.md": {
       "added": "2026-10-09T14:24:30.467Z",
+      "note": ""
+    },
+    "platforms/psp/games/summon-night-3.md": {
+      "added": "2026-10-09T14:24:37.499Z",
       "note": ""
     }
   }
