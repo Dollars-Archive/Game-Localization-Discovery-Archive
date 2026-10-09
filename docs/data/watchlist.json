@@ -9,7 +9,8 @@
     "platforms/ps3/games/battle-princess-of-arcadias.md",
     "platforms/ps2/games/fragments-blue.md",
     "platforms/ps2/games/only-you-liber-cross.md",
-    "platforms/ps2/games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md"
+    "platforms/ps2/games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md",
+    "platforms/ps2/games/fantastic-fortune-2-triple-star.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -46,6 +47,10 @@
     },
     "platforms/ps2/games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md": {
       "added": "2026-10-09T04:44:24.287Z",
+      "note": ""
+    },
+    "platforms/ps2/games/fantastic-fortune-2-triple-star.md": {
+      "added": "2026-10-09T04:45:10.999Z",
       "note": ""
     }
   }
