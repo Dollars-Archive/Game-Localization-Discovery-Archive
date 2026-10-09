@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **24개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **25개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -44,6 +44,7 @@
 | [Yume no Tsubasa: Fate of Heart (꿈의 날개 -Fate of Heart-)](games/yume-no-tsubasa-fate-of-heart.md) | 2001 | 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·3건 / GameFAQs Fair·3표 / 51시간·2명 / Second Tea 세계관 긍정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2000 PS 원작 / 2001 DC 유키 재작화·히로인별 오마케·아펜드 / 2002 Win 본편 DC 계보·아펜드 미수록 | 🟢 후보 |
 | [Moekan (모에캉)](games/moekan.md) | 2003 | SF·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.5·4건 / 비평공간 75점대·658명 / VN 6.85·80명 / DCJY 2점 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 Win 원작 / DC·PS2 모에노 미코토 추가 전연령 콘솔판 / 팬디스크 Moekasu 별도 | 🟢 후보 |
 | [SNOW (스노우)](games/snow.md) | 2003 | 드라마·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·5건 / GameFAQs DC Terrible·1표 / Bangumi 6.8·140+명 통합 / 전격 G's 26위 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / PC Plus Edition 영어 완역 있음 | 2003 Win 원작 / 2003 DC 풀보이스·신규 비주얼·시나리오 / 2004 PS2 메이코 루트 / 2007 PSP 6히로인·신규 스토리·CG | 🟢 후보 |
+| [Suika (스이카)](games/suika.md) | 2002 | 군상형 드라마 ADV / 4장 구성·다중 주인공·멀티 엔딩 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·13표 / Gavas 4.0·1건 / EGS 원작 중앙값 80·1148건 / DC 플레이타임 36시간·7명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / PC A.S+ 영어판 및 중국어 팬패치는 별개 | 2001 Win 원작 / 2002 DC 미에 분기 추가·PS Water Summer / 2004 PC A.S+ 확장판 / 2007 PS2 Eternal Name / 2026 Win world edition 발표 | 🟢 후보 |
 
 ## Dreamcast 등록 운영
 
@@ -59,10 +60,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 24 |
+| 등록 후보 | 25 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 10 |
-| 한글화 우선도 C | 13 |
+| 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-09, Orange Pocket: Cornet 후보 등록. Dreamcast 활성 후보 24개**.
+최근 갱신: **2026-10-09, Suika 후보 등록. Dreamcast 활성 후보 25개**.
