@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **18개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
+> 등록 후보: **19개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -38,6 +38,7 @@
 | [Dancing Blade Katte ni Momotenshi II: Tears of Eden Kanzenban (댄싱 블레이드 천방지축 복숭아 천사 II ~Tears of Eden~ 완전판)](games/dancing-blade-katte-ni-momotenshi-ii-tears-of-eden-kanzenban.md) | 1999 | 인터랙티브 애니메이션 / 분기형 ADV | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Great·20표 / Gavas 4.0·2건 / Sega-Mag 4점 / 1회 약 30분·7엔딩 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1999 PS 원작 / 1999 DC 추가 영상·7엔딩 완전판 / 2006 PSP는 1편 UMD-Video | 🟢 후보 |
 | [Doki Doki Idol Star Seeker Remix (도키도키 아이돌 스타 시커 리믹스)](games/doki-doki-idol-star-seeker-remix.md) | 2002 | 실시간 로직 퍼즐 / 육각형 마인스위퍼 변형 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Fair·10표 / Gavas 4.0·1건 / DCJY ★★★ / 9시간·4명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / 영문 translation guide 있음 | 2001 AC 원작 / 2002 DC 음성 스토리·신캐릭터·스테이지 대폭 추가 Remix / 후발 이식 미확인 | 🟢 후보 |
 | [Interlude (인터루드)](games/interlude.md) | 2003 | Parallel Novel ADV / SF·미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 초회 4.0·6건 / 일반 3.5·2건 / GameFAQs 3.75·2명·장문 8점 / Bangumi 7.2·38명 통합 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2003 DC 원작 / 2003 PS2 시나리오·CG 대폭 보강 / 2004 Win 후발판 / 2007 PS2 Best | 🟢 후보 |
+| [Plus Plumb (플러스 플럼)](games/plus-plumb.md) | 1999 | 대전형 낙하 퍼즐 / 3매치·천칭 무게 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·3건 / Emu Nova 4점·1건 / Lunatic 장문 비추천 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1999 DC 원작 / 2004 Xbox 후속작 Plus Plumb 2 / 2006 PS2·PSP 후속 계보 | 🟢 후보 |
 
 ## Dreamcast 등록 운영
 
@@ -53,10 +54,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 18 |
+| 등록 후보 | 19 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 9 |
-| 한글화 우선도 C | 8 |
+| 한글화 우선도 C | 9 |
 
-최근 갱신: **2026-10-09, Doki Doki Idol Star Seeker Remix 후보 등록. Dreamcast 활성 후보 18개**.
+최근 갱신: **2026-10-09, Plus Plumb 후보 등록. Dreamcast 활성 후보 19개**.
