@@ -12,6 +12,7 @@
     "platforms/ps2/games/yoake-mae-yori-ruriiro-na-brighter-than-dawning-blue.md",
     "platforms/ps2/games/fantastic-fortune-2-triple-star.md",
     "platforms/ps2/games/doko-e-iku-no-anohi-hikaru-ashita-e.md",
+    "platforms/ps2/games/f-fanatic.md",
     "platforms/ps3/games/akatsuki-no-goei-trinity.md"
   ],
   "items": {
@@ -61,6 +62,10 @@
     },
     "platforms/ps3/games/akatsuki-no-goei-trinity.md": {
       "added": "2026-10-09T12:45:37.697Z",
+      "note": ""
+    },
+    "platforms/ps2/games/f-fanatic.md": {
+      "added": "2026-10-09T13:17:52.016Z",
       "note": ""
     }
   }
