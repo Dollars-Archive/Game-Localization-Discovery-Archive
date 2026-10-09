@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **8개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
+> 등록 후보: **9개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -24,6 +24,7 @@
 | [Sister Princess Premium Edition (시스터 프린세스 프리미엄 에디션)](games/sister-princess-premium-edition.md) | 2002 | 연애 ADV / 비주얼노벨·일정 관리형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 4.0·3건 / GameFAQs Good·8표 / DC Magazine 독자 9.0 | 2026-10-08 공식 한국어판·공개 완성 한글패치 확인 못함 | PS1 본편 + Pure Stories 합본 / Sister Princess 2는 별도 후속작 / 현행기 동일 통합판 미확인 | 🟢 후보 |
 | [Tricolore Crise (트리콜로르 크라이시스)](games/tricolore-crise.md) | 2000 | 판타지 RPG / 3인 주인공 교체·시험 일정·사역마 육성 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.82·14명 / Gavas 4.2·5건 / 플레이타임 28.9시간·7명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / 2026 비공식 영어 패치 v1.0.2 있음 | Dreamcast 일본판 단독 발매 확인 / Art Palette는 예약 특전 / 공식 후발 이식 미확인 | 🟢 후보 |
 | [Prism Heart (프리즘 하트)](games/prism-heart.md) | 2001 | 연애·육성 시뮬레이션 / 판타지 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 4.0·2건 / PC 원작 EGS 연계 70·169건 / GameFAQs Playable·2표·40시간 1명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 2000 Win 원작 / DC 리즈·프레야 추가·신규 시나리오·CG / 한정판 외전 GD / 2008 Win DVD 재판 | 🟢 후보 |
+| [Shirotsume Souwa: Episode of the Clovers (백힐초화)](games/shirotsume-souwa-episode-of-the-clovers.md) | 2003 | SF 어드벤처 / 비주얼노벨·FFD 연출 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 4.8·5건 / EGS 75점대·560+건 / Bangumi 7.4·94명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / PC 영문패치는 Chapter 1 부분판 | 2002 Win 원작 / DC 풀보이스·공식 번외편 수록 / 2006 Win Standard·2011 DL | 🟢 후보 |
 | [Comic Party (코믹파티)](games/comic-party.md) | 2001 | 연애 ADV / 비주얼노벨·일정 관리·동인지 제작 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·26명 / 장문 리뷰 8·1건 / Gavas 일반 2.0·1건·한정 4.5·2건 | 2026-10-09 공식 한국어판·공개 DC 완성 한글패치 확인 못함 / PC 2004 번역 기록은 내부 완성·외부 비공개 종료 자료와 충돌 | 1999 Win 원작 / DC 강화판 / 2003 Win DCE 역이식 / 2005 PSP Portable 후발판 | 🟢 후보 |
 | [Prismaticallization (프리즈마티컬라이제이션)](games/prismaticallization.md) | 2000 | 서큘레이트 ADV / 루프형 비주얼노벨·플래그 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.0·2건 / GameFAQs 장문 7·1건 / ADVGAMER B- / 게임카탈로그 스루메게·밸런스 불안정 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / GTAKU PS·DC 지원 언어 일본어 | 1999 PS 원작 / 2000 DC 그래픽 강화·VGA / 2002 PS SuperLite / 2007 PSOne Classics 계보 | 🟢 후보 |
 | [Tantei Shinshi DASH! (탐정신사 대시)](games/tantei-shinshi-dash.md) | 2000 | 하드보일드 탐정 ADV / 미스터리 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | ge-iro 75.71·56명 / Gavas 4.0·2건 / GameFAQs Great·4표 | 2026-10-07 공식 한국어판·공개 DC 한글패치 확인 못함 / 2026 현행기판 공식 언어 일본어 | 2000 Win 원작 / DC DASH! / Win HardCore·Rebirth·Origin / 2009 PS2 리메이크 / 2026 Switch·PS4·Xbox 현행기판 | 🟢 후보 |
@@ -43,10 +44,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 8 |
+| 등록 후보 | 9 |
 | 발굴 우선 후보: 4.0 이상 | 0 |
 | 한글화 우선도 A | 0 |
-| 한글화 우선도 B | 4 |
+| 한글화 우선도 B | 5 |
 | 한글화 우선도 C | 4 |
 
-최근 갱신: **2026-10-09, Happy Lesson 후보 등록. Dreamcast 활성 후보 8개**.
+최근 갱신: **2026-10-09, Shirotsume Souwa: Episode of the Clovers 후보 등록. Dreamcast 활성 후보 9개**.
