@@ -18,7 +18,7 @@ class Element {
   showModal() { this.open=true; }
   close() { this.open=false; }
 }
-async function ui({owner=314692476,token='test-token',offline=false,deleted=false,putStatus=200,desktop=false}={}) {
+async function ui({owner=314692476,token='test-token',offline=false,deleted=false,putStatus=200,desktop=false,favorites=true}={}) {
   const elements = new Map();
   const el = id => { if(!elements.has(id)) elements.set(id,new Element());return elements.get(id); };
   const storage = new Map(token?[['discovery-watchlist-token-v1',token]]:[]);
@@ -26,6 +26,7 @@ async function ui({owner=314692476,token='test-token',offline=false,deleted=fals
   if(deleted) exclusions = E.withChange(exclusions,key,{title:row.title,deleted:true,updated:'2026-10-08T00:00:00Z'});
   let writes=0;
   const watchlist={version:1,order:[key,bkey],items:{[key]:{added:'2026-10-08',note:'내 메모'},[bkey]:{added:'2026-10-08',note:''}}};
+  if (!favorites) { watchlist.order=[]; watchlist.items={}; }
   const originalWatchlist = JSON.stringify(watchlist);
   const markdown='| 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 타 기종 / 다른 버전 | 상태 |\n|---|---|---|---|---|---|---|\n| [게임 A](games/a.md) | 2000 | RPG | ⭐⭐⭐⭐☆ | A | 없음 | 후보 |\n| [게임 B](games/b.md) | 2001 | ADV | ⭐⭐⭐½☆ | B | 없음 | 후보 |';
   const fetcher=async(url,init={})=>{
@@ -133,5 +134,27 @@ test('desktop trash icon uses the existing delete and restore flow', async () =>
   await f.click('.candidate-restore');
   assert.match(f.el('candidate-body').innerHTML, /게임 A/);
   assert.match(f.el('candidate-body').innerHTML, /desktop-inline-actions/);
+  f.assertWatchlist();
+});
+
+
+test('unstarred desktop rows expose comparison and restore their shared comparison URL without changing favorites', async () => {
+  const f = await ui({desktop:true,favorites:false});
+  const markup=f.el('candidate-body').innerHTML;
+  assert.equal((markup.match(/class="compare-check"/g)||[]).length,2);
+  assert.ok(!markup.includes('class="rank-number"'));
+  assert.equal(f.el('compare-dialog').open,true);
+  assert.match(f.el('compare-content').innerHTML,/일반 후보/);
+  assert.match(f.context.location.hash,/#compare=/);
+  await f.click('.candidate-delete');
+  assert.equal(f.el('compare-dialog').open,false);
+  f.assertWatchlist();
+});
+
+test('public visitors can compare unstarred games without editor access', async () => {
+  const f=await ui({favorites:false,token:''});
+  assert.equal(f.el('compare-dialog').open,true);
+  assert.match(f.el('candidate-body').innerHTML,/compare-check/);
+  assert.ok(!f.el('candidate-body').innerHTML.includes('candidate-delete'));
   f.assertWatchlist();
 });

@@ -422,9 +422,7 @@ async function initIndex() {
     const star = hasToken()
       ? `<button type="button" class="star-toggle ${starred ? 'active' : ''}" data-key="${escapeHtml(row.key)}" aria-label="${starred ? '찜 해제' : '찜 추가'}" title="${starred ? '찜 해제' : '찜 추가'}">${starred ? '★' : '☆'}</button>`
       : (starred ? '<span class="star-readonly" title="찜">★</span>' : '');
-    const compare = starred
-      ? `<label class="compare-check-label"><input class="compare-check" type="checkbox" data-key="${escapeHtml(row.key)}" ${compareKeys.has(row.key) ? 'checked' : ''}> 비교</label>`
-      : '';
+    const compare = `<label class="compare-check-label"><input class="compare-check" type="checkbox" data-key="${escapeHtml(row.key)}" ${compareKeys.has(row.key) ? 'checked' : ''}> 비교</label>`;
     const remove = hasToken()
       ? `<button class="candidate-delete" type="button" data-key="${escapeHtml(row.key)}" ${!deletionStore.ready || deletionStore.busy ? 'disabled' : ''} aria-label="${escapeHtml(row.title)} 후보 목록에서 삭제" title="후보 목록에서 삭제">${desktop ? '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6h18M9 6V3h6v3M5 6l1 15h12l1-15M10 10v7M14 10v7"/></svg>' : '삭제'}</button>` : '';
     return `<div class="row-actions${desktop ? ' desktop-inline-actions' : ''}">${star}${compare}${remove}</div>`;
@@ -484,7 +482,7 @@ async function initIndex() {
     try {
       const all = await currentRows();
       if (version !== renderVersion) return;
-      compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+      compareKeys = new Set([...compareKeys].filter(key => Exclusions.validKey(key) && notDeleted(key)));
       if (location.hash.startsWith('#compare=')) {
         history.replaceState(null, '', `${location.pathname}${location.search}${compareKeys.size >= 2 ? Core.compareHash([...compareKeys]) : ''}`);
       }
@@ -663,7 +661,6 @@ async function initIndex() {
     if (watchlist.items[key]) {
       delete watchlist.items[key];
       watchlist.order = watchlist.order.filter(item => item !== key);
-      compareKeys.delete(key);
       queueSave(`☆ 해제 ${row.title}`, key, true);
     } else {
       watchlist.items[key] = { added: new Date().toISOString(), note: '' };
@@ -738,7 +735,7 @@ async function initIndex() {
   };
 
   const openComparison = async () => {
-    compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+    compareKeys = new Set([...compareKeys].filter(key => Exclusions.validKey(key) && notDeleted(key)));
     if (compareKeys.size < 2) return;
     const version = ++comparisonVersion;
     const keys = [...compareKeys].slice(0, 4);
@@ -791,7 +788,7 @@ async function initIndex() {
       rows.push(`<tr><th>내 메모</th>${docs.map(doc => `<td>${escapeHtml((watchlist.items[doc.key] || {}).note || '—')}</td>`).join('')}</tr>`);
       rows.push(`<tr><th>진행 상태</th>${docs.map(doc => {
         const patch = patches.get(doc.key);
-        const value = patch && patch.status === 'wip' ? '🛠 착수' : patch && patch.status === 'released' ? '✓ 배포' : '★ 찜';
+        const value = patch && patch.status === 'wip' ? '🛠 착수' : patch && patch.status === 'released' ? '✓ 배포' : watchlist.items[doc.key] ? '★ 찜' : '일반 후보';
         return `<td>${value}</td>`;
       }).join('')}</tr>`);
 
@@ -825,7 +822,7 @@ async function initIndex() {
       await operation;
       showToast(deleted ? '후보 목록에서 삭제했습니다' : '후보 목록으로 복구했습니다');
       if (compareDialog.open) {
-        compareKeys = new Set(Exclusions.selection(compareKeys, watchlist, deletionStore.data));
+        compareKeys = new Set([...compareKeys].filter(key => Exclusions.validKey(key) && notDeleted(key)));
         if (compareKeys.size < 2) closeComparison();
         else await openComparison();
       }
@@ -856,7 +853,7 @@ async function initIndex() {
   });
 
   const restoreComparison = () => {
-    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => watchlist.items[key] && notDeleted(key)));
+    compareKeys = new Set(Core.compareKeysFromHash(location.hash).filter(key => Exclusions.validKey(key) && notDeleted(key)));
     if (compareKeys.size < 2) { closeComparison(); return; }
     const hash = Core.compareHash([...compareKeys]);
     // popstate and hashchange can describe the same history entry.
@@ -1094,7 +1091,7 @@ async function initIndex() {
   wrap.hidden = true;
   await verifyEditor();
   await Promise.all([loadDeletionState(), loadPatches(), loadWatchlist().then(value => { watchlist = value; lastSavedWatchlist = Core.cloneWatchlist(value); })]);
-  compareKeys = new Set([...compareKeys].filter(key => watchlist.items[key] && notDeleted(key)));
+  compareKeys = new Set([...compareKeys].filter(key => Exclusions.validKey(key) && notDeleted(key)));
   if (myList) setPlatformSort();
   await render();
   if (compareKeys.size >= 2) await openComparison();
