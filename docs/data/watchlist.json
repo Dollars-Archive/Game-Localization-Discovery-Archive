@@ -20,7 +20,8 @@
     "platforms/ps2/games/12riven-the-psycliminal-of-integral.md",
     "platforms/ps2/games/kyuuketsu-kitan-moonties.md",
     "platforms/ps2/games/elysion-eien-no-sanctuary.md",
-    "platforms/ps2/games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md"
+    "platforms/ps2/games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md",
+    "platforms/ps2/games/jewels-ocean-star-of-sierra-leone.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -101,6 +102,10 @@
     },
     "platforms/ps2/games/fukakutei-sekai-no-tantei-shinshi-agyou-souma-no-jiken-file.md": {
       "added": "2026-10-09T14:14:52.170Z",
+      "note": ""
+    },
+    "platforms/ps2/games/jewels-ocean-star-of-sierra-leone.md": {
+      "added": "2026-10-09T14:22:14.720Z",
       "note": ""
     }
   }
