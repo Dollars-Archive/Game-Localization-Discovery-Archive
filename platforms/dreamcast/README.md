@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **9개** / 발굴 우선 후보: **0개** / 한글화 A급 후보: **0개**
+> 등록 후보: **10개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -45,10 +45,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 9 |
+| 등록 후보 | 10 |
 | 발굴 우선 후보: 4.0 이상 | 1 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 5 |
 | 한글화 우선도 C | 4 |
 
-최근 갱신: **2026-10-09, Sakura Taisen: Hanagumi Taisen Columns 2 후보 등록. Dreamcast 활성 후보 9개**.
+최근 갱신: **2026-10-09, Sakura Taisen: Hanagumi Taisen Columns 2 및 Shirotsume Souwa: Episode of the Clovers 반영. Dreamcast 활성 후보 10개**.
