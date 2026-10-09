@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **30개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **31개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -34,6 +34,7 @@
 | [D+Vine Luv (디바인 러브)](games/d-vine-luv.md) | 2001 | 2D 액션 RPG / 던전 탐색·아이템 파밍·VN 이벤트 | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 3.8·5건 / GameFAQs Good·10표 / 8시간·3명 / Densetsu PC 88.71%·62표 | 2026-10-09 PC·DC 공식 한국어판·공개 완성 한글패치 확인 못함 / DC VGA 출력 패치는 번역 아님 | 2000 Win 18금 원작 / 2001 DC 전연령·성우·KOTOKO 주제가 / 2005 DVDPG / 2009 Win DL | 🟢 후보 |
 | [Pandora no Yume (판도라의 꿈)](games/pandora-no-yume.md) | 2002 | 학원 루프 미스터리 / 연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·6표 / Gavas DC 한정 5.0·1건 / Bangumi PC 7.0·134명 / ADVGAMER B− / 8시간·2건 | 2026-10-09 Dreamcast·Windows 공식 한국어판·공개 완성 한글패치 확인 못함 | 2001 Windows 원작 / 2002 DC 새 CG·후일담·분기·팬디스크 통합 / 2003 DC DreKore | 🟢 후보 |
 | [Typing of the Date (타이핑 오브 더 데이트)](games/typing-of-the-date.md) | 2001 | 커뮤니케이션 타이핑 / 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Dorimaga 80·87 / Famitsu 73 / Gavas 4.0·1건 / GameFAQs Playable·6표 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 | 1998 N64 Getter Love!! 캐릭터 계보 / 2001 DC 독점 타이핑 파생작 / 모바일 Gettyping Love!! 계열 별도 | 🟢 후보 |
+| [Erde: Nezu no Ki no Shita de (에르데: 네즈나무 아래에서)](games/erde-nezu-no-ki-no-shita-de.md) | 2003 | SF·연애 ADV / 현실·가상세계·5인 루트 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs DC Fair·7표 / Gavas DC 4.0·1건 / Gavas PS2 4.2·5건 / Joko PS2 2~5·7건 / DCJY ★★★ / DC 8시간·5명 | 2026-10-09 DC·PS2 공식 한국어판·공개 완성 한글패치 확인 못함 / 중국 커뮤니티 기술 발표는 번역 아님 | 2002 PS2 원작 / 2003 DC 후발 이식·VGA / 신규 시나리오·CG 차이는 미확인 | 🟢 후보 |
 | [Boku to, Bokura no Natsu (나와 우리의 여름)](games/boku-to-bokura-no-natsu.md) | 2002 | 시골 여름 연애 ADV / 다중시점 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Fair·12표 / Gavas DC 4.0·2건 / Bangumi 7.0·약42명 통합 / EGS PC 75점대·약258건 / DC 8시간·3명 | 2026-10-09 DC·2002/2003 Win 공식 한국어판·공개 완성 한글패치 확인 못함 | 2002 light PC 원작 / 2002 DC 추가 시나리오·CG·전연령화 / 2003 Win 완전판 PC·DC·Special Merge 통합 | 🟢 후보 |
 | [Chocolat: Maid Cafe "Curio" (쇼콜라 -메이드 카페 큐리오-)](games/chocolat-maid-cafe-curio.md) | 2003 | 메이드 카페 연애 ADV / 장소 선택·점장 업무 | ⭐⭐⭐½☆ 3.5/5 | C | 드리마가 독자 8.6315 / Gavas 4.0·2건 / GameFAQs Fair·10표 / 18시간·8명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / Win Re-Order 한패 진행 중·UI 부분패치 있음 | 2003 Win 원작 / 2003 DC 시나리오·CG·OP·ED 강화 / 2005 PS2 추가 단편·CG·BGM·시스템 강화 / 2025 Switch Re-Order 계보 | 🟢 후보 |
 | [Comic Party (코믹파티)](games/comic-party.md) | 2001 | 연애 ADV / 비주얼노벨·일정 관리·동인지 제작 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·26명 / 장문 리뷰 8·1건 / Gavas 일반 2.0·1건·한정 4.5·2건 | 2026-10-09 공식 한국어판·공개 DC 완성 한글패치 확인 못함 / PC 2004 번역 기록은 내부 완성·외부 비공개 종료 자료와 충돌 | 1999 Win 원작 / DC 강화판 / 2003 Win DCE 역이식 / 2005 PSP Portable 후발판 | 🟢 후보 |
@@ -65,10 +66,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 30 |
+| 등록 후보 | 31 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 13 |
-| 한글화 우선도 C | 16 |
+| 한글화 우선도 C | 17 |
 
-최근 갱신: **2026-10-09, Dousoukai 2: Again & Refrain 후보 등록. Dreamcast 활성 후보 30개**.
+최근 갱신: **2026-10-09, Erde: Nezu no Ki no Shita de 후보 등록. Dreamcast 활성 후보 31개**.
