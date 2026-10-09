@@ -7,7 +7,7 @@
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-10-07 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-09**  
-> 등록 후보: **32개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
+> 등록 후보: **33개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Dreamcast 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast)
 
@@ -52,6 +52,7 @@
 | [Suika (스이카)](games/suika.md) | 2002 | 군상형 드라마 ADV / 4장 구성·다중 주인공·멀티 엔딩 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | GameFAQs Good·13표 / Gavas 4.0·1건 / EGS 원작 중앙값 80·1148건 / DC 플레이타임 36시간·7명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / PC A.S+ 영어판 및 중국어 팬패치는 별개 | 2001 Win 원작 / 2002 DC 미에 분기 추가·PS Water Summer / 2004 PC A.S+ 확장판 / 2007 PS2 Eternal Name / 2026 Win world edition 발표 | 🟢 후보 |
 | [Dousoukai 2: Again & Refrain (동창회 2: 어게인 & 리프레인)](games/dousoukai-2-again-refrain.md) | 2002 | 연애 ADV / 동창회 후일담·2시나리오 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas 4.5/5·2건 / 가격.com 4.0/5·1건 / LaunchBox 3.62/5·4표 / PC Again B·Refrain C 별도 | 2026-10-09 DC·Win Again/Refrain·2003 PC 합본 공식 한국어판·공개 완성 한글패치 확인 못함 | 2001 PC Again·Refrain / 2002 DC 전연령 합본 / 2003 PC DVD 합본 / 2004 DC 드리코레 | 🟢 후보 |
 | [Princess Holiday: Korogaru Ringo Tei Senya Ichiya (프린세스 홀리데이 ~구르는 사과정 천일야화~)](games/princess-holiday-korogaru-ringo-tei-senya-ichiya.md) | 2003 | 판타지 연애 ADV / 선택지형 비주얼노벨·콘솔 확장 시나리오 | ⭐⭐⭐½☆ 3.5/5 | C | 패미통 DC 25/40·4명 / 드리마가 DC 8.0/10·3명 / Gavas DC 4.0·1건 / 가격.com DC 5.0·1건 / PC Bangumi 6.1·95명 | 2026-10-09 DC·PC·PS2 공식 한국어판·공개 완성 한글패치 확인 못함 / PC 중국어 팬완역은 별개 | 2002 PC 원작 / 2003 DC 디아나·대체 분기·보너스 확장 / 2004 PS2 보너스 2편·CG 일부 추가 | 🟢 후보 |
+| [Renai Chu! Happy Perfect (연애 CHU! 해피 퍼펙트)](games/renai-chu-happy-perfect.md) | 2003 | 학원 연애 ADV / 선택지·장소이동·팬디스크 후일담 통합 | ⭐⭐⭐½☆ 3.5/5 | C | Gavas DC 4.0·1건·한정판 5.0·1건 / PC 완주평 70/100·1건 / PC 비평공간 69점대·약320명(2차 재인용) | 2026-10-09 DC·PC 본편·팬디스크·2005 XP판 공식 한국어판·공개 완성 한글패치 확인 못함 | 2001 Win 원작·팬디스크 / 2003 DC 신규 이벤트·4명 후일담 통합 / 2004 DC DreKore / 2005 Win XP 원작·팬디스크 합본 | 🟢 후보 |
 
 ## Dreamcast 등록 운영
 
@@ -67,10 +68,10 @@
 
 | 항목 | 현재 |
 |---|---:|
-| 등록 후보 | 32 |
+| 등록 후보 | 33 |
 | 발굴 우선 후보: 4.0 이상 | 2 |
 | 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 13 |
-| 한글화 우선도 C | 18 |
+| 한글화 우선도 C | 19 |
 
-최근 갱신: **2026-10-09, Princess Holiday: Korogaru Ringo Tei Senya Ichiya 후보 등록. Dreamcast 활성 후보 32개**.
+최근 갱신: **2026-10-09, Renai Chu! Happy Perfect 후보 등록. Dreamcast 활성 후보 33개**.
