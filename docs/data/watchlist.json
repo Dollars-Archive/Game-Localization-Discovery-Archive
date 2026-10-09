@@ -28,7 +28,8 @@
     "platforms/psp/games/rebellions-secret-game-2nd-stage.md",
     "platforms/psp/games/ore-wa-shoujo-mangaka.md",
     "platforms/psp/games/twinkle-crusaders-gogo.md",
-    "platforms/psvita/games/dungeon-travelers-2.md"
+    "platforms/psvita/games/dungeon-travelers-2.md",
+    "platforms/psvita/games/dungeon-travelers-2-2.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -141,6 +142,10 @@
     },
     "platforms/psvita/games/dungeon-travelers-2.md": {
       "added": "2026-10-09T15:02:39.671Z",
+      "note": ""
+    },
+    "platforms/psvita/games/dungeon-travelers-2-2.md": {
+      "added": "2026-10-09T15:03:26.117Z",
       "note": ""
     }
   }
