@@ -26,7 +26,8 @@
     "platforms/psp/games/summon-night-3.md",
     "platforms/psp/games/summon-night-4.md",
     "platforms/psp/games/rebellions-secret-game-2nd-stage.md",
-    "platforms/psp/games/ore-wa-shoujo-mangaka.md"
+    "platforms/psp/games/ore-wa-shoujo-mangaka.md",
+    "platforms/psp/games/twinkle-crusaders-gogo.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -131,6 +132,10 @@
     },
     "platforms/psp/games/ore-wa-shoujo-mangaka.md": {
       "added": "2026-10-09T14:34:01.094Z",
+      "note": ""
+    },
+    "platforms/psp/games/twinkle-crusaders-gogo.md": {
+      "added": "2026-10-09T14:34:03.386Z",
       "note": ""
     }
   }
