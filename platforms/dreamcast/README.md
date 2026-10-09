@@ -20,6 +20,7 @@
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 Dreamcast 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
+| [Sakura Taisen: Hanagumi Taisen Columns 2 (사쿠라 대전: 화조대전 컬럼스 2)](games/sakura-taisen-hanagumi-taisen-columns-2.md) | 2000 | 대전형 낙하 퍼즐 / Columns·스토리 ADV 하이브리드 | ⭐⭐⭐⭐☆ 4.0/5 | 🔥 A | GameFAQs Great·22표 / Gavas 4.0·5건 / 15시간·8명 / 장문 리뷰 10점 2건 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / 2021 영어 완역 v1.2·기술 소스 공개 | 1997 Saturn 전작 / 2000 DC 후속작 / 2002 DriKore 재판 / 동일 작품 후발 이식 확인 못함 | 💎 우선 후보 |
 | [Seireiki Rayblade (성령기 라이블레이드)](games/seireiki-rayblade.md) | 2000 | 시뮬레이션 RPG / 전술 SRPG·연애 ADV 하이브리드 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.9·10명 / Gavas 3.8·4건 / 플레이타임 76.7시간·6명 | 2026-10-08 공식 한국어판·공개 완성 한글패치 확인 못함 / JP→EN 번역·해킹은 진행 중 | PS 원판의 오류 수정·시나리오·일러스트 추가 강화판 / 현행기 리마스터 확인 못함 | 🟢 후보 |
 | [Sister Princess Premium Edition (시스터 프린세스 프리미엄 에디션)](games/sister-princess-premium-edition.md) | 2002 | 연애 ADV / 비주얼노벨·일정 관리형 ADV | ⭐⭐⭐½☆ 3.5/5 | B | Gavas 4.0·3건 / GameFAQs Good·8표 / DC Magazine 독자 9.0 | 2026-10-08 공식 한국어판·공개 완성 한글패치 확인 못함 | PS1 본편 + Pure Stories 합본 / Sister Princess 2는 별도 후속작 / 현행기 동일 통합판 미확인 | 🟢 후보 |
 | [Tricolore Crise (트리콜로르 크라이시스)](games/tricolore-crise.md) | 2000 | 판타지 RPG / 3인 주인공 교체·시험 일정·사역마 육성 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs 3.82·14명 / Gavas 4.2·5건 / 플레이타임 28.9시간·7명 | 2026-10-09 공식 한국어판·공개 완성 한글패치 확인 못함 / 2026 비공식 영어 패치 v1.0.2 있음 | Dreamcast 일본판 단독 발매 확인 / Art Palette는 예약 특전 / 공식 후발 이식 미확인 | 🟢 후보 |
@@ -45,9 +46,9 @@
 | 항목 | 현재 |
 |---|---:|
 | 등록 후보 | 9 |
-| 발굴 우선 후보: 4.0 이상 | 0 |
-| 한글화 우선도 A | 0 |
+| 발굴 우선 후보: 4.0 이상 | 1 |
+| 한글화 우선도 A | 1 |
 | 한글화 우선도 B | 5 |
 | 한글화 우선도 C | 4 |
 
-최근 갱신: **2026-10-09, Shirotsume Souwa: Episode of the Clovers 후보 등록. Dreamcast 활성 후보 9개**.
+최근 갱신: **2026-10-09, Sakura Taisen: Hanagumi Taisen Columns 2 후보 등록. Dreamcast 활성 후보 9개**.
