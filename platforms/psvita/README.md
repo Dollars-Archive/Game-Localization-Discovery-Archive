@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-08, 작품별 번역 상태·검수 범위 참고**  
-> 보존 항목: **31개** / 활성 후보: **27개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
+> 보존 항목: **32개** / 활성 후보: **28개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -49,6 +49,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Piofiore no Banshou (피오피오레의 만종)](games/piofiore-no-banshou.md) | 2018 | 오토메 ADV / 범죄 로맨스 | ⭐⭐⭐⭐☆ 4.0/5 | C | Planète Vita 80/100 / Zettai Renai 8.5/10 / 독립 총평 4명 | 2026-10-08 공개 한국어 패치 확인 못함 | Switch -ricordo- 이야기 12편·CG 추가 / 공식 영어판 | 💎 우선 후보 |
 | [Reine des Fleurs (레느 데 플뢰르)](games/reine-des-fleurs.md) | 2015 | 오토메 판타지 ADV / 대화 선택 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 34/40·4명 / 4Gamer / 독립 개인 총평 3명 | 2026-10-08 공개 한국어 패치 확인 못함 | Switch 일본어·번체중문 / 영어 작업 중 기록 | 🟢 후보 |
 | [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Zettai Renai 7/10 / Switch RPGFan 79·Otome Kitten 정성평가 / Famitsu 33/40 전달 | 2026-10-08 Vita·Switch·모바일 한국어 대안 공개 확인 못함 | Vita 원판 / Switch 일본어·영어 / iOS·Android 일본어 / 영어 1.0.1 문장 수정 | 🟢 후보 |
+| [Sengoku Hime 5: Senka Tatsu Haou no Keifu (센고쿠히메 5: 전화를 끊는 패왕의 계보)](games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) | 2014 | 전국 전략 시뮬레이션 / 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita Famitsu 24/40·4인 / 시리즈 장기 팬 호평·Vita 프리징 후기 별도 | 2026-10-12 Vita·PS3·PS4·PC 공개 완성 한국어 대안 확인 못함 | Vita 10세력 / PS3 기본 12세력 / PS4 10세력 + 시나리오 DLC 2개 / PC 원작·확장판 | 🟢 후보 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 오컬트 ADV / 전술 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Destructoid 8/10 / RPGamer 3.5/5 / TSA 5/10 / Cubed3 4/10 | 공개 한국어 확인 못함·한국 판매 기록과 언어 구분 | Daybreak 강화판 별도 | 기준 미달·기록 보존 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | 보류 | Famitsu 32/40·4명 / Mecha Damashii 7/10 / GAME Watch 본문 | Vita 공개 패치 확인 못함 | REMASTERED Switch 한국어 배포문 확인·연결 파일 현재 이용 미확인 | ⚪ 한국어 대안 확인 보류 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
@@ -57,7 +58,8 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 ## 2026-10-12 신규 후보 등록
 
 - **《Kadenz fermata//Akkord:fortissimo》 PS Vita판** 신규 등록: 발굴 추천도 **3.5/5**, **B**, 공개 한국어 대안 확인 못함, 기술 난이도 **미확인**.
-- 보존 **31개** / 활성 **27개** / 4.0 이상 **4개** / A **3개** / B **12개** / C **12개**. 2026-10-08 기존 30개 재평가 결과는 변경하지 않으며, 이번 작품은 별도 신규 등록으로 기록한다.
+- 2026-10-12 《Sengoku Hime 5》 Vita판도 별도 등록: **3.5/5, C**, 기술 난이도 미확인. 기존 2026-10-08 작품 평가 원장은 소급 변경하지 않는다.
+- 보존 **32개** / 활성 **28개** / 4.0 이상 **4개** / A **3개** / B **12개** / C **13개**. 2026-10-08 기존 30개 재평가 결과는 변경하지 않으며, 이번 작품은 별도 신규 등록으로 기록한다.
 
 ## 2026-10-05 전체 후보 한국어 대안 재감사
 
@@ -92,15 +94,15 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 항목 | 31 |
-| 활성 후보 | 27 |
+| 보존 항목 | 32 |
+| 활성 후보 | 28 |
 | 비활성·자료 보류 | 4 |
 | 활성 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 12 |
-| 한글화 우선도 C | 12 |
+| 한글화 우선도 C | 13 |
 
-최근 갱신: **2026-10-08, PS Vita 30작품 본문 재평가 완료**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
+최근 갱신: **2026-10-12 신규 후보 2개 등록**. 2026-10-08 기준 PS Vita 30작품 본문 재평가 원장은 당시 기록으로 보존하며, 새 작품들은 별도 조사 문서와 후보 행으로 관리합니다.
 
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
