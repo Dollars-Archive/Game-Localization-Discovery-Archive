@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 40 | 5 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 43 | 7 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 30 | 4 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 31 | 4 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 
@@ -24,7 +24,7 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 보존 30개 중 활성 후보는 **26개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **4개**, A 3 / B 11 / C 12입니다. [2026-10-08 전체 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md).
+> PS Vita 보존 31개 중 활성 후보는 **27개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **4개**, A 3 / B 12 / C 12입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata 신규 등록](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md)을 반영했습니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
