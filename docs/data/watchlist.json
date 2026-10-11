@@ -41,7 +41,8 @@
     "platforms/ps3/games/eiyuu-senki-the-world-conquest.md",
     "platforms/ps3/games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md",
     "platforms/ps3/games/toheart2-dx-plus.md",
-    "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md"
+    "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md",
+    "platforms/dreamcast/games/sakura-taisen-hanagumi-taisen-columns-2.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -206,6 +207,10 @@
     },
     "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md": {
       "added": "2026-10-11T18:25:40.200Z",
+      "note": ""
+    },
+    "platforms/dreamcast/games/sakura-taisen-hanagumi-taisen-columns-2.md": {
+      "added": "2026-10-11T18:29:11.336Z",
       "note": ""
     }
   }
