@@ -35,7 +35,8 @@
     "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md",
     "platforms/ps3/games/nurarihyon-no-mago-hyakki-ryouran-taisen.md",
     "platforms/ps3/games/dengeki-bunko-fighting-climax-ignition.md",
-    "platforms/ps3/games/aquapazza-aquaplus-dream-match.md"
+    "platforms/ps3/games/aquapazza-aquaplus-dream-match.md",
+    "platforms/ps3/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -176,6 +177,10 @@
     },
     "platforms/ps3/games/aquapazza-aquaplus-dream-match.md": {
       "added": "2026-10-11T16:34:44.750Z",
+      "note": ""
+    },
+    "platforms/ps3/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md": {
+      "added": "2026-10-11T16:36:48.845Z",
       "note": ""
     }
   }
