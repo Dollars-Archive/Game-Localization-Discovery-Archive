@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-08, 작품별 번역 상태·검수 범위 참고**  
-> 보존 항목: **30개** / 활성 후보: **26개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
+> 보존 항목: **31개** / 활성 후보: **27개** / 활성 발굴 우선 후보: **4개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -36,6 +36,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Chou no Doku Hana no Kusari: Taishou Tsuyakoi Ibun (나비의 독 꽃의 쇠사슬: 다이쇼염련이문)](games/chou-no-doku-hana-no-kusari.md) | 2014 | 여성향 연애 ADV / 비주얼노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu 32/40·4인 / Vita 완전 완료 후기 3명 | 2026-10-08 공식·공개 완성 패치 미확인 | PC·PSP·Switch·Steam·과거 모바일 / Switch·Steam 추가 요소·영어 지원 | 💎 우선 후보 |
 | [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita 본문7명·4매체 / Famitsu33/40 / 투표3.77/5·52명 | 2026-10-08 공개 한국어 확인 못함 | PS4·Vita Global Edition / Extra는 전작 | 💎 우선 후보 |
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 선택지형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40·4필자 / 4Gamer·완료 후기·부분 후기 교차 / GF 투표 4/5·1명 | 2026-10-06 Vita AI 초안 1.0 공개 / 잔존 미번역·초반만 검수 / 완성 대안과 구분 | 2017 PS4·2022 Switch 1편+속 합본 / Vita·Switch 영어 약94% / 기존 한국어 초안 보완 우선 비교 | 🟢 후보 |
+| [Kadenz fermata//Akkord:fortissimo (카덴차 페르마타: 아코르드 포르티시모)](games/kadenz-fermata-akkord-fortissimo.md) | 2014 | 이능 배틀 ADV / 분기형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Vita 독립 완료 후기·직접 리뷰 | 2026-10-12 Vita·PC 공개 완성 한국어 패치 확인 못함 / PC 중국어 AI 패치는 별도 | 2014 Vita 원작 / 2016 Windows 이식·10주년판 추가 시나리오 / Vita 2014-12 수정 패치 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita RPGFan 80·PSLS 7/10, 독립 본문 4명 | 공개적으로 확인되지 않음 | Switch 추가 단편·CG, 공식 한국어 대안 미확인 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Push Square 7/10·Hardcore Gamer 4/5·타 기종 보조분리 | 공개 확인 못함 | PS3·PC LOVE MAX·PC SIXSTARS XTEND, 한국어 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 함정 액션·전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 3명 / 일본 v1.02 개선 반영 | 공개적으로 확인되지 않음 | The Nightmare Princess가 원판 포함·편의 확장 | 🟢 후보 |
@@ -52,6 +53,11 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | 보류 | Famitsu 32/40·4명 / Mecha Damashii 7/10 / GAME Watch 본문 | Vita 공개 패치 확인 못함 | REMASTERED Switch 한국어 배포문 확인·연결 파일 현재 이용 미확인 | ⚪ 한국어 대안 확인 보류 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
 | [Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono (기어와라! 냐루코 양: 이름 붙이기 힘든 게임 같은 것)](games/haiyore-nyaruko-san-meijoushigatai-game-no-you-na-mono.md) | 2013 | 캐릭터 코미디 ADV / 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 리뷰 3명·호불호 / GameFAQs Great·16표 | 2026-10-08 공식·공개 완성 패치 미확인 | 동일 본편 후발 이식 미확인 / 공통부 반복·작은 분기 차이 | 기준 미달 / 조사 기록 보존 |
+
+## 2026-10-12 신규 후보 등록
+
+- **《Kadenz fermata//Akkord:fortissimo》 PS Vita판** 신규 등록: 발굴 추천도 **3.5/5**, **B**, 공개 한국어 대안 확인 못함, 기술 난이도 **미확인**.
+- 보존 **31개** / 활성 **27개** / 4.0 이상 **4개** / A **3개** / B **12개** / C **12개**. 2026-10-08 기존 30개 재평가 결과는 변경하지 않으며, 이번 작품은 별도 신규 등록으로 기록한다.
 
 ## 2026-10-05 전체 후보 한국어 대안 재감사
 
@@ -86,12 +92,12 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 항목 | 30 |
-| 활성 후보 | 26 |
+| 보존 항목 | 31 |
+| 활성 후보 | 27 |
 | 비활성·자료 보류 | 4 |
 | 활성 발굴 우선 후보: 4.0 이상 | 4 |
 | 한글화 우선도 A | 3 |
-| 한글화 우선도 B | 11 |
+| 한글화 우선도 B | 12 |
 | 한글화 우선도 C | 12 |
 
 최근 갱신: **2026-10-08, PS Vita 30작품 본문 재평가 완료**. 상세 문서와 후보 표의 별점·상태·우선도를 함께 관리합니다.
