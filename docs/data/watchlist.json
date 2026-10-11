@@ -34,7 +34,8 @@
     "platforms/ps3/games/suzukaze-no-melt-days-in-the-sanctuary.md",
     "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md",
     "platforms/ps3/games/nurarihyon-no-mago-hyakki-ryouran-taisen.md",
-    "platforms/ps3/games/dengeki-bunko-fighting-climax-ignition.md"
+    "platforms/ps3/games/dengeki-bunko-fighting-climax-ignition.md",
+    "platforms/ps3/games/aquapazza-aquaplus-dream-match.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -171,6 +172,10 @@
     },
     "platforms/ps3/games/dengeki-bunko-fighting-climax-ignition.md": {
       "added": "2026-10-11T16:33:38.368Z",
+      "note": ""
+    },
+    "platforms/ps3/games/aquapazza-aquaplus-dream-match.md": {
+      "added": "2026-10-11T16:34:44.750Z",
       "note": ""
     }
   }
