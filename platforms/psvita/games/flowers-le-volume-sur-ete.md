@@ -57,7 +57,7 @@
 
 **중요:** 《봄편》의 등장인물과 그 이후 상황을 그대로 이어받는다. 입문은 《봄편 → 여름편 → 가을편 → 겨울편》이 바람직하며, 여름편만 먼저 하면 감정·인물관계 이해와 선행작 스포일러 문제가 생긴다.
 
-[PlayStation Blog 공식 줄거리·시스템](https://blog.ja.playstation.com/2015/10/16/20151016-flowers/) · [콘솔판 인터뷰 및 스토리](https://www.famitsu.com/news/201507/10082845.html)
+[PlayStation Blog 공식 줄거리·시스템](https://blog.ja.playstation.com/?p=6909) · [콘솔판 인터뷰 및 스토리](https://www.famitsu.com/news/201507/10082845.html)
 
 ## 게임 구조 / 루트 구조
 
@@ -248,7 +248,7 @@ Vita·PSP 패키지 초회 생산 특전은 **시미즈 하츠미가 쓴 2편의
 ### 개발·이식·판매 근거
 
 - [Famitsu / PS Vita 출시·보이스 컬렉션·Vita 색감 조절·감상 편의 기능](https://www.famitsu.com/news/201507/10082845.html)
-- [PlayStation Blog / Vita 스토리·추리·선택·선행편 맥락](https://blog.ja.playstation.com/2015/10/16/20151016-flowers/)
+- [PlayStation Blog / Vita 스토리·추리·선택·선행편 맥락](https://blog.ja.playstation.com/?p=6909)
 - [4Gamer / PS Vita 개발 중 실제 화면 21개](https://www.4gamer.net/games/309/G030923/20150709034/screenshot.html)
 - [GameFAQs / Vita 패키지·다운로드·PSP 제품 번호](https://gamefaqs.gamespot.com/vita/178715-flowers-le-volume-sur-ete/data)
 - [PlayStation Store / PS4 FLOWERS 四季의 FOUR SEASONS·ORIGINAL 모드](https://store.playstation.com/ja-jp/product/JP0548-CUSA14203_00-0000000000000000)
