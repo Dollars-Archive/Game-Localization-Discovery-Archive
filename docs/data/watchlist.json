@@ -38,7 +38,8 @@
     "platforms/ps3/games/aquapazza-aquaplus-dream-match.md",
     "platforms/ps3/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md",
     "platforms/ps3/games/koihime-enbu.md",
-    "platforms/ps3/games/eiyuu-senki-the-world-conquest.md"
+    "platforms/ps3/games/eiyuu-senki-the-world-conquest.md",
+    "platforms/ps3/games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -191,6 +192,10 @@
     },
     "platforms/ps3/games/eiyuu-senki-the-world-conquest.md": {
       "added": "2026-10-11T16:37:19.736Z",
+      "note": ""
+    },
+    "platforms/ps3/games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md": {
+      "added": "2026-10-11T16:46:55.557Z",
       "note": ""
     }
   }
