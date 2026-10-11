@@ -31,6 +31,7 @@
     "platforms/psvita/games/dungeon-travelers-2.md",
     "platforms/psvita/games/dungeon-travelers-2-2.md",
     "platforms/psp/games/twinkle-crusaders-starlit-brave.md",
+    "platforms/ps3/games/suzukaze-no-melt-days-in-the-sanctuary.md",
     "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md"
   ],
   "items": {
@@ -156,6 +157,10 @@
     },
     "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md": {
       "added": "2026-10-11T15:59:34.803Z",
+      "note": ""
+    },
+    "platforms/ps3/games/suzukaze-no-melt-days-in-the-sanctuary.md": {
+      "added": "2026-10-11T16:14:46.350Z",
       "note": ""
     }
   }
