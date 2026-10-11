@@ -32,7 +32,8 @@
     "platforms/psvita/games/dungeon-travelers-2-2.md",
     "platforms/psp/games/twinkle-crusaders-starlit-brave.md",
     "platforms/ps3/games/suzukaze-no-melt-days-in-the-sanctuary.md",
-    "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md"
+    "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md",
+    "platforms/ps3/games/nurarihyon-no-mago-hyakki-ryouran-taisen.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -161,6 +162,10 @@
     },
     "platforms/ps3/games/suzukaze-no-melt-days-in-the-sanctuary.md": {
       "added": "2026-10-11T16:14:46.350Z",
+      "note": ""
+    },
+    "platforms/ps3/games/nurarihyon-no-mago-hyakki-ryouran-taisen.md": {
+      "added": "2026-10-11T16:31:07.739Z",
       "note": ""
     }
   }
