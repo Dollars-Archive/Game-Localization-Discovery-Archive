@@ -2,9 +2,22 @@
 
 > 원제: **聖霊機ライブレード**  
 > 상태: 🟢 후보  
-> 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)  
+> 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)   (기존 5점 평가)
 > 한글화 우선도: **B**  
 > 조사 기준일: **2026-10-08 / Asia/Seoul**
+
+## 2026-10-09 리뷰 근거 기반 작품 평가
+
+- 리뷰 점수: **7.0/10**
+- 점수 구분: **잠정**
+- Dreamcast 전체 순위: **12 (공동)**
+- 평가 근거: 인물 교류를 전술 성능에 연결한 구조와 음악은 장점이나 전투 균형·장시간 반복의 부담이 있다.
+- 근거 한계: 핵심 장문 2건은 PS판이다. DC판의 수정 효과를 직접 검증한 기명 장문이 부족해 0.5점 단위 잠정 평가.
+- 판본 구분: GameFAQs DC URL의 32373은 본문·목록 모두 PS판 평가. 일본 블로그도 PS만 플레이했다고 명시. DC 추가분의 완성도는 가산하지 않음.
+
+기존 발굴 추천도·한글화 우선도·기술 난이도와 별개의 리뷰 근거 기반 작품 평가입니다.
+
+[원평점·표본·판본·확인일·상세 판단](../reassessments/2026-10-09-review-assessments.md#seireiki-rayblade) · [Dreamcast 전체 순위](../recommendations.md)
 
 ## 한눈에 보기
 
@@ -22,7 +35,7 @@
 | 장르 | 시뮬레이션 RPG / 전술 SRPG·연애 ADV 하이브리드 |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
 | 예상 플레이타임 | GameFAQs Dreamcast 제출 6건 평균 **76.7시간** |
-| 발굴 추천도 | ⭐⭐⭐½☆ (3.5/5) |
+| 발굴 추천도 | ⭐⭐⭐½☆ (3.5/5) (기존 5점 평가) |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | B |
 | 한글화 난이도 | 미확인 |
@@ -80,7 +93,7 @@
 | 출처 | 점수 | 표본 수 | 대상 판본·비고 |
 |---|---:|---:|---|
 | GameFAQs | **3.9/5** | **10명** | Dreamcast판 사용자 평균 |
-| GameFAQs 상세 리뷰 | **8/10** | **1건** | 스토리 7 / 게임성 7 / 그래픽 9 / 사운드 10 / 재플레이 5 |
+| GameFAQs 상세 리뷰 | **8/10** | **1건** | **PS판 평가**가 DC 페이지에 교차 노출됨. 스토리 7 / 게임성 7 / 그래픽 9 / 사운드 10 / 재플레이 5; DC판 직접 평가로 합산하지 않음 |
 | 피코피코대백과 / Gavas | **3.8/5** | **4건** | Dreamcast판. 5점·4점 평가와 전투 밸런스 비판이 함께 존재 |
 | 레트로게임 목록의 Amazon 리뷰 집계 | **3.7/5** | **3건** | Dreamcast판 사용자 리뷰 참고값 |
 | 장기 개인 리뷰 | **양호 / 혼합** | 1건 | PS판 중심. SRPG+연애 결합을 호평하지만 유닛 밸런스·긴 반복 플레이를 비판 |
@@ -195,11 +208,11 @@ PS판보다 늦게 출시되며 오류 수정과 시나리오·일러스트 등 
 - SEGA Dreamcast 소프트웨어 목록: https://www.sega.jp/history/hard/dreamcast/software_l.html
 - GameFAQs - Dreamcast 제품 정보·평가·플레이타임: https://gamefaqs.gamespot.com/dreamcast/576785-seireiki-rayblade
 - GameFAQs - Dreamcast 사용자 통계: https://gamefaqs.gamespot.com/dreamcast/576785-seireiki-rayblade/stats
-- GameFAQs - Dreamcast 상세 리뷰: https://gamefaqs.gamespot.com/dreamcast/576785-seireiki-rayblade/reviews/32373
+- GameFAQs - PS판 상세 리뷰(DC 페이지에 교차 노출): https://gamefaqs.gamespot.com/dreamcast/576785-seireiki-rayblade/reviews/32373
 - GameFAQs - PS/DC 발매 정보·제품 코드: https://gamefaqs.gamespot.com/ps/577069-seireiki-rayblade/data
 - 피코피코대백과 / Gavas - Dreamcast 평가·플레이 화면: https://www.gavas.jp/products/detail.php?product_id=124
 - GAME PON-POO - Dreamcast 강화점: https://game.pon-poo.com/game-list/2000/post-5860
 - 리브레 위키 - 국내 통용 제목·판본 관계: https://librewiki.net/wiki/%EC%84%B1%EB%A0%B9%EA%B8%B0_%EB%9D%BC%EC%9D%B4%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C
-- 장기 플레이 리뷰 - 전술·프라이빗 시스템과 장단점: https://kakinaguri.or-hell.com/gamereview/%E6%98%94%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%E2%80%A6%E8%81%96%E9%9C%8A%E6%A9%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89
+- 장기 플레이 리뷰 - PS판만 플레이했다고 명시; 전술·프라이빗 시스템과 장단점: https://kakinaguri.or-hell.com/gamereview/%E6%98%94%E3%83%97%E3%83%AC%E3%82%A4%E3%81%97%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E8%AA%9E%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%E2%80%A6%E8%81%96%E9%9C%8A%E6%A9%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89
 - Dreamcast-Talk - 번역 프로젝트 현황: https://dreamcast-talk.com/forum/viewtopic.php?t=13952&start=200
 - LaunchBox - Dreamcast판 스크린샷: https://gamesdb.launchbox-app.com/games/images/114479-seireiki-rayblade

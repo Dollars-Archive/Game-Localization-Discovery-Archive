@@ -2,9 +2,22 @@
 
 > 원제: **dancing blade かってに桃天使II ～Tears of Eden～ 完全版**  
 > 상태: 🟢 후보  
-> 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)  
+> 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)   (기존 5점 평가)
 > 한글화 우선도: **C**  
 > 조사 기준일: **2026-10-09**
+
+## 2026-10-09 리뷰 근거 기반 작품 평가
+
+- 리뷰 점수: **5.5/10**
+- 점수 구분: **잠정**
+- Dreamcast 전체 순위: **31 (공동)**
+- 평가 근거: 애니메이션과 경쾌한 연출은 장점이지만 선택의 폭과 한 회차 분량이 제한적이다. 서사 전체 평가를 확정할 충분한 DC 완주 비평은 부족하다.
+- 근거 한계: DCJY는 일본어 서사를 이해하지 못했다고 밝힌 계열 평가이며, lunchbox360은 끝까지 보지 않았다고 명시한다. Sega-Mag 4점은 목록에서 확인했으나 장문 본문은 열리지 않아 확정 근거로 세지 않음.
+- 판본 구분: PS판과 판본 불명 2/5 블로그 리뷰를 DC 완주 평가로 사용하지 않음.
+
+기존 발굴 추천도·한글화 우선도·기술 난이도와 별개의 리뷰 근거 기반 작품 평가입니다.
+
+[원평점·표본·판본·확인일·상세 판단](../reassessments/2026-10-09-review-assessments.md#dancing-blade-katte-ni-momotenshi-ii-tears-of-eden-kanzenban) · [Dreamcast 전체 순위](../recommendations.md)
 
 ## 한눈에 보기
 
@@ -22,7 +35,7 @@
 | 장르 | 인터랙티브 애니메이션 / 분기형 ADV |
 | 원산지 / 원문 언어 | 일본 / 일본어 |
 | 예상 플레이타임 | 1회 약 30분. GameFAQs Dreamcast 제출 16명은 전체 이용 기준 약 18시간으로 기록 |
-| 발굴 추천도 | ⭐⭐⭐½☆ (3.5/5) |
+| 발굴 추천도 | ⭐⭐⭐½☆ (3.5/5) (기존 5점 평가) |
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | C |
 | 한글화 난이도 | 미확인 |
@@ -179,7 +192,7 @@ PS 원작보다 추가 장면과 보너스 기능이 많고 2편의 최종 게�
 - GameFAQs - Dreamcast 사용자 평가·난이도·플레이타임: https://gamefaqs.gamespot.com/dreamcast/576043-dancing-blade-katteni-momotenshi-ii-tears-of-eden
 - GameFAQs - Dreamcast 전용 분기·Scene Select FAQ: https://gamefaqs.gamespot.com/ps/575098-dancing-blade-katteni-momotenshi-ii-tears-of-eden/faqs/6441
 - Sega-Mag - Dreamcast 장문 리뷰·PS판 대비 신규 장면: https://www.sega-mag.com/test/test-dancing-blade-katteni-momotenshi-ii-37484
-- SSSG攻略日記 - PS판 대비 추가 영상·전체 분량·평가: https://sesesega.hatenablog.jp/entry/2022/06/08/230951
+- だんぼーるはうす - Dreamcast판 부분 플레이 후기·애니메이션·회차 분량: https://lunchbox360.livedoor.biz/archives/8486120.html
 - dccompwiki - 7개 엔딩 완주 후기·무비 스킵 부재: https://w.atwiki.jp/dccompwiki/pages/42.html
 - VGMdb - 발매일·제품 코드·개발·애니메이션 제작 정보: https://vgmdb.net/release/19646
 - 국내 통용 제목 참고 - 나무위키 미러: https://www.namu.moe/w/%EB%93%9C%EB%A6%BC%EC%BA%90%EC%8A%A4%ED%8A%B8/%EA%B2%8C%EC%9E%84%20%EB%AA%A9%EB%A1%9D

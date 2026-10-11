@@ -24,7 +24,7 @@ test('PS3 active/reserve is exactly 30/25, union preserves all 55 document keys'
 test('PS3 controls remain exclusive while scored platforms expose personal sorting', async () => {
   const h = await createHarness({ query: '?platform=ps2' });
   for (const platform of otherPlatforms) {
-    const count = readRows(h.fixtures.data[`platforms/${platform}/${platform === 'dreamcast' ? 'README.md' : 'recommendations.md'}`]).length;
+    const count = readRows(h.fixtures.data[`platforms/${platform}/recommendations.md`]).length;
     await h.platform(platform);
     // Fresh README registrations stay visible even before the dated review snapshot is extended.
     const reviewedPaths = readRows(h.fixtures.data[`platforms/${platform}/${platform === 'dreamcast' ? 'README.md' : 'recommendations.md'}`])
@@ -34,8 +34,8 @@ test('PS3 controls remain exclusive while scored platforms expose personal sorti
     assert.ok(visible.length >= count);
     assert.ok(reviewedPaths.every(key => visible.includes(key)));
     assert.equal(h.elements['ps3-views'].hidden, true);
-    assert.equal(h.sorts.find(x => x.dataset.sort === 'personal').hidden, platform === 'dreamcast');
-    assert.equal(h.elements['recommendation-views'].hidden, platform === 'dreamcast');
+    assert.equal(h.sorts.find(x => x.dataset.sort === 'personal').hidden, false);
+    assert.equal(h.elements['recommendation-views'].hidden, false);
   }
   await h.sort('title');
   await h.sort('title');
@@ -142,7 +142,7 @@ test('overlapping platform navigation renders only the most recent selection', a
   const h = await createHarness({ beforeFetch: async url => { if (url.includes('/psvita/README.md')) await wait; } });
   const first = h.platform('psvita');
   await h.platform('dreamcast');
-  const expectedCount = readRows(h.fixtures.data['platforms/dreamcast/README.md']).length;
+  const expectedCount = readRows(h.fixtures.data['platforms/dreamcast/recommendations.md']).length;
   assert.equal(h.keys().length, expectedCount);
   release(); await first;
   assert.equal(h.elements['platform-eyebrow'].textContent, 'DREAMCAST');
