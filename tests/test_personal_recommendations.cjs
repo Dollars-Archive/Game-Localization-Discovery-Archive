@@ -57,7 +57,11 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     fixtures.watchlist = { version: 1, order: [], items: {} };
     fixtures.patches = { patches: [] };
     const h = await createHarness({ fixtures, query: `?platform=${platform}` });
-    assert.deepEqual(h.keys(), record.games.map(g => g.path));
+    // New living README candidates may not yet exist in the frozen 2026-10-08 review snapshot.
+    const assessedPaths = new Set(record.games.map(g => g.path));
+    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), record.games.map(g => g.path));
+    const newlyRegisteredPaths = h.keys().filter(key => !assessedPaths.has(key));
+    assert.ok(newlyRegisteredPaths.every(key => key.startsWith(`platforms/${platform}/games/`)));
     assert.equal(h.elements['ps3-views'].hidden, true);
     assert.equal(h.elements['recommendation-views'].hidden, false);
     assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 /);
@@ -65,7 +69,7 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     assert.deepEqual(h.keys(), record.games.filter(g => g.pool === 'reserve').map(g => g.path));
     assert.equal(h.location.searchParams.get('view'), 'reserve');
     await h.click('recommendations-active');
-    assert.equal(h.keys().length, active);
+    assert.equal(h.keys().length, active + newlyRegisteredPaths.length);
     await h.history.back();
     assert.equal(h.keys().length, reserve);
     await h.click('recommendations-all');

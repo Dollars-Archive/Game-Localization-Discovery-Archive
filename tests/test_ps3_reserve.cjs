@@ -26,7 +26,13 @@ test('PS3 controls remain exclusive while scored platforms expose personal sorti
   for (const platform of otherPlatforms) {
     const count = readRows(h.fixtures.data[`platforms/${platform}/${platform === 'dreamcast' ? 'README.md' : 'recommendations.md'}`]).length;
     await h.platform(platform);
-    assert.equal(h.keys().length, count);
+    // Fresh README registrations stay visible even before the dated review snapshot is extended.
+    const reviewedPaths = readRows(h.fixtures.data[`platforms/${platform}/${platform === 'dreamcast' ? 'README.md' : 'recommendations.md'}`])
+      .map(row => `platforms/${platform}/${row['게임'].match(/\]\(([^)]+)\)/)[1]}`);
+    const visible = h.keys();
+    assert.equal(new Set(visible).size, visible.length);
+    assert.ok(visible.length >= count);
+    assert.ok(reviewedPaths.every(key => visible.includes(key)));
     assert.equal(h.elements['ps3-views'].hidden, true);
     assert.equal(h.sorts.find(x => x.dataset.sort === 'personal').hidden, platform === 'dreamcast');
     assert.equal(h.elements['recommendation-views'].hidden, platform === 'dreamcast');
