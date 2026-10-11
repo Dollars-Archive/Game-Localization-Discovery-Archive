@@ -30,7 +30,8 @@
     "platforms/psp/games/twinkle-crusaders-gogo.md",
     "platforms/psvita/games/dungeon-travelers-2.md",
     "platforms/psvita/games/dungeon-travelers-2-2.md",
-    "platforms/psp/games/twinkle-crusaders-starlit-brave.md"
+    "platforms/psp/games/twinkle-crusaders-starlit-brave.md",
+    "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -151,6 +152,10 @@
     },
     "platforms/psp/games/twinkle-crusaders-starlit-brave.md": {
       "added": "2026-10-11T11:11:08.701Z",
+      "note": ""
+    },
+    "platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md": {
+      "added": "2026-10-11T15:59:34.803Z",
       "note": ""
     }
   }
