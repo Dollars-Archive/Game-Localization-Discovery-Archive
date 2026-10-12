@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 8 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 9 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -269,3 +269,12 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **한국어 중복 번역 감사:** [1998 PS1 원작 1편의 한국어 패치 v0.9·2026-08-30](https://retrodb.info/krpatch/2512/%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC)와 [1999 PS1 원작 2편 한국어 패치 v0.8·2026-09-25](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2)를 확인했으며, 두 패치의 전편 완주 검증/2024 Switch 직접 적용 가능성은 입증되지 않았고 **3편의 완성 한국어 대안은 미발견**입니다. 따라서 **3부작 모두 완성 한국어 대안이 없는 상태**라는 제한된 사실을 바탕으로 후속 한국어화 가치를 인정하되, 기존 1·2편 한글패치를 '없다'고 하거나 무단 복제해 재배포하지 않도록 명시했습니다. [제작사 2024-10-22 공식 Switch 3편 v1.0.2](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)는 보유 인원 한도에서 신규 소환 시 생기는 편성·상태 오류를 수정하지만 이미 손상된 세이브는 복구하지 않는다는 점도 별도로 기록했습니다.
 
 **Switch 최신 활성 후보 8개 / 💎 발굴 우선 2개 / 🔥 A급 0개 / 🔴 기준 미달 5개**. 기존 《Ayakashi Gohan ~Oomori!~ for S》 포함 활성 후보·보류·탈락 평가·다른 플랫폼의 수치 및 이전 날짜별 역사 기록을 모두 보존했습니다.
+
+
+## 2026-10-12 Nintendo Switch 《Hakkenden (八剱伝 / 팔검전)》 신규 B급 후보 등록
+
+[《Hakkenden》 Switch 상세 평가](platforms/switch/games/hakkenden.md)는 일본 **2024-10-24** 정식 Nintendo Switch 역사 판타지 군상극 ADV를 대상으로 합니다. **여덟 주인공·네 고정 커플을 오가는 자핑 방식의 네 시나리오**, 먹그림 전투 연출·보컬곡, 원작 PC(2024-01-26)에서 **새로 추가된 OP 2곡·영상 및 본편 후 쇼트노벨**을 확인했습니다. 전투 조작은 없습니다.
+
+**모에게임 어워드 2024 시나리오상과 1월 월간상**을 수상한 PC 원작이지만 독립 PC 평가 **Bangumi 6.5/10·53명, 일본 74/100·1명, 한국 79/100·1명**과 2025 Switch 재플레이 정성 호평을 구분했습니다. 네 커플 간 연결이 약하고 중간 자핑이 독서를 끊으며 후반 설전·조연 처리에 불만이 있다는 점을 반영해 **자체 작품성 ⭐⭐⭐½☆ 3.5/5·한글화 B급·🟢 활성 후보**로 판단했습니다. 일본 Switch판 공식 한국어와 Switch/PC 공개 실사용 완성 한국어 패치는 현재 공개 범위에서 발견되지 않았습니다. Switch 폰트·데이터·버그 미분석이므로 **기술 난이도 미확인**입니다.
+
+**현행 Nintendo Switch 활성 후보 9개 / 💎 발굴 우선 2개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 보존 5개**로 갱신했습니다. 다른 플랫폼 수치, 모든 기존 게임 평가, 이전 날짜의 당시 집계는 그대로 보존했습니다.
