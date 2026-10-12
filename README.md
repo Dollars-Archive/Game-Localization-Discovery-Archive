@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 22 | 5 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 23 | 6 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -669,3 +669,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **PC 한국어 패치 1.0의 존재를 명시:** [**Myskrpatch 2022-05-26 《예익의 유스티아 한글패치 + 모바일 이식 1.0》 원 배포**](https://myskrpatch.tistory.com/212)는 **깜뿡·unicord·DDss** 담당의 프롤로그·1~5장/오마케·영상·이미지·프로그램 작업을 명시한 실제 한국어 자료입니다. 배포자는 **PC 패키지용 버전 이외의 정상 작동을 보장하지 않는다**고 밝혔으며, [GTAKU](https://www.gtaku.net/vngameinfo/91943)는 Switch 정식 일본어 상품과 PC 한국어 패치를 따로 등록하고 있습니다. **2026-10-13 현재 Switch 정식 한국어/적용 가능한 완성 한글패치 미확인**이므로 PC 패치·Artroid 모바일판을 Switch에서 직접 이용 가능한 것처럼 쓰지 않습니다. **다른 기종 팬패치 존재만으로 Switch 후보를 제외하지 않는 사용자 지정 2026-10-13 예외**에 따라 활성 등록을 허용하지만, 원 번역 재활용 허가·2011 PC 대 2022 콘솔 차분·한글 폰트/HD 식질·선택지/세이브 실기 QA를 한글화 착수 전 최우선 기술 작업으로 남겼습니다.
 
 **최종 집계:** Switch 활성 후보 **22개 / 💎 4.0 이상 우선 5개 / 🔥 A급 0개 / 🔴 작품성 기준 미달 10개**. 예익의 유스티아는 활성 **1행**으로만 집계하고 기존 Switch 한글패치/다른 기종/다른 후보·이전 시점의 집계·사용자 예외 원칙·Pages 링크를 보존했습니다.
+
+## 2026-10-13 Nintendo Switch 《ISLAND》 4.0점·한국어 미지원 B급 활성 우선 후보 등록
+
+[《ISLAND / 아일랜드》 Nintendo Switch 작품성·스토리·캐릭터·멀티엔딩·공식 언어·한글패치·이식 QA 전수 평가](platforms/switch/games/island.md)는 **2016-04-28 Frontwing Windows 원작에서 2017 PS Vita·2018 PS4·2018 Steam을 거쳐 2021-04-08 PROTOTYPE Nintendo Switch 일본·서양판**으로 나온 SF 미스터리·연애 ADV입니다. **시나리오 G.O.·원화 쿠추 요사이**, 기억을 잃은 주인공 세츠나와 오하라 린네·쿠루츠 카렌·가란도 사라의 **세 가문/풍토병/섬의 전설, 여름→겨울→한여름 세계관의 층층이 연결된 복선**을 긍정적으로 평가했습니다. 선택지형 다중 엔딩·배드 엔딩과 플로차트/이전 장면 점프는 본 작품의 필수 게임 시스템이며 전투/육성·실시간 탐험 조작은 없습니다. **PC 예약 특전 드라마를 읽는 VN 후일담 《明日、わたしは──》를 포함하지만 Vita·PS4 이식판에서 이미 수록해 Switch 독점이 아님**을 명시했습니다.
+
+**자체 작품성 ⭐⭐⭐⭐☆ 4.0/5 · 한글화 우선도 B · 💎 Switch 활성 우선 후보**입니다. 호평 근거는 [2017 PS Vita Famitsu **8+8+8+8=32/40·4명**](https://www.famitsu.com/game/title/33042/reviews), [2021 Switch 출시 당시 GAME Watch 작품 상세 호평·PC Steam 27h 완주 1명](https://game.watch.impress.co.jp/docs/review/1315930.html), [Steam Windows 구매자 약 **94% 긍정·1500건 이상**](https://store.steampowered.com/app/857450/ISLAND/), Kone 연동 VNDB **7.74/10·2070표(2026-05 원작/혼합)** 등입니다. 반대로 [2022 일본 Switch 직접 구매자 3.0/5·단 1명](https://kakaku.com/item/K0001326990/)은 인물별 이야기의 약함·세츠나 성격·후반 갑작스런 설명/결말을 비판했습니다. 같은 매체·기종·표본으로 합치지 않고 **Famitsu Switch 자체 점수 미등록** 사실을 그대로 보존합니다. **2026 Switch 실제 롬/프리징/업데이트 버전/한글 폰트·엔진의 기술 난도는 미확인**입니다.
+
+**언어·한국어화 자격:** [PROTOTYPE Switch 공식](https://www.prot.co.jp/switch/island_en/index.html)은 일본·영어 2개 본문/매뉴얼만 지원하고 [Nintendo 유럽 e숍](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/ISLAND-1937715.html) 역시 한국어를 표기하지 않습니다. [Steam PC 공식](https://store.steampowered.com/app/857450/ISLAND/)은 일·영·중 지원과 **한국어 미지원**, [국내 GTAKU 게임/패치 원장](https://www.gtaku.net/vngameinfo/15356)은 해당 작품의 기존 배포 중 한국어판이나 완성 한국어 패치 항목을 제공하지 않으며 [2026-05 Kone/VNDB ISLAND 국내 게시물](https://kone.gg/s/vndb/aKilpQmGn0Rkr1a4ixrP4b)은 **미번** 카테고리입니다. 비공개 한글화 존재의 절대 부재까지 단정하지 않지만 **2026-10-13 검색에서 공개 적용 가능 완성 한국어 대안 미확인**이므로 활성 선정 자격 통과. **신규 Switch 활성 후보 23개 / 💎 우선 6개 / 🔥 A급 0개 / 🔴 작품성 기준 미달 기록 10개**로 [해당 기종 README](platforms/switch/README.md)와 일치시켰습니다. 다른 기종·기존 번역 기록·과거 날짜의 집계는 보존했습니다.
