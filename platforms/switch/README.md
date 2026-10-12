@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **3개**
+> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **4개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -22,6 +22,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [ROAD59 -A Yakuza’s Last Stand- (ROAD59: 신시대 임협특구 마천루 흑백 항쟁)](games/road59-a-yakuzas-last-stand.md) | 2025 | 이능 야쿠자·시간 반복·23인 군상극·선택지형 비주얼노벨 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Steam 직접 구매 27건 중 긍정 37% / 전체 63건 중 긍정 46건·73%(외부 키/무료 포함)** / Dengeki Switch·Steam 본편·Extra 실기 정성 호평 / Famitsu Switch 정량 평가 없음 | Switch 공식 영어·일본어·중국어 간체/번체 / **한국어 미지원**, 2026-10-12 공개 완성 한국어 패치 미확인 | 2025-09-25 일본 Switch/Steam 동시 / 일본어 파트보이스 / 바·루프/배드 분기·본편 후 Extra 2개 / 2026 Windows Steam만 무료 체험판 / Switch2 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [VARLET (ヴァレット)](games/varlet.md) | 2025 | SNS·심리 진단 학원 RPG·3인 타임라인 턴제 전투 | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch Metacritic 50/100·평론가 4건 / Pure Nintendo 6/10 / Siliconera 5/10 / PS4Blog 8/10(별도 매체)** / PC Metacritic 64/100·9건 / Steam 47% 긍정·117건 | **2025-08-28 아시아 Switch 한국어 자막 정식 발매(CLE)** / 북미 Switch 일본어·영어만 표기 / PS5 한국판·PC Steam 공식 한국어 지원 | **2025-08-27 북미 FuRyu판 / 2025-08-28 일본·아시아판 CLE 한국어 발매** / SSS 반복·전투 밸런스 취약 / 지역별 지원 언어 구분 | 🔴 패스 · 3.5점 미달 · Switch 공식 한국어판 존재, 평가 기록 |
+| [Never 7 - The End of Infinity (네버 7)](games/never7-the-end-of-infinity.md) | 2025 | 연애·시간 반복 SF 미스터리 비주얼노벨 / 히로인 분기·18개 엔딩 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Metacritic 62/100·평론가 5건: Noisy Pixel 8/10·Pure Nintendo 7/10·Universo Nintendo 6/10·Hardcore Gamer 5/10·GameGrin 5/10** / PS5 RPGFan 81/100 별도 / Steam 68% 긍정·64건(PC) | **Switch 공식 한국어 미지원**, 2026-06-07 **2025 Steam 리마스터 한국어 패치 배포 공지**, 2026-10-11 **PSP ULJM-05433 한국어 베타 v0.9.0 공개** / 두 패치 모두 Switch 직접 호환 검증 없음 | 2000 PS1 《infinity》→2000 Dreamcast《Never7》→2009 PSP→2025 Switch/PS4/Steam HD 리마스터 / 4:3 화면의 16:9 크롭·낡은 음원, 반복 루트 | 🔴 패스 · 3.5점 미달 · 다른 판본 한국어 대안, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
 
@@ -104,3 +105,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **2010년 대한민국 PS3 정식 발매 《검과 마법과 학원물 3》의 언어는 일본어·설명서만 한국어**였으며, 이 정발 이력을 이미 게임이 한글화된 것처럼 처리하지 않았습니다. Switch·Steam 2025 리마스터 공식 한국어는 없고 2026-10-12 공개 검색에서 원작/리마스터의 완성·사용 가능한 한국어 패치도 검증하지 못했습니다. **Nintendo 공식 Switch판 실제 화면 1장과 2025 일본 Switch 1·2·3 컬렉션 속 《3》의 관계도/대화 화면 2장**을 출처별로 보존했습니다. **Switch 실제 게임 리소스 미분석으로 기술 난이도 미확인**입니다.
 
 **현재 Nintendo Switch 활성 등록 6개 / 💎 우선 후보 1개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 3개**입니다. 이번 신규 등록과 관련 없는 기존 게임의 후보 자격·한국어 보류·플랫폼 불일치 기록 및 이전 날짜의 역사적 집계는 변경하지 않았습니다.
+
+## 2026-10-12 Never 7 Switch 3.0점·다른 기종 한국어 패치 발견
+
+[《Never 7 - The End of Infinity》 상세 작품성·한국어 대안 평가](games/never7-the-end-of-infinity.md)은 **2025-03-06 발매 Switch/PS4/Steam 리마스터**를 대상으로 심사했습니다. **2000년 PS1 《infinity》 원작 → 2000 Dreamcast 《Never7》 → 2009 PSP → 2025 HD 리마스터**의 관계를 분리했습니다. Switch 공식 한국어는 없고 일본어·영어·번체중문만 확인됩니다. 전투 없는 선택지형 연애·시간 반복 SF VN으로, 유카·하루카·사키·쿠루미의 개별 서사에서 이즈미 핵심 루트로 이어지는 구성과 아보 타케시의 음악은 장점입니다. 그러나 길고 되풀이되는 공통 루트·불편한 18개 엔딩 회수·4:3 원본의 16:9 크롭과 흐림·초기 영문 오탈자 문제를 고려해 **작품성 3.0/5 · 🔴 패스**로 평가합니다. **Switch Metacritic 62/100(5건)** 및 기종 별 PS5 RPGFan 81/100과 PC Steam 64건 중 68% 긍정을 별도 기록했습니다.
+
+**한국어 대안이 두 가지입니다.** [2026-06-07 Steam 리마스터판 한글패치 공개 공지](https://gall.dcinside.com/mgallery/board/view/?id=memooff&no=3826), [한패 색인](https://hanpe.net/hanguls/n), 그리고 [2026-10-11 Noctil Patchworks PSP 일본판 ULJM-05433 전용 v0.9.0 베타 공개](https://ievy3.github.io/projects/never7/)를 확인했습니다. PSP판은 본편·외전 약 6만 행, 메뉴·용어·일부 영상 한국어화로 공개됐지만 **중후반 실기 미완주·일부 이미지 미번역**이며, Steam 패치도 현재 설치·전 엔딩 실사용 검증 없이 완성판이라고 단정하지 않습니다. **둘 다 Switch용 패치가 아닙니다.** 기술적 Switch 원본 파일·폰트 분석 미실행이므로 난이도는 미확인입니다.
+
+**현재 Switch 활성 후보 6개 / 💎 우선 후보 1개 / 🔥 A급 0개 유지**, 3.5점 미달 평가 기록만 **3개 → 4개**로 갱신했습니다. 기존 MAMIYA·Wizard's Symphony·Soul Cradle·Class of Heroes 3 Remaster·Touhou Sky Arena·BEYBLADE X EVOBATTLE과 타 플랫폼/보류 기록을 보존했습니다.
