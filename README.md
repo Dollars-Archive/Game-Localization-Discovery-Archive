@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 21 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 22 | 5 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -656,3 +656,16 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **작품성은 ⭐⭐⭐½☆ 3.5/5**로 하한 통과합니다. 용기사07의 8월 1일 타임루프 설정, Key식 타이라·미아 중심 감정 드라마와 모치즈키 케이의 개성적 그림·일본어 풀보이스가 강점입니다. **선택지/개별 루트/지오헌팅 직접 플레이 없이 단일 줄거리를 읽는 키네틱 노벨**이며 [Noisy Pixel Switch 90/100·1명](https://noisypixel.net/loopers-review/), [일본 Switch 실완주 68/100·2.5h 1명](https://ymashi.hateblo.jp/entry/2023/10/23/000000), [PC Steam 리뷰 약 960건 중 86% 긍정](https://store.steampowered.com/app/1811500/LOOPERS/?l=koreana), Nintendo Life 사용자 소수 평점을 혼합하지 않고 분석했습니다. 공식 Switch **자동 진행 약8시간, 최대120개 저장/되감기/한손 Joy-Con/터치/Full HD TV 출력·보컬3곡 풀 버전**은 좋은 이식 기능이나 **조연·루프의 설정 설명 부족·후반 감동 급전환·짧은 재독 가치** 때문에 4.0점 우수작은 유보했습니다. 2026 Switch 실기 프리징/버전·ROMFS/한글 글꼴·기술 난도는 미확인입니다.
 
 **2025-10-24 Windows 별도 확장판 [《LOOPERS PLUS》](https://key.visualarts.gr.jp/kinetic/loopersplus/)**는 사이몬·기타 멤버 에피소드/후일담, 새로운 조연 초상화·CG 10장 이상·새 음악이 포함되지만 **2022 Switch판이나 2023 한국어 PC 기본판에 기본 포함됐다는 근거가 없습니다.** 이 차이를 반영해 **🟡 기존 공식 한국어 대안 확인으로 Switch 신규 활성 후보 보류·A/B/C 미부여**, 3.5점 미달 패스 기록에는 넣지 않습니다. 이는 '다른 기종 **팬 한글패치**만으로는 Switch 활성 제외하지 않는다'는 현재 정책을 유지하면서, Key가 정식 유통한 다른 플랫폼 공식 한국어판은 별도로 처리한 결과입니다. **Nintendo Switch 활성 21개 / 💎 우선 4개 / 🔥 A급 0개 / 🔴 기준 미달 10개 및 다른 플랫폼 기존 집계를 변경하지 않았습니다.**
+
+
+## 2026-10-13 Nintendo Switch 《Aiyoku no Eustia / 예익의 유스티아》 4.0점 B급·2022 PC 한국어 패치 예외
+
+[**《Aiyoku no Eustia / 穢翼のユースティア / 예익의 유스티아》 Nintendo Switch 다크 판타지·등장인물 장별 줄거리·콘솔 HD 차이·한국어 자산·이식 품질 상세 평가**](platforms/switch/games/aiyoku-no-eustia.md)를 **2022-06-23 Nintendo Switch 일본 정식 / 작품성 ⭐⭐⭐⭐☆ 4.0/5 / 신규 한글화 우선도 B / 💎 활성 발굴 우선 후보**로 등록했습니다. [AUGUST 원작](https://august-soft.com/news/2022/06/23/984)의 2011 PC판과 **2014 Vita 《Angel's blessing》**, [ENTERGRAM 2022 Switch/PS4](https://www.entergram.co.jp/eustia/product/)판은 구분하며, [공식 Switch TV 1920×1080·휴대 1280×720 해상도](https://www.entergram.co.jp/eustia/about/)를 확인했습니다. 2022 Switch는 콘솔 CERO D판으로, 2011 Windows 성인 원작과 달리 일부 표현/이벤트가 조정된 게임이고 공식 한국어 언어는 확인되지 않았습니다.
+
+**작품성과 실제 플레이:** 공중도시 노바스 아이텔의 **대붕락** 이후 빈민가에서 살아가는 전직 암살자 **카임 아스트레아**가 날개가 돋는 우화병 환자 **유스티아(티아)**를 만나며 종교·권력·사회계급·희생과 생명의 가치에 다가가는 **선택지형 장편 다크 판타지 비주얼 노벨**입니다. 장의 초점은 **피오네→에리스→일레느/라비리아→리시아→티아** 순으로 확장되며 **직접 전투·육성 시스템은 없습니다**. 강한 복선·인물 감정/Active Planets 음악은 장점이지만, 약 40시간 원작 표본의 독서 부담과 드문 선택지, 일부 연애 개별 분기 짧음, 비극 결말 호불호를 감점했습니다.
+
+**외부 평가는 플랫폼·표본별로 분리:** 원작과 여러 판본의 팬 집계인 **[VNDB.INFO 약 8.46/10·2,802표](https://vndb.info/)**, **[2014 Vita Famitsu 7+8+7+7=29/40·4명](https://www.famitsu.com/game/title/30345/reviews)**, **[2022 Switch 가격.com 4.0/5·1명](https://review.kakaku.com/review/K0001428573/)** 및 [2022 Switch 실기 구입자의 휴대 모드 명조체 가독성 문제·TV 모드 개선](https://forno.blog/2022/06/27/swi-eustia/)을 구분했습니다. [ENTERGRAM 공식 2022-07-14 Ver.1.02](https://www.entergram.co.jp/eustia/update/)는 **일부 본문 수정**만 명시하고 최신 Switch 장시간 프리징·저장 안정성·한국어 삽입 기술 난도는 게임 파일/실기 분석 전 **미확인**입니다.
+
+**PC 한국어 패치 1.0의 존재를 명시:** [**Myskrpatch 2022-05-26 《예익의 유스티아 한글패치 + 모바일 이식 1.0》 원 배포**](https://myskrpatch.tistory.com/212)는 **깜뿡·unicord·DDss** 담당의 프롤로그·1~5장/오마케·영상·이미지·프로그램 작업을 명시한 실제 한국어 자료입니다. 배포자는 **PC 패키지용 버전 이외의 정상 작동을 보장하지 않는다**고 밝혔으며, [GTAKU](https://www.gtaku.net/vngameinfo/91943)는 Switch 정식 일본어 상품과 PC 한국어 패치를 따로 등록하고 있습니다. **2026-10-13 현재 Switch 정식 한국어/적용 가능한 완성 한글패치 미확인**이므로 PC 패치·Artroid 모바일판을 Switch에서 직접 이용 가능한 것처럼 쓰지 않습니다. **다른 기종 팬패치 존재만으로 Switch 후보를 제외하지 않는 사용자 지정 2026-10-13 예외**에 따라 활성 등록을 허용하지만, 원 번역 재활용 허가·2011 PC 대 2022 콘솔 차분·한글 폰트/HD 식질·선택지/세이브 실기 QA를 한글화 착수 전 최우선 기술 작업으로 남겼습니다.
+
+**최종 집계:** Switch 활성 후보 **22개 / 💎 4.0 이상 우선 5개 / 🔥 A급 0개 / 🔴 작품성 기준 미달 10개**. 예익의 유스티아는 활성 **1행**으로만 집계하고 기존 Switch 한글패치/다른 기종/다른 후보·이전 시점의 집계·사용자 예외 원칙·Pages 링크를 보존했습니다.
