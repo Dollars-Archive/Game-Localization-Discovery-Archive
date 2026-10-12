@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 41 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 44 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 34 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo Switch | 14 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
@@ -25,11 +25,11 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 보존 33개 중 활성 후보는 **29개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **5개**, A 3 / B 12 / C 14입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
+> PS Vita 보존 **34개** 중 활성 후보는 **29개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **5개**, A 3 / B 12 / C 14입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
-> PS3는 **55개 기록을 보존**하며, 개인 추천점수와 후보 자격을 함께 심사해 **기본 선정 30개 / 예비 25개**로 나눴습니다. [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
+> PS3는 **56개 기록을 보존**하며, **기본 선정 30개 / 예비 26개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
 >
 > PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 >
@@ -456,3 +456,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **업데이트의 구별:** Nintendo [2025-05-27 Switch 2 초기 실행 문제 목록](https://media.nintendo.com/switch-2/pdf-compatibility_issues_EN_05272025.pdf)에는 이 서양판이 존재했지만, [2025-06-06 Nintendo 공식 업데이트 해결 목록](https://assets.nintendo.eu/image/upload/NAL/Documents/switch-2-compatibility/Compatibility_Addressed_060625.pdf)에는 **기존 문제가 업데이트로 해결됨**이 명시돼 있으며 현재 Nintendo e숍도 **Switch 2 Supported**입니다. 다만 일본 Nippon Ichi의 [2024-10-22 《천사의 선물》 3편 Nintendo Switch v1.0.2](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)는 **캐릭터 보유 수 상한에서 소환 시 편성/상태 오류 수정·이미 오류 후 저장한 세이브 복구 불가**, 공식 대상으로 **일본 3편 단품과 2024 일본 25th 3편**을 명시합니다. **2023 영어 Switch 합본에 동일 버그·패치번호가 존재하는지는 미검증**입니다. Switch 1/2 장시간 실기, 폰트/ROMFS/2편과 3편 독립 데이터 추출 및 한글 적용을 수행하지 않아 **기술 난이도 미확인**입니다.
 
 **등록 최종 결과:** 이번 자료는 이미 등록된 25주년 컬렉션에 포함된 2개 본편의 서양권 **별도 판본 분석 기록**이므로 **신규 활성 +0 / 💎 우선 +0 / 🔥 A급 +0 / 🔴 기준 미달 +0**입니다. **최신 Switch 활성 후보 14개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 7개**의 정식 목록, 다른 기종 전체 집계 및 기존 시점 기록을 그대로 보존했습니다.
+
+
+## 2026-10-12 《WHITE ALBUM2: 행복의 저편》 PS3·PS Vita 두 기종 작품성/한국어 대안 신규 등록
+
+사용자 요청으로 **정식 PS3판과 네이티브 PS Vita판에 각각 별도의 실제 기종 상세 평가**를 등록했습니다. [PS3 《WHITE ALBUM2: Shiawase no Mukougawa》 작품성 4.5점·콘솔 강화 기능](platforms/ps3/games/white-album-2-shiawase-no-mukougawa.md) · [PS Vita 《WHITE ALBUM2》 4.5점·휴대기 고유 기능·공식 버그 수정](platforms/psvita/games/white-album-2-shiawase-no-mukougawa.md). **2012-12-20 PS3는 Motion Portrait 표정 애니메이션·신규 이벤트 CG와 리파인 시나리오·스페셜 드라마/디지털 노벨**이 장점이고, **2013-11-28 Vita는 PS3의 Special Contents를 전부 유지**하되 **Motion Portrait 삭제·명장면 마커·노벨 모드·CG/흉상 표시 OFF**로 휴대 독서에 맞췄습니다. **VitaTV 미실행은 2013-12-06 수정, 텍스트와 음악 모드 오류는 2014-01-30 공식 v1.02에서 수정**됐습니다.
+
+작품의 **스토리·인물·음악/분기 전체 자체 4.5/5**를 유지했습니다. **2012 PS3 패미통 37/40(4명), 전격 PlayStation 90·95·90·80(별도 4명)**에 비해 Vita의 별도 패미통 크로스리뷰는 **미집계**이므로 Vita 자체 37/40이라고 하지 않았습니다. 두 게임은 실제 정식 발매된 콘솔 작품이지만 **공식 한국어/PS3·Vita용 공개 실사용 완성 패치**는 이번에 찾지 못했습니다.
+
+**한국어 대안 판단:** [Myskrpatch PC Extended Edition **본편 v1.1 (2021-10-09)**](https://myskrpatch.tistory.com/172) 및 [**Special Contents v1.0 (2022-01-29)**](https://myskrpatch.tistory.com/201)의 **제작자 직접 공개**를 재검증했습니다. Windows 2018 **패키지 EE용 번역**이며, PS3·Vita 원본에 파일을 복사해 넣으면 그대로 호환된다고 주장하지 않습니다. 다만 **동일 본편 PC 한국어 대안 존재 시 신규 번역 활성 제외**라는 기존 기준에 따라 **PS3는 [reserve.md](platforms/ps3/reserve.md) 예비 1건**, **Vita는 활성 후보 아래 비활성 평가 1건**으로 보존했습니다. **PS3 총 56(선정 30/예비 26), Vita 총 34(활성 29/비활성 5)**. PS3 기존 55개 가중 순위 원장·다른 플랫폼 수치·2026-10-08 역사적 재평가 결과는 소급 변경하지 않았고 별도 기술 난이도는 실기/원본 미분석으로 **미확인**입니다.
+
+앞서 작성한 [Switch 미발매·PC 한국어 패치 감사](platforms/switch/archive/white-album-2-shiawase-no-mukougawa-platform-audit.md)는 **Switch 정식 출시 미확인**이라는 별도 결론으로 유지합니다. 이것을 PS3/Vita 정식 발매 부정의 근거로 사용하지 않습니다.
