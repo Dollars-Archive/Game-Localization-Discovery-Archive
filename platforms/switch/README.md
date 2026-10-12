@@ -78,3 +78,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 일본 Switch판 공식 일본어·북미판 영어만 확인되며 **Switch 공식 한국어와 실사용 가능한 공개 한국어 패치가 2026-10-12 기준 미발견**입니다. **Steam 2026-10-05 중국어 간·번체 추가는 Switch 언어 지원 증거가 아님**을 명확히 했습니다. **작품성 3.5/5·한글화 우선도 C·🟢 활성 후보**로 등록하며 Switch 원본/폰트/저장·온라인/유료 DLC 미분석으로 기술 난이도는 **미확인**입니다.
 
 **현재 Switch 등록 5개 / 💎 우선 후보 1개 / 🔥 A급 0개 / 기준 미달 기록 2개**입니다. 기존 MAMIYA·Wizard's Symphony·Soul Cradle·Touhou Sky Arena 활성 후보와 Astral Takers·ROAD59 기준 미달, Ley Line 한국어 패치 검증 보류, Meteor World Actor 타 플랫폼 기록은 보존했습니다. 앞선 문서의 '당시 집계' 문장은 역사 자료로 남겼습니다.
+
+## 2026-10-12 《아마카노 2》 기존 PC 한국어 패치 검증 보류
+
+[《Amakano 2 / アマカノ2》 Switch 작품·판본·한글패치 조사 보고서](archive/amakano-2-korean-patch-audit.md)를 상세 **평가 보존 기록**으로 추가했습니다. 이 작품은 **2025-12-25 ARES의 정식 Switch판**이고, **2020 Windows 원작·2022 Windows Perfect Edition·2023 PC 후속 《2+》를 구별**해야 합니다. Switch판은 **PC 《2+》의 여름 후일담·신규 히로인까지 묶은 완전 합본으로 확인되지 않음**을 명시했습니다. 본편 연애 서사·세 히로인·피로미즈 원화에 대한 PC 완주자의 정성 리뷰를 대조해 **작품성 4.0/5(잠정)**으로 평가했으나, 직접 Switch 전문 리뷰는 Famitsu/4Gamer 각각 **0건**으로 4.5/5는 유보했습니다.
+
+**중요:** 2024-11-12 **Windows 《아마카노2 Perfect Edition》 한국어 패치 등록 및 원 출처**를 [GTAKU](https://www.gtaku.net/vngameinfo/13733)·[원 게시물](https://arca.live/b/yuzusoft/121094092)에서 확인했습니다. 제작사도 **2022 Perfect Edition은 2020 PC 본편과 시나리오 동일**이라고 안내했습니다. 다만 **패치의 실제 적용·3인 루트 완역·현재 파일 접근 가능 여부·이미지 식질·Switch와의 본문 차이**는 재현 검증하지 못했으므로 **🟡 기존 한국어 대안 검증 보류**입니다. 정책에 따라 **미번역 신작인 것처럼 활성 후보 표를 추가하지 않았고**, 우선도 A/B/C도 미부여입니다. 실사용 한국어 완성판이 확인되면 신규 Switch 번역 후보에서 제외하고, 불완전하거나 이용 불가인 경우 별도 재평가합니다.
+
+**현재 Switch 활성 후보 5개 / 💎 발굴 우선 1개 / A급 0개 / 기준 미달 평가 기록 2개**는 변동 없습니다. 기존 《MAMIYA》·《Wizard's Symphony》·《Soul Cradle》·《Touhou Sky Arena》·《BEYBLADE X EVOBATTLE》, 《Astral Takers》·《ROAD59》 및 다른 보류/타 플랫폼 조사 기록도 보존했습니다.
