@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **43개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **6개** / 한글화 A급 후보: **3개**
+> 보존 항목: **42개** / 활성 후보: **28개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -47,7 +47,6 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Toaru Majutsu to Kagaku no Ensemble (어떤 마술과 과학의 군주활극)](games/toaru-majutsu-to-kagaku-no-ensemble.md) | 2013 | 군상 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (17표) / Bangumi 5.9/10 (24표) / 구체 평가 본문 5명 | 2026-10-08 기준 공식판·공개 완성/부분/기계번역 패치 확인 못함 | PSP 일반·한정·DL판 / 동일 본편 후발판 확인 못함 / 2011 금서목록·초전자포는 별도 게임 | 🟢 후보 |
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | PSP Great25표 / PSP장문2명 / 3DS Famitsu29/40·4명·RPGamer2/5 | 2026-10-08 공개 한국어 대안 미확인 / PSP·3DS 영어 부분패치 구분 | PSP·3DS 동시판 / 육성강점·반복/관리부담 / 한글기술미확인 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
-| [Ore wa Shoujo Mangaka (나는 소녀만화가)](games/ore-wa-shoujo-mangaka.md) | 2012 | 코미디·연애 ADV | ⭐⭐⭐⭐☆ (4.0/5) | C | PSP 본문4명 / 4Gamer95·95·60 보정83 / GameFAQsGreat16표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원형 / 2013 PC R 역이식·새OP / 작업성 비교 우선 | 💎 우선 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
 | [Sekai de Ichiban NG na Koi: Full House (세상에서 가장 NG인 사랑 풀하우스)](games/sekai-de-ichiban-ng-na-koi-full-house.md) | 2011 | 홈코미디형 연애 ADV | ⭐⭐⭐⭐☆·종전 평가 보존 | 보류·기존 B 참고 | PSP Play-Asia 5/5·5건·본문 1건 / GameFAQs 1.6/5·5표 / GAMEMAN 9.0·표수 미표시·본문 0건 | 2026-10-08 기준 공개적으로 확인되지 않음 | PC 원작 준한글·2026 복구 기록은 부분 번역으로 분리 / PSP 추가 시나리오·CG 약 30장 / 후발 PC 완전 대체 여부 미확인 | 🟡 재평가 보류 |
@@ -132,6 +131,11 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 [전체 재감사 판정·근거](reassessments/2026-10-05-cross-platform-korean-audit.md) · [감사 원장 JSON](reassessments/2026-10-05-cross-platform-korean-audit.json)
 
 
+
+## 2026-10-12 사용자 요청에 따른 플랫폼 이동
+
+- 《나는 소녀만화가》는 PSP **현행 목록 및 순위에서 제거**했고 [PS Vita 호환 실행 목록](../psvita/games/ore-wa-shoujo-mangaka.md)으로 이관했습니다. **Vita 네이티브판 발매가 아닌 PSP DL판 하위호환 예외**입니다.
+- 현재 보존 42개 / 활성 28개 / 4.0 이상 5개. 당시 **2026-10-08 PSP 리뷰 평점과 순위 기록은 변경하지 않습니다.**
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 

@@ -7,6 +7,10 @@ const expected = { ps2: [69, 40, 29], psp: [123, 30, 93], psvita: [51, 26, 25] }
 const data = p => JSON.parse(fs.readFileSync(path.join(root, `platforms/${p}/reassessments/2026-10-08-personal-recommendations.json`), 'utf8'));
 const currentData = p => JSON.parse(fs.readFileSync(path.join(root, `platforms/${p}/reassessments/2026-10-08-review-assessments.json`), 'utf8'));
 const slugOf = entry => typeof entry === 'string' ? entry : entry.slug;
+const movedSlug = 'ore-wa-shoujo-mangaka';
+const previousPath = 'platforms/psp/games/ore-wa-shoujo-mangaka.md';
+const currentPath = 'platforms/psvita/games/ore-wa-shoujo-mangaka.md';
+const actualPath = path => path === previousPath ? currentPath : path;
 
 for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
   test(`${platform}: superseded personal recommendation data remains intact as history`, () => {
@@ -37,8 +41,8 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
       assert.doesNotMatch(game.rationale, /정체|결말|반전|복선|최종장|범인|진상|배신/);
       assert.ok(['reviewed', 'provisional'].includes(game.scoreStatus));
       if (game.quality == null) assert.equal(game.scoreStatus, 'provisional');
-      assert.ok(fs.existsSync(path.join(root, game.path)), game.path);
-      for (const source of game.sourcePaths) assert.ok(fs.existsSync(path.join(root, source)), source);
+      assert.ok(fs.existsSync(path.join(root, actualPath(game.path))), game.path);
+      for (const source of game.sourcePaths) assert.ok(fs.existsSync(path.join(root, actualPath(source))), source);
     }
     const sorted = [...record.games].sort((a, b) => b.rawScore - a.rawScore
       || b.components.localizationValue - a.components.localizationValue
@@ -58,20 +62,23 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     fixtures.patches = { patches: [] };
     const h = await createHarness({ fixtures, query: `?platform=${platform}` });
     // New living README candidates may not yet exist in the frozen 2026-10-08 review snapshot.
-    const assessedPaths = new Set(record.games.map(g => g.path));
-    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), record.games.map(g => g.path));
+    const visibleHistory = record.games.filter(g => !(platform === 'psp' && g.slug === movedSlug));
+    const assessedPaths = new Set(visibleHistory.map(g => g.path));
+    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), visibleHistory.map(g => g.path));
     const newlyRegisteredPaths = h.keys().filter(key => !assessedPaths.has(key));
     assert.ok(newlyRegisteredPaths.every(key => key.startsWith(`platforms/${platform}/games/`)));
     assert.equal(h.elements['ps3-views'].hidden, true);
     assert.equal(h.elements['recommendation-views'].hidden, false);
     assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 /);
     await h.click('recommendations-reserve');
-    assert.deepEqual(h.keys(), record.games.filter(g => g.pool === 'reserve').map(g => g.path));
+    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)),
+      visibleHistory.filter(g => g.pool === 'reserve').map(g => g.path));
+    assert.equal(h.keys().length, reserve + (platform === 'psvita' ? 1 : 0));
     assert.equal(h.location.searchParams.get('view'), 'reserve');
     await h.click('recommendations-active');
-    assert.equal(h.keys().length, active + newlyRegisteredPaths.length);
+    assert.equal(h.keys().length, active - (platform === 'psp' ? 1 : 0) + newlyRegisteredPaths.filter(key => key !== currentPath).length);
     await h.history.back();
-    assert.equal(h.keys().length, reserve);
+    assert.equal(h.keys().length, reserve + (platform === 'psvita' ? 1 : 0));
     await h.click('recommendations-all');
     await h.search('잠정');
     for (const game of record.games.filter(g => g.scoreStatus === 'provisional')) assert.ok(h.keys().includes(game.path));
@@ -115,5 +122,17 @@ test('a new living README record remains visible while awaiting review evidence'
   const h = await createHarness({ fixtures, query: '?platform=psp' });
   assert.ok(h.keys().includes('platforms/psp/games/new-living-fixture.md'));
   assert.match(h.elements['candidate-body'].innerHTML, /평가보류/);
-  assert.equal(h.keys().length, 124);
+  assert.equal(h.keys().length, 123);
+});
+
+
+test('Ore wa Shoujo Mangaka moves from PSP listings to PS Vita compatibility listings', async () => {
+  const psp = await createHarness({ query: '?platform=psp' });
+  const vita = await createHarness({ query: '?platform=psvita' });
+  assert.ok(!psp.keys().includes(previousPath));
+  assert.ok(vita.keys().includes(currentPath));
+  assert.ok(!fs.existsSync(path.join(root, previousPath)));
+  const report = fs.readFileSync(path.join(root, currentPath), 'utf8');
+  assert.match(report, /PS Vita 호환/);
+  assert.match(report, /네이티브 발매작이 아닙니다/);
 });

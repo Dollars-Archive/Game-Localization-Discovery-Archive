@@ -12,19 +12,19 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 40 | 5 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 43 | 6 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 32 | 4 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Portable | 42 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 
 > [!NOTE]
 > PS2 등록 40개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 보존 43개 중 활성 후보는 **29개**, 한국어 대안·재평가 보류 **11개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **6개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다.
+> PSP 보존 42개 중 활성 후보는 **28개**, 한국어 대안·재평가 보류 **11개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 보존 32개 중 활성 후보는 **28개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **4개**, A 3 / B 12 / C 13입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
+> PS Vita 보존 33개 중 활성 후보는 **29개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인 보류는 **1개**입니다. 활성 발굴 우선 후보는 **5개**, A 3 / B 12 / C 14입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
@@ -36,6 +36,8 @@
 
 이후 다른 플랫폼도 후보가 생기는 시점에 `platforms/<platform>/` 아래에 같은 구조로 추가합니다.
 
+
+> **2026-10-12 분류 변경:** [《나는 소녀만화가》](platforms/psvita/games/ore-wa-shoujo-mangaka.md)는 PSP 목록에서 삭제하고 **PS Vita 하위호환 실행 후보**로 옮겼습니다. Vita 네이티브판이 아닙니다. 아래 2026-10-08 리뷰 평가 건수는 당시 기준 역사 자료이며 이번 이동으로 소급 수정하지 않습니다.
 
 ## PS2·PSP·PS Vita·Dreamcast 리뷰 근거 기반 작품 평가
 

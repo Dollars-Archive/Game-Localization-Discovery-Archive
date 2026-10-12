@@ -3,7 +3,9 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
 const { root, readRows, createFixtures, createHarness } = require('./helpers/index-harness.cjs');
-const platforms = { ps2: 69, psp: 123, psvita: 51 };
+const platforms = { ps2: 69, psp: 123, psvita: 51 }; // 2026-10-08 historical snapshots
+const movedSlug = 'ore-wa-shoujo-mangaka';
+const movedPath = 'platforms/psvita/games/ore-wa-shoujo-mangaka.md';
 const data = p => JSON.parse(fs.readFileSync(path.join(root, `platforms/${p}/reassessments/2026-10-08-review-assessments.json`), 'utf8'));
 const labels = { supported: '근거 충분', provisional: '잠정', held: '평가보류' };
 
@@ -22,8 +24,11 @@ for (const [platform, total] of Object.entries(platforms)) {
       || (b.reviewScore || 0) - (a.reviewScore || 0) || a.slug.localeCompare(b.slug, 'en'));
     assert.deepEqual(record.games.map(g => g.slug), sorted.map(g => g.slug));
     const rows = readRows(fs.readFileSync(path.join(root, `platforms/${platform}/recommendations.md`), 'utf8'));
-    assert.equal(rows.length, total);
+    assert.equal(rows.length, total + (platform === 'psp' ? -1 : platform === 'psvita' ? 1 : 0));
     for (const [i, game] of record.games.entries()) {
+      const moved = platform === 'psp' && game.slug === movedSlug;
+      const row = rows.find(value => value['게임'].includes(`games/${game.slug}.md`));
+      if (!moved) assert.ok(row, game.slug);
       assert.ok(labels[game.scoreStatus]);
       assert.equal(game.personalScore, undefined);
       assert.equal(game.components, undefined);
@@ -36,8 +41,8 @@ for (const [platform, total] of Object.entries(platforms)) {
         assert.equal(game.reviewScore, null);
         assert.equal(game.reviewRank, null);
         assert.equal(game.sharedRank, false);
-        assert.equal(rows[i]['리뷰 점수'], '평가보류');
-        assert.equal(rows[i]['리뷰 순위'], '—');
+        assert.equal(row['리뷰 점수'], '평가보류');
+        assert.equal(row['리뷰 순위'], '—');
       } else {
         assert.ok(game.reviewScore >= 1 && game.reviewScore <= 10);
         assert.ok(Math.abs(game.reviewScore * 10 - Math.round(game.reviewScore * 10)) < 1e-8);
@@ -50,13 +55,20 @@ for (const [platform, total] of Object.entries(platforms)) {
         assert.equal(game.reviewRank, higher + 1);
         const tied = record.games.filter(g => g.reviewScore === game.reviewScore).length > 1;
         assert.equal(game.sharedRank, tied);
-        assert.equal(Number(rows[i]['리뷰 점수']), game.reviewScore);
-        assert.equal(parseInt(rows[i]['리뷰 순위'], 10), game.reviewRank);
-        assert.equal(rows[i]['리뷰 순위'].includes('공동'), tied);
+        if (!moved) {
+          assert.equal(Number(row['리뷰 점수']), game.reviewScore);
+          const higherLive = rows.filter(value => Number(value['리뷰 점수']) > game.reviewScore).length;
+          const sharedLive = rows.filter(value => Number(value['리뷰 점수']) === game.reviewScore).length > 1;
+          assert.equal(parseInt(row['리뷰 순위'], 10), higherLive + 1);
+          assert.equal(row['리뷰 순위'].includes('공동'), sharedLive);
+        }
       }
-      assert.equal(rows[i]['점수 구분'], labels[game.scoreStatus]);
-      assert.ok(rows[i]['게임'].includes(`games/${game.slug}.md`));
-      assert.ok(fs.existsSync(path.join(root, game.path)));
+      if (!moved) {
+        assert.equal(row['점수 구분'], labels[game.scoreStatus]);
+        assert.ok(row['게임'].includes(`games/${game.slug}.md`));
+      }
+      const physicalPath = moved ? movedPath : game.path;
+      assert.ok(fs.existsSync(path.join(root, physicalPath)));
       for (const e of game.reviewEvidence) {
         assert.ok(e.source && e.edition && e.sampleKind);
         assert.ok(e.originalRating == null || typeof e.originalRating === 'string');
@@ -64,7 +76,7 @@ for (const [platform, total] of Object.entries(platforms)) {
         assert.ok(['archived', 'live'].includes(e.verification));
         assert.equal(e.auditedAt, '2026-10-08');
       }
-      const document = fs.readFileSync(path.join(root, game.path), 'utf8');
+      const document = fs.readFileSync(path.join(root, physicalPath), 'utf8');
       assert.match(document, /## 2026-10-08 리뷰 근거 기반 작품 평가/);
       assert.doesNotMatch(document, /## 2026-10-08 개인 추천과 전체 순위/);
     }
@@ -85,7 +97,8 @@ for (const [platform, total] of Object.entries(platforms)) {
       || (a.reviewScore || 0) - (b.reviewScore || 0) || (a.slug < b.slug ? -1 : a.slug > b.slug ? 1 : 0));
     // The dated reassessment snapshot is immutable; newer README games are unscored until reviewed.
     const assessedPaths = new Set(record.games.map(g => g.path));
-    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), reversed.map(g => g.path));
+    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)),
+      reversed.filter(g => !(platform === 'psp' && g.slug === movedSlug)).map(g => g.path));
     h.elements['review-evidence'].value = 'held';
     await h.elements['review-evidence'].fire('change');
     assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), held.map(g => g.path));

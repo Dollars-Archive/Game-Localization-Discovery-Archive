@@ -1115,7 +1115,14 @@ function resolveRelativeMarkdownLink(currentFile, href) {
 }
 async function initGame() {
   const params = new URLSearchParams(location.search);
-  const file = params.get('file') || '';
+  const originallyRequestedFile = params.get('file') || '';
+  const file = originallyRequestedFile === 'platforms/psp/games/ore-wa-shoujo-mangaka.md'
+    ? 'platforms/psvita/games/ore-wa-shoujo-mangaka.md' : originallyRequestedFile;
+  if (file !== originallyRequestedFile) {
+    const newLocation = new URL(location.href);
+    newLocation.searchParams.set('file', file);
+    history.replaceState(null, '', newLocation.toString());
+  }
   const status = document.getElementById('reader-status');
   const reader = document.getElementById('reader');
   const source = document.getElementById('source-link');

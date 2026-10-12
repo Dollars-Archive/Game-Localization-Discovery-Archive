@@ -1,5 +1,7 @@
 # PSP 리뷰 근거 기반 작품 평가 (123개)
 
+> **2026-10-12 경로 정정:** 《나는 소녀만화가》 상세 문서가 사용자 요청으로 PS Vita **하위호환 실행 후보**로 이동해 링크만 고쳤습니다. 본 문서의 2026-10-08 PSP 점수·순위·표본은 당시의 역사 기록으로 보존합니다.
+
 기준 커밋: [1950e209e775feaab8ab21762eb9d3eb83043c25](https://github.com/Dollars-Archive/Game-Localization-Discovery-Archive/commit/1950e209e775feaab8ab21762eb9d3eb83043c25). 이전 개인 추천 커밋을 보존하는 추가 수정입니다. 수정 범위는 PS2·PSP·Vita 평가와 공통 표시·검증이며 PS3 평가·구성, 다른 플랫폼, 찜·착수·제외·복구 데이터는 보존합니다. 파일 삭제는 없습니다.
 
 **123개 = 기존 목록 30개 + 후보군 93개**를 그대로 유지했습니다. 근거 충분 77개 / 잠정 35개 / 평가보류 11개입니다. 평가보류도 목록에 남으며 숫자 점수·순위를 부여하지 않습니다. 명시 탈락·종료 기록은 복원하지 않았습니다.
@@ -34,7 +36,7 @@
 | 8 (공동) | [Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)](../games/arcana-famiglia-vascello-phantasma-no-majutsushi.md) | 7.9 | 근거 충분 | 기존 목록 | 인물 대화·후속 감상의 만족도가 여러 후기에서 확인; 장 선택·기독 스킵은 편하지만 입력을 반복하는 구간이 남음. 에피소드 만족도 편차와 해금 표시 문제 단일 보고. |
 | 8 (공동) | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](../games/rebellions-secret-game-2nd-stage.md) | 7.9 | 근거 충분 | 기존 목록 | 인물 묘사 보강과 독서 흡인력에 여러 후기의 호평; 기본 읽기 기능은 충실하나 편집과 구성의 균일성에 이견. 음성 균형·정적인 표현과 일부 장면 연결의 편차. |
 | 10 (공동) | [Deardrops Distortion (디어드롭스 디스토션)](../games/deardrops-distortion.md) | 7.8 | 근거 충분 | 후보군 | 밴드 대화·인물 상호작용은 강점이나 시나리오 밀도 편차; 독서 흐름과 추가분의 만족도에는 이견. PSP 스킵 불편과 일부 추가분의 짧은 구성. |
-| 10 (공동) | [Ore wa Shoujo Mangaka (나는 소녀만화가)](../games/ore-wa-shoujo-mangaka.md) | 7.8 | 근거 충분 | 기존 목록 | 빠른 대화와 창작 소재 코미디가 핵심 강점; 용어 사전·표지 편집은 유용하며 선택 개입은 제한적. 저장 정리의 불편과 패러디 의존으로 감상 편차. |
+| 10 (공동) | [Ore wa Shoujo Mangaka (나는 소녀만화가)](../../psvita/games/ore-wa-shoujo-mangaka.md) | 7.8 | 근거 충분 | 기존 목록 | 빠른 대화와 창작 소재 코미디가 핵심 강점; 용어 사전·표지 편집은 유용하며 선택 개입은 제한적. 저장 정리의 불편과 패러디 의존으로 감상 편차. |
 | 10 (공동) | [Twinkle Crusaders GoGo! (트윙클☆크루세이더스 GoGo!)](../games/twinkle-crusaders-gogo.md) | 7.8 | 근거 충분 | 후보군 | 활기 있는 대사는 강점이나 이야기·추가분의 밀도는 고르지 않음; 행동 순서·합동 공격·난도 선택의 전투 설계가 강함. 긴 독서 구간과 전투 빠른 재시작 부재가 약점. |
 | 13 (공동) | [Clock Zero: Shuuen no Ichibyou Portable (CLOCK ZERO ~종언의 1초~ Portable)](../games/clock-zero-shuuen-no-ichibyou-portable.md) | 7.7 | 근거 충분 | 후보군 | 시나리오·인물·독서 동기에 구체적 호평과 느린 대화의 이견; 과제는 소재와 연결되지만 문자 입력·반복 작업이 감상을 끊음. 선택 판단·재진행의 마찰과 과제 반복 부담. |
 | 13 (공동) | [Dungeon Travelers 2: Ouritsu Toshokan to Mamono no Fuuin (던전 트래블러즈 2: 왕립도서관과 마물의 봉인)](../games/dungeon-travelers-2-ouritsu-toshokan-to-mamono-no-fuuin.md) | 7.7 | 근거 충분 | 후보군 | 대화·이벤트가 탐색 반복에 변화를 줌; 직업·스킬·장비 조합은 깊지만 속도 수치 편중과 급격한 난도 편차. 전투 템포·아이템 설명·일부 조우의 대응 가능성이 약점. |
@@ -529,7 +531,7 @@
 
 기존 근거 기록:
 
-- [platforms/psp/games/ore-wa-shoujo-mangaka.md](../games/ore-wa-shoujo-mangaka.md)
+- [platforms/psp/games/ore-wa-shoujo-mangaka.md](../../psvita/games/ore-wa-shoujo-mangaka.md)
 - [platforms/psp/README.md](../README.md)
 
 <a id="twinkle-crusaders-gogo"></a>
