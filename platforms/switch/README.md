@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **2개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **1개**
+> 등록 후보: **3개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -15,6 +15,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 |---|---:|---|---:|---:|---|---|---|---|
 | [MAMIYA - A Shared Illusion of the World's End - (마미야)](games/mamiya-a-shared-illusion-of-the-worlds-end.md) | 2026 | 심리 미스터리·멀티시점 다크 비주얼 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | B | PC Steam 90% 긍정·479건 / PC Complete Noisy Pixel 9/10·Mygamer 8/10 / PC 첫 2부 NookGaming 7/10 / Switch NintendoBoy 실플레이 1편·점수 미확정 | 2026-10-12 Switch 한국어 미지원·공개 한국어 패치 미확인 / PC Steam 한국어 미지원·실사용 공개 패치 미발견 | 2021 PC FallDown+DownFall → 2023 PC DoomsDayDreams 별도 DLC → 2026 Switch 3부 합본·일본어 풀보이스·신규 CG·IF 미니게임 | 💎 우선 후보 |
 | [Wizard's Symphony (위저즈 심포니)](games/wizards-symphony.md) | 2019 | 풀보이스 캐릭터 DRPG·1인칭 던전 탐험·턴제 전투 | ⭐⭐⭐½☆ (3.5/5) | B | Switch Famitsu 30/40·4명 / Switch 가격.com 4.00/5·평점 1명 / PS4 PS Store 4.31/5·175명(타기종 참고) / Switch·타판 완주 서술 3명 | 2026-10-12 Switch 일본어 표기·공개 완성 한국어 패치 미확인 / PS4 실사용 한국어 대안 미발견 | 1995 Wizard's Harmony와 별개 신작 / 2019 Switch·PS4 동시판 / 2019 Ver1.01·1.02 개선 | 🟢 후보 |
+| [Touhou Sky Arena -Matsuri- Climax (동방 스카이 아레나: 마츠리 클라이맥스)](games/touhou-sky-arena-matsuri-climax.md) | 2019 | 음악-텐션 연동 3D 공중 탄막·대전 액션 | ⭐⭐⭐½☆ (3.5/5) | C | **Switch Video Chums 7.2/10·실플레이 1명** / 일본 Switch 가격.com 5/5·1명 / Play-Asia 4/5·8표(본문2명) / PS4 Famitsu 30/40·4명 / Steam PC 약200건 86% 긍정 | **Switch 공식 일본어·영어만 지원, 한국어 미지원** / 공개 완성 한글패치 확인 못함 / PC Steam 역시 한국어 없음 | 2016 PS4·2017 Vita·**2019 Switch DL 기본20인+DLC3인** / 2020 일본 Switch 패키지 DLC 포함 23인·한정판 추가 30곡 코드 / 2020 PC Steam | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
@@ -48,3 +49,9 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 [《Meteor World Actor: Badge & Dagger》 Switch 발매·한국어화 조사 보고서](archive/meteor-world-actor-badge-and-dagger-platform-check.md)를 **정식 후보 목록과 별도인 `archive/`에 보존**했습니다. **2021년 Windows/일본 Android 원작, 2022년 Windows Steam판**은 확인됐으나 **Nintendo Switch 정식 발매·닌텐도 e숍 ID·공식 출시 자료가 2026-10-12 현재 확인되지 않아 후보 등록하지 않았습니다.** 영어 PC판 Steam **88% 긍정·358건**, 자체 PC 작품성 참고 **3.5/5**와 짧은 시나리오/미완결 평가, 2026년 후속 최종편 《Gaslight Bullet》의 Windows/Android 출시까지 기록했습니다. **비공식 PC→Switch 포팅 주장이나 'Switch gameplay'라는 영상 제목만으로 정식 Switch판이 존재한다고 결론 내리지 않습니다.**
 
 **현재 Nintendo Switch 활성 후보 2개 / 💎 우선 후보 1개 / A급 0개 / 기준 미달 기록 1개는 변동 없습니다.** Switch 실제 화면 자료는 없으므로 허구의 Switch 스크린샷을 등록하지 않았습니다.
+
+## 2026-10-12 Touhou Sky Arena -Matsuri- Climax 등록
+
+[《Touhou Sky Arena -Matsuri- Climax》 심층 평가](games/touhou-sky-arena-matsuri-climax.md)는 정식 Nintendo Switch 3D 공중 탄막 대전작이다. **음악의 전개에 따라 사용 가능한 기술과 화력이 달라지는 텐션 시스템**, 2019 기본 20인/40타입·추가 3인 DLC, 2020 Switch 일본 패키지 23인·90곡 이상 소개/한정판 추가 30곡 다운로드 코드를 정확히 구분했다. **Switch 직접 Video Chums 7.2/10**, 일본 Switch 사용자 5/5(1명)·Play-Asia 4/5(8표), PS4 Famitsu 30/40, PC Steam 약 200건 86% 긍정을 판본별로 참고했다. 장점은 곡 연동 전투·컨텐츠, 단점은 낮은 이야기 밀도·초기 조작/난도·다인전 혼잡이다.
+
+**작품성 3.5/5·한글화 C급·🟢 후보**로 정식 등록한다. Switch 공식 한국어 미지원·공개 완성 한글패치 미확인. **정식 등록 3개 / 💎 발굴 우선 1개 / A급 0개**, 기존 MAMIYA·Wizard's Symphony·Astral Takers 및 Switch 평가 보류 기록은 유지한다. 기술적 한글 출력/패치 검증은 미실행이다.
