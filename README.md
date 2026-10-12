@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 5 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 6 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -245,3 +245,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 [《VARLET (ヴァレット)》 평가 보고서](platforms/switch/games/varlet.md)는 2025년 출시된 학원 심리·타임라인 턴제 RPG의 **2025-08-27 북미 Switch판**과 **2025-08-28 한국어 자막을 포함한 아시아 Switch판**을 구분했습니다. [Clouded Leopard Entertainment의 공식 출시 안내](https://www.cloudedleopardent.com/kr/news/5605/)로 **Switch 자체 한국어 정식판이 있음**을 확인했으며 PS5 한국판과 PC Steam에도 한국어가 있습니다. 따라서 북미 Nintendo Store가 일본어·영어만 표시한다는 이유로 한글화 대상에 넣지 않습니다.
 
 작품성은 **2.5/5·🔴 패스**입니다. Switch Metacritic 50/100(평론가 4건), PC Steam 사용자 긍정 47%(117건), 리뷰의 전투 밸런스·반복 탐색·스토리 문제를 근거로 하되, 다른 전문지의 긍정 의견도 기록했습니다. **Switch 정식 활성 후보 5개 / 발굴 우선 1개 / 한글화 A급 0개 유지**, Switch 기준 미달 평가 기록만 **2개 → 3개**로 늘렸습니다. 기존 다른 플랫폼 집계·후보·보류 자료는 그대로 보존합니다.
+
+
+## 2026-10-12 Class of Heroes 3 Remaster Switch 신규 등록
+
+[《Class of Heroes 3 Remaster / 검과 마법과 학원물 3 리마스터》](platforms/switch/games/class-of-heroes-3-remaster.md)는 **2025-09-18 Nintendo Switch판, 발굴 추천도 3.5/5·한글화 우선도 B의 활성 후보**입니다. 원판의 **3학교·10종족·45학과/6인 파티/동료 상성·합성** 등 고전 던전 RPG 강점을 인정하지만, **전투 및 직업 밸런스 편차·부족한 현대적 편의·빈약한 주요 서사**를 근거로 4.0점에는 미달한다고 평가했습니다. 중요한 예외는 **2010 한국 PS3 정식 발매작이 게임 자체는 일본어, 한국어는 설명서만 지원**했다는 점입니다. 신규 2025 Switch/PS5/Steam에도 공식 한국어와 적용 가능한 완성 한국어 패치를 확인하지 못해 아카이브 한국어 제외 규칙을 통과합니다. **일본 2025 Switch ‘1 2 3 Remaster Collection’ 패키지와 《3》 단독 리마스터판**을 구분해 기록했습니다. **Switch 활성 후보 6개·💎 우선 후보 1개·A급 0개**, 기존 등록선 미달 3개와 타 플랫폼 수치 및 예전 기록을 보존합니다.
