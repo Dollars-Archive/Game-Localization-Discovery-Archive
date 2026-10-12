@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 4 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 5 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -234,3 +234,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 ## 2026-10-12 ROAD59 Switch 기준 미달 평가 기록
 
 [《ROAD59 -A Yakuza’s Last Stand-》](platforms/switch/games/road59-a-yakuzas-last-stand.md)는 **2025년 9월 발매 Switch·Steam 비주얼노벨**로, 공식 한국어는 없고 일본어 파트보이스·영어·중국어 간체/번체 자막을 지원합니다. 스토리 설정과 성우·일부 Extra는 장점이지만 **Steam 직접 구매 리뷰 긍정 37%(27건)**와 전체 46/63 긍정(외부 키·무료 포함)의 표본 차이, 짧은 본편·23인 군상극의 비중 편차·선택지의 실제 영향·결말 완성도에 대한 지적을 근거로 **작품성 3.0/5 · 🔴 패스**, 일반 3.5 후보 등록선 미달이라고 판단했습니다. **정식 Switch 후보 4개·우선 1개·A급 0개는 변동 없고**, 평가 이력은 웹 목록에 보존합니다.
+
+
+## 2026-10-12 BEYBLADE X EVOBATTLE Switch 신규 등록
+
+[《BEYBLADE X EVOBATTLE》](platforms/switch/games/beyblade-x-evobattle.md)는 2025년 Switch에서 출시된 《XONE》의 별도 후속 배틀 액션으로, **2026-10-12 한글화 후보 작품성 3.5/5·우선도 C**로 신규 등록했습니다. 일본판·북미판 Switch에 공식 한국어 지원이 없고 공개적으로 적용 가능한 한국어 패치를 확인하지 못했습니다. **Steam 2026-10-05 중국어 간체·번체 업데이트와 Switch 2 Edition의 성능 강화**는 언어 지원·판본 혼동 없이 구분했습니다. 최신 Switch 목록의 **활성 5개 / 💎 1개 / A급 0개**로 반영하고, **《Astral Takers》·《ROAD59》 기준 미달 기록 2개**는 별도 보존합니다. 이전 모든 플랫폼 진입 링크, 숫자, 역사적 평가 데이터는 변경하지 않습니다.
