@@ -14,7 +14,7 @@ const readRows = markdown => Array.from(baseContext.extractMarkdownTable(markdow
 // Synthetic scores and selection only. Never use these fixtures as editorial data.
 function createFixtures(sourceRoot = root) {
   const data = {};
-  for (const platform of ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast']) {
+  for (const platform of ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast', 'switch']) {
     const name = `platforms/${platform}/README.md`;
     data[name] = fs.readFileSync(path.join(sourceRoot, name), 'utf8');
     const ranking = `platforms/${platform}/recommendations.md`;
@@ -66,7 +66,7 @@ class Element {
 async function createHarness({ query = '?platform=ps3', fixtures = createFixtures(), beforeFetch } = {}) {
   const ids = [...index.matchAll(/id="([^"]+)"/g)].map(match => match[1]);
   const elements = Object.fromEntries(ids.map(id => [id, new Element(id)]));
-  const platforms = ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast'].map(p => new Element('', { platform: p }));
+  const platforms = ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast', 'switch'].map(p => new Element('', { platform: p }));
   const sorts = ['personal', 'priority', 'rating', 'year', 'title'].map(p => new Element('', { sort: p }, p));
   const views = ['all', 'active', 'reserve'].map(view => Object.assign(elements[`recommendations-${view}`], { dataset: { view } }));
   const document = { body: { dataset: {} }, getElementById: id => elements[id], querySelectorAll: selector => selector === '.platform-btn' ? platforms : selector === '.recommendation-view' ? views : sorts };

@@ -16,6 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
+| Nintendo Switch | 0 | 0 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 40개에는/ **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -147,15 +148,17 @@
 │  │  ├─ README.md
 │  │  └─ games/
 │  │     └─ <game>.md
-│  └─ dreamcast/
-│     ├─ README.md
-│     └─ games/
-│        └─ <game>.md
+│  ├─ dreamcast/
+│  │  ├─ README.md
+│  │  └─ games/
+│  │     └─ <game>.md
+│  └─ switch/
+│     └─ README.md
 └─ templates/
    └─ game-entry-template.md
 ```
 
-플랫폼이 추가되면 같은 구조로 `platforms/switch/`, `platforms/pc/`처럼 확장합니다.
+플랫폼이 추가되면 같은 구조로 `platforms/pc/`처럼 확장합니다. Nintendo Switch 게임 문서는 등록 시 `platforms/switch/games/`에 추가합니다.
 
 ## 새 게임 등록
 
