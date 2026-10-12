@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **5개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **2개**
+> 등록 후보: **5개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -20,6 +20,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [BEYBLADE X EVOBATTLE (베이블레이드 X: 에보배틀)](games/beyblade-x-evobattle.md) | 2025 | 베이블레이드 실시간 액션·CX 부품 커스텀·온라인 대전 | ⭐⭐⭐½☆ (3.5/5) | C | Switch 価格.com 3.0/5·1명 / PC Noisy Pixel 7/10·1명 / Steam 80% 긍정·121건(PC) / Famitsu·4Gamer Switch 리뷰 0건 | 2026-10-12 Switch 일본어·북미 영어, 한국어 미지원 / Steam 한국어 미지원·2026-10-05 중국어 간·번체 추가 / 공개 완성 한글패치 미발견 | 2024 XONE 별도 전작 → 2025 Switch EVOBATTLE 신규 스토리·타입 배틀·CX / 일본 Switch 2 Edition 2025-12-18·미국 2026-01-12 향상 / 2026 PS5판·유료 DLC | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [ROAD59 -A Yakuza’s Last Stand- (ROAD59: 신시대 임협특구 마천루 흑백 항쟁)](games/road59-a-yakuzas-last-stand.md) | 2025 | 이능 야쿠자·시간 반복·23인 군상극·선택지형 비주얼노벨 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Steam 직접 구매 27건 중 긍정 37% / 전체 63건 중 긍정 46건·73%(외부 키/무료 포함)** / Dengeki Switch·Steam 본편·Extra 실기 정성 호평 / Famitsu Switch 정량 평가 없음 | Switch 공식 영어·일본어·중국어 간체/번체 / **한국어 미지원**, 2026-10-12 공개 완성 한국어 패치 미확인 | 2025-09-25 일본 Switch/Steam 동시 / 일본어 파트보이스 / 바·루프/배드 분기·본편 후 Extra 2개 / 2026 Windows Steam만 무료 체험판 / Switch2 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
+| [VARLET (ヴァレット)](games/varlet.md) | 2025 | SNS·심리 진단 학원 RPG·3인 타임라인 턴제 전투 | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch Metacritic 50/100·평론가 4건 / Pure Nintendo 6/10 / Siliconera 5/10 / PS4Blog 8/10(별도 매체)** / PC Metacritic 64/100·9건 / Steam 47% 긍정·117건 | **2025-08-28 아시아 Switch 한국어 자막 정식 발매(CLE)** / 북미 Switch 일본어·영어만 표기 / PS5 한국판·PC Steam 공식 한국어 지원 | **2025-08-27 북미 FuRyu판 / 2025-08-28 일본·아시아판 CLE 한국어 발매** / SSS 반복·전투 밸런스 취약 / 지역별 지원 언어 구분 | 🔴 패스 · 3.5점 미달 · Switch 공식 한국어판 존재, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
 
@@ -86,3 +87,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **중요:** 2024-11-12 **Windows 《아마카노2 Perfect Edition》 한국어 패치 등록 및 원 출처**를 [GTAKU](https://www.gtaku.net/vngameinfo/13733)·[원 게시물](https://arca.live/b/yuzusoft/121094092)에서 확인했습니다. 제작사도 **2022 Perfect Edition은 2020 PC 본편과 시나리오 동일**이라고 안내했습니다. 다만 **패치의 실제 적용·3인 루트 완역·현재 파일 접근 가능 여부·이미지 식질·Switch와의 본문 차이**는 재현 검증하지 못했으므로 **🟡 기존 한국어 대안 검증 보류**입니다. 정책에 따라 **미번역 신작인 것처럼 활성 후보 표를 추가하지 않았고**, 우선도 A/B/C도 미부여입니다. 실사용 한국어 완성판이 확인되면 신규 Switch 번역 후보에서 제외하고, 불완전하거나 이용 불가인 경우 별도 재평가합니다.
 
 **현재 Switch 활성 후보 5개 / 💎 발굴 우선 1개 / A급 0개 / 기준 미달 평가 기록 2개**는 변동 없습니다. 기존 《MAMIYA》·《Wizard's Symphony》·《Soul Cradle》·《Touhou Sky Arena》·《BEYBLADE X EVOBATTLE》, 《Astral Takers》·《ROAD59》 및 다른 보류/타 플랫폼 조사 기록도 보존했습니다.
+
+## 2026-10-12 VARLET 작품성 2.5점·아시아 Switch 공식 한국어판 확인
+
+[《VARLET (ヴァレット)》 상세 조사](games/varlet.md)는 2025-08-27 북미 Nintendo Switch판(FuRyu, 일본어·영어 표기)과 **2025-08-28 한국 포함 아시아 정식 Nintendo Switch판(Clouded Leopard Entertainment, 공식 한국어 자막)**을 구분했습니다. 아시아 배급사 [2025-04-24 발표](https://www.cloudedleopardent.com/kr/news/5605/)와 [공식 제품 사양](https://www.cloudedleopardent.com/game/varlet/kr/spec/)이 Switch 자체의 정식 한국어 지원을 확인합니다. PS5 한국판·PC Steam판도 한국어 UI 또는 자막을 지원합니다.
+
+작품 자체는 Switch Metacritic **50/100·평론가 4건**, 별도 Switch 전문지의 호불호 및 PC Steam **117건 중 47% 긍정**을 구분해 평가했습니다. 심리 소재·음악·타임라인 전투의 초기 아이디어는 좋지만, 브레이크/회복 남용에 따른 전투 밸런스, SSS 의뢰 반복·얕은 탐험/육성, 익숙한 이야기를 감점해 **작품성 2.5/5 · 🔴 패스**로 결정했습니다. Switch 최적화·프레임·크래시 및 파일 구조는 실측하지 않아 **미확인**입니다.
+
+**활성 Switch 후보 5개 / 💎 발굴 우선 1개 / 🔥 A급 0개는 그대로 유지**, 3.5점 미달 평가 이력은 **3개**로 증가합니다(기존 Astral Takers·ROAD59 및 이번 VARLET). 다른 공식 한국어 대안 보류 기록·타 플랫폼 자료와 과거 시점의 집계를 보존합니다.
