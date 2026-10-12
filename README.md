@@ -330,3 +330,12 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 원작은 **용병·부호·도적·가희 4인 10장 덱 협력·속성 체인·턴제 커맨드 전투**가 특징이며, 출시 당시 전투/일러스트와 음향에는 호평이 있으나 후반 유료 카드 인플레이션 및 4인 매칭/협력 의존 문제가 컸습니다. **2015-06-04 국내 공식 한국어 모바일판 출시 및 2017-03-28 국내 서비스 종료**([KR 기업 공시](https://kind.krx.co.kr/external/2018/03/30/004149/20180330013103/11011.htm)·[게임메카](https://www.gamemeca.com/view.php?gid=1314628))를 확인했으며, 일본 온라인 본편 [2020-09-30 서비스 종료](https://www.kairisei-ma.jp/), PS4/Vita판 [2018-03-30 종료](https://www.jp.square-enix.com/kairi-ps/)를 구분했습니다. 종료 후 일본 모바일 오프라인 모드는 스토리·카드·모델 열람 중심으로 **원래의 4인 전투가 복원되지 않았습니다**. 별개 2017 [Steam VR판의 공식 한국어 자막](https://store.steampowered.com/app/436890/KairiSei_Million_Arthur_VR___VR/)도 기록했습니다.
 
 **원작 서비스 당시 작품성 참고 3.0/5(자체 잠정), Switch판 별점·기술 난이도·한글화 우선도 평가 불가.** 따라서 Nintendo Switch 활성 후보와 3.5 미달 게임 수 모두 불변, **`platforms/switch/archive/` 플랫폼 불일치 기록에만 보존**했습니다. **최신 Switch 활성 12개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 등록선 미달 6개**, 타 플랫폼·다른 게임·이전 집계 변경 없음.
+
+
+## 2026-10-12 Nintendo Switch 《CHAOS;HEAD NOAH》 4.0/5 작품성 평가·기존 완성 한국어 패치 제외
+
+[《CHAOS;HEAD NOAH (카오스 헤드 노아)》 Switch 스토리/판본/버그·2024 한국어 완성 대안 기록](platforms/switch/archive/chaos-head-noah-existing-korean-patch.md)은 **2008 PC 일반판과 2009 Xbox 360 NOAH 완전판, 2022-02-24 일본 Switch HD 리마스터 및 2022-10-07 영문 Switch/PC 이식**을 분리합니다. **Switch 본편 단독 Metacritic 68/100·7건**과 별도 **《NOAH / CHAOS;CHILD》 합본 MC 75/100·8건**을 합치지 않았고, 강렬한 시부야 망상·연쇄살인 심리 스릴러와 타쿠미 심리 성장·망상 분기 시스템은 호평했으나 장문 독백·개별 루트 편차·영어 현지화 불완전·2022 Switch 출시 직후 진엔딩 소프트락을 감점해 **자체 작품성 ⭐⭐⭐⭐☆ 4.0/5**로 평가합니다. MAGES.의 1080p Switch HD 판본과 2025 CoZ Switch 지역별 복원 패치도 **공식 Switch 한국어 제공과는 구분**했습니다.
+
+**2024-04-25 국내 번역자 [《CHAOS;HEAD NOAH》 Steam/GOG 한국어 패치 배포](https://thirdmelt.blogspot.com/2024/04/chaoshead-noah-gog.html)**가 실제 존재하며 NOAH 본편, 삭제 콘텐츠 복원, CG·영상·Tips 자막, 추가 시나리오 Delusion of Zero를 포함한다고 제작자가 명시했습니다. **2024-05-25 전 루트 수정 기록** 및 [한국어 패치 기준 모든 엔딩/도전과제 100% 공략](https://steamcommunity.com/sharedfiles/filedetails/?id=3231080122)을 교차 확인해 원작 무인판의 2018 부분 번역이 아닌 **NOAH 자체의 실사용 가능한 한국어 완성 대안**이 있다는 것이 중요합니다. 해당 패치는 **PC Steam/GOG용이며 Switch에 자동 적용된다는 뜻은 아닙니다**. Nintendo Switch 자체는 공식 일본어/영어 지원이며 한국어는 없습니다.
+
+**한글화 가치 원칙에 따라 점수 4.0/5은 그대로 기록하고 한국어 완성 대안이 이미 있으므로 Switch 신규 활성 후보 제외(🟡 한국어 대안 존재), A/B/C 우선도 미부여**로 분류했습니다. **기존 Switch 활성·우선·A급과 기준선 미달 집계는 변경하지 않았고**, 다른 플랫폼 후보와 과거 기록도 보존합니다.
