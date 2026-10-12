@@ -290,3 +290,16 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **Switch 이식 품질 주의:** [Nippon Ichi 공식 2021-12-28 Switch v1.0.1 안정성/슬립 플레이시간 수정](https://nippon1.jp/news/2021/20211228.html)은 기록했습니다. **2025년 Switch 2 초기 공식 호환성 문제** 이후 2025-07-15 지원으로 분류된 자료가 있으나, [2025-11~2026-09 r/DRPG에서 지속적으로 Switch 2 강제 종료·효과음·저장 진도 유실 제보](https://www.reddit.com/r/DRPG/comments/1omaz3j/labyrinth_of_galleria_constant_crashing_on_switch/)가 확인돼 **Switch 2 장시간 안정성이 완전히 해결됐다고 결론 내리지 않았습니다**. 반면 Switch 1에서 무조건 같은 충돌이 난다고 확대하지 않고, **일본 구 버그와 2023 북미판에서 수정됐다는 옷장 Suspend 문제**도 나눠 기록했습니다. 실제 최신 Switch 롬·ROMFS·폰트·패치/기기 실험이 없어 **기술 난도 미확인**입니다.
 
 **집계 유지:** **Nintendo Switch 활성 후보 14개 / 💎 우선 후보 3개 / 🔥 A급 0개 / 🔴 3.5 미달 평가 기록 7개**. 이 기록은 기존 한국어 대안으로 신규 제외된 작품이므로 **3.5점 미달작으로 기록하지 않고 archive/에만 보존**합니다. 기존 14개 후보, 《Amakano ~Second Season~》 등의 한국어 대안 보류, 다른 게임·타 플랫폼 및 과거 날짜별 역사적 집계는 변경하지 않았습니다.
+
+
+## 2026-10-12 《Rhapsody II: Ballad of the Little Princess》 개별 4.0점 심층 평가·기존 25주년 컬렉션 중복 방지
+
+[《Rhapsody II / 리틀 프린세스: 마알 왕국의 인형공주2》 Switch 단독 게임 심층 평가·PS1 한국어 v0.8·2026 Switch 2 복각 감사](archive/rhapsody-ii-ballad-of-the-little-princess-edition-audit.md)를 별도 **archive/**에 저장했다. 이 작품은 기존 **[《Rhapsody: 25th Anniversary Collection》 Switch 3.5/5·B급 활성 후보](games/rhapsody-25th-anniversary-collection.md)의 2편**이며, 이전 등록 시에도 **2편 자체 작품성을 4.0/5**로 평가했다. 따라서 Switch 합본에 이미 포함된 2편을 **중복 신규 활성 후보 1건으로 추가하지 않았다**. 기존 25주년 합본의 3.5/B와 한국어 확인되지 않은 3편을 포함한다는 가치도 바꾸지 않았다.
+
+**판본:** [Nippon Ichi 일본 Switch 공식](https://nippon1.jp/consumer/marl_kingdom2/)에서 **2023-12-21 《리틀 프린세스2》 단독**이 출시됐고, 서양 [Nintendo US 2023-08-29](https://www.nintendo.com/us/store/products/rhapsody-marl-kingdom-chronicles-switch/)에는 영어 **2+3편 합본**이 별도로 출시됐다. 2024 일본 25주년 제품은 **1+2+3편 합본**이다. 여기에 **2026-08-20 HAMSTER [Nintendo Switch 2 전용 《Console Archives Rhapsody II》](https://www.nintendo.com/us/store/products/console-archives-rhapsody-ii-ballad-of-the-little-princess-switch-2/)**이 추가됐지만 이 상품은 **PS1 일본어 원본 ROM을 이용하며 영어 등은 UI·설명서만 지원**한다. Switch 1 게임의 최신 패치, 영어 본문, 한국어 Switch 패치로 오인하지 않는다.
+
+**별점 근거:** 서양 2023 **Nintendo Switch 단독 2편 RPGamer 3.5/5(리뷰어 1명)**, 2023 **Windows 2편 RPGFan 80/100(1명)**, Switch **2+3 합본 MC 70/100(전문지 10건)**을 상품·기종·분모별로 구분했다. 코르넷의 딸 쿠루루/크레아/소니아/첼로 성장담과 뮤지컬, 1편 격자 전투→2편 턴제 커맨드·인형 마법/돈(Inotium)·상태이상은 강점이지만, 지나친 랜덤 인카운트·맵 반복·동료 재합류 시 장비 관리·적은 QoL 개선이 약점이다. 자체 2편 작품성 **4.0/5**를 유지한다.
+
+**기존 한국어화:** 2026-09-25 [RetroDB PS1 2편의 제작자 흐음 **v0.8** 등록](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2)을 재확인했다. 동적 배포처 이동 링크는 현재 조회에서 **410 Gone**으로 작동하지 않아 파일 자체·전루트 완료·실기 패치 적용은 **미검증**이다. Switch 2023/2024 및 Switch 2용 **공식 한국어와 독립 완성 한글패치도 미확인**. 원본 PS1 번역을 무시하거나 Switch에 자동 적용된다고 단정하면 안 된다.
+
+**이번 감사 후 현행 Switch 활성 14개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 기록 7개 유지.** 2편의 단독 상세 평가와 기존 한국어 번역은 중복 제거용 아카이브 정보로만 보존한다. 기존 다른 플랫폼, 보류·패스, 이전 날짜별 역사적 당시 수치를 변경하지 않는다.
