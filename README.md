@@ -322,3 +322,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **북미 Switch 공식 지원 언어는 일본어·영어, 2024 Steam 역시 일본어·영어**로 한국어가 없습니다. 현재 조사 범위에서 PSP/PC/Switch 한글패치 적용이 가능한 공개 완성 한국어 대안 미발견입니다. 직업·아이템·퀘스트 한국어화 가치는 있으나 대사·시나리오 밀도가 낮아 **B보다 낮은 C**를 권고하고, 실제 Switch 자산 미분석으로 **기술 난도 미확인**을 유지했습니다.
 
 **이번 갱신 시점 현행 Switch 활성 후보 12개 / 💎 발굴 우선 3개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 기록 6개**입니다. 같은 날 별도로 추가된 《Labyrinth of Touhou》와 기존 다른 플랫폼·보류·패스/역사적 현황은 보존했습니다.
+
+## 2026-10-12 Nintendo Switch 《Kai-ri-Sei Million Arthur》 플랫폼 불일치 평가 기록
+
+[《Kai-ri-Sei Million Arthur / 괴리성 밀리언아서》 공식 발매 기종·서비스 종료·과거 한국어판 감사](platforms/switch/archive/kai-ri-sei-million-arthur-platform-check.md)에서 **2014-11-19 일본 iOS/Android 원작**과 2016 PC 브라우저/PS4·PS Vita 서버판을 확인했으나 **정식 Nintendo Switch 발매 상품·닌텐도 e숍 ID·제작사 출시 공지를 확인할 수 없었습니다**. [닌텐도 3DS로 나왔던 작품은 2014년 《拡散性 / Kaku-San-Sei Million Arthur》라는 별도 전작](https://www.jp.square-enix.com/ma_3ds/)입니다. 2019년 [《Fate/EXTELLA LINK》와의 콜라보 기사](https://www.gamer.ne.jp/news/201903290057/)에 나온 Nintendo Switch는 콜라보 상대 게임의 플랫폼으로, 《乖離性》이 Switch로 이식됐다는 증거가 아닙니다.
+
+원작은 **용병·부호·도적·가희 4인 10장 덱 협력·속성 체인·턴제 커맨드 전투**가 특징이며, 출시 당시 전투/일러스트와 음향에는 호평이 있으나 후반 유료 카드 인플레이션 및 4인 매칭/협력 의존 문제가 컸습니다. **2015-06-04 국내 공식 한국어 모바일판 출시 및 2017-03-28 국내 서비스 종료**([KR 기업 공시](https://kind.krx.co.kr/external/2018/03/30/004149/20180330013103/11011.htm)·[게임메카](https://www.gamemeca.com/view.php?gid=1314628))를 확인했으며, 일본 온라인 본편 [2020-09-30 서비스 종료](https://www.kairisei-ma.jp/), PS4/Vita판 [2018-03-30 종료](https://www.jp.square-enix.com/kairi-ps/)를 구분했습니다. 종료 후 일본 모바일 오프라인 모드는 스토리·카드·모델 열람 중심으로 **원래의 4인 전투가 복원되지 않았습니다**. 별개 2017 [Steam VR판의 공식 한국어 자막](https://store.steampowered.com/app/436890/KairiSei_Million_Arthur_VR___VR/)도 기록했습니다.
+
+**원작 서비스 당시 작품성 참고 3.0/5(자체 잠정), Switch판 별점·기술 난이도·한글화 우선도 평가 불가.** 따라서 Nintendo Switch 활성 후보와 3.5 미달 게임 수 모두 불변, **`platforms/switch/archive/` 플랫폼 불일치 기록에만 보존**했습니다. **최신 Switch 활성 12개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 등록선 미달 6개**, 타 플랫폼·다른 게임·이전 집계 변경 없음.
