@@ -212,3 +212,13 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **2024 북미 Switch 공식 일본어·영어만 지원, Steam 일본어·영어만 지원**하며 일본 Switch와 2008/2009 PSP판에서 실사용 가능한 **공개 완성 한국어판/한글패치도 이번 조사 범위에서는 미발견**입니다. 번역의 효과는 직업/장비/연금술/퀘스트 텍스트 이해도에 있으나 3편보다 이야기 중심 텍스트가 적어 **한글화 C급·🟢 활성 후보**로 등록합니다. 원본 Switch 리소스/폰트/재삽입 미분석으로 기술 난도는 **미확인**입니다.
 
 **현행 Switch 활성 후보 12개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 6개**입니다. 기존 C/B급 및 보류·미달·한국어 확인 제외 기록, 다른 플랫폼 집계, 과거 시점 기록은 보존했습니다.
+
+## 2026-10-12 Kai-ri-Sei Million Arthur Switch 플랫폼 불일치·종료 서비스 보존 기록
+
+[《Kai-ri-Sei Million Arthur / 괴리성 밀리언아서》 정식 Switch 발매·한국어 대안 조사](archive/kai-ri-sei-million-arthur-platform-check.md)는 **2014-11-19 일본 iOS/Android 출범**의 Square Enix 온라인 **4인 직업별 카드 커맨드 RPG**를 대상으로 합니다. 공식 Square Enix의 [2014 제품 소개](https://www.jp.square-enix.com/tgs14/kairi/)와 [2017 기종 발표](https://www.jp.square-enix.com/company/ja/news/2017/html/e9690af2da8ecf1703bbb81bd9c7a7f8e1536f34.html), 2016 [PC 브라우저](https://game.watch.impress.co.jp/docs/news/1021273.html)·[PS4/PS Vita 정식 출시](https://member.jp.square-enix.com/article/3005/) 이력을 확인했지만, **Nintendo Switch 정식 발매/제품코드/e숍 상품/퍼블리셔 출시 발표가 확인되지 않았습니다**. **시리즈 전작 《拡散性ミリオンアーサー》의 Nintendo 3DS판(2014-10-22~2016-10-31)은 다른 게임**이며, [2019 《Fate/EXTELLA LINK》와의 콜라보 기사](https://www.gamer.ne.jp/news/201903290057/)에 등장한 'Nintendo Switch'는 **콜라보 상대작 기종**을 뜻합니다.
+
+**서버·한국어 판본:** 일본 본편은 [2020-09-30 13:00 서비스 종료](https://www.kairisei-ma.jp/)했으며, PS4/PS Vita판은 [2018-03-30 종료](https://www.jp.square-enix.com/kairi-ps/)했습니다. 국내에는 **2015-06-04 공식 한국어 모바일 서비스 출시**([회사 연혁 공시](https://kind.krx.co.kr/external/2018/03/30/004149/20180330013103/11011.htm)), **2017-03-28 종료**([당시 게임메카 기사](https://www.gamemeca.com/view.php?gid=1314628))가 확인됩니다. 종료 뒤 일본 모바일 오프라인판은 스토리·카드·3D모델·미니게임 등의 **열람/부가기능**으로, **온라인 멀티 전투를 재개한 완전판은 아닙니다**. 별도 [2017 Steam VR판은 한국어 UI·자막을 공식 지원](https://store.steampowered.com/app/436890/KairiSei_Million_Arthur_VR___VR/)하지만 오리지널 온라인 RPG와 다른 상품입니다.
+
+**게임성 참고 점수는 역사적 모바일판 3.0/5(자체 잠정치)**: 네 직업·10장 덱·체인·패턴 공략은 높은 전략성과 훌륭한 카드 아트·음악을 보여 줬으나 후반 카드 인플레이션/뽑기 부담·다인 의존·서버 종료를 감점했습니다. **Switch 작품성 별점·이식 품질·한글화 A/B/C·기술 난이도는 모두 평가 불가/미부여**입니다. 이에 따라 `games/` 정식 후보에 넣거나 3.5 미달작으로 집계하지 않고, **`archive/` 타 플랫폼 보존 기록**으로만 추가합니다.
+
+**이번 기록은 집계를 변경하지 않음: Switch 활성 12개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 6개.** 타 플랫폼·기존 한국어판/한국어 패치 보류·타 작품 점수·과거 당시 집계 모두 보존합니다.
