@@ -377,7 +377,7 @@ async function initIndex() {
     });
     const countLabel = myList ? '내 목록' : PLATFORMS[activePlatform].rankingPath
       ? recommendationView === 'all' ? '전체 순위' : recommendationView === 'active' ? '기존 목록' : '후보군'
-      : activePlatform === 'ps3' && reserveView ? '예비 기록' : '등록 후보';
+      : activePlatform === 'ps3' && reserveView ? '예비 기록' : activePlatform === 'switch' ? '평가 기록' : '등록 후보';
     const aCount = rows.filter(row => row.priorityRank === 0).length;
     const bCount = rows.filter(row => row.priorityRank === 1).length;
     const cCount = rows.filter(row => row.priorityRank === 2).length;
@@ -544,7 +544,9 @@ async function initIndex() {
           ? `개인 추천점수(1–10)는 작품성(5점 만점)과 별개입니다. 한글화 후보 조건을 통과한 선정 후보와 예비 기록을 나눠 표시합니다. 개인 순위는 전체 기록 기준이며 찜의 수동 순서는 유지됩니다. <a href="${GITHUB_BASE}platforms/ps3/reassessments/2026-10-08-personal-top-30.md" target="_blank" rel="noreferrer">평가 근거와 선정 기준</a> · <a href="${GITHUB_BASE}${reserveView ? PLATFORMS.ps3.reservePath : PLATFORMS.ps3.path}" target="_blank" rel="noreferrer">${reserveView ? '예비 사유와 원본 보기' : '선정 원본 보기'}</a>`
         : PLATFORMS[activePlatform].rankingPath
           ? `리뷰 근거 기반 작품 평가(1–10)입니다. 원평점·표본 수·판본과 내용·진행 설계·음향/연출·완성도를 종합한 판단이며, 완전히 객관적인 지표는 아닙니다. 취향·한글화 가치·희소성은 점수에 반영하지 않습니다. 같은 점수는 공동 순위이며, 근거가 제한된 항목은 ‘잠정’, 부족한 항목은 점수와 순위 없이 ‘평가보류’로 표시합니다. 근거 필터로 따로 볼 수 있습니다. 기존 목록과 후보군 구분 및 찜의 수동 순서를 유지합니다. <a href="${GITHUB_BASE}${PLATFORMS[activePlatform].assessmentPath || `platforms/${activePlatform}/reassessments/2026-10-08-review-assessments.md`}" target="_blank" rel="noreferrer">원평점·표본·판본·평가 근거</a> · <a href="${GITHUB_BASE}${PLATFORMS[activePlatform].rankingPath}" target="_blank" rel="noreferrer">평가 원본</a>`
-          : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
+          : activePlatform === 'switch'
+            ? `Switch의 정식 한글화 후보는 작품성 3.5/5 이상입니다. 아래에는 조사 결과를 보존한 🔴 패스 기록도 포함하며, 이는 정식 후보 수에 포함하지 않습니다. <a href="${GITHUB_BASE}${PLATFORMS.switch.path}" target="_blank" rel="noreferrer">Switch 평가 원본</a>`
+            : `원본 데이터는 저장소의 <code>${escapeHtml(PLATFORMS[activePlatform].path)}</code>에서 실시간으로 읽습니다.`;
       status.hidden = true;
       wrap.hidden = false;
       updateStats(all);
