@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **14개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **6개**
+> 등록 후보: **14개** / 발굴 우선 후보: **3개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **7개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -33,6 +33,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [Never 7 - The End of Infinity (네버 7)](games/never7-the-end-of-infinity.md) | 2025 | 연애·시간 반복 SF 미스터리 비주얼노벨 / 히로인 분기·18개 엔딩 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Metacritic 62/100·평론가 5건: Noisy Pixel 8/10·Pure Nintendo 7/10·Universo Nintendo 6/10·Hardcore Gamer 5/10·GameGrin 5/10** / PS5 RPGFan 81/100 별도 / Steam 68% 긍정·64건(PC) | **Switch 공식 한국어 미지원**, 2026-06-07 **2025 Steam 리마스터 한국어 패치 배포 공지**, 2026-10-11 **PSP ULJM-05433 한국어 베타 v0.9.0 공개** / 두 패치 모두 Switch 직접 호환 검증 없음 | 2000 PS1 《infinity》→2000 Dreamcast《Never7》→2009 PSP→2025 Switch/PS4/Steam HD 리마스터 / 4:3 화면의 16:9 크롭·낡은 음원, 반복 루트 | 🔴 패스 · 3.5점 미달 · 다른 판본 한국어 대안, 평가 기록 |
 | [PROGRESS ORDERS (프로그레스 오더즈)](games/progress-orders.md) | 2025 | 길드 경영·자동 던전 파견·3턴 명령 개입형 RPG | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch 価格.com 2.00/5·집계 2명** / Switch 약 20시간 완주자 1명 UI·동선·초기 크래시 혹평 / Dengeki 출시 전 초반 체험 호평 1명 / PC Steam 36% 긍정·77건 / Famitsu·4Gamer Switch 공개 리뷰 미확인 | **Switch 공식 일본어·영어·중국어 간·번체·한국어 미지원 / Steam 공식 한국어 미지원** / 적용 가능한 공개 완성 한글패치 미발견 | 2025-04 Switch·Steam 동시 계열 원작 / Bushiroad·HAKAMA 제작 / 2025-05-07 양 플랫폼 v1.2 프리징·시간 흐름 주요 버그 수정 / 별도 리메이크 아님 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [Touhou Genso Wanderer -FORESIGHT- (이상한 환상향 포사이트)](games/touhou-genso-wanderer-foresight.md) | 2024 | 레벨·장비 유지형 동방 미스터리 던전 로그라이트 / 이자나기 링크·신사 재건 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch PS4Blog 8/10·1명, Video Chums 7.5/10·1명, LadiesGamers 정성 호평·1명** / PS4 표기 Famitsu 29/40·4명 / **PC Steam 46% 긍정·290건**, PC Game8 56/100 · Switch Metascore 확인 미집계 | **Switch/Steam 공식 한국어 미지원(일본어·영어·중국어 간·번체)** / 2026-10-12 FORESIGHT 자체 공개 완성 한글패치 미발견 / 기존 TODR 한글패치는 별도 게임 | Steam 2024-05-14 → 일본 Switch/PS4 DL 2024-09-19(북미 9/18) → 일본 Switch 패키지 11/28 / 콘솔 출시에 맞춰 v1.08 새 던전·스펠카드·서브시나리오 PC에도 추가 / PC v1.09 12월 던전 추가, Switch 동일 버전·최신 실기 미확인 | 🔴 패스 · 3.5점 미달, 평가 기록 |
+| [Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami (유라기장의 유우나 씨: 두근두근 온천 미궁)](games/yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.md) | 2024 | 코가라시 구출 오리지널 시나리오·턴제 미스터리 던전·의상/무기 강화·온천 미니게임 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **2024 Switch KIWAMI Famitsu 전문 리뷰 미집계** / **2018 PS4 원작 Famitsu 32/40·4명(8/8/8/8)** / **2024 PC KIWAMI MC 54/100·5명**, Steam 56% 긍정·23건 / PS5 상품 사용자 4.06/5·163명 | **2024 일본 Switch 공식 한국어판 미발견**, **PC Steam 공식 한국어 미지원**(일본어·영어·중국어 간/번체) / Switch·PC 공개 실사용 완성 한국어 패치 미확인 | **2018-11-15 PS4 원작→2024-01-18 Switch KIWAMI(D70010000068234, DLC 2인·3던전 포함)** / FuRyu 공식 **Switch 온천 '감응영천' 일부 내용/연출 다른 기종과 상이** / PC 패드·iOS UI 결함을 Switch 버그로 혼동하지 않음 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
 
@@ -256,3 +257,13 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **닌텐도 미국 개별 1편·2G 상품 및 영국 합본은 일본어·영어만 지원**, Steam 2G는 일본어/영어 텍스트·일본어 음성에 **한국어 미지원**입니다. 2009 PSP 원작 2, 2010 PS3 2G 및 2024 Switch/PC에서도 조사 범위상 직접 설치·완주 가능한 완성 공개 한국어 패치를 **확인하지 못했습니다**. 비공개·삭제 패치가 절대 없다는 주장은 하지 않습니다. 실제 RomFS/폰트/퀘스트·UI 한글 삽입 미분석으로 **기술 난이도 미확인**입니다. **합본의 1편과 2G를 각각 새로운 번역 프로젝트 두 개로 다시 만들지 않는 것**이 핵심입니다.
 
 **현행 Switch 활성 후보 14개 / 💎 우선 후보 3개 / 🔥 A급 0개 / 🔴 기준 미달 6개.** 기존 모든 게임·기종의 점수·보류/한국어 대안 제외 기록과 과거 시점 집계 문구는 보존했습니다.
+
+## 2026-10-12 유라기장의 유우나 씨 온천 미궁 KIWAMI Switch 3.0점 미선정 평가
+
+[《Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami》 상세 평가·한국어판·이식 차이](games/yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.md)는 **2018-11-15 PS4 원작**을 2024-01-18 **일본 Nintendo Switch 다운로드 KIWAMI**(닌텐도 제품 ID D70010000068234)로 복각하면서 **원본의 유료/한정 DLC를 기본 수록**한 판본입니다. [FuRyu 공식 KIWAMI 사이트](https://www.cs.furyu.jp/yuragisou/)는 두 명의 플레이어블 캐릭터 치사키·마치, **추가 도전 던전 3개**, 음성 무기·의상/아이템 팩과 15종 이상 의상, 게임 오리지널 시나리오 및 성우 풀보이스를 확인해 주며, 특히 **Nintendo Switch판만 '감응영천' 온천 미니게임의 내용·연출이 타 기종과 일부 다름**을 명확히 고지합니다. 일부 장면이 어떻게 바뀌는지 실제 Switch·PS5 비교 없이 삭제·규제 내용이나 심각한 버그로 단정하지 않습니다.
+
+**외부 평가를 기종별로 분리했습니다:** 2018 PS4 원작 [Famitsu 8/8/8/8=32/40·4명](https://www.famitsu.com/game/title/36449/reviews)은 애니메이션 성우·원작 아트·시렌형 던전 완성도와 초심자 배려를 호평했습니다. 반면 **2024 Switch KIWAMI Famitsu 직접 점수는 미집계**, [2024 PC KIWAMI Metacritic 54/100·5건](https://www.metacritic.com/game/yuuna-and-the-haunted-hot-springs-the-thrilling/critic-reviews/) (65/60/60/57/30), [Steam PC 이용자 23건 중 56% 긍정](https://store.steampowered.com/app/2436340/?l=koreana), 별도 [WTMG PC 7/10](https://waytoomany.games/2024/01/30/review-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami/), [PS5 구매자 평점 4.06/5(163명)](https://store.playstation.com/ja-jp/concept/231202)로 평가 표본·전작/합본 구성을 분리했습니다. **PC 키보드/패드 불편과 iOS 화면 크롭·터치 오작동 제보를 Switch 고유 버그로 간주하지 않았고**, 현행 Switch FPS/크래시/업데이트·실제 ROMFS는 미검증입니다.
+
+**3.0/5 · 🔴 패스 판단:** 턴제 무작위 미궁·함정·허기·무기/의상 강화와 동료·실패 시 아이템 손실은 기본기가 있으며, 본편/추가 DLC와 캐릭터 아트·성우는 팬에게 가치가 있습니다. 하지만 인물 소개 없는 단순 구출극·반복되는 방/적 패턴·장비 회수 스트레스·표준 시렌형 규칙을 넘어서는 독자적 시스템 부족이 커 **3.5점 활성 후보선에 미달**합니다. 일본 Switch 및 Steam PC의 **공식 한국어판 없거나 미확인** 상태이고, 2026-10-12 검색에서 Switch/Steam의 **적용 가능한 완성 한국어 패치를 발견하지 못했지만** 한국어화 희소성만으로 작품성 점수를 올리지 않습니다. 실기 미분석 기술 난이도 **미확인**, 한글화 우선도 **미부여**입니다.
+
+**Switch 활성 후보 14개 / 💎 발굴 우선 3개 / 🔥 A급 0개 그대로 유지**, **등록 기준 3.5 미달 평가 기록 6개 → 7개**. 기존 게임의 후보·우선도/플랫폼/한국어 대안 보류 기록 및 과거 시점 집계는 삭제하지 않았습니다.
