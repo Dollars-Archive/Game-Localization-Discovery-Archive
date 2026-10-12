@@ -29,6 +29,15 @@
 
 **연결 문서는 상세 평가만 보강하며, 기존 25th 3.5점·한글화 B급·Switch 활성 후보 집계에는 변화가 없다.**
 
+## 2026-10-12 서양 2023년 《Rhapsody: Marl Kingdom Chronicles》 2+3 영어 합본 별도 평가
+
+[**《Rhapsody: Marl Kingdom Chronicles》 Switch 2023 2+3 합본 작품성 3.5/5·한글화 중복·Switch 2 공식 호환성 업데이트 상세 감사**](../archive/rhapsody-marl-kingdom-chronicles-edition-audit.md)를 추가했다. 이 제품은 **2023-08-29 미국 / 2023-09-01 유럽 NIS America 정식 Switch/PS5 영어권 《Rhapsody II》+《Rhapsody III》 합본**이며, **2024-08-29 일본 《Rhapsody 25th Anniversary Collection》 1+2+3 합본의 2편·3편과 원작 본편이 겹친다**. 2023 서양 상품의 **영어 스토리 텍스트**, 2024 일본 25th의 **일본어 제품**은 출시 SKU/파일 구조/패치/언어 지원이 다르므로 둘의 독립적 발매·이식 정보는 보존한다. 그러나 **한글화 대상 원작 2·3편은 이미 본 25th 등록작에 포함됐으므로 활성 후보 한 건을 다시 세지 않는다**.
+
+- **합본 작품성 3.5/5(B급 수준), 기존 등록 등급 유지:** 2편 독립 4.0/5, 3편 독립 3.0/5. 2023년 서양 Switch 전문 **Metacritic 70/100·평론가 10건**, 별도 [RPGamer 2편 3.5/5](https://rpgamer.com/review/rhapsody-ii-ballad-of-the-little-princess-review/)/[3편 2.0/5](https://rpgamer.com/review/rhapsody-iii-memories-of-marl-kingdom-review/)와 PC RPGFan 2편 80점·3편 72점을 각각 **합본/단독/플랫폼**별로 분리했다.
+- **한국어 상태:** [Nintendo 북미 2023 e숍은 지원 언어 English, 공식 한국어 없음](https://www.nintendo.com/us/store/products/rhapsody-marl-kingdom-chronicles-switch/). 2023 Steam II/III도 영어·일본어 본문이고 공식 한국어는 없다. [PS1 2편 한국어 v0.8·2026-09-25](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2)는 별도 판본 번역 이력으로 유지, 3편은 실제 완성 한국어 배포·설치 검증 자료를 찾지 못했다. PS1 패치가 2023 Switch에 작동하거나 전 편 완역되었다고 단정하지 않는다.
+- **새 이식 근거:** Nintendo의 [2025-05-27 Switch 2 초기 문제 목록](https://media.nintendo.com/switch-2/pdf-compatibility_issues_EN_05272025.pdf)에 서양 《Marl Kingdom Chronicles》가 있었으나 [2025-06-06 닌텐도 공식 해결 목록](https://assets.nintendo.eu/image/upload/NAL/Documents/switch-2-compatibility/Compatibility_Addressed_060625.pdf)에 **해당 호환 문제는 업데이트로 해결**이라고 명시되며, [닌텐도 북미 현행 상품도 Switch 2 Supported](https://www.nintendo.com/us/store/products/rhapsody-marl-kingdom-chronicles-switch/)다. 이것은 **서양 Switch 2 호환성 이슈**이고, 일본 제작사 [2024-10-22 3편 단품 및 2024 25th 3편 Switch v1.0.2 세이브 손상 버그](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)와는 **다른 문제**다. 서양 2023 합본에서 일본판 같은 버그가 발생·수정됐는지는 미검증.
+- **등록/검수:** 25th 기존 3.5/5 B급 활성 후보 유지. 이 2023 영어 2+3판의 **별도 활성 +0 / 우선 +0 / 등록선 미달 +0**. 서로 다른 엔진의 2편 인형 마법·3편 16인 편성 및 뮤지컬·세이브 QA는 실제 게임 파일 분석 전 난도 미확인으로 기록한다.
+
 ## 1. 정확한 발매·구성·언어
 
 | 구분 | 확인 사실 |
