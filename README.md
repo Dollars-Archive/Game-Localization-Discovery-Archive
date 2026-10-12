@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 24 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 25 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -688,3 +688,13 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **한국어 접근성은 단순 '미번역' 아님:** [2020 Windows 1~4장 **게지네 간이 한국어 패치 v1.2**](https://myskrpatch.tistory.com/44)와 [2021 신장 간이 한국어 패치 v1.1](https://myskrpatch.tistory.com/121)은 **꿀도르 번역기 기반**이며 대상 PC 게임·판본이 한정돼 있습니다. **[2026-06-28 국내 게임 번역 커뮤니티 자료](https://kone.gg/s/vndb/cpozwguIn3UIL0jdMRdj8b?p=33)**는 이 간이패치와 구분되는 **'식당' 배포의 본편 1~4장 한국어본** 이력을 기록합니다. 이쪽은 원 번역자/허가/전수 검수·정품 독립 패치 여부가 미확인이고 **제2장 일부 진행 오류 우회 댓글**도 남아 있습니다. 현재 **Switch 전용 정식 한국어·검증 가능한 완성 한글패치는 확인되지 않았습니다**. 따라서 다른 기종에 팬패치가 있어도 Switch 후보를 우선 등록하는 **2026-10-13 사용자 지정 예외**에 따라 B급으로 선정했지만 원 번역의 수동 검수 수준·권리와 PC/콘솔·신장 원문 차분, 한글 글꼴 및 음성·세이브 전수 QA는 한글화 착수 전 별도 검증 사항으로 남겼습니다.
 
 **현행 집계:** Switch 활성 **24개 / 💎 4.0점 이상 우선 7개 / 🔥 A급 0개 / 🔴 기준 미달 10개**. 《9-nine-》 완전판 1개만 신규 활성 행으로 세고 본편 4장과 신장 5편을 독립 Switch 후보로 중복 집계하지 않았습니다. 다른 등록작/플랫폼 기존 후보와 이력, 모든 사용자용 GitHub Pages 진입 링크를 보존했습니다.
+
+## 2026-10-13 Nintendo Switch 《Archetype Arcadia》 3.5점·2026 PC 유저 한국어 패치 확인 B급 활성 등록
+
+[《Archetype Arcadia / 아키타입 아르카디아》 일본 2021·서양 2023 Nintendo Switch 지역별 판본·시나리오·선택지/BAD/기억카드 세계관·이식 품질·2026 Windows 한국어 번역 이력 상세 평가](platforms/switch/games/archetype-arcadia.md)는 **Water Phoenix 개발·KEMCO 일본 배급의 2021-10-21 Switch 한국어 미지원 일본어판**과 **PQube 서양 배급의 2023-10-24 Switch 영어판**을 다른 카트리지/유통 SKU로 구별했습니다. 사용자가 말한 NSP 형식은 구체적 파일이 제공되지 않아 지역·버전·타이틀 ID를 검사한 결과가 아닙니다. 두 정식 Switch 지역판 모두 **게임 본문 한국어를 공식 지원하지 않으며**, **[2022 PC Steam](https://store.steampowered.com/app/1768400/Archetype_Arcadia/?l=koreana)**도 공식 한국어 미지원입니다.
+
+**독립 작품성 ⭐⭐⭐½☆ 3.5/5, 한글화 우선도 B · 🟢 활성 신규 후보**입니다. 원죄병으로 붕괴된 세계, 병에 걸린 여동생 크리스틴을 구하려는 루스트가 기억을 카드/아바타로 만드는 풀다이브 가상세계에 들어가는 이야기로, **8장 풀보이스 스토리·중심 본편 1개 + 약 20개의 BAD·인덱스 장면 점프**가 핵심입니다. 카드·아바타 간의 전투는 **플레이어가 직접 카드 덱/공격을 조작하는 RPG가 아닌 선택지·CG로 이루어진 서사 연출**이므로 게임플레이를 과장하지 않았습니다. 기억 파괴가 실제 인물 정체성과 연결되는 설정·형제 관계/조연의 감정극·CG·인덱스는 호평하나, 서사 길이 30~50시간의 반복 설명, 일부 예상 가능한 반전·직선적 분기·아바타 애니메이션과 음성/음악 편차를 감점했습니다. [2021 일본 Switch **Famitsu 8+8+8+8=32/40·4명**](https://www.famitsu.com/game/title/43609/reviews), [서양 Switch Gamezebo 70 / Movies Games and Tech 70 / Noisy Pixel 65](https://www.metacritic.com/game/archetype-arcadia/critic-reviews/), [WayTooManyGames Switch 별도 6.5/10](https://waytoomany.games/2023/10/24/review-archetype-arcadia-switch/), [GameFAQs Switch 2024 장기 완주자 10/10·1명](https://gamefaqs.gamespot.com/switch/325466-archetype-arcadia/reviews/175492), **Steam PC 80% 긍정·10건**을 플랫폼별로 구별했습니다.
+
+**기존 한국어 팬패치의 존재도 확인:** [한글로게임 Windows Steam 《Archetype Arcadia》 2026-01-10 등록 기록](https://www.hangulogame.com/platform/steam/)과 국내 같은 날 수정본 적용 게시물이 확인되지만, **실제 Windows 공식 한국어가 아니라 비공식 팬패치**이고 완역/정품 최신 실행·원제작자의 동의·Switch 직접 호환·NSP 타이틀별 데이터 매핑은 미검증입니다. **Switch 자체 공개 실사용 완성 한국어 패치는 확인 못했고**, **다른 플랫폼 유저 한글패치만으로 Switch 활성 후보 제외하지 않는 사용자 예외**에 따라 B급 신규 등록을 진행했습니다. [2021-12-23 KEMCO 일본 Switch v1.0.2](https://www.kemco.jp/news.html?y=2021)는 엔딩 후 자료집 추가·기능 조정이며 서양 SKU/프리징 전구간 해결 증거는 없습니다. PC Unity/Mono 감지만으로 Switch 파일 구조·한국어 폰트를 인증하지 않았으므로 **기술 난도 미확인**입니다.
+
+**이번 등록 후 Switch 활성 25개 / 💎 우선 7개 / 🔥 A급 0개 / 🔴 등록선 미달 10개**로 Switch README 헤더·표와 동기화했으며 다른 플랫폼 후보와 고유 게임의 기존 평가·과거 숫자·한국어 대안 기록은 변경하지 않았습니다.
