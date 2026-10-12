@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **42개** / 활성 후보: **28개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **43개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -38,6 +38,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)](games/ikki-tousen-xross-impact.md) | 2010 | 2D 벨트스크롤 액션 | ⭐⭐⭐½☆ (3.5/5) | B | GameFAQs 4.13/5·65표 / Famitsu 25/40·4인 / 4Gamer 70·글 1건 | 2026-10-08 공개적으로 확인되지 않음 | PSP Best·DL 재발매 / 직접 타 기종 이식 미확인 | 🟢 후보 유지 |
 | [L no Kisetsu: Double Pocket (L의 계절 더블 포켓)](games/l-no-kisetsu-double-pocket.md) | 2009 | 학원 판타지 노벨·연애 ADV | ⭐⭐⭐½☆ 3.5/5 | B | PSP 4Gamer 75/100 (독자 1건) / PS1 5.0/5 (3건)·PS2 4.4/5 (7건)는 원작 별도 참고 | 2026-10-08 기준 PSP·PS·PS2 공식 한국어판·완성 패치 공개 확인 못함 | PS 1편(1999)+PS2 2편(2008) 합본 / PSP 진행 편의 개선·1편 화면 상하 잘림 보고 / 현대 후발판 미확인 | 🟢 후보 |
 | [Mirai Nikki: 13 Ninme no Nikki Shoyuusha RE:WRITE (미래일기 13번째의 일기 소유자 RE:WRITE)](games/mirai-nikki-13-ninme-no-nikki-shoyuusha-rewrite.md) | 2012 | 패러독스 ADV·텍스트 어드벤처 | ⭐⭐⭐½☆ | B | Famitsu 29/40 (4인) / GameFAQs Good (10표) / 가격.com 전문 4/5 (1건·일반 집계 제외) / Bangumi 5.0/10 (7표) | 2026-10-08 PSP 원판·RE:WRITE 및 타 판본 한국어 대안 미확인 / 영문 번역자 문서 현재 공개 중단 | 2010 PSP 원판 → 2012 PSP RE:WRITE 시나리오 130%·음성·그래픽·선택 시스템 보강 / 현대 직접 이식 미확인 | 🟢 후보 |
+| [MISSINGPARTS the TANTEI stories Complete (미싱 파츠: 탐정 이야기 컴플리트)](games/missingparts-the-tantei-stories-complete.md) | 2012 | 본격 탐정·추리 ADV·커맨드 어드벤처 | ⭐⭐⭐½☆ (3.5/5) | B | Famitsu PSP 25/40·4명 / PSP 4Gamer 90/100·1건 / 게임카탈로그 良作 / PSP 추가편 감상 1명 | 2026-10-12 PSP 완성 한국어 패치 확인 못함 / 2026-09-24 DC 첫 분할본 한국어 패치 등록·범위 및 이용 가능성 미검증 | DC 1~2화×3제품 / PS2 3화×2제품 → PSP 6화 합본·Extra Parts 추가 / 4:3·음성 및 스킵 없음 | 🟢 후보 |
 | [Onore no Shinzuru Michi wo Yuke (오노레노 신즈루 미치오 유케)](games/onore-no-shinzuru-michi-wo-yuke.md) | 2009 | 퍼즐 액션·스테이지 클리어·애드혹 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 34/40·4명 / 개인 총평 52점·1건 / 개인 종합 8·1건 / 무점수 감상 1건 | 2026-10-08 기준 공개 완성 패치 미확인 | 2009 PSP UMD / 2010-07-01 PSP DL·117MB / 현대 후발판·한국어 대안 미확인 | 🟢 후보 |
 | [Soukyuu no Fafner: Dead Aggressor (창궁의 파프너)](games/soukyuu-no-fafner-dead-aggressor.md) | 2005 | 3D 로봇 액션·슈팅 / ADV | ⭐⭐⭐½☆ | B | GameFAQs Great(21표) / Gamekult 이용자 5/10(1건) / 시간 11h(12표본·범위 미구분) | 2026-10-08 기준 공개 PSP 한국어 패치 확인 못함 | 2004 TV 애니 기반 / 2005 PSP판 / 직접 이식·확장판·리마스터 및 다른 한국어 게임판 확인 못함 | 🟢 후보 |
 | [Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu (STAR DRIVER 빛의 타쿠토: 은하미소년 전설)](games/star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.md) | 2011 | 커뮤니케이션 ADV·턴제 커맨드 전투 | ⭐⭐⭐½☆ (3.5/5) | B | 파미통 27/40·4명 / 4Gamer 80/100·리뷰 1건 / GameFAQs Good·투표 10표 | 2026-10-08 기준 공식 한국어판·공개 완성 패치 확인 못함 | PSP 일본 원판 권장 / 아시아판 일본어 기록 / 본편 후발 이식·리메이크 미확인 | 🟢 후보 유지 제안 |
@@ -135,7 +136,7 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-12 사용자 요청에 따른 플랫폼 이동
 
 - 《나는 소녀만화가》는 PSP **현행 목록 및 순위에서 제거**했고 [PS Vita 호환 실행 목록](../psvita/games/ore-wa-shoujo-mangaka.md)으로 이관했습니다. **Vita 네이티브판 발매가 아닌 PSP DL판 하위호환 예외**입니다.
-- 현재 보존 42개 / 활성 28개 / 4.0 이상 5개. 당시 **2026-10-08 PSP 리뷰 평점과 순위 기록은 변경하지 않습니다.**
+- 플랫폼 이동 직후의 당시 집계는 보존 42개 / 활성 28개 / 4.0 이상 활성 5개였습니다. **2026-10-08 PSP 리뷰 평점과 순위 기록은 변경하지 않습니다.**
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
@@ -146,4 +147,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 2026-08-19 국내 커뮤니티에 **Windows 《리벨리온즈》 한글판 실행·세이브 안내 및 한글패치 출처를 제시한 복구 글**이 확인되었다. 다만 정확한 대상 PC판, 번역 전 에피소드의 완료 여부, 원 제작자 패치 파일 단독 배포와 현행 접근성을 원문에서 검증하지 못했으므로 **PSP 신규 한글화 자격을 검증 보류**로 처리한다. PSP 직접 한글패치가 발견됐다는 뜻은 아니다. [작품 상세·근거·기술 검증 기준](games/rebellions-secret-game-2nd-stage.md). 2026-10-08 리뷰 기반 7.9/10 및 작품성 4.0/5, 사용자 메모는 보존한다.
 
-보존 항목 **43개** / 활성 **29개** / 4.0 이상 **6개** / A **3개**. 이 집계는 2026-10-08 당시 작성된 역사적 평가 원장이나 보존 행 수를 수정하지 않는다.
+2026-10-12 신규 후보 추가 이후의 현재 집계는 보존 항목 **43개** / 활성 **29개** / 활성 4.0 이상 **5개** / A **3개**입니다. 2026-10-08 당시 작성된 역사적 평가 원장과 순위표는 소급 변경하지 않습니다.
+
+## 2026-10-12 MISSINGPARTS the TANTEI stories Complete 신규 등록
+
+[MISSINGPARTS the TANTEI stories Complete](games/missingparts-the-tantei-stories-complete.md)를 PSP **3.5/5·B급 활성 후보**로 추가했습니다. Dreamcast 첫 분할 제품(본편 1~2화)에 대한 2026-09-24 한국어 패치 등록 기록은 있으나, **PSP의 본편 1~6화와 신규 Extra Parts 전체를 한국어로 제공하는 완성 대안인지 검증되지 않았습니다.** 현재 PSP 번역본 미확인과 DC 첫 분할 작품의 번역 정황을 함께 기록하고, 번역 완성 범위와 실제 사용 가능성을 후속 검증 대상으로 보존합니다. 현재 **43개 보존·29개 활성·발굴 우선 후보 5개·A급 3개**로 집계하며, 이번 신규 등록에 무관한 예외·보류 및 2026-10-08 역사적 작품평은 변경하지 않았습니다.
