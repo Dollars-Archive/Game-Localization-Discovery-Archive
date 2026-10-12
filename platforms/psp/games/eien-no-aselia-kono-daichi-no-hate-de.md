@@ -1,5 +1,47 @@
 # Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)
 
+## 2026-10-12 스토리·전투 시스템 심층 평가
+
+> **스포일러 최소화 기준의 항목별 판단:** **스토리·세계관 4.0/5 / 전투 시스템 설계 4.0/5 / PSP 실사용 전투 템포·편의성 2.5/5 / PSP판 종합 3.5/5 유지.** 위 세부 점수는 조사자가 공개 리뷰·게임 설계·이식 품질을 분리해 종합한 **분석 점수**로, 외부 매체가 해당 세부 항목에 부여한 동일한 점수가 아니다. 기존 2026-10-08 리뷰 종합 **7.1/10(공동 48위)**과 한글화 우선도 **C**, 기술 난이도 **미확인**을 변경하지 않는다.
+
+### 스토리: 전쟁과 문화 충돌을 다루는 장편 판타지, 4.0/5
+
+- **정체성:** 여동생 카오리를 인질로 잡힌 유우토가 낯선 세계의 전쟁에 동원되며 시작한다. 미소녀 연애를 포함하지만 이야기의 주축은 **스피릿이 전투를 위해 이용되는 사회 구조, 전쟁을 둘러싼 책임, 문화와 언어의 장벽, 동료와의 관계 형성**에 있다. 신검과 스피릿의 역사·정치적 이해관계가 장편의 동력이다.
+- **강점 ① 세계관 체험:** 본래의 세계 언어를 바로 이해하지 못하는 유우토와 독자를 함께 놓는 **가공 언어 사용**은 이세계에 적응하는 과정을 실제로 체감하게 한다. PC판 해외 정성 리뷰에서 독창성으로 반복 호평됐다. [RPGamer PC판 리뷰](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html), [RPGFan PC판 리뷰](https://www.rpgfan.com/review/aselia-the-eternal-the-spirit-of-eternity-sword/).
+- **강점 ② 인물:** 주인공과 스피릿 동료들이 전쟁 경험과 상호 신뢰 속에서 변화하며, 조연까지 감정적 의미를 갖는 경우가 많다. 스피릿들의 처우와 문화적 차이가 단순 설정 설명이 아니라 인물 갈등으로 연결된다는 평이 있다. [RPGamer](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html), [The Geek Clinic PC판 다회차 리뷰](https://thegeekclinic.wordpress.com/2016/06/12/visual-novel-review-aselia-the-eternal-eien-no-aselia/).
+- **강점 ③ 서사와 전투의 연결:** 전쟁의 승리가 읽기 파트에서만 설명되는 것이 아니라 플레이어가 지휘한 전투의 결과로 이어진다. **이야기 속 지휘관과 플레이어의 경험을 일치시키는 구조**가 장점이라는 정성 평가가 있다. [The Geek Clinic](https://thegeekclinic.wordpress.com/2016/06/12/visual-novel-review-aselia-the-eternal-eien-no-aselia/).
+- **약점 ① 장황한 도입과 불균형한 템포:** PC 원작의 초반 설명·일상부가 길다는 비판이 있고 PS2 전연령판에서는 해당 초반부를 일부 줄였다. **PSP판에서도 패미통 4명이 긴 ADV와 SLG의 균형 문제를 지적**하므로 PS2판 수정으로 모든 문제가 사라졌다고 볼 수 없다. [게임카탈로그의 PC→PS2 변경](https://w.atwiki.jp/gcmatome/pages/7534.html), [Famitsu PSP판 네 평](https://www.famitsu.com/game/title/24979/reviews).
+- **약점 ② 인물별 호불호·루트 반복:** 유우토와 카오리의 지나치게 밀착된 관계가 일부 독자의 몰입을 해치며, 일곱 캐릭터 루트/다회차를 즐겨도 **전체 줄거리의 큰 귀결은 크게 바뀌지 않는 편**이라는 비평이 있다. 해당 루트 수와 엔딩 구조는 **PC판 리뷰 근거**이므로 PSP판의 정확한 잠금 해제·추가 차이는 별도 실기 확인이 필요하다. [RPGamer](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html), [The Geek Clinic](https://thegeekclinic.wordpress.com/2016/06/12/visual-novel-review-aselia-the-eternal-eien-no-aselia/).
+- **종합:** 빠른 사건 전개형 추리 ADV보다 **무거운 판타지 세계관, 인물 성장, 전쟁과 문화 갈등을 오래 따라 읽는 독자**에게 추천한다. PC판에서 RPGFan은 **스토리 93/100, 종합 89/100**, RPGamer는 **스토리 항목 4/5, 종합 3.5/5**를 부여했다. **PSP 전용 작품성 점수로 혼용하지 않는다.** [RPGFan](https://www.rpgfan.com/review/aselia-the-eternal-the-spirit-of-eternity-sword/), [RPGamer](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html).
+
+### 전투: 배치와 사전 준비가 중요한 '자동 해결형' 턴제 SRPG, 시스템 설계 4.0/5
+
+| 주요 시스템 | 직접 하는 일 | 전략적 의미 및 한계 |
+|---|---|---|
+| **진군 지도** | 각 부대를 **한 턴에 인접 거점/장소 1곳씩** 이동, 도시 점령·방어·훈련·보급 | 이동 경로와 보급 시간을 계산해야 하므로 단순 전투 연속 게임이 아님 |
+| **3인 역할 배치** | 각 부대를 **Attacker / Defender / Supporter**에 1명씩 배치. 진행에 따라 여러 부대를 편성 가능 | 같은 캐릭터라도 어느 위치에서 싸우는지에 따라 기술·기여가 달라짐 |
+| **스피릿 속성** | **청색**은 물리 공격·상대 마법 방해, **녹색**은 방어·치료, **적색**은 강력한 지원 마법, **흑색**은 특수한 반격·속성 기술 등이 특징 | 속성별 강점은 대체적인 방향이며 **실제 개별 스킬과 레벨·상성 확인이 필요** |
+| **스킬 사전 설정** | 공격·방어·지원 기술과 사용 대상을 세팅한 후 교전 시작 | 전투가 시작되면 **행동을 즉석 변경하기 어려운 자동 해결** 구조여서 편성과 상성 판단이 핵심 |
+| **제한된 스킬 사용 횟수** | 사용 횟수 소모 후 **아군 거점으로 귀환·보급** 필요 | 강한 기술 연타보다 지속 전투와 후퇴 시점 판단이 중요하지만 반복 이동 부담이 큼 |
+| **에테르 관리** | 훈련·시설 구축에 쓰이는 자원을 배분 | 전투력 성장과 거점 운영이 경쟁. 육성 자체는 매 전투 자동 경험치 증가형이 아님 |
+
+**제작 당시 공식 시스템 소개:** [Gamer 2011-10-13](https://www.gamer.ne.jp/news/201110130009/), [Famitsu 2011-10-13](https://www.famitsu.com/news/201110/13051809.html). 속성별 실제 역할, 기술 소모·에테르 관리, 전투 결과의 자동 해결은 [RPGFan PC판 시스템 평가](https://www.rpgfan.com/review/aselia-the-eternal-the-spirit-of-eternity-sword/) 및 [RPGamer PC판 설명](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html)와 대조했다.
+
+**전투 시스템의 강점:** 상대 구성에 따라 물리 공격 담당을 **지원 슬롯으로 옮겨 적 마법을 무력화**하는 식으로, 같은 3명을 편성해도 결과가 달라진다. 단순 레벨 올리기보다 **정보 확인·역할 교체·스킬 사용 순서**의 판단이 재미를 만든다. RPGFan은 PC판 **게임플레이 93/100**, RPGamer는 **전투 시스템 항목 4/5**로 평가했다. [RPGFan](https://www.rpgfan.com/review/aselia-the-eternal-the-spirit-of-eternity-sword/), [RPGamer](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html).
+
+**전투 시스템의 약점:** 같은 전투를 거쳐도 매번 부대·장착 스킬·사용 횟수를 메뉴에서 조정해야 하며, 적 AI가 단순한 위치·행동을 반복한다는 PC판 리뷰가 있다. 기술 보급을 위해 뒤로 돌아가는 이동은 템포를 떨어뜨린다. 초기에는 규칙과 숫자·튜토리얼 정보량이 많아 시행착오가 필요하다. **PC의 특정 키보드·마우스 버그를 PSP판에 실제로 발생한 문제로 옮기지 않는다.** [RPGamer](https://archive.rpgamer.com/games/other/multi/aselia/reviews/aseliastrev1.html), [RPGFan](https://www.rpgfan.com/review/aselia-the-eternal-the-spirit-of-eternity-sword/).
+
+### PSP판의 체감 품질을 별도 평가: 템포·조작 2.5/5
+
+- **PSP 직접 근거:** [2012년 패미통 4인 리뷰](https://www.famitsu.com/game/title/24979/reviews)는 각각 **6·7·7·6 = 26/40**. **파티 편성 전략성과 읽을 만한 판타지 이야기**를 긍정하면서도 **전투 도중 반복되는 잔로딩·폰트 가독성·커서 조작 불편·ADV/전략 파트의 장시간 진행**을 공통 약점으로 들었다. **위 2.5/5는 이 불편을 정성 종합한 분석 점수**이지 패미통이 준 PSP 편의성 세부 점수가 아니다.
+- **초기 PSP 개인 사용 기록:** 저장 약 20초·불러오기 약 15초 경험은 **한 이용자의 출시 초기 제보**이며, 최신 PPSSPP나 모든 PSP 실기에서 같은 시간이라는 증거가 아니다. 거점 정보 조회는 당시 댓글에서 **△+방향키 조작**으로 설명되어 있으므로 '거점 확인 기능 없음'으로 단정하면 안 된다. [개인 PSP 감상](https://hail07.blog47.fc2.com/blog-entry-1328.html).
+- **감상 목적에 따른 추천:** 장편 판타지·부대 설계를 모두 즐기는 사람에겐 **스토리 4.0, 전투 시스템 4.0**의 강점을 느낄 수 있다. **대사 감상만 원하거나 반복 노가다를 싫어한다면** PSP판은 불리하다. 기존 **PSP 종합 3.5/5**와 **한국어화 우선도 C**는 이 이식상의 감점을 반영하므로 유지한다.
+
+**PSP 한글화 검수 추가 주의:** 역할·속성·수치·마법 차단 조건과 미션 승리 조건은 **번역된 기술 설명과 실제 효과**를 대조해야 한다. 스토리 전체 스킵뿐 아니라 **수십 개 미션(PC판 리뷰 근거), 부대 이동·전투·승리/패배·보급·저장**을 포함한 통합 테스트가 필요하다. 실제 PSP 전체 미션 수와 추출 분모는 아직 미확인.
+
+---
+
+
 ## 2026-10-12 재평가: 전술 전투·PSP 이식·언어 접근성
 
 > **기존 작품성 3.5/5 / 리뷰 기반 7.1/10 공동 48위 유지 · 한글화 우선도 C 유지 · 기술 난이도 미확인.** 《영원의 아세리아》 PSP는 PS2(2005)판 기반으로 2012-03-08 출시된 **ADV + 직접 조작하는 턴제 SRPG**다. 신작 스토리보다 **약 20장의 추가 전투 컷인·신규 OP·휴대기 시스템 편의**가 주요 차별점이다. 2026-10-12 공개 웹 검색 범위에서 PSP·PS2·PC 한국어판/적용 가능한 공개 한국어 패치는 확인하지 못했다. 영어 PC판은 한국어 대안이 아니므로 후보 제외 규칙을 적용하지 않는다.
