@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **4개**
+> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -23,6 +23,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [ROAD59 -A Yakuza’s Last Stand- (ROAD59: 신시대 임협특구 마천루 흑백 항쟁)](games/road59-a-yakuzas-last-stand.md) | 2025 | 이능 야쿠자·시간 반복·23인 군상극·선택지형 비주얼노벨 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Steam 직접 구매 27건 중 긍정 37% / 전체 63건 중 긍정 46건·73%(외부 키/무료 포함)** / Dengeki Switch·Steam 본편·Extra 실기 정성 호평 / Famitsu Switch 정량 평가 없음 | Switch 공식 영어·일본어·중국어 간체/번체 / **한국어 미지원**, 2026-10-12 공개 완성 한국어 패치 미확인 | 2025-09-25 일본 Switch/Steam 동시 / 일본어 파트보이스 / 바·루프/배드 분기·본편 후 Extra 2개 / 2026 Windows Steam만 무료 체험판 / Switch2 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [VARLET (ヴァレット)](games/varlet.md) | 2025 | SNS·심리 진단 학원 RPG·3인 타임라인 턴제 전투 | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch Metacritic 50/100·평론가 4건 / Pure Nintendo 6/10 / Siliconera 5/10 / PS4Blog 8/10(별도 매체)** / PC Metacritic 64/100·9건 / Steam 47% 긍정·117건 | **2025-08-28 아시아 Switch 한국어 자막 정식 발매(CLE)** / 북미 Switch 일본어·영어만 표기 / PS5 한국판·PC Steam 공식 한국어 지원 | **2025-08-27 북미 FuRyu판 / 2025-08-28 일본·아시아판 CLE 한국어 발매** / SSS 반복·전투 밸런스 취약 / 지역별 지원 언어 구분 | 🔴 패스 · 3.5점 미달 · Switch 공식 한국어판 존재, 평가 기록 |
 | [Never 7 - The End of Infinity (네버 7)](games/never7-the-end-of-infinity.md) | 2025 | 연애·시간 반복 SF 미스터리 비주얼노벨 / 히로인 분기·18개 엔딩 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Metacritic 62/100·평론가 5건: Noisy Pixel 8/10·Pure Nintendo 7/10·Universo Nintendo 6/10·Hardcore Gamer 5/10·GameGrin 5/10** / PS5 RPGFan 81/100 별도 / Steam 68% 긍정·64건(PC) | **Switch 공식 한국어 미지원**, 2026-06-07 **2025 Steam 리마스터 한국어 패치 배포 공지**, 2026-10-11 **PSP ULJM-05433 한국어 베타 v0.9.0 공개** / 두 패치 모두 Switch 직접 호환 검증 없음 | 2000 PS1 《infinity》→2000 Dreamcast《Never7》→2009 PSP→2025 Switch/PS4/Steam HD 리마스터 / 4:3 화면의 16:9 크롭·낡은 음원, 반복 루트 | 🔴 패스 · 3.5점 미달 · 다른 판본 한국어 대안, 평가 기록 |
+| [PROGRESS ORDERS (프로그레스 오더즈)](games/progress-orders.md) | 2025 | 길드 경영·자동 던전 파견·3턴 명령 개입형 RPG | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch 価格.com 2.00/5·집계 2명** / Switch 약 20시간 완주자 1명 UI·동선·초기 크래시 혹평 / Dengeki 출시 전 초반 체험 호평 1명 / PC Steam 36% 긍정·77건 / Famitsu·4Gamer Switch 공개 리뷰 미확인 | **Switch 공식 일본어·영어·중국어 간·번체·한국어 미지원 / Steam 공식 한국어 미지원** / 적용 가능한 공개 완성 한글패치 미발견 | 2025-04 Switch·Steam 동시 계열 원작 / Bushiroad·HAKAMA 제작 / 2025-05-07 양 플랫폼 v1.2 프리징·시간 흐름 주요 버그 수정 / 별도 리메이크 아님 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
 
@@ -113,3 +114,13 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **한국어 대안이 두 가지입니다.** [2026-06-07 Steam 리마스터판 한글패치 공개 공지](https://gall.dcinside.com/mgallery/board/view/?id=memooff&no=3826), [한패 색인](https://hanpe.net/hanguls/n), 그리고 [2026-10-11 Noctil Patchworks PSP 일본판 ULJM-05433 전용 v0.9.0 베타 공개](https://ievy3.github.io/projects/never7/)를 확인했습니다. PSP판은 본편·외전 약 6만 행, 메뉴·용어·일부 영상 한국어화로 공개됐지만 **중후반 실기 미완주·일부 이미지 미번역**이며, Steam 패치도 현재 설치·전 엔딩 실사용 검증 없이 완성판이라고 단정하지 않습니다. **둘 다 Switch용 패치가 아닙니다.** 기술적 Switch 원본 파일·폰트 분석 미실행이므로 난이도는 미확인입니다.
 
 **현재 Switch 활성 후보 6개 / 💎 우선 후보 1개 / 🔥 A급 0개 유지**, 3.5점 미달 평가 기록만 **3개 → 4개**로 갱신했습니다. 기존 MAMIYA·Wizard's Symphony·Soul Cradle·Class of Heroes 3 Remaster·Touhou Sky Arena·BEYBLADE X EVOBATTLE과 타 플랫폼/보류 기록을 보존했습니다.
+
+## 2026-10-12 PROGRESS ORDERS Switch 작품성 2.5점·선정 제외
+
+[《PROGRESS ORDERS》 상세 평가·실제 Switch 화면·한글화 조사](games/progress-orders.md)를 2025년 HAKAMA 개발·Bushiroad 출시 작품으로 정리했습니다. **파티 파견·자동 탐험·천리안 3턴 적 행동 예측/명령 변경**이라는 아이디어는 인정하지만 **시설 버프 반복 갱신, 명령 비용 대비 자동 확률 패배, 의뢰/장비/모험가 정렬·필터 부족, 동선·UI의 반복, 짧고 얕은 인물 서사**를 감점해 **작품성 ⭐⭐½☆☆ (2.5/5) · 🔴 패스**로 판정했습니다.
+
+직접 **Switch 이용자 가격.com 2.00/5(집계 2건)**, Switch 약 20시간 완주 1명은 초기 프리징·UI를 혹평했습니다. 2025년 전격온라인 출시 전 초반 체험 호평 및 PC Steam **36% 긍정·77건**을 판본·표본별로 분리했습니다. **2025-05-07 공식 v1.2**로 Switch·Steam의 알림 프리징과 시간 흐름 오류를 고쳤으므로, v1.2 이전의 강제 종료가 최신판에도 모두 동일하게 남아 있다고 단정하지 않았습니다. 반면 시설·퀘스트 UI 재설계의 공식 근거는 없어서 별점 판단의 중심인 게임 완성도 문제는 별개로 기록했습니다.
+
+공식 **Switch·PC 한국어 모두 미지원**, 실제 적용 가능한 공개 한국어 패치 미발견. 한국어화 제외 규칙 때문이 아니라 **작품성 등록선 3.5점 미달**이 신규 활성 제외 사유입니다. 닌텐도 공식 Switch 3장 게임 화면을 상세 문서에 연결했고 기술 난이도는 실제 파일 미분석으로 **미확인**입니다.
+
+**현재 활성 Switch 후보 6개 / 💎 발굴 우선 1개 / 🔥 A급 0개 / 🔴 기준 미달 기록 5개**. 기존 활성 등록작과 《Astral Takers》《ROAD59》《VARLET》《Never 7》 기준 미달, 《Ley Line》《Amakano 2》 한국어 대안 보류, 《Meteor World Actor》 타 플랫폼 기록을 모두 보존합니다. 앞선 날짜별 집계는 당시의 역사적 기록으로 남깁니다.
