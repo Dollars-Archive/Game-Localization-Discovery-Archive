@@ -42,3 +42,9 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 [《Wizard's Symphony (위저즈 심포니)》](games/wizards-symphony.md)는 2019년 일본 Switch·PS4 동시 출시된 독립 신작 던전 RPG입니다. Switch 패미통 **30/40(4명)**과 PS4 별도 이용자 평점 **4.31/5(175명)**, 엔딩 완주 후기 **45·52·60시간(각 1명)** 등을 플랫폼별로 구분해 분석했습니다. 등장인물 풀보이스 대화·호감도 연계 전투의 장점과 일반적인 미궁 구성·전투 템포·반복 대화·적은 엔드콘텐츠의 약점을 반영해 **발굴 추천도 3.5/5·한글화 B급·🟢 활성 후보**로 평가합니다. Switch 지원 언어는 일본어로 기재되어 있고 Switch/PS4 공개 적용 가능 완성 한국어판은 조사 범위에서 발견되지 않았습니다. 실제 Switch 파일 미분석으로 기술 난이도는 **미확인**입니다.
 
 **이번 갱신 후 Switch 활성 후보 2개 / 💎 우선 후보 1개 / A급 0개**, 기준 미달 기록은 후보에서 제외하여 보존합니다.
+
+## 2026-10-12 타 플랫폼 작품 확인: Meteor World Actor: Badge & Dagger
+
+[《Meteor World Actor: Badge & Dagger》 Switch 발매·한국어화 조사 보고서](archive/meteor-world-actor-badge-and-dagger-platform-check.md)를 **정식 후보 목록과 별도인 `archive/`에 보존**했습니다. **2021년 Windows/일본 Android 원작, 2022년 Windows Steam판**은 확인됐으나 **Nintendo Switch 정식 발매·닌텐도 e숍 ID·공식 출시 자료가 2026-10-12 현재 확인되지 않아 후보 등록하지 않았습니다.** 영어 PC판 Steam **88% 긍정·358건**, 자체 PC 작품성 참고 **3.5/5**와 짧은 시나리오/미완결 평가, 2026년 후속 최종편 《Gaslight Bullet》의 Windows/Android 출시까지 기록했습니다. **비공식 PC→Switch 포팅 주장이나 'Switch gameplay'라는 영상 제목만으로 정식 Switch판이 존재한다고 결론 내리지 않습니다.**
+
+**현재 Nintendo Switch 활성 후보 2개 / 💎 우선 후보 1개 / A급 0개 / 기준 미달 기록 1개는 변동 없습니다.** Switch 실제 화면 자료는 없으므로 허구의 Switch 스크린샷을 등록하지 않았습니다.
