@@ -5,8 +5,8 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-05**  
-> 등록 후보: **40개** / 발굴 우선 후보: **5개** / 한글화 A급 후보: **6개**
+> 한글패치 확인 기준일: **2026-10-12**  
+> 등록 후보: **41개** / 발굴 우선 후보: **6개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -34,6 +34,7 @@
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐½☆ | B | Joko 표시59건 3.58/5(내장집계와 불일치) / GameFAQs Great 19표 / 개인 후기3명 교차 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 금·은메달판은 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·텍스트 ADV | ⭐⭐⭐½☆ | B | Joko 공개 20건 만족도 3.80/5 / 4Gamer 60점·가격.com 4점 각 1건 / 판본별 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 → Windows → PSP CG 보강·신규 영상/주제가 / 대규모 시나리오 추가 미확인 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
+| [Mana Khemia: Alchemists of Al-Revis (마나케미아: 학원의 연금술사들)](games/mana-khemia-gakuen-no-renkinjutsushitachi.md) | 2007 | 연금술 학원·3+3인 교대 전투·턴제 RPG | ⭐⭐⭐⭐☆ (4.0/5) | B | PS2 Metacritic 69/100·평론가 20명 / RPGFan 90/100 / GameSpot 7.5/10 / RPGamer 3/5·4/5 / 일본 게임카탈로그 良作 | 2024-01-01 SeHwa v0.5 AI 초벌 패치 존재 / 이미지 미번역·검수 미실시·임시 코드 불안정·완성본 아님 | 2007 PS2 일본판 SLPM-66748·2008 영어판 / 2008 PSP PORTABLE+ 추가 요소 있으나 로딩·화면 열화 / PS2 권장 | 💎 우선 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.63/5·8건 / Gavas6+2건 중복·소개형 구분 / PS2 개인평2편 / GameFAQs Fair8표 | 2026-10-07 완성판 확인 못함 / PC ATCode 별도 | PC2002 → PS2 추가 시나리오·CG 기록(2차 자료) / 팬디스크·PC DL 별도 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
@@ -160,3 +161,8 @@
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 기존 표와 후보 자격은 보존하며, 기존 목록 40개 + 후보군 29개 = 69개를 감사했습니다. 근거 충분 53개 / 잠정 14개 / 평가보류 2개입니다. [전체 평가·짧은 근거](recommendations.md) · [원평점·표본·판본·확인일](reassessments/2026-10-08-review-assessments.md) · [구조화된 평가 원장](reassessments/2026-10-08-review-assessments.json). 후보군과 명시 탈락 기록의 상태를 유지합니다.
+
+
+## 2026-10-12 Mana Khemia PS2 원작 평가 및 후보 등록
+
+[《Mana Khemia: Alchemists of Al-Revis》](games/mana-khemia-gakuen-no-renkinjutsushitachi.md)는 **PS2 원작 기준 작품성 4.0/5, 한글화 우선도 B**로 등록했습니다. PS2의 전위 3명·후위 3명 교대 전투, Burst·Variable Strike, 연금술과 Grow Book 성장, 12장 학원 일정을 평가했습니다. PSP 이식판의 메타크리틱 41/100·심각한 로딩 문제를 PS2 자체 결함으로 옮기지 않았습니다. **2024-01-01 SeHwa v0.5 한국어 AI 초벌 패치가 이미 존재**하며, 원 제작자가 **이미지 미번역·검수 미실시·불안정 코드 패치·실행 보장 없음**을 알렸으므로 **완성·실사용 한국어 대안으로 단정해 제외하지 않았습니다.** 실제 패치 실행과 독립 완성본이 확인되면 자격을 재판정합니다. 이번 등록 후 **PS2 기록 41개, 💎 우선 후보 6개, 🔥 A급 6개**로 집계하며 역사적 재평가 원장은 보존합니다.
