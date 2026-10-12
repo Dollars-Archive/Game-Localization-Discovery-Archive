@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 7 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 8 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -261,3 +261,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 ## 2026-10-12 Ayakashi Gohan Oomori for S Nintendo Switch 신규 등록
 
 [《Ayakashi Gohan ~Oomori!~ for S》](platforms/switch/games/ayakashi-gohan-oomori-for-s.md)는 2025-05-22 Nintendo Switch로 발매된 **2015 PS Vita 《Oomori!》 본편의 이식판**입니다. 2014 PC 원작·2015 Vita 강화판·2025 Switch와 **2026-08-20 독립 발매된 《Okawari! for S》 연애 후일담 팬디스크**를 구분해 **Switch 작품성 4.0/5 · 한글화 우선도 B · 💎 활성 발굴 후보**로 등록했습니다. 유년기 선택이 주인공 린의 성격을 갈라 **인간편/요괴편 3인씩 총 6명의 연애 이야기와 아사기 최종 루트**로 이어지는 구조를 긍정했으며, 개별 연애 루트 밀도 편차·장문의 공통부, 2015 Vita판 UI 문제와 Switch 개선 실측 부재를 감점했습니다. 일본어 외 **공식 한국어 지원 및 실사용 가능한 PC/Vita/Switch 공개 한국어 패치가 2026-10-12 조사에서 확인되지 않았으며**, 2025 Switch판 실제 게임 화면 3장을 상세 자료에 링크했습니다. **현재 Switch 활성 후보 7개 / 💎 우선 후보 2개 / 🔥 A급 0개**, 기존 등록선 미달 조사 5개와 다른 플랫폼 및 한국어 검증 보류 기록을 보존했습니다.
+
+## 2026-10-12 Nintendo Switch Rhapsody 25th Anniversary Collection 등록
+
+[《Rhapsody: 25th Anniversary Collection / 마알 왕국의 인형공주 25주년 컬렉션》](platforms/switch/games/rhapsody-25th-anniversary-collection.md)은 **2024-08-29 일본 Nintendo Switch·PS5 정식 1·2·3편 합본**이며, 2022 서양 Switch 《NIS Classics Volume 3》(1편+《La Pucelle》) 및 2023 《Marl Kingdom Chronicles》(2편+3편)와 완전히 동일한 상품이 아닙니다. 일본 25주년 합본은 일본어만 확인되며 공식 한국어는 없습니다. **2024 합본 자체의 Metacritic 전문 평가는 미집계**, 일본 Switch 이용자 価格.com **4.0/5·1건**, 다른 구성인 2023 Switch 2+3 합본 **Metacritic 70/100·10건**, PC 리뷰 RPGFan의 2편 **80/100**·3편 **72/100**을 모두 별도 표본으로 구별했습니다. 음악·뮤지컬과 코르넷·딸 쿠루루·어머니 셰리의 세대별 이야기, 2편 전투 개선을 높게 평가하되 1편 지나치게 쉬운 전투·2편 잦은 랜덤 인카운트·3편 16명 편성의 낮은 실효성·단편 서사 편차를 감점해 **종합 작품성 3.5/5, 한국어화 B급 🟢 활성 후보**로 선정했습니다. 실제 Switch 원본·폰트·스크립트 미분석으로 기술 난도는 **미확인**입니다.
+
+**한국어 중복 번역 감사:** [1998 PS1 원작 1편의 한국어 패치 v0.9·2026-08-30](https://retrodb.info/krpatch/2512/%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC)와 [1999 PS1 원작 2편 한국어 패치 v0.8·2026-09-25](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2)를 확인했으며, 두 패치의 전편 완주 검증/2024 Switch 직접 적용 가능성은 입증되지 않았고 **3편의 완성 한국어 대안은 미발견**입니다. 따라서 **3부작 모두 완성 한국어 대안이 없는 상태**라는 제한된 사실을 바탕으로 후속 한국어화 가치를 인정하되, 기존 1·2편 한글패치를 '없다'고 하거나 무단 복제해 재배포하지 않도록 명시했습니다. [제작사 2024-10-22 공식 Switch 3편 v1.0.2](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)는 보유 인원 한도에서 신규 소환 시 생기는 편성·상태 오류를 수정하지만 이미 손상된 세이브는 복구하지 않는다는 점도 별도로 기록했습니다.
+
+**Switch 최신 활성 후보 8개 / 💎 발굴 우선 2개 / 🔥 A급 0개 / 🔴 기준 미달 5개**. 기존 《Ayakashi Gohan ~Oomori!~ for S》 포함 활성 후보·보류·탈락 평가·다른 플랫폼의 수치 및 이전 날짜별 역사 기록을 모두 보존했습니다.
