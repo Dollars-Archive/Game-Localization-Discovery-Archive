@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 12 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 13 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -339,3 +339,13 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **2024-04-25 국내 번역자 [《CHAOS;HEAD NOAH》 Steam/GOG 한국어 패치 배포](https://thirdmelt.blogspot.com/2024/04/chaoshead-noah-gog.html)**가 실제 존재하며 NOAH 본편, 삭제 콘텐츠 복원, CG·영상·Tips 자막, 추가 시나리오 Delusion of Zero를 포함한다고 제작자가 명시했습니다. **2024-05-25 전 루트 수정 기록** 및 [한국어 패치 기준 모든 엔딩/도전과제 100% 공략](https://steamcommunity.com/sharedfiles/filedetails/?id=3231080122)을 교차 확인해 원작 무인판의 2018 부분 번역이 아닌 **NOAH 자체의 실사용 가능한 한국어 완성 대안**이 있다는 것이 중요합니다. 해당 패치는 **PC Steam/GOG용이며 Switch에 자동 적용된다는 뜻은 아닙니다**. Nintendo Switch 자체는 공식 일본어/영어 지원이며 한국어는 없습니다.
 
 **한글화 가치 원칙에 따라 점수 4.0/5은 그대로 기록하고 한국어 완성 대안이 이미 있으므로 Switch 신규 활성 후보 제외(🟡 한국어 대안 존재), A/B/C 우선도 미부여**로 분류했습니다. **기존 Switch 활성·우선·A급과 기준선 미달 집계는 변경하지 않았고**, 다른 플랫폼 후보와 과거 기록도 보존합니다.
+
+## 2026-10-12 Nintendo Switch 《Touhou Genso Maroku W: The Devil of Decline》 B급 신규 등록
+
+[《Touhou Genso Maroku W / 東方幻想魔録W》 심층 작품성·Switch판·한글화 조사](platforms/switch/games/touhou-genso-maroku-w-the-devil-of-decline.md)는 **2019-02-07 일본 Nintendo Switch 다운로드판**(Mediascape Play,Doujin! e숍 제품 ID **70010000015441**)을 평가한 결과입니다. **2011 Windows 《東方幻想魔録》 동인 원작/2012 《宴》 확장 → 2017 Vita W → 2018 PS4 W → 2019 Switch W → 2023 Switch 《東方蒼神縁起V》와 《W》 더블팩 → 2024 PC Steam W**를 서로 다른 판본/제품으로 구분했습니다. [Mediascape 2019 공식 발표](https://playdoujin.mediascape.co.jp/release/%E6%9D%B1%E6%96%B9project%E3%83%95%E3%82%A1%E3%83%B3%E4%BD%9C%E5%93%81%E3%80%81%E4%B8%BB%E4%BA%BA%E3%81%A8%E5%BC%8F%E7%A5%9E%E3%81%A7%E6%8C%91%E3%82%80%E6%9C%AC%E6%A0%BCrpg%E3%80%8C%E6%9D%B1%E6%96%B9/)와 [메비우스 2023 더블팩 공식 상품](https://mebiusonline.stores.jp/items/64ca4c5645021c00313a2181)을 확인했습니다.
+
+**작품성: 3.5/5, 한글화 B급 · 🟢 활성 후보.** 5인 파티에서 100종 이상 식신을 수집·장착(주인마다 최대 3체)하는 조합, 무기 숙련도·극의·스펠카드·진형·속성 내성/지상(地相) 조작은 깊은 고전 턴제 RPG 경험입니다. 그러나 실종 사건을 추적하는 얕은 이야기에 비해 후반 보스의 확률 의존 상태이상, 잡몹의 즉사급 선공, 장비/식신 경험치 반복 노가다가 많고, **2019 Switch 실플레이가 메뉴·전투 처리속도 저하와 입력 누락·버그를 구체적으로 지적**해 포트 완성도를 큰 폭 감점했습니다. [2019 Switch 정성 심층 후기](https://aitherium.net/review/marokuw-review)의 지적을 최신판 전부 재현된 확정 버그로 표현하지 않았고, [2023 패미통 더블팩 평론](https://www.famitsu.com/game/title/52044/reviews)은 이전 Vita판보다 전환 템포가 좋아졌다고 밝혔음을 병기했습니다. 직접 실기 최신 버전/ROMFS·폰트 검사와 안정성·크래시 비교는 수행하지 않아 **기술 난도 미확인**입니다.
+
+**외부 리뷰의 대상·분모를 엄격하게 구분**했습니다. 2019 Switch 《W》 단독 Metacritic 등 전문 점수 미집계, **2023 Switch V+W 두 작품 합본의 패미통 평론가 4명 점수 6+7+7+7=27/40**, 같은 2023 더블팩 한정판 [가격.com 이용자 4.00/5·1명](https://review.kakaku.com/review/K0001529624/), **2024 Steam PC 전체 51건 중 46건 긍정(약 90%)[별도 PC판](https://store.steampowered.com/app/2250790/?l=koreana)**입니다. **2019 일본 Switch 단품 일본어 지원**, PC Steam의 공식 일본어/영어는 2024판의 언어로서 **Switch 영어 지원의 증거가 아니며, 모두 공식 한국어 미지원**입니다. 2026-10-12 조사 중 각 판본용 공개·실행 가능·완성 한국어 패치는 확인되지 않았으나, 숨겨진/삭제된 패치까지 없는 것으로 단정하지 않았습니다. 《Genso Wanderer》·《Lotus Labyrinth》·《FORESIGHT》 등의 기존 동방 한국어 패치는 **다른 게임용**이며 W판에 적용 가능하다는 뜻이 아닙니다.
+
+**최신 Nintendo Switch 활성 후보 13개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 6개.** 이번 등록은 활성 후보 1개만 증가하며 다른 플랫폼 집계·모든 기존 후보/미선정/보류/한국어 대안 검증·이전 날짜별 역사 기록은 보존했습니다.
