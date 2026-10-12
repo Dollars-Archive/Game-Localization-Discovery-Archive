@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 19 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 20 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -617,3 +617,13 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **리뷰 표본을 엄격히 분리:** **[Switch Famitsu 25/40·4명(7/7/6/5)](https://www.famitsu.com/game/title/50003/reviews)**, **[Switch A9VG 7/10·완주 1명](https://www.a9vg.com/article/200037)**, **[Switch RPGamer 정량평점 없음·부팅 오류로 진행 중단한 1명](https://rpgamer.com/2023/03/souls-of-chronos-deep-look/)**과 **[PC Metacritic 61/100·전문 5건](https://www.metacritic.com/game/souls-of-chronos/)**, PC Steam 약 72% 긍정·120건을 기종별로 구분했습니다. A9VG 정상 완료와 RPGamer의 오류 사례가 공존하므로 최신 Switch에서 같은 증상이 재현되는지는 **실기 미검증**입니다. 기술 난이도도 게임 파일 분석 전 **미확인**입니다.
 
 **최종 판정:** 다른 기종 팬패치 존재만으로 Switch 후보를 제외하지 않는 2026-10-13 사용자 예외는 유지합니다. 본 작품은 기존 번역 대안 때문이 아닌 **작품성 3.0점으로 3.5점 등록선 미달**이라 A/B/C를 부여하지 않았습니다. **Nintendo Switch 활성 후보 19개 / 💎 우선 4개 / 🔥 A급 0개는 변동 없이 유지, 🔴 기준 미달 평가 기록 9개 → 10개**로 갱신했습니다. 다른 게임과 다른 플랫폼의 후보 수·Pages 진입 링크·이전 시점 집계는 보존했습니다.
+
+## 2026-10-13 Nintendo Switch 《Summer Time Rendering: Another Horizon》 3.5점 B급 활성 신규 등록
+
+[《Summer Time Rendering: Another Horizon / 서머타임 렌더: 어나더 호라이즌》 심층 평가·Switch 언어·루트/TIPS 분기·기존 해외 팬패치 기술 자료](platforms/switch/games/summer-time-rendering-another-horizon.md)는 **2023-01-26 일본 Switch/PS4 정식 동시 발매한 VRIDGE 개발·MAGES. 배급 타임루프 SF 미스터리 ADV**입니다. 원작 만화·TV 애니 본편의 복선·'그림자'와 죽음 후 되감기 구조를 게임 화면·대사로 재현하며, 편집부 감수 **6개 게임 전용 IF 시나리오**, 원작자 디자인 신인물 **코유바 카오리**, 정보 해금 방식의 **키 TIPS/액션 분기/플로차트**를 제공합니다. 6개 모두 각각 독립 장편이 아니라 원작 공통부에서 특정 순서로 개별 루트를 경험하고 돌아오는 구간이 큰 점은 구별했습니다.
+
+**자체 작품성 ⭐⭐⭐½☆ 3.5/5 · 한글화 B · 🟢 활성 후보**입니다. 이야기의 긴장감·TIPS 구조·캐릭터/음악/화면 연출은 장점이지만, 원작 재탕·새 IF의 제한적 독립성·일반 세이브/로드 대신 체크포인트 반복·후반 전투 연출의 약함은 4.0점 진입을 막습니다. [Famitsu Switch 전문 점수 미집계](https://www.famitsu.com/game/title/47881/reviews), [Switch 일본 사용자 価格.com 4/5·1명](https://review.kakaku.com/review/K0001480014/), [2024 Switch 완주 7.5/10·20시간 초과 1명](https://maxseki.hateblo.jp/entry/2024/07/05/184857), [2023 본편/IF 구성 비판 완주자](https://tensei-yabuki.hatenablog.com/entry/2023/01/31/234916), **PS4 PlayStation Store 이용자 4.11/5·18건(타기종)**을 구분했습니다. Switch 실기의 현행 프리징/패치 번호는 직접 측정하지 않았습니다.
+
+일본 Switch/PS4 **공식 한국어 게임판 및 Switch 한국어 완성 패치는 확인되지 않았지만**, **[Xzonn의 Nintendo Switch 중국어화 도구/소스](https://github.com/Xzonn/STRAHChsLocalization)**와 **[Dream-Cypher의 Nintendo Switch 영어 팬패치/이미지 수정·TIPS/빌드 소스](https://github.com/Dream-Cypher/STRAHLocalization)**가 공개돼 한국어 제작 기술을 재활용할 실마리가 있습니다. 다만 영어판에는 AI 번역과 긴 텍스트/색상 강조·설정 옵션 일부 미번역 문제가 남으며, 한국어 글리프·최신 실기 동작은 미검증입니다. 원작 한국어 애니/만화만으로 게임 고유 IF·TIPS가 번역됐다고 판단하지 않습니다.
+
+**이번 갱신 후 Nintendo Switch 활성 후보 20개 / 💎 4.0 이상 우선 후보 4개 / 🔥 한글화 A급 0개 / 🔴 3.5 미달 평가 기록 10개**로 [Switch 목록](platforms/switch/README.md)과 일치합니다. 기존 타 기종 후보·과거 시점의 목록/판정과 다른 게임 상세 자료는 그대로 보존했습니다.
