@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 17 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 18 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -592,3 +592,9 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **Switch 전용 한국어 패치 재확인(2026-10-13):** Switch 합본용 독립 배포 한국어 패치, 적용 가능한 Title ID/버전, 실기 한국어 전체 루트 완주 증거는 공개 검색에서 **확인되지 않았습니다.** 2019 Windows 부분 번역과 2026 Windows 번역 적용/실행파일은 **2019 Switch판에서 정상 작동하는 패치라는 증거가 아닙니다.** 미확인을 절대적인 부재로 단정하지 않고 기존 한국어 자산 검증 보류를 유지합니다.
 
 **최종 판정:** 작품성 4.0점은 분명한 장점이지만 **원어 2019 Switch 본편에 대한 한국어 자산 대안이 이미 6개 콘텐츠 영역까지 진행된 사실**을 무시해 새 미번역 활성 후보로 등록하지 않으며, 원 번역자의 **별도 합법 patch-only/완역율/정품 구동·권리 확인 전까지 🟡 검증 보류**로 보존합니다. **신규 A/B/C 미부여, 3.5점 미달 패스 추가 없음**, 기존 Switch 활성 **17개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 미달 기록 9개**와 다른 플랫폼의 결과·이전 당시 평가 자료는 유지했습니다.
+
+## 2026-10-13 Nintendo Switch 《NonetEnsemble: Magicwork Labyrinth》 신규 C급 후보 등록
+
+[《NonetEnsemble: Magicwork Labyrinth / 노넷 앙상블: 마법 장치의 미궁》 작품성·한글화 평가](platforms/switch/games/nonetensemble-magicwork-labyrinth.md)는 **2022-09-22 일본 Nintendo Switch 정식 디지털판**(PhotonSystem 개발·Regista 배급)으로, 기존 **2020-02-11 PC Steam 원작**과 플랫폼 차이를 구분합니다. 4인의 리더/파트너 선택, 기본 9원소·39종 마석 합성, 마석 직접 사용·무기/방어구 장착 인게이지, 장기 축적과 사망 시 전리품 손실을 통한 고난도 로그라이크 던전 RPG가 중심입니다. **작품성은 ⭐⭐⭐½☆ 3.5/5(잠정)**로 마석 전략의 독창성을 인정하면서도 얕은 서사·높은 난도·불친절한 설명·콘텐츠 다양성 부족을 감점했습니다. Switch 패미통·Metacritic 전문 점수가 미집계되어 **소규모 일본 Switch 이용자 후기와 Steam 구매 리뷰(9건, 전체 18건)를 보조 자료로 분리**했습니다.
+
+**Switch 공식 일본어·영어·중국어 간체/번체만 지원, 한국어 없음**. PC Steam 공식 한국어도 없으며 **사용 가능한 공개 완성 한국어 패치가 조사 범위에서 확인되지 않아**, 기준 3.5를 통과한 **한글화 우선도 C급 🟢 Switch 활성 신규 후보**로 등록했습니다. Nintendo Switch **2023-02-28 Ver1.0.1 조작/밸런스 수정**은 확인했지만 2026년 최신 실기 FPS·게임 자산·한글 출력·기술 난도는 아직 분석하지 않았습니다. **Switch 활성 17 → 18개 / 💎 4.0 이상 우선 3개 / 🔥 A급 0개 / 🔴 3.5 미달 평가 9개 유지**. 기존 다른 기종 목록 및 역대 평가 기록은 변경하지 않았습니다.
