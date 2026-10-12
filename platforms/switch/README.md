@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
+> 등록 후보: **7개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -14,6 +14,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 Switch 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [MAMIYA - A Shared Illusion of the World's End - (마미야)](games/mamiya-a-shared-illusion-of-the-worlds-end.md) | 2026 | 심리 미스터리·멀티시점 다크 비주얼 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | B | PC Steam 90% 긍정·479건 / PC Complete Noisy Pixel 9/10·Mygamer 8/10 / PC 첫 2부 NookGaming 7/10 / Switch NintendoBoy 실플레이 1편·점수 미확정 | 2026-10-12 Switch 한국어 미지원·공개 한국어 패치 미확인 / PC Steam 한국어 미지원·실사용 공개 패치 미발견 | 2021 PC FallDown+DownFall → 2023 PC DoomsDayDreams 별도 DLC → 2026 Switch 3부 합본·일본어 풀보이스·신규 CG·IF 미니게임 | 💎 우선 후보 |
+| [Ayakashi Gohan ~Oomori!~ for S (아야카시 고항: 오오모리!)](games/ayakashi-gohan-oomori-for-s.md) | 2025 | 인간편·요괴편 주인공 인격 분기·6인 오토메 연애 ADV | ⭐⭐⭐⭐☆ (4.0/5) | B | Switch 4Gamer 2026 직접 플레이 1명·점수 없음 / Switch 2025 실완주 감상 2명·호평 / Vita 사용자 항목별 개인 3/5·시스템 1/5 / GameFAQs Vita Fair·6표·54h 5명(타기종) / Famitsu Switch 점수 미등록 | Switch 일본어 본문·공식 한국어 발표 없음 / PC·Vita·Switch 검증 가능한 공개 완성 한국어 패치 미발견 / 2019 국내 일본어판 공략은 한패 아님 | 2014 honeybee PC 원작 → 2015 Vita Oomori 신규 시나리오·CG·표정 → 2025 Switch 본편 이식 / 2026 Okawari for S 후일담 별도 제품·기본 미수록 | 💎 우선 후보 |
 | [Wizard's Symphony (위저즈 심포니)](games/wizards-symphony.md) | 2019 | 풀보이스 캐릭터 DRPG·1인칭 던전 탐험·턴제 전투 | ⭐⭐⭐½☆ (3.5/5) | B | Switch Famitsu 30/40·4명 / Switch 가격.com 4.00/5·평점 1명 / PS4 PS Store 4.31/5·175명(타기종 참고) / Switch·타판 완주 서술 3명 | 2026-10-12 Switch 일본어 표기·공개 완성 한국어 패치 미확인 / PS4 실사용 한국어 대안 미발견 | 1995 Wizard's Harmony와 별개 신작 / 2019 Switch·PS4 동시판 / 2019 Ver1.01·1.02 개선 | 🟢 후보 |
 | [Soul Cradle: World Eaters / Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자)](games/soul-cradle-world-eaters.md) | 2021 | 3×3 룸 부대 편성·턴제 전략 RPG / Hero·Demon Path | ⭐⭐⭐½☆ (3.5/5) | B | **Switch Soul Nomad RPGamer 2/5·1명 / Chalgyr 7.5/10·1명 / NookGaming 5/10·1명** / Switch 합본 MC 72/100·13건 / PS2 본편 MC 73/100·31건 | **북미 Switch 공식 영어 텍스트만 지원·한국어 없음 / PC Steam 일본어·영어, 한국어 미지원** / 2026-10-12 공개 완성 한글패치 미발견 | 2007 PS2 원작 → 2014 PS3 PS2 Archives → 2021 Switch NIS Classics Vol.1 Phantom Brave와 합본 / 2021 Windows 단독 / Switch 일부 크래시·후속 수정 및 잔존 제보 | 🟢 후보 |
 | [Class of Heroes 3 Remaster (검과 마법과 학원물 3 리마스터)](games/class-of-heroes-3-remaster.md) | 2025 | 3학교·10종족·45학과·6인 1인칭 학원 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | **Switch TheSixthAxis 7/10·1명 / Cubed3 6/10·1명 / Ani-Game 7/10·1명 / Nindie Spotlight 7.3/10·1명 / Steam PC 66%·53건은 별도** | **2025 Switch·PS5·Steam 공식 한국어 미지원 / 적용 가능한 공개 완성 한글패치 미확인 / 2010 한국 PS3 정발은 일본어 게임·한글 설명서** | 2010 일본 PSP·PS3 원작(PSP 주요 NPC 무음성·PS3 일부 음성) → 2025 Switch·PS5·PC HD 리마스터 영문 지원 / 일본 Switch 단품과 1·2·3 패키지 합본 별도 | 🟢 후보 |
@@ -124,3 +125,13 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 공식 **Switch·PC 한국어 모두 미지원**, 실제 적용 가능한 공개 한국어 패치 미발견. 한국어화 제외 규칙 때문이 아니라 **작품성 등록선 3.5점 미달**이 신규 활성 제외 사유입니다. 닌텐도 공식 Switch 3장 게임 화면을 상세 문서에 연결했고 기술 난이도는 실제 파일 미분석으로 **미확인**입니다.
 
 **현재 활성 Switch 후보 6개 / 💎 발굴 우선 1개 / 🔥 A급 0개 / 🔴 기준 미달 기록 5개**. 기존 활성 등록작과 《Astral Takers》《ROAD59》《VARLET》《Never 7》 기준 미달, 《Ley Line》《Amakano 2》 한국어 대안 보류, 《Meteor World Actor》 타 플랫폼 기록을 모두 보존합니다. 앞선 날짜별 집계는 당시의 역사적 기록으로 남깁니다.
+
+## 2026-10-12 Ayakashi Gohan ~Oomori!~ for S 신규 발굴 후보 등록
+
+[《Ayakashi Gohan ~Oomori!~ for S》 상세 평가·한국어화 조사](games/ayakashi-gohan-oomori-for-s.md)는 **2025-05-22 Edia 정식 Nintendo Switch 일본판**을 대상으로 한 신규 4.0/5·B급 작품성 발굴 결과입니다. **2014 PC 원작 → 2015 PS Vita 《Oomori!》 강화판(신규 시나리오·CG·표정) → 2025 Switch 이식**을 구분했으며, **2026-08-20 별도 판매 《Okawari! for S》는 2015 PC 팬디스크의 Switch 이식**으로 본편에 합본 수록된 것이 아님을 명확히 했습니다. Special Edition의 새 단편 4편은 **별도 소책자 특전**이며 Switch 인게임 신규 루트라고 단정하지 않았습니다.
+
+스토리는 **소녀 시절 선택에 따른 주인공 인격·인간편/요괴편 분기**, 서로 다른 공략남 3명씩 총 6명, 아사기 진상 해금과 엔딩 재해석을 긍정했습니다. 반면 **긴 공통부와 일부 개별 루트의 짧은 연애 분량**, 2015 Vita의 스킵/세이브·음성 설정 불편과 **2025 Switch판 품질 개선 여부 미측정**을 별도 감점해 작품성 4.0/5로 평가했습니다. **2026 4Gamer의 Switch 직접 플레이 리포트 1편, 2025 Switch 완주/재완주 블로그 2명**과 Vita·PC의 반대/찬성 후기를 **서로 다른 판본**으로 구별했습니다. 실제 Switch 게임 화면 3장(닌텐도 일본 e숍 1장·4Gamer 대사/선택지 2장)을 상세 문서에 첨부했습니다.
+
+**2026-10-12 공개 조사에서 Switch·Vita·PC 본편의 공식 한국어 또는 실제 적용 가능한 공개 완성 한국어 패치 미발견**입니다. 국내 개인 공략의 일본어 원문과 **2017년 PC 영어 팬패치**는 한국어화의 증거가 아닙니다. 번역상 **주인공 두 성격의 말투/존대 차이, 여섯 연애 루트와 잠금/진상 후 회수, 화자/음성/갤러리·메뉴**가 중요하며 실제 Switch 파일을 분석하지 않아 기술 난이도는 미확인입니다.
+
+**현재 Nintendo Switch 활성 후보 7개 / 💎 4.0점 이상 발굴 우선 후보 2개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 기록 5개**입니다. 다른 작품의 점수·한국어 대안 검증 보류·타 플랫폼 분류와 이전 날짜에 작성된 역사적 집계 문장은 보존합니다.
