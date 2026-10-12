@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 23 | 6 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 24 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -677,3 +677,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **자체 작품성 ⭐⭐⭐⭐☆ 4.0/5 · 한글화 우선도 B · 💎 Switch 활성 우선 후보**입니다. 호평 근거는 [2017 PS Vita Famitsu **8+8+8+8=32/40·4명**](https://www.famitsu.com/game/title/33042/reviews), [2021 Switch 출시 당시 GAME Watch 작품 상세 호평·PC Steam 27h 완주 1명](https://game.watch.impress.co.jp/docs/review/1315930.html), [Steam Windows 구매자 약 **94% 긍정·1500건 이상**](https://store.steampowered.com/app/857450/ISLAND/), Kone 연동 VNDB **7.74/10·2070표(2026-05 원작/혼합)** 등입니다. 반대로 [2022 일본 Switch 직접 구매자 3.0/5·단 1명](https://kakaku.com/item/K0001326990/)은 인물별 이야기의 약함·세츠나 성격·후반 갑작스런 설명/결말을 비판했습니다. 같은 매체·기종·표본으로 합치지 않고 **Famitsu Switch 자체 점수 미등록** 사실을 그대로 보존합니다. **2026 Switch 실제 롬/프리징/업데이트 버전/한글 폰트·엔진의 기술 난도는 미확인**입니다.
 
 **언어·한국어화 자격:** [PROTOTYPE Switch 공식](https://www.prot.co.jp/switch/island_en/index.html)은 일본·영어 2개 본문/매뉴얼만 지원하고 [Nintendo 유럽 e숍](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/ISLAND-1937715.html) 역시 한국어를 표기하지 않습니다. [Steam PC 공식](https://store.steampowered.com/app/857450/ISLAND/)은 일·영·중 지원과 **한국어 미지원**, [국내 GTAKU 게임/패치 원장](https://www.gtaku.net/vngameinfo/15356)은 해당 작품의 기존 배포 중 한국어판이나 완성 한국어 패치 항목을 제공하지 않으며 [2026-05 Kone/VNDB ISLAND 국내 게시물](https://kone.gg/s/vndb/aKilpQmGn0Rkr1a4ixrP4b)은 **미번** 카테고리입니다. 비공개 한글화 존재의 절대 부재까지 단정하지 않지만 **2026-10-13 검색에서 공개 적용 가능 완성 한국어 대안 미확인**이므로 활성 선정 자격 통과. **신규 Switch 활성 후보 23개 / 💎 우선 6개 / 🔥 A급 0개 / 🔴 작품성 기준 미달 기록 10개**로 [해당 기종 README](platforms/switch/README.md)와 일치시켰습니다. 다른 기종·기존 번역 기록·과거 날짜의 집계는 보존했습니다.
+
+
+## 2026-10-13 Nintendo Switch 《9-nine-》 4.0점 B급 활성 우선 후보 · PC 한글화 기존 자료 감사
+
+[**《9-nine- / 나인》 Nintendo Switch 정식 판본·장별 스토리·초능력 미스터리/전투 연출·이식 음성 오류 및 한국어화 기존 자료 상세 평가**](platforms/switch/games/9-nine.md)를 **2022-06-23 정식 Nintendo Switch CERO D 제품 / 작품성 ⭐⭐⭐⭐☆ 4.0/5 / 한글화 우선도 B / 💎 활성 발굴 우선 후보**로 등록했습니다. [제작사 PALETTE의 정식 콘솔 상품](https://9-nine-project.com/game/consumer/)에는 **1장 쿠조 미야코, 2장 니이미 소라, 3장 코사카 하루카, 4장 유키 노아, 신장(新章)** 등 **5개 장**이 하나의 소프트웨어에 수록됩니다. **2017~2020 각기 출시된 성인 PC 본편 4장→2021-04-23 Windows 전연령 PC 4장+신장 합본→2022 Switch/PS4 합본**이라는 판본 계보를 보존하고, 신장을 2022 Switch 독점 신규 에피소드로 잘못 분류하지 않았습니다. 2026년 PC 스핀오프 《as:9-nine- ARTEISIA》와 2025 애니판도 별개 콘텐츠입니다.
+
+**게임성과 작품성:** 시로미츠가와 도시 **시라헤비 츠쿠모 신사 신물 파손**을 계기로 이세계 아티팩트가 유입되고, 니이미 카케루와 4인 히로인이 각자 다른 초능력/사건에 얽히는 연애·미스터리 서사입니다. **직접 조작 전투는 없으며**, 능력의 대결은 스크립트·CG·성우 연기로 전개됩니다. 네 히로인의 인물성·주인공의 분명한 존재감, 3·4장에서 집중적으로 회수되는 복선과 후반 반전은 큰 강점이지만 **1·2장 도입 템포와 비교적 짧은 신장·선택지/시스템 단순성**이 감점 요소입니다. **[2023 Switch 실제 완주 개인 72/100·약 21h](https://ymashi.hateblo.jp/entry/2023/05/19/000000)**와 [2022 콘솔 이식판 완주자의 일부 음성 노이즈/음성 미재생 제보](https://wisteria824.blog.fc2.com/blog-entry-854.html)를 구별했습니다. **Famitsu Switch 직접 정량 전문 평점은 미등록**, [VNDB 개별 Ep1 7.08/10(4,833표) / Ep4 8.54/10(3,477표)](https://kone.gg/s/vndb/cpozwguIn3UIL0jdMRdj8b?p=33) 등은 PC 원작·기타 플랫폼 팬 표본이므로 Switch Metacritic으로 복사하지 않았습니다. 최신 콘솔 오류 패치·실기 프리징·파일·폰트는 **미검증**입니다.
+
+**한국어 접근성은 단순 '미번역' 아님:** [2020 Windows 1~4장 **게지네 간이 한국어 패치 v1.2**](https://myskrpatch.tistory.com/44)와 [2021 신장 간이 한국어 패치 v1.1](https://myskrpatch.tistory.com/121)은 **꿀도르 번역기 기반**이며 대상 PC 게임·판본이 한정돼 있습니다. **[2026-06-28 국내 게임 번역 커뮤니티 자료](https://kone.gg/s/vndb/cpozwguIn3UIL0jdMRdj8b?p=33)**는 이 간이패치와 구분되는 **'식당' 배포의 본편 1~4장 한국어본** 이력을 기록합니다. 이쪽은 원 번역자/허가/전수 검수·정품 독립 패치 여부가 미확인이고 **제2장 일부 진행 오류 우회 댓글**도 남아 있습니다. 현재 **Switch 전용 정식 한국어·검증 가능한 완성 한글패치는 확인되지 않았습니다**. 따라서 다른 기종에 팬패치가 있어도 Switch 후보를 우선 등록하는 **2026-10-13 사용자 지정 예외**에 따라 B급으로 선정했지만 원 번역의 수동 검수 수준·권리와 PC/콘솔·신장 원문 차분, 한글 글꼴 및 음성·세이브 전수 QA는 한글화 착수 전 별도 검증 사항으로 남겼습니다.
+
+**현행 집계:** Switch 활성 **24개 / 💎 4.0점 이상 우선 7개 / 🔥 A급 0개 / 🔴 기준 미달 10개**. 《9-nine-》 완전판 1개만 신규 활성 행으로 세고 본편 4장과 신장 5편을 독립 Switch 후보로 중복 집계하지 않았습니다. 다른 등록작/플랫폼 기존 후보와 이력, 모든 사용자용 GitHub Pages 진입 링크를 보존했습니다.
