@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 13 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 14 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -349,3 +349,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **외부 리뷰의 대상·분모를 엄격하게 구분**했습니다. 2019 Switch 《W》 단독 Metacritic 등 전문 점수 미집계, **2023 Switch V+W 두 작품 합본의 패미통 평론가 4명 점수 6+7+7+7=27/40**, 같은 2023 더블팩 한정판 [가격.com 이용자 4.00/5·1명](https://review.kakaku.com/review/K0001529624/), **2024 Steam PC 전체 51건 중 46건 긍정(약 90%)[별도 PC판](https://store.steampowered.com/app/2250790/?l=koreana)**입니다. **2019 일본 Switch 단품 일본어 지원**, PC Steam의 공식 일본어/영어는 2024판의 언어로서 **Switch 영어 지원의 증거가 아니며, 모두 공식 한국어 미지원**입니다. 2026-10-12 조사 중 각 판본용 공개·실행 가능·완성 한국어 패치는 확인되지 않았으나, 숨겨진/삭제된 패치까지 없는 것으로 단정하지 않았습니다. 《Genso Wanderer》·《Lotus Labyrinth》·《FORESIGHT》 등의 기존 동방 한국어 패치는 **다른 게임용**이며 W판에 적용 가능하다는 뜻이 아닙니다.
 
 **최신 Nintendo Switch 활성 후보 13개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 6개.** 이번 등록은 활성 후보 1개만 증가하며 다른 플랫폼 집계·모든 기존 후보/미선정/보류/한국어 대안 검증·이전 날짜별 역사 기록은 보존했습니다.
+
+
+## 2026-10-12 Nintendo Switch 《Class of Heroes 1 & 2: Complete Edition》 고유 2G 신규 C급 후보 등록
+
+[《Class of Heroes 1 & 2: Complete Edition》 Nintendo Switch 합본과 2G의 한국어화 가치·스토리·전투·육성·판본 분석](platforms/switch/games/class-of-heroes-1-and-2-complete-edition.md)은 **2024-04-26 PQube 북미/유럽 Switch 디지털 Complete Edition**을 대상으로 합니다. 이 상품은 2008 PSP 첫 편을 기반으로 한 **《Anniversary Edition》**과 **2009 PSP 2편→2010 PS3 2G 강화판→2024 Switch 《2G: Remaster Edition》**을 수록합니다. **1편 Anniversary는 이미 별도 3.5/5·C급 Switch 후보로 등록되었으므로 중복 새 게임으로 재집계하지 않으며, 이번 등록의 새로운 한글화 대상 게임은 2G 하나만**입니다. 일본 **2025-09-18 Switch 《1 2 3 Remaster Collection》**도 동일 1편·2G와 기존 후보 3편을 묶은 별도 제품이라는 점을 분리했습니다.
+
+**Switch 합본 Metacritic 67/100·전문지 5건**에서 **Digitally Downloaded 8/10, RPGFan 75/100, Shacknews 7/10, TouchArcade 7/10, Pure Nintendo 4/10**을 확인했고 Pure Nintendo 내부의 **1편 3/10·2G 5/10**은 두 게임의 직접 비교 자료로 보존했습니다. **PC 2G Tech-Gaming 79/100**과 **Steam 2G 57건 중 64% 긍정**은 Switch 합본 표본에 섞지 않았습니다. 2G는 **1편의 랜덤 맵 패턴과 사용 횟수형 마법 대신 고정맵·MP**, **10종족·18학과, 100개 이상 던전·250종 이상 몬스터**, PS3 2G 때부터의 음성화·동료 추가로 분명한 고유 가치가 있지만, **얕은 이야기·구식 튜토리얼과 메뉴·연금술·경제/반복 전투 문제**는 남아 있습니다. 자체 **작품성 ⭐⭐⭐½☆ 3.5/5·한글화 C급 🟢 활성**, 기술 난이도는 실제 Switch ROMFS/폰트/패치 실험 전 **미확인**입니다.
+
+**Nintendo 영국 합본과 미국 1편·2G 개별 e숍은 모두 일본어·영어**, Windows Steam 2G 역시 **한국어 미지원**입니다. 동일 본편의 일본 PSP 2·PS3 2G·2024 Switch/PC에서 실사용 가능한 **공개 완성 한국어 패치 출처도 이번 조사에서는 찾지 못했지만** 삭제·비공개 패치까지 존재하지 않는다는 뜻은 아닙니다. 기존 Anniversary 1편의 자료는 그대로 보존하고 **2G 고유 텍스트·새 캐릭터·학과·의뢰·음성자막만 추가 한글화 범위**로 기록했습니다.
+
+**최신 Nintendo Switch 활성 후보 14개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 6개**로 Switch README 집계와 맞췄습니다. 별도로 진행 중인 다른 게임 평가와 기존 아카이브 기록·이전 당시 현황은 보존합니다.
