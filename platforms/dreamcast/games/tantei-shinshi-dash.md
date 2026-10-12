@@ -65,7 +65,7 @@
 - 본편 기본 구조는 **사건 001~006의 6사건**이다. **005번은 초반부터 수주 상태이나 006(후반의 잠입 사건) 진행 중 해결**되고, **006은 001~004 해결 뒤 열리며 거의 직선형**이라는 게임카탈로그의 정리가 있다. 따라서 **6건이 모두 처음부터 독립적으로 병렬 진행되는 것은 아니며**, 실제 병행 가능한 사건 수는 제한된다. **후발 PS2의 사건 007은 DC 게임 본편에 추가된 사건이 아니다.** ([PC 원작·이식 계열 수사 시스템](https://w.atwiki.jp/gcmatome/pages/4639.html), [DC당대 6사건 열거](https://gamefaqs.gamespot.com/dreamcast/578988-tantei-shinshi-dash/reviews/23645))
 - 선택지 자체보다 **시간대별 이벤트 플래그와 장소 탐색**을 정확히 밟는 것이 진행의 핵심이다.
 - **오의 모드(奥義モード/Ougi Mode)**는 **차이나타운의 중국 고전 게임 상점에서 모든 CG, 같은 구역 경찰관에게서 모든 비디오를 구입한 뒤 세이브/로드 화면에서 시작**하면 해금된다는 2002년 당시 공략이 있다. **일반 모드와 사건 줄거리는 같고 등장인물의 코스튬이 바뀌는 수집용 모드**이므로 새 메인 엔딩이나 후발 사건 007로 분류하지 않는다. ([2002년 DC 오의 해금 공략](https://wazap.com/cheat/%E5%A5%A5%E7%BE%A9/4324/), [DC 상세 리뷰](https://gamefaqs.gamespot.com/dreamcast/578988-tantei-shinshi-dash/reviews/23645))
-- **VMU/비주얼 메모리의 「ミントといっしょ」(민트와 함께)**는 민트 호위 의뢰를 받은 뒤 다운로드 가능하다는 DC 플레이 기록이 있다. 같은 플레이어는 **VMU 저장 용량 88블록 필요**, 작은 액정의 일본어 가독성 문제를 적었다. VMU 미니게임의 엔딩 존재 여부·모든 이벤트/문구는 **검증되지 않았다.** ([실제 VMU 이용자](https://gamefaqs.gamespot.com/dreamcast/578988-tantei-shinshi-dash/reviews/23645))
+- **VMU/비주얼 메모리의 「ミントといっしょ」(민트와 함께)**는 민트 호위 의뢰를 받은 뒤 다운로드 가능하다는 DC 플레이 기록이 있다. VMU 저장 용량 **88블록**은 [당시 실제 사용자](https://gamefaqs.gamespot.com/dreamcast/578988-tantei-shinshi-dash/reviews/23645)와 [일본어 VMU 게임 정리](https://giovannimax.blog120.fc2.com/blog-entry-317.html), [Dreamcast-Talk 수집 목록](https://www.dreamcast-talk.com/forum/viewtopic.php?t=5276)에서 **교차 확인**된다. 작은 액정의 일본어 가독성 문제는 개인 실플레이 후기다. VMU 미니게임의 엔딩 존재 여부·모든 이벤트/문구는 **실기 미검증**이다.
 
 ## 왜 발굴할 만한가
 
@@ -253,7 +253,7 @@ PS2판은 Dreamcast판을 그대로 고해상도화한 버전이 아니다. **�
 - 56명 ge-iro 집계의 **75.71/100**, 찬성 **69%·보통 20%·반대 11%**를 수치상 참고하되, GameFAQs 10/10 필자와 Gavas 4/5 2명은 소표본이며 부정적인 직접 DC 후기(저장·이동·불필요한 플래그)도 반영한다.
 - **DC판은 기본 001~006 사건, 엔딩 1개**이고 **PS2에서 사건 007이 추가**되었다. 원작 계열 이동 시각 **30/15분**, DC 플레이어가 설명한 **11월 30일 주요 사건 마감**, **오의 모드/VMU**를 별도 QA로 잡았다.
 - **田島直는 2000 PC 원작과 DC 게임 본편 모두의 원화가**, **CARNELIAN은 DC 패키지 일러스트 담당**, **佐藤龍一가 DC 음악**을 맡았다. 후발 PS2·Rebirth!의 芹沢克己 원화 교체와 구분한다.
-- 공식 공략 가이드 **88쪽**과 초회한정판 **초반 공략 바이블·성우 토크 CD** 존재 확인. VMU 다운로드 후 **88블록 필요**는 당시 DC 이용자 1명 기록이며 독립 실기 재현은 미완료.
+- 공식 공략 가이드 **88쪽**과 초회한정판 **초반 공략 바이블·성우 토크 CD** 존재 확인. VMU 다운로드 **88블록 필요**는 DC 이용자 후기와 별도 VMU 게임 목록에서 교차 확인했으나 **게임 내부 실제 텍스트·후반 엔딩은 실기 미검증**이다.
 - 2026년 Switch·PS4·Xbox 실출시와 일본어판 상태 확인. **DC GD-ROM 포맷·폰트·문자열·VMU 실기 검증은 실시하지 않아 한글패치 기술 난이도는 미확인**이다. PS2와 현대판의 실제 보존 콘텐츠 차이는 추가 파일/게임 비교 대상이다.
 - 다른 플랫폼 작품 점수·2026-10-09 Dreamcast 평가 원장·후보 순위 및 전체 집계는 **변경하지 않았다**.
 
@@ -288,4 +288,6 @@ PS2판은 Dreamcast판을 그대로 고해상도화한 버전이 아니다. **�
 - 2002년 당시 Dreamcast 오의 모드 CG/비디오 상점 공략: https://wazap.com/cheat/%E5%A5%A5%E7%BE%A9/4324/
 - Dreamcast 패키지 일반판 T-44401M: https://www.suruga-ya.jp/product/detail/142000308
 - Dreamcast 패키지 초회한정판 T-44403M: https://www.suruga-ya.jp/product/detail/142000309
+- VMU 다운로드 88블록 일본어 재확인: https://giovannimax.blog120.fc2.com/blog-entry-317.html
+- Dreamcast Talk VMU 미니게임 보존 목록: https://www.dreamcast-talk.com/forum/viewtopic.php?t=5276
 - 게임메카 - 국내 통용 제목·Dreamcast판 소개: https://www.gamemeca.com/view.php?gid=118760
