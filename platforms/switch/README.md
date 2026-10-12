@@ -313,3 +313,14 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **2024-10-22 일본 Switch 3편 공식 v1.0.2 패치**는 캐릭터 수 보유 한도에서 소환 시 파티 편성·스탯이 깨지는 오류를 수정했으나 **이미 오류 뒤 저장한 세이브는 복구되지 않음**을 [제작사 직접 공지](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)에서 확인했습니다. **이 패치는 25th 합본 내 3편에도 적용**됩니다. 그 외 최신 프레임·버그·Switch ROMFS/폰트는 직접 미분석으로 **기술 난이도 미확인**입니다.
 
 **기존 [《Rhapsody 25th Anniversary Collection》 3.5/5·B급 활성 후보](games/rhapsody-25th-anniversary-collection.md)의 구성요소 3편에 대한 상세 기록일 뿐입니다.** 이미 포함된 동일 3편을 **활성 신규 후보나 3.5점 미달 '신규 평가 건수'에 이중 추가하지 않고**, **활성 14개 / 💎 우선 후보 3개 / 🔥 A급 0개 / 🔴 기준 미달 7개**로 모두 유지합니다. 앞서 보존한 [《Rhapsody II》 개별 4.0/5 평가](archive/rhapsody-ii-ballad-of-the-little-princess-edition-audit.md), 다른 게임·플랫폼과 이전 시점 집계도 모두 보존합니다.
+
+
+## 2026-10-12 《OCCULTIC;NINE / 오컬틱 나인》 Switch 이식 발표 후 취소·2017 본편 3.0점 참고 평가
+
+[《Occultic;Nine》 Nintendo Switch 플랫폼 확인·New World 취소 이력·2017 실제 게임판 작품성 및 한국어화 조사](archive/occultic-nine-switch-cancellation.md)를 **정식 Switch 미발매/플랫폼 불일치 기록**으로 추가했습니다. **2017-11-09 MAGES./5pb.의 정식 출시판은 PS4·PS Vita·Xbox One**이며, **2018-09 Switch 이식 발표 후 발매일은 발표되지 않았습니다**. **2022-08-01 시쿠라 치요마루가 방송에서 미회수 복선/본편 이후 내용 보강·신규 True End를 계획했던 《Occultic;Nine: New World》의 취소를 확인**했습니다. [2018 이식 발표](https://www.gematsu.com/2018/09/occulticnine-coming-to-switch) · [2022 계획 취소 보도](https://noisypixel.net/occulticnine-new-world-officially-canceled/) · [2017 제작사 공식 게임 대상 기종](https://occultic9.jp/gamedetail/) · [미출시 GameFAQs Switch TBA](https://gamefaqs.gamespot.com/switch/247857-occulticnine). GameFAQs Switch 페이지에 병합 노출되는 Xbox One 제품번호/2017 판매일을 Switch 출시일·카트리지 코드로 잘못 해석하지 않았습니다.
+
+**실제 2017년판만 참고 작품성을 ⭐⭐⭐☆☆ 3.0/5로 평가**했습니다. **패미통 33/40(4명; PS4·Vita·Xbox의 중복 동일 리뷰)**과 달리 PS4·Vita 일본 직접 완주 후기 **KENT 50/100·약 25h, Ahusa Vita 60/100, 별도 PS4 트로피 100% 클리어 독자의 부정적 정성평**이 존재합니다. 오컬트와 과학·시부야 인터넷 문화, **AFFI TRIGGER 블로그 키워드 분기**, 라디오 **SKY SENSOR/MMM** 수집은 창의적이나, **2016 애니메이션판과 유사한 기출시 True Story/Ghost Double 엔딩**, 미회수 단서·반복 루트·미니 애니 해금 피로·Vita 작은 글자 등이 강한 단점입니다. **2017 원판 트루 엔딩이 존재함에도 추가 New World 보강 엔딩은 미완성/취소**라는 사실을 분리했습니다.
+
+**한국어:** 2017 일본 PS4/Vita/Xbox 본문 정식 한국어판·실사용 가능한 공개 완성 게임 한국어 패치 미발견. 국내 한국어 라이트 노벨·2016 애니 수입은 게임 한국어화와 다릅니다. **Switch판 자체가 없으므로 Switch 지원 언어·한글화 폰트·ROMFS·이식 품질·전용 스크린샷은 평가 불가**. 본 건은 **Switch 작품성 기준 미달 평가 1개를 추가하는 것이 아니라, 실제 Switch 정식 발매 자격 자체가 없는 미발매 취소 기록**입니다. 다른 2017 기종에 대한 점수는 **별도 참고 평가**일 뿐입니다.
+
+**등록 집계 변동 없음:** Nintendo Switch 활성 후보 14개 / 💎 우선 후보 3개 / 🔥 A급 0개 / 🔴 3.5점 미달 Switch 평가 기록 7개. 이 항목은 Switch 후보 목록·3.5점 미달 표에 새 행을 만들지 않고, 기존 후보·다른 플랫폼·역사적 날짜별 평가를 모두 보존합니다.
