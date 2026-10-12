@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **10개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
+> 등록 후보: **10개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **6개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -28,6 +28,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [VARLET (ヴァレット)](games/varlet.md) | 2025 | SNS·심리 진단 학원 RPG·3인 타임라인 턴제 전투 | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch Metacritic 50/100·평론가 4건 / Pure Nintendo 6/10 / Siliconera 5/10 / PS4Blog 8/10(별도 매체)** / PC Metacritic 64/100·9건 / Steam 47% 긍정·117건 | **2025-08-28 아시아 Switch 한국어 자막 정식 발매(CLE)** / 북미 Switch 일본어·영어만 표기 / PS5 한국판·PC Steam 공식 한국어 지원 | **2025-08-27 북미 FuRyu판 / 2025-08-28 일본·아시아판 CLE 한국어 발매** / SSS 반복·전투 밸런스 취약 / 지역별 지원 언어 구분 | 🔴 패스 · 3.5점 미달 · Switch 공식 한국어판 존재, 평가 기록 |
 | [Never 7 - The End of Infinity (네버 7)](games/never7-the-end-of-infinity.md) | 2025 | 연애·시간 반복 SF 미스터리 비주얼노벨 / 히로인 분기·18개 엔딩 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Metacritic 62/100·평론가 5건: Noisy Pixel 8/10·Pure Nintendo 7/10·Universo Nintendo 6/10·Hardcore Gamer 5/10·GameGrin 5/10** / PS5 RPGFan 81/100 별도 / Steam 68% 긍정·64건(PC) | **Switch 공식 한국어 미지원**, 2026-06-07 **2025 Steam 리마스터 한국어 패치 배포 공지**, 2026-10-11 **PSP ULJM-05433 한국어 베타 v0.9.0 공개** / 두 패치 모두 Switch 직접 호환 검증 없음 | 2000 PS1 《infinity》→2000 Dreamcast《Never7》→2009 PSP→2025 Switch/PS4/Steam HD 리마스터 / 4:3 화면의 16:9 크롭·낡은 음원, 반복 루트 | 🔴 패스 · 3.5점 미달 · 다른 판본 한국어 대안, 평가 기록 |
 | [PROGRESS ORDERS (프로그레스 오더즈)](games/progress-orders.md) | 2025 | 길드 경영·자동 던전 파견·3턴 명령 개입형 RPG | ⭐⭐½☆☆ (2.5/5) | 미부여 | **Switch 価格.com 2.00/5·집계 2명** / Switch 약 20시간 완주자 1명 UI·동선·초기 크래시 혹평 / Dengeki 출시 전 초반 체험 호평 1명 / PC Steam 36% 긍정·77건 / Famitsu·4Gamer Switch 공개 리뷰 미확인 | **Switch 공식 일본어·영어·중국어 간·번체·한국어 미지원 / Steam 공식 한국어 미지원** / 적용 가능한 공개 완성 한글패치 미발견 | 2025-04 Switch·Steam 동시 계열 원작 / Bushiroad·HAKAMA 제작 / 2025-05-07 양 플랫폼 v1.2 프리징·시간 흐름 주요 버그 수정 / 별도 리메이크 아님 | 🔴 패스 · 3.5점 미달, 평가 기록 |
+| [Touhou Genso Wanderer -FORESIGHT- (이상한 환상향 포사이트)](games/touhou-genso-wanderer-foresight.md) | 2024 | 레벨·장비 유지형 동방 미스터리 던전 로그라이트 / 이자나기 링크·신사 재건 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch PS4Blog 8/10·1명, Video Chums 7.5/10·1명, LadiesGamers 정성 호평·1명** / PS4 표기 Famitsu 29/40·4명 / **PC Steam 46% 긍정·290건**, PC Game8 56/100 · Switch Metascore 확인 미집계 | **Switch/Steam 공식 한국어 미지원(일본어·영어·중국어 간·번체)** / 2026-10-12 FORESIGHT 자체 공개 완성 한글패치 미발견 / 기존 TODR 한글패치는 별도 게임 | Steam 2024-05-14 → 일본 Switch/PS4 DL 2024-09-19(북미 9/18) → 일본 Switch 패키지 11/28 / 콘솔 출시에 맞춰 v1.08 새 던전·스펠카드·서브시나리오 PC에도 추가 / PC v1.09 12월 던전 추가, Switch 동일 버전·최신 실기 미확인 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
 게임 상세 문서는 `games/<game>.md`에 저장합니다. 최초 등록작: [《MAMIYA》](games/mamiya-a-shared-illusion-of-the-worlds-end.md).
 
@@ -178,3 +179,13 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 독립 **2026 Switch Metacritic 74/100·전문지 6건**, 2024 일본 Switch 실제 엔딩 완주자와 2026 RPGamer 평가를 교차 검토해, 강점 **타임라인 4속성 체인 전투·세 호문쿨루스의 아니마 퓨전**, 단점 **장시간 반복 던전·영혼 파밍·보스 난도 폭·단순한 중후반 이야기**를 반영했습니다. **자체 작품성 ⭐⭐⭐½☆ 3.5/5**로 등록선을 통과하지만 **공식 한국어판이 있어 한글화 우선도 A/B/C 미부여, 활성 후보 등록 없음**입니다.
 
 이 기록은 **미선정/공식 한국어 확인 아카이브**에만 보관하며, **Switch 활성 후보 10개 / 💎 우선 후보 2개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 5개**의 집계와 이전 후보 자격·외부 리뷰 점수는 변경하지 않았습니다. 기준 미달이 아니라 **한국어 접근성이 이미 해결된 게임**임을 구분합니다.
+
+## 2026-10-12 이상한 환상향 -FORESIGHT- Switch 신규 평가, 3.0/5 미선정 기록
+
+[《Touhou Genso Wanderer -FORESIGHT- / 이상한 환상향 포사이트》 상세 Switch판 작품성·한글화 조사](games/touhou-genso-wanderer-foresight.md)는 **2024-09-19 일본 Switch·PS4 DL**(북미 09-18), **2024-11-28 일본 Switch 패키지**, **2024-05-14 PC Steam**의 서로 다른 출시 시점을 확인했습니다. **별개 2018 《TOD-RELOADED-》나 2021 《Lotus Labyrinth R》는 같은 타이틀이 아니며 해당 시리즈의 한국어 패치·리뷰·게임 자산을 이 2024 신작에 연결하지 않습니다.** [Nintendo 공식 언어표](https://www.nintendo.com/us/store/products/touhou-genso-wanderer-foresight-switch/)와 [Steam 공식 언어표](https://store.steampowered.com/app/1847150/?l=koreana)에서 일본어/영어/중국어 간체·번체만 확인되고 **한국어 미지원**이며, 2026-10-12 공개 검색 범위에서 **FORESIGHT 자체에 직접 적용 가능한 완성 한글패치 미발견**입니다. 원본 Switch ROMFS·텍스트·폰트·패치 실기 시험이 없으므로 기술 난도 **미확인**입니다.
+
+**출시 이후 콘텐츠 개선을 무시하지 않았습니다.** [2024-09 콘솔 출시·제작사 업데이트](https://fushigen4.jp/news/275/) 및 [제작사의 Steam 패치 이력](https://steamcommunity.com/app/1847150/allnews/)에 따르면 PC 2024-05 초기판보다 9월 **새 던전·서브 시나리오·스펠카드·신사 연못**이 보완됐고, 12월 PC v1.09에는 **튜토리얼·특수 던전과 타카네 인 제거**가 추가됐습니다. **Switch 정확한 v1.09 적용·현재 게임 버전/실기 성능은 별도 미확인**입니다.
+
+**외부 매체/이용자 점수 분리:** Switch 직접 [PS4Blog 8/10](https://www.ps4blog.net/2024/10/nintendo-switch-touhou-genso-wanderer-foresight-review/)·[Video Chums 7.5/10 (Switch Scores 수록)](https://www.switchscores.com/games/13395/touhou-genso-wanderer-foresight)·[LadiesGamers 정성 호평](https://ladiesgamers.com/touhou-genso-wanderer-foresight-review/), 별도 **PS4 Famitsu 29/40(4명)**, **PC Steam 긍정 46%·290명 및 PC Game8 56/100**. Steam PC 점수를 Switch 메타스코어로 오인하지 않으며, 2026-10-05 [동방 Reddit 소수 이용자 토론](https://www.reddit.com/r/touhou/comments/1wycgw5/so_what_new_gameplay_mechanics_does_gensou/)의 최신 《Reloaded》 비교도 정량 여론이 아닌 참고로만 사용했습니다.
+
+**작품성 평가:** 쉬운 던전 입문과 레벨·장비 유지, 새 캐릭터 그림·음악·풀보이스·신사 재건/i대시는 장점. 그러나 기존 TODR의 장비 합성/공명인/강화 다양성·조작 캐릭터·엔드게임 구성 축소, 이자나기 링크 LP 능력치 벽, 원작 6~8의 이변을 반복한 얕은 이야기로 **3.0/5 · 🔴 패스**입니다. **활성 후보 10개 / 💎 우선 2개 / A급 0개 유지**, **기준 미달 평가 기록 5개 → 6개**로만 갱신했습니다. 관련 없는 작품·타 플랫폼 등록과 보류 기록·과거 당시 집계 문장은 보존합니다.
