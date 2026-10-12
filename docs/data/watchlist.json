@@ -43,7 +43,8 @@
     "platforms/ps3/games/toheart2-dx-plus.md",
     "platforms/psvita/games/ore-ni-hatarakette-iwaretemo-otsu-hd.md",
     "platforms/dreamcast/games/sakura-taisen-hanagumi-taisen-columns-2.md",
-    "platforms/dreamcast/games/elysion-eien-no-sanctuary.md"
+    "platforms/dreamcast/games/elysion-eien-no-sanctuary.md",
+    "platforms/dreamcast/games/dousoukai-2-again-refrain.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -216,6 +217,10 @@
     },
     "platforms/dreamcast/games/elysion-eien-no-sanctuary.md": {
       "added": "2026-10-11T18:29:14.763Z",
+      "note": ""
+    },
+    "platforms/dreamcast/games/dousoukai-2-again-refrain.md": {
+      "added": "2026-10-12T05:24:13.190Z",
       "note": ""
     }
   }
