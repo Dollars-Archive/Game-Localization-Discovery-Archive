@@ -27,3 +27,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 ## 2026-10-12 Astral Takers 평가 이력
 
 [《Astral Takers》 상세 보고서](games/astral-takers.md)는 실제 **Switch 독립 리뷰 각 6/10인 2명**과 타 기종·모바일판 후기를 구분해 평가했다. **작품성 3.0/5 · 🔴 패스**, 일반 등록선 3.5/5 미달이므로 정식 후보·발굴 우선·A급에 포함하지 않는다. **《MAMIYA》 정식 후보 1개·우선 후보 1개·A급 0개는 그대로 유지**한다.
+
+## 2026-10-12 시계장치의 레이라인 한국어 대안 검증 보류
+
+[《Tokeijikake no Ley Line: Kagerou ni Samayou Majo》 상세 조사 기록](games/tokeijikake-no-ley-line-kagerou-ni-samayou-majo.md)은 **작품성 4.0/5**의 학원 미스터리 비주얼 노벨에 대한 Switch 기준 평가입니다. **2021-03-25 일본 Switch판**은 PC 3부작과 **2017년 PS Vita에서 추가된 ‘아지랑이에 방황하는 마녀’ 후일담**을 묶은 FHD 이식이며, 일본판 공식 한국어는 없습니다.
+
+그러나 **2026-08-20 Switch판에 직접 적용하는 AI 한국어 텍스트 패치 공개 기록**이 확인됐습니다. 당시 **이미지 식질 미완료**였고, 패치 원 제작자 공지·독립 파일 현행 배포·한글 번역 전 루트/후일담 완료·구동 안정성은 직접 검증하지 못했습니다. **PC 1~3편 한국어 패치 안내**도 별도로 발견돼 있습니다. 따라서 신규 한글화 우선도를 부여하거나 한국어 대안이 전혀 없는 활성 후보로 추가하지 않고 **🟡 후보 자격 검증 보류**로 보존합니다. [Switch 패치 안내](https://kone.gg/s/vndb/d2O7q8KFy5PMf7AJYXhQab?oh=imya&p=5) · [PC 1~3부 적용 안내](https://kone.gg/s/vndb/b0abEQ3Vq6Mcv3QVJWKkab?category=cVmgp1rRqWKxH9DgWNnPSb).
+
+**정식 등록 후보 1개·발굴 우선 1개·A급 0개·기준 미달 기록 1개는 그대로 유지합니다.** 이번 검증 보류 기록은 위 활성 후보 표와 집계에 추가하지 않았으며, 《MAMIYA》와 《Astral Takers》 기록도 보존했습니다.
