@@ -360,3 +360,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **Nintendo 영국 합본과 미국 1편·2G 개별 e숍은 모두 일본어·영어**, Windows Steam 2G 역시 **한국어 미지원**입니다. 동일 본편의 일본 PSP 2·PS3 2G·2024 Switch/PC에서 실사용 가능한 **공개 완성 한국어 패치 출처도 이번 조사에서는 찾지 못했지만** 삭제·비공개 패치까지 존재하지 않는다는 뜻은 아닙니다. 기존 Anniversary 1편의 자료는 그대로 보존하고 **2G 고유 텍스트·새 캐릭터·학과·의뢰·음성자막만 추가 한글화 범위**로 기록했습니다.
 
 **최신 Nintendo Switch 활성 후보 14개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 6개**로 Switch README 집계와 맞췄습니다. 별도로 진행 중인 다른 게임 평가와 기존 아카이브 기록·이전 당시 현황은 보존합니다.
+
+## 2026-10-12 Nintendo Switch 《Yuuna and the Haunted Hot Springs KIWAMI》 등록 기준 미달 평가
+
+[《Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami》 Switch판 상세 작품성·한국어 지원·DLC/원작 평가](platforms/switch/games/yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.md)에서 **일본 Nintendo Switch 정식 2024-01-18 출시**(제품 ID D70010000068234), **2018-11-15 PlayStation 4 원작의 보너스·유료 DLC를 합친 복각판**임을 검증했습니다. [FuRyu 공식 제품 페이지](https://www.cs.furyu.jp/yuragisou/)에 따르면 **치사키·마치 추가 플레이어블 인물, 특별 던전 세 개, 장비/의상·강화 아이템·원작 애니 성우의 오리지널 이벤트**가 포함되며 **Switch판 '감응영천(感応霊泉)' 온천 미니게임은 다른 기종과 내용·연출 일부가 다르다**는 특이점이 있습니다.
+
+**정량 평가 판본을 구별:** [2018 PS4 원작 Famitsu 8+8+8+8=32/40(4명)](https://www.famitsu.com/game/title/36449/reviews)은 정석 턴제 던전·입문자 친화·성우/의상을 호평했지만, [2024 Switch KIWAMI Famitsu 리뷰는 미집계](https://www.famitsu.com/game/title/54133/reviews)입니다. 2024 KIWAMI의 [PC Metacritic 54/100·평론가 5건](https://www.metacritic.com/game/yuuna-and-the-haunted-hot-springs-the-thrilling/critic-reviews/), [PC Steam 유저 23건 중 56% 긍정](https://store.steampowered.com/app/2436340/?l=koreana), [WTMG PC 7/10](https://waytoomany.games/2024/01/30/review-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami/)과 PS5 구매자 4.06/5(163건)를 모두 다른 기종·표본으로 다뤘습니다. Steam은 **공식 한국어 미지원**(일본어·영어·중문 간/번체), 일본 Switch 한국어 정식판과 Switch·PC에서 사용할 수 있는 공개 완성 한국어 패치를 **2026-10-12 공개 조사 범위에서 발견하지 못했습니다**. **PC 컨트롤러 매핑 오류·iOS 화면 잘림/터치 문제를 Switch의 확정 버그로 둔갑시키지 않고**, 최신 Switch 실기 안정성/파일 구조·한글 출력은 **미검증**으로 보존합니다.
+
+**자체 작품성 ⭐⭐⭐☆☆ 3.0/5 · 🔴 패스(3.5점 정식 한글화 후보 기준 미달)**. 던전·아이템/허기/동료/의상 관리의 기본기는 있지만, 원작 사전지식 의존 스토리·중복 적/방 구조·강한 초기 지원 장비/아이템 손실 스트레스·독창성 부족이 크며, 애니메이션 팬 대상 일러스트·성우만으로 3.5점을 충족하지 못했습니다. **한글화 우선도 미부여, 기술 난이도 미확인**. 실제 Switch판이 존재하므로 게임별 평가 자료는 Switch games 폴더에 남겼고, **활성 후보 14개 / 💎 우선 3개 / A급 0개 그대로, 기준 미달 기록 7개**로 Switch README와 일치시켰습니다. 최근 등록된 다른 2026 게임들, 타 플랫폼·한국어 보류·과거 집계는 변경하지 않았습니다.
