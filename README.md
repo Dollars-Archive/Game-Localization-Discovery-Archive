@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 18 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 19 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -581,17 +581,17 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **등록 판정: ⭐⭐⭐☆☆ 3.0/5 · 🔴 작품성 기준 3.5점 미달 + 이미 🟢 닌텐도 Switch 한국어 정식판 있음 → 신규 한글화 후보 제외**. 정상 Switch 출시된 별도 게임이므로 `platforms/switch/games/` 에 3.0점 미선정 자료로 보존하며 **Switch 활성 후보 17개 / 💎 우선 3개 / 한글화 A급 0개는 그대로, 기준 미달 평가 9개**로 Switch README와 일치합니다. 별도 등록된 《오레가이루 1·속 합본》 및 다른 3.0점 제외작·공식 한국어판 기록과 기존 PS Vita/PSP/PS2/Dreamcast 등 타 플랫폼 데이터·이전 날짜 당시 집계는 보존했습니다.
 
 
-## 2026-10-13 Nintendo Switch 《The Grisaia Trilogy》 4.0점 평가·2019 부분/2026 6부작 한국어 자료 검증 보류
+## 2026-10-13 Nintendo Switch 《The Grisaia Trilogy》 4.0점·사용자 지정 예외 활성 후보
 
-[《The Grisaia Trilogy / 그리자이아 트릴로지》 Switch 정식 수록·개별 3작품 스토리·한글화/이식 품질 전수 조사](platforms/switch/archive/the-grisaia-trilogy-korean-patch-audit.md)를 신규 **Switch 평가·한국어 자료 검증 보류**로 기록했습니다. **2019-11-07 PROTOTYPE의 Nintendo Switch 정식 《그리자이아의 과실·미궁·낙원 풀패키지》**는 세 작품 본편과 **《미궁》 후일담 5편·단편 29편, 《낙원》 Prologue 및 《유한》《잔광》《선율》 세 외전**을 합친 일본어·영어 텍스트판입니다. [PROTOTYPE 공식](https://www.prot.co.jp/switch/grisaiafull_en/index.html)은 터치스크린·오른손 Joy-Con 한 개 조작과 진행 중 영일 언어 전환을 확인하며, 일본어 설명은 별개 치루치루 미치루 스핀오프가 없음을 명시합니다. **Switch판은 원작 Windows 성인 18+ 콘텐츠 전체를 보존한 게임이 아니며**, 콘솔 등급과 수록 표기를 구분했습니다.
+[《The Grisaia Trilogy / 그리자이아 트릴로지》 Switch 정식 수록·개별 3작품 스토리·한글화/이식 품질 전수 조사](platforms/switch/games/the-grisaia-trilogy.md)를 **사용자 지정 예외로 Switch B급 💎 활성 우선 후보에 등록**했습니다. 기존 한국어 자산 감사·이전 보류 판정은 [보존 기록](platforms/switch/archive/the-grisaia-trilogy-korean-patch-audit.md)으로 유지합니다. **2019-11-07 PROTOTYPE의 Nintendo Switch 정식 《그리자이아의 과실·미궁·낙원 풀패키지》**는 세 작품 본편과 **《미궁》 후일담 5편·단편 29편, 《낙원》 Prologue 및 《유한》《잔광》《선율》 세 외전**을 합친 일본어·영어 텍스트판입니다. [PROTOTYPE 공식](https://www.prot.co.jp/switch/grisaiafull_en/index.html)은 터치스크린·오른손 Joy-Con 한 개 조작과 진행 중 영일 언어 전환을 확인하며, 일본어 설명은 별개 치루치루 미치루 스핀오프가 없음을 명시합니다. **Switch판은 원작 Windows 성인 18+ 콘텐츠 전체를 보존한 게임이 아니며**, 콘솔 등급과 수록 표기를 구분했습니다.
 
 **자체 작품성 ⭐⭐⭐⭐☆ 4.0/5**이며 **《과실》 개별 4.5, 《미궁》 3.5, 《낙원》 4.0**입니다. [RPGFan 과실 93점](https://www.rpgfan.com/review/the-fruit-of-grisaia/)·[미궁 72점](https://www.rpgfan.com/review/the-labyrinth-of-grisaia/)·[낙원 78점](https://www.rpgfan.com/review/the-eden-of-grisaia/)은 **세 독립 전문 매체가 아니라 2017/2018 PC판에 대한 동일 필자 Dom Kim의 세 평가**입니다. 여기에 Switch 직접 전문 메타평점 미집계, Nintendo Life 이용자 **7.3/10·9표**, 《과실》 5개 루트의 뛰어난 인물 심리/음악과 긴 공통부 10~15h, 이후 첩보 액션/개연성·캐릭터 서사의 편차를 균형 반영했습니다. 최신 콘솔 파일·폰트·실기 안정성/버그·번역 적용 실험은 하지 않아 **기술 난이도 미확인**입니다.
 
-**한국어화 보류의 이유는 구체적입니다.** [2019-01-14 daisy/Polaris의 《과실》 준한글화 원문](https://polaris.hided.net/aral_pds/2700822)은 **손번역 공통부·아마네 일부·엔젤릭 하울·엔딩만**, 다른 구간은 번역기 처리·개인 검수 미실시라고 명시합니다. 《미궁》의 옛 등록도 **부분 AralTrans 번역**이지 전부 완역이 아니므로 이를 '완성 2019 한국어판'으로 포장하지 않았습니다. 반면 **2026-05~07에는 《과실》《미궁》《낙원》《유한》《잔광》《선율》 6개 모두 한국어 텍스트 적용/수정·리마스터 재적용 자료**가 국내 커뮤니티에 공개됐습니다. [2026 《미궁》 번역 적용·사용자 설치 의견](https://kone.gg/s/vndb/apPvtzXD8uPEL31oAMvj4b)과 [《낙원》](https://kone.gg/s/vndb/aufliRCvcVOWT31KW4Dj4b)은 **원본 유료 게임 및 인증 우회 EXE를 포함하는 공유 사례**가 있어, 그 배포본을 정품에 적용 가능한 **독립적인 적법 patch-only 자료·모든 루트 완역·이식 성능·현행 다운로드 성공**으로 인증하지 않았습니다. **저작권 포함 통파일·크랙 재배포 링크나 설치 안내는 제공하지 않습니다.** Windows 번역이 2019 Switch 구조와 호환된다는 기술 근거도 미확인입니다.
+**기존 한국어 번역의 범위·품질 검증 상황:** [2019-01-14 daisy/Polaris의 《과실》 준한글화 원문](https://polaris.hided.net/aral_pds/2700822)은 **손번역 공통부·아마네 일부·엔젤릭 하울·엔딩만**, 다른 구간은 번역기 처리·개인 검수 미실시라고 명시합니다. 《미궁》의 옛 등록도 **부분 AralTrans 번역**이지 전부 완역이 아니므로 이를 '완성 2019 한국어판'으로 포장하지 않았습니다. 반면 **2026-05~07에는 《과실》《미궁》《낙원》《유한》《잔광》《선율》 6개 모두 한국어 텍스트 적용/수정·리마스터 재적용 자료**가 국내 커뮤니티에 공개됐습니다. [2026 《미궁》 번역 적용·사용자 설치 의견](https://kone.gg/s/vndb/apPvtzXD8uPEL31oAMvj4b)과 [《낙원》](https://kone.gg/s/vndb/aufliRCvcVOWT31KW4Dj4b)은 **원본 유료 게임 및 인증 우회 EXE를 포함하는 공유 사례**가 있어, 그 배포본을 정품에 적용 가능한 **독립적인 적법 patch-only 자료·모든 루트 완역·이식 성능·현행 다운로드 성공**으로 인증하지 않았습니다. **저작권 포함 통파일·크랙 재배포 링크나 설치 안내는 제공하지 않습니다.** Windows 번역이 2019 Switch 구조와 호환된다는 기술 근거도 미확인입니다.
 
-**Switch 전용 한국어 패치 재확인(2026-10-13):** Switch 합본용 독립 배포 한국어 패치, 적용 가능한 Title ID/버전, 실기 한국어 전체 루트 완주 증거는 공개 검색에서 **확인되지 않았습니다.** 2019 Windows 부분 번역과 2026 Windows 번역 적용/실행파일은 **2019 Switch판에서 정상 작동하는 패치라는 증거가 아닙니다.** 미확인을 절대적인 부재로 단정하지 않고 기존 한국어 자산 검증 보류를 유지합니다.
+**Switch 전용 한국어 패치 재확인(2026-10-13):** Switch 합본용 독립 배포 한국어 패치, 적용 가능한 Title ID/버전, 실기 한국어 전체 루트 완주 증거는 공개 검색에서 **확인되지 않았습니다.** 2019 Windows 부분 번역과 2026 Windows 번역 적용/실행파일은 **2019 Switch판에서 정상 작동하는 패치라는 증거가 아닙니다.** 미확인을 절대적인 부재로 단정하지 않고 Windows 한국어 자산의 완역·정품 호환과 Switch 실기 적용 여부만 미검증으로 유지합니다.
 
-**최종 판정:** 작품성 4.0점은 분명한 장점이지만 **원어 2019 Switch 본편에 대한 한국어 자산 대안이 이미 6개 콘텐츠 영역까지 진행된 사실**을 무시해 새 미번역 활성 후보로 등록하지 않으며, 원 번역자의 **별도 합법 patch-only/완역율/정품 구동·권리 확인 전까지 🟡 검증 보류**로 보존합니다. **신규 A/B/C 미부여, 3.5점 미달 패스 추가 없음**, 기존 Switch 활성 **17개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 미달 기록 9개**와 다른 플랫폼의 결과·이전 당시 평가 자료는 유지했습니다.
+**최종 판정(사용자 지정 예외):** 2019 Windows 과실·미궁 부분 번역, 2026 Windows 본편 3개·외전 3개의 한국어 자료 이력이 확인되지만 **사용자의 명시적 예외 지시**에 따라 Nintendo Switch 《The Grisaia Trilogy》를 **작품성 ⭐⭐⭐⭐☆ 4.0/5 · 한글화 우선도 B · 💎 활성 우선 후보**로 등록했습니다. 이전의 한국어 자료 ‘미번역’ 오인 방지 근거는 그대로 보존합니다. **Switch 활성 19개 / 💎 우선 4개 / 🔥 A급 0개 / 🔴 3.5점 미달 9개**로 집계를 갱신했습니다. Switch 전용 한글패치가 이미 완성·실사용 가능하다는 뜻은 아니며, 기존 번역 재사용 권리·완역률·실기 호환·기술 난도는 미검증입니다. 다른 후보의 평가와 과거 시점 집계, 기존 Pages 바로가기 URL은 변경하지 않았습니다.
 
 ## 2026-10-13 Nintendo Switch 《NonetEnsemble: Magicwork Labyrinth》 신규 C급 후보 등록
 
