@@ -45,7 +45,6 @@
     "platforms/dreamcast/games/sakura-taisen-hanagumi-taisen-columns-2.md",
     "platforms/dreamcast/games/elysion-eien-no-sanctuary.md",
     "platforms/dreamcast/games/dousoukai-2-again-refrain.md",
-    "platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md",
     "platforms/psp/games/akatsuki-no-goei-trinity.md",
     "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md"
   ],
@@ -224,10 +223,6 @@
     },
     "platforms/dreamcast/games/dousoukai-2-again-refrain.md": {
       "added": "2026-10-12T05:24:13.190Z",
-      "note": ""
-    },
-    "platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md": {
-      "added": "2026-10-12T05:56:10.313Z",
       "note": ""
     },
     "platforms/psp/games/akatsuki-no-goei-trinity.md": {
