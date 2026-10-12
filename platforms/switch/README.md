@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **9개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
+> 등록 후보: **10개** / 발굴 우선 후보: **2개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **5개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -20,6 +20,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [Class of Heroes 3 Remaster (검과 마법과 학원물 3 리마스터)](games/class-of-heroes-3-remaster.md) | 2025 | 3학교·10종족·45학과·6인 1인칭 학원 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | **Switch TheSixthAxis 7/10·1명 / Cubed3 6/10·1명 / Ani-Game 7/10·1명 / Nindie Spotlight 7.3/10·1명 / Steam PC 66%·53건은 별도** | **2025 Switch·PS5·Steam 공식 한국어 미지원 / 적용 가능한 공개 완성 한글패치 미확인 / 2010 한국 PS3 정발은 일본어 게임·한글 설명서** | 2010 일본 PSP·PS3 원작(PSP 주요 NPC 무음성·PS3 일부 음성) → 2025 Switch·PS5·PC HD 리마스터 영문 지원 / 일본 Switch 단품과 1·2·3 패키지 합본 별도 | 🟢 후보 |
 | [Rhapsody: 25th Anniversary Collection (마알 왕국의 인형공주 25주년 컬렉션)](games/rhapsody-25th-anniversary-collection.md) | 2024 | 일본 한정 뮤지컬 RPG 3부작 / 1편 격자 SRPG·2편 인형마법 커맨드 턴제·3편 16인 편성 | ⭐⭐⭐½☆ (3.5/5) | B | **2024 일본 25th 단독 MC 평론 0건(미집계) / 일본 価格.com 4.0/5·1명** / **별도 2023 Switch 2+3 합본 MC 70/100·10건** / PC RPGFan 2편 80·3편 72 / RPGamer 3편 2/5 | **2024 일본 25th Switch 공식 한국어 미지원(일본어만 확인)** / **PS1 1편 한국어 v0.9(2026-08-30)·2편 v0.8(2026-09-25) 공개** / 전편 완주 미검증·3편 한국어 대안 미발견, 기존 번역 중복 주의 | 1998 PS1 1편→1999 PS1 2편→2000 PS2 3편 / 일본 Switch 각편 2022·2023 이식→2024 3편 합본 / 서양 Switch 2022 1편+La Pucelle, 2023 2+3 별도 / **3편 Switch v1.0.2 캐릭터 소환 한도 편성 버그 수정**, 손상 세이브 미복구 | 🟢 후보 · PS1 1·2편 한국어 대안 확인, 3편 공백 |
 | [Hakkenden (팔검전 / 八剱伝)](games/hakkenden.md) | 2024 | 전국시대 판타지·8인 4커플 교차 시점 연애/군상극 비주얼노벨 | ⭐⭐⭐½☆ (3.5/5) | B | **2024 PC 모에게임어워드 시나리오상·1월 월간상** / PC Bangumi **6.5/10·53표** / PC 일본 개인 **74/100·1명**, 한국 개인 **79/100·1명** / Switch 직접 2025 정성 호평 1명·평점 미집계 | **일본 Switch 공식 한국어판·공개 한글패치 미발견** / 2024 PC 원작에서도 공개 실사용 완성 한국어판 미발견 | **2024-01 PC 성인판 → 2024-10-24 Switch CERO D** / Switch 신규 OP 곡 2개·OP 영상·클리어 후 쇼트노벨, 원본/콘솔 차분 미실측 | 🟢 후보 |
+| [FAIRY TAIL 2 (페어리 테일 2)](games/fairy-tail-2.md) | 2024 | 알바레스 제국편·오리지널 후일담·실시간 ATB형 3인 파티 JRPG | ⭐⭐⭐½☆ (3.5/5) | C | **Switch MC 72/100·6건**: Digitally Downloaded 8/10, RPGFan 79/100, Siliconera 7/10, Nintendo Life 7/10, Pure Nintendo 7/10, Gamereactor 6/10 / PS5 MC 68/100·26건 별도 / PC Steam 61% 긍정·166건 | **한국 Switch 정식판매, 인게임 한국어 미지원(일본어·중국어)** / 북미 일본어·영어·프랑스어 / Steam PC 한국어 미지원 / 2026-10-12 적용 가능한 공개 완성 한글패치 미발견 | 2020 《FAIRY TAIL》 후속 / 2024-12-12 아시아 Switch→12/13 북미·유럽 / 출시 초기 프레임·로딩·진행불가 지적, **2025-04-07 Switch v1.4.2** 공식 수정 확인·최신 FPS 실측 미검증 / DLC·후일담 별도 | 🟢 후보 · 성능 검증 선행 권고 |
 | [Touhou Sky Arena -Matsuri- Climax (동방 스카이 아레나: 마츠리 클라이맥스)](games/touhou-sky-arena-matsuri-climax.md) | 2019 | 음악-텐션 연동 3D 공중 탄막·대전 액션 | ⭐⭐⭐½☆ (3.5/5) | C | **Switch Video Chums 7.2/10·실플레이 1명** / 일본 Switch 가격.com 5/5·1명 / Play-Asia 4/5·8표(본문2명) / PS4 Famitsu 30/40·4명 / Steam PC 약200건 86% 긍정 | **Switch 공식 일본어·영어만 지원, 한국어 미지원** / 공개 완성 한글패치 확인 못함 / PC Steam 역시 한국어 없음 | 2016 PS4·2017 Vita·**2019 Switch DL 기본20인+DLC3인** / 2020 일본 Switch 패키지 DLC 포함 23인·한정판 추가 30곡 코드 / 2020 PC Steam | 🟢 후보 |
 | [BEYBLADE X EVOBATTLE (베이블레이드 X: 에보배틀)](games/beyblade-x-evobattle.md) | 2025 | 베이블레이드 실시간 액션·CX 부품 커스텀·온라인 대전 | ⭐⭐⭐½☆ (3.5/5) | C | Switch 価格.com 3.0/5·1명 / PC Noisy Pixel 7/10·1명 / Steam 80% 긍정·121건(PC) / Famitsu·4Gamer Switch 리뷰 0건 | 2026-10-12 Switch 일본어·북미 영어, 한국어 미지원 / Steam 한국어 미지원·2026-10-05 중국어 간·번체 추가 / 공개 완성 한글패치 미발견 | 2024 XONE 별도 전작 → 2025 Switch EVOBATTLE 신규 스토리·타입 배틀·CX / 일본 Switch 2 Edition 2025-12-18·미국 2026-01-12 향상 / 2026 PS5판·유료 DLC | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
@@ -154,3 +155,15 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 **2024 모에게임 어워드 시나리오상·월간상**이라는 긍정적 PC 원작 이력을 확인했으나, **Bangumi PC 6.5/10(53표)** 및 일본 PC 완주자 **74/100(1명)**, 한국 PC 평가 **79/100(1명)**의 약점 지적과 2025 Switch 정성 감상을 별도로 대조했습니다. 네 커플 각자의 신념·미술·보컬곡은 강점이나, 자핑으로 끊기는 이야기·후반 군상극 결속·조연 처리·설전 중심 전투가 감점입니다. **자체 작품성 3.5/5, 한글화 B급, 🟢 활성 후보**로 판정했습니다.
 
 공식 Switch 한국어판·공개 Switch/PC 완성 한글패치를 이번 조사 범위에서 **확인하지 못했고**, 실제 Switch 리소스 미분석으로 한글화 기술 난이도는 **미확인**입니다. 기존 다른 Switch 작품의 별점·우선순위·평가 보존 기록을 유지하며 **현행 Switch 활성 후보 9개 / 💎 우선 2개 / 🔥 A급 0개 / 🔴 기준 미달 기록 5개**로 갱신했습니다. 과거 단락들의 당시 수치는 역사적 집계로 보존합니다.
+
+## 2026-10-12 《FAIRY TAIL 2》 Switch 작품성 3.5점 C급 신규 등록
+
+[《FAIRY TAIL 2》 Switch 작품성·한국어화·버그 심층 보고서](games/fairy-tail-2.md)는 **2024-12-12 한국·일본 Nintendo Switch 공식 출시**, 12월 13일 북미·유럽 출시를 확인했습니다. 한국닌텐도 [공식 상점](https://store.nintendo.co.kr/70010000082887)은 **일본어·중국어만 지원**하고, 개발사 [지역별 자막 FAQ](https://fairytailgame.com/2/us/faq.html) 역시 아시아 콘솔 일본어/중국어, 북미 콘솔 일본어/영어/프랑스어, Steam PC 전지역 영어/불어/중문/일본어만 설명하므로 **공식 한국어판이 없고**, 2026-10-12 검색에서 **실제 적용 가능한 공개 완성 한국어 패치는 미발견**입니다. 한국어 설명이 있는 e숍 상품과 게임 내 한국어를 혼동하지 않았고 2020 《FAIRY TAIL》 및 2024 《FAIRY TAIL: DUNGEONS》와도 별개의 게임으로 보았습니다.
+
+2020 게임과 달리 **SP·Fairy Rank·Break·Link Attack·Unison Raid·Awakening을 묶는 ATB식 실시간 커맨드**가 주요 장점입니다. 알바레스 제국편 최종장과 **원작 이후 오리지널 후일담 4장 《숨겨진 비경의 열쇠》**, 모닥불 캐릭터 대화가 한국어화할 만한 고유 콘텐츠입니다. 반대로 원작 전개 압축·얕은 스킬트리·덜 세련된 필드/작은 UI·초기 Switch 프레임 하락과 로딩/일시 정지 제보가 감점 요인입니다. **Switch Metacritic 72/100·평론가 6건**(Digitally Downloaded 8/10, RPGFan 79/100, Siliconera/Nintendo Life/Pure Nintendo 각 7/10, Gamereactor 6/10)을 동일 기종 표본으로 기록하고 **PS5 MC 68/100(26건), PC Steam 긍정 61%(166건)**은 별개로 구분했습니다.
+
+특히 [제작사의 버전별 공식 버그/패치 기록](https://fairytailgame.com/2/us/update.html)을 확인하여 2024-12-12 Switch v1.0.1의 1장 팀 정보·5장 스킵·11장 패배/극단적 로딩 등 진행 불가 해결, 2025 v1.1.0 사진 모드, v1.2.0 지형 관통, v1.4.1 고난도·성장·되감기·버그 수정, **2025-04-07 v1.4.2 표시 오류 수정**을 구분했습니다. 출시 당시 성능 제보가 최신 패치에서 모두 해결됐다고 단정하지 않습니다. 실제 Switch ROMFS·폰트·DLC·한국어 패치 적용 기술 난이도는 **미확인**입니다.
+
+**자체 작품성 ⭐⭐⭐½☆ 3.5/5 · 한국어화 C급 · 🟢 활성 후보**. 원작의 한국어 만화/애니메이션은 **게임의 실사용 가능한 한국어판**을 의미하지 않아 제외 기준에 해당하지 않지만, 게임만의 서사적 독창성·구형 Switch 성능 문제를 한글화 우선도에서 감점했습니다.
+
+**현행 Switch 활성 후보 10개 / 💎 발굴 우선 2개 / 🔥 A급 0개 / 🔴 기준 미달 5개**. 기존 《MAMIYA》《Ayakashi Gohan》《Wizard's Symphony》《Soul Cradle》《Class of Heroes 3 Remaster》《Rhapsody 25th》《Touhou Sky Arena》《BEYBLADE X》와 기존 보류·탈락 기록 및 다른 기종의 수치·링크·역사적 집계는 보존합니다.
