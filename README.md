@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 41 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 44 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 34 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo Switch | 15 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
@@ -25,7 +25,7 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 보존 **34개** 중 활성 후보는 **29개**, 등록선 미달 기록은 **3개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **5개**, A 3 / B 12 / C 14입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
+> PS Vita 보존 **35개** 중 활성 후보는 **29개**, 등록선 미달 기록은 **4개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **5개**, A 3 / B 12 / C 14입니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
@@ -479,3 +479,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **Switch 초기 버그는 제작사 자료로 공식 확인:** [2021-05-27 v1.0.1](https://nippon1.jp/news/2021/20210527.html)에 무작위 진행불가·게임오버 로드·체험판 세이브 읽은 대사 인계/오탈자 수정, [2021-06-07 v1.0.2](https://nippon1.jp/news/2021/20210607.html)에 **특정 조건 수사 파트 진행불가 해결**이 명시돼 있습니다. 일본 출시 버전과 영어 2023판의 현재 모든 문제가 완벽히 해결됐다거나 꼭 재현된다고 단정하지 않고, **최신 일본/영어 Switch 원본 버전·폰트/ROMFS·대사 추출·실제 프리징을 실측하지 않아 기술 난이도 미확인**입니다. 한글패치 착수 시 순정 수사~진상 구간의 장시간 안정성을 먼저 확인해야 합니다.
 
 **GitHub 선정: 작품성 ⭐⭐⭐½☆ 3.5/5 · 🟢 B급 Switch 한글화 활성 신규 후보**, 전체 후보 15개/💎 우선 3개/🔥 A급 0개/🔴 기준 미달 7개에서 **Switch 활성 후보만 1개 증가**했습니다. 원래 등록된 모든 후보, 한국어가 이미 존재하거나 플랫폼이 불일치하는 제외 기록, PSP/PS2 등 다른 플랫폼의 집계 및 지난 날짜별 과거 수치는 전부 보존했습니다.
+
+
+## 2026-10-12 PlayStation Vita 《이 멋진 세계에 축복을! 이 욕심 많은 게임에 심판을!》 3.0점 작품성 기준 미달 평가 신규 보존
+
+[《KonoSuba: Judgment on This Greedy Game!》 2017 PlayStation Vita 상세 평가·후발판·한글화 및 기술 조사](platforms/psvita/games/konosuba-kono-yokubukai-game-ni-shinpan-wo.md)를 실제 **2017-09-07 PS Vita 정식 출시작**(일본 패키지 **VLJM-35457**, DL **PCSG-01028**, MAGES./5pb., **CERO C**)으로 별도 신규 평가했습니다. **2017 PS4 동시판, 2017-12 Windows DMM, 2020-12-17 일본 Nintendo Switch 다운로드 전용 이식**을 구분합니다. 이 작품은 **코노스바 판타지 세계관을 이용한 5장 공통부+6인 개인 루트/팬티 재판 비주얼 노벨**이며, **2019 Vita 별도 턴제 DRPG 《희망의 미궁》이나 2017년 초회 코드 특전 슈팅 《Attack of the Destroyer》와 다른 게임**입니다.
+
+**2017 패미통 PS4 30/40·4명**과 [PS4 Store 4.29/5·111명](https://store.playstation.com/ja-jp/product/JP0745-CUSA07404_00-KONOSUBAGAMEPS40)의 팬 만족 반응도 보존했습니다. 그러나 **PS Vita 정량 평점은 GameFAQs 3.5/5·1명**이며, 실제 PS4 전 루트 후기·[GameWith 편집부](https://gamewith.jp/gamedb/3444)는 **증언/팬티 소유자 선택 재판이 너무 쉽고 게임성이 약함, 공통 5장 중 다수 파트보이스 부재, 원작 애니 사건의 반복/짧은 시나리오**를 주요 약점으로 지적했습니다. 제작사 [공식 팬티 재판 절차](https://game.mages.co.jp/konosuba/shinpan/system/)와 [2018 전 루트 비평](https://game-firstimpression.com/game-review/konosuba-clear/)을 교차 검토해 **자체 작품성 ⭐⭐⭐☆☆ 3.0/5 · 🔴 기준 미달 / 한글화 A/B/C 미부여**로 판정했습니다.
+
+**공식 한국어판·Vita/PS4/PC/Switch용 공개 실사용 완성 한국어 패치는 조사 범위에서 미발견**입니다. [Yunyun's Friends의 프롤로그 영어 프로젝트](https://github.com/YunyunsFriends/Konosuba-JGG-ENG-TL)는 Vita 기계번역 **7개 스크립트 시험**으로, 한국어 완성판이 아닙니다. 별도 STG 앱 PCSG-01093의 영어 완역패치를 본편 PCSG-01028의 패치로 오인하지 않았으며 [Vita3K 에뮬레이터 2023 호환성/그래픽 보고](https://github.com/Vita3K/compatibility/issues/108)는 PS Vita 실기 고유 확정 버그로 판정하지 않았습니다. 실제 원본·글꼴·스크립트 기술 난도 **미확인**.
+
+**PS Vita 보존 35개(기존 34+1) / 활성 29개 유지 / 비활성 6개(기준 미달 4개·한국어 대안/보류 2개) / 💎 우선 5개 / 🔥 A급 3개.** 이번 신규 평가 1건만 추가하며 2026-10-08 역사적 재평가 데이터/기존 후보별 점수·상태 및 타 플랫폼 집계는 변경하지 않았습니다.
