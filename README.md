@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 20 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 21 | 4 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -635,3 +635,16 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **작품성 ⭐⭐⭐⭐☆ 4.0/5 (Switch 3.5점 선정 하한 통과)**. 신검을 부러뜨린 주인공 마사오미, 무녀 요시노, 호위 마코, 정령 무라사메, 유학생 레나, 보조 코하루·로카의 **메인 4+보조 2개의 연애 시나리오**, 무녀의 의무·마을의 저주·정령의 존재를 다루는 인물 관계와 높은 CG/BGM·일본어 음성, 플로차트·보이스 저장을 강점으로 평가했습니다. 반면 느린 공통부, 요시노·마코 vs 레나·무라사메 및 보조 루트의 이야기 밀도 편차, **Switch 컨트롤러로 접근할 수 없는 일부 메뉴가 터치에 의존**한다는 [2022 Switch Nintendo Blast 7.5/10 단독 리뷰](https://www.nintendoblast.com.br/2022/06/senren-banka-analise-review.html)를 감점했습니다. **Steam PC 약 3만 3천~3만 4천 구매 리뷰·약 98% 추천**과 2016 Getchu 종합상은 원작의 인기 참고로만 쓰고, Switch 전문 메타스코어로 취급하지 않았습니다. Switch 파일·폰트·최신 FPS/프리징·패치 적용 버전은 미분석입니다.
 
 **최종 상태 🟡 한글화 후보 활성 보류, 신규 A/B/C 미부여**. 아카이브의 최신 Switch '다른 플랫폼 *유저 한글패치*만으로는 자동 제외하지 않는다'는 사용자 지정 규칙을 유지하되 **본 게임에는 단순 팬패치보다 높은 수준의 정식 Windows 한국어 유통판이 있는 별개 조건**이 적용됩니다. 이전 La Pucelle 같은 공식 다른 기종 한국어 대안 보유작의 판단과 일관성을 유지했습니다. **현행 Nintendo Switch 활성 20개 / 💎 우선 4개 / 🔥 A급 0개 / 🔴 기준 미달 10개, 기타 플랫폼 모든 숫자 변경 없음.** 4.0점은 보존하여 추후 사용자 지시로 공식 PC 한국어 대안과 관계없이 Switch 등록 예외를 확대하면 재평가·활성 전환할 수 있습니다.
+
+
+## 2026-10-13 Nintendo Switch 《Prinny Presents NIS Classics Volume 2》 3.5점 B급 / ZHP 한글화 신규 후보
+
+[**《Prinny Presents NIS Classics Volume 2: Makai Kingdom: Reclaimed and Rebound / ZHP: Unlosing Ranger vs. Darkdeath Evilman》 Switch 스토리·전투·한글화 대안·포트 버그 상세 평가**](platforms/switch/games/prinny-presents-nis-classics-volume-2-makai-kingdom-zhp.md)를 **작품성 ⭐⭐⭐½☆ 3.5/5 · 한글화 우선도 B · 🟢 활성 후보**로 정식 등록했습니다. 서양 [NIS America](https://nisamerica.com/nis-classics/vol-2/)의 **2022-05-10 미국·05-13 유럽 합본**은 미국/영국 Nintendo 모두 **영어 텍스트만 지원**, 영어·일본어 음성이며, 2022-03-31 일본 Switch 개별 발매 《ファントム・キングダム》《絶対ヒーロー改造計画》와 구별됩니다.
+
+**두 게임 따로 평가:** 《Makai Kingdom》 **4.0/5**는 강력하지만 허세 많은 마왕 **제타가 책이 된 뒤 마계를 재건하는 턴제 SRPG**로, 사물에 영혼을 빙의시키는 **컨파인·유닛/시설/차량 인바이트·스테이지 점수·마나/전생** 등 전략 설계가 뛰어납니다. **2011 PSP 확장판에서 추가된 페타 모드**도 서양 Switch판에 들어 있어 PS2 첫 출시판과 구별해야 합니다. 《ZHP: Unlosing Ranger vs Darkdeath Evilman》 **3.5/5**는 **교통사고로 죽은 무패 히어로의 후계자**가 되는 특촬물풍 로그라이크로, **던전마다 레벨 1 초기화·Total Level 영구 성장, 장비별 인체개조·EN 생존·비밀기지·턴제 자동 적 행동**이 핵심입니다. **Switch 합본 Metacritic 74/100·전문 11건**, Cubed3 9/10, Nintendo Life 7/10 등 평가를 기종과 표본별로 분리했습니다. 양쪽 모두 긴 반복 육성·낡은 UI는 단점이고 **ZHP는 PSP 전격문고 콜라보 추가 던전 약 16개가 Switch판에 빠졌다는 다수 사용자 기록**이 있습니다.
+
+**이식 안정성:** 《Makai Kingdom》 서양 Switch 2022-05 중순 5장 진입 강제 종료는 [TouchArcade의 **5/20 수정 후 직접 엔딩 완주 확인**](https://toucharcade.com/2022/05/16/dungeons-of-dreadrock-switch-review-nis-classics-volume-2-crash-makai-kingdom-nintendo-eshop-deals-sales-eiyuden-chronicle-rising/) 및 [5/31 Switch v1.0.1 일부 크래시·세이브 수정](https://nintendoeverything.com/prinny-presents-nis-classics-volume-2-makai-kingdom-reclaimed-and-rebound-zhp-unlosing-ranger-vs-darkdeath-evilman-update-out-now-version-1-0-1-patch-notes/) 자료가 있어 출시 때의 영구 진행 불능을 현재 버그로 단정하지 않습니다. ZHP는 **RPGamer 출시초 약 한 시간 간격 랜덤 크래시 보고**가 있으나 v1.0.1 이후 동일 재현 여부를 직접 실측하지 않아 미검증입니다. 기술 난도는 게임 파일 확인 전 **미확인**입니다.
+
+**한국어판을 반드시 분리:** **2024-12-19 ARC SYSTEM WORKS ASIA가 《팬텀 킹덤》을 별도 Nintendo Switch [공식 한국어판](https://www.arcsystemworks.asia/bbs/board.php?bo_table=notice&wr_id=795)으로 단독 다운로드·《팬텀 브레이브 + 팬텀 킹덤 컬렉션》 패키지 발매**했습니다. 따라서 **Makai Kingdom은 이미 한국어로 플레이 가능한 동일 기종 게임**이므로 새 번역 범위에 중복으로 넣지 않습니다. 반면 **ZHP Switch 공식 한국어판/현재 독립 적용 완성 한글패치는 미확인**이며, [**2026-06-02 PSP 《절대 히어로 개조계획》 팬패치 게시/PPSSPP 한국어 화면**](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=173103)은 존재하지만 실제 완역·사용권·Switch 이식 호환은 검증되지 않았습니다. 다른 플랫폼 **유저 한글패치만**으로 Switch 후보를 자동 제외하지 않는 사용자 지정 예외를 적용하여 **이 합본 1개 후보에서 실제 신규 한국어화 고유 대상은 ZHP 1개**로 기록했습니다. **2024 한국판 페타 시나리오 한국어 지원 범위는 별도 실기/파일 대조 전 미확정**입니다.
+
+**집계:** 이번 갱신으로 Switch 활성 **21개 / 💎 우선 4개 / 🔥 A급 0개 / 🔴 3.5점 미달 10개**를 서로 맞췄습니다. 신규 행은 1개로만 추가하며 《팬텀 킹덤》이나 《팬텀 브레이브》, PSP 《절대 히어로 개조계획》을 합본 외 별도 중복 후보로 만들지 않고 기존 타기종 평가와 Pages 진입 링크·과거 시점 집계를 보존했습니다.
