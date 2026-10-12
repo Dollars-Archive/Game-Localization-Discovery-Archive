@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-12**, 신규 작품별 번역·판본·검수 범위 참고 (기존 2026-10-08 원장 유지)  
-> 보존 항목: **34개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **35개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -52,6 +52,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Sengoku Hime 5: Senka Tatsu Haou no Keifu (센고쿠히메 5: 전화를 끊는 패왕의 계보)](games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) | 2014 | 전국 전략 시뮬레이션 / 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita Famitsu 24/40·4인 / 시리즈 장기 팬 호평·Vita 프리징 후기 별도 | 2026-10-12 Vita·PS3·PS4·PC 공개 완성 한국어 대안 확인 못함 | Vita 10세력 / PS3 기본 12세력 / PS4 10세력 + 시나리오 DLC 2개 / PC 원작·확장판 | 🟢 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가) · Vita 호환](games/ore-wa-shoujo-mangaka.md) | 2012 | 코미디·연애 ADV · PSP DL Vita 호환 | ⭐⭐⭐⭐☆ 4.0/5 | C | PSP 후기 6명 / 전격 전체 완료 / 4Gamer 95·95·60(보정83) / GameFAQs Great 16표 | 2026-10-12 공개 한국어판·완성 패치 확인 못함 | PSP UMD 원작 / 2012 PSP DL Vita 하위호환 / Vita 사용자 표지 이미지 불가 / PC R 2013 / **Vita 네이티브판 아님** | 💎 우선 후보 · Vita 호환 예외 |
 | [WHITE ALBUM2: Shiawase no Mukougawa (화이트 앨범 2: 행복의 저편)](games/white-album-2-shiawase-no-mukougawa.md) | 2013 | 장편 심리·연애 비주얼 노벨 / IC·CC·Coda·Special Contents | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | **PS3 원판 Famitsu 37/40·4명·Dengeki 90/95/90/80(타기종)** / **PS Vita Famitsu 점수 미집계**, GameFAQs Vita Good·10명·플레이시간 약 14h/5명(완료 범위 미확인) | **Vita 정식 한국어·Vita용 공개 완성 패치 미확인** / 동일 본편 2018 PC Extended Edition **한국어 v1.1(2021)·Special Contents v1.0(2022) 제작자 직접 배포 확인** | **2012 PS3 Motion Portrait·신규 CG·노벨/보이스드라마 → 2013 Vita Motion Portrait 제거, 명장면 마커·노벨 모드·CG/흉상 OFF 추가**, PS3 Special Contents 전체 유지 / VitaTV 2013-12 수정·v1.02(2014-01-30) 텍스트/음악 버그 수정 | 🟡 기존 PC 한국어 대안 확인·Vita 활성 제외 |
+| [KonoSuba: Kono Yokubukai Game ni Shinpan wo! (이 멋진 세계에 축복을! 이 욕심 많은 게임에 심판을!)](games/konosuba-kono-yokubukai-game-ni-shinpan-wo.md) | 2017 | 5장 공통·6명 히로인 루트·친밀도·증언/물건/소유자 선택 팬티 재판 중심 코미디 비주얼노벨 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | **2017 Famitsu PS4 30/40·4명(2017 동일 본편 참고, Vita 단독 아님)** / **PS4 PS Store 4.29/5·111건** / **Vita GameFAQs 3.5/5·1명·약4h/1명**, Vita 4Gamer 리뷰 없음 / GameWith 콘텐츠2/5·게임성1/5 / PS4 전 루트 비판적 완주 | **Vita PCSG-01028 일본어만, 공식 한국어 없음 / 2020 일본 Switch·2017 DMM PC도 한국어 미지원 / 공개 완성 한국어 패치 미발견** / 영어 팬패치 Vita용 7개 기계번역 스크립트 시험·Windows/Switch 프롤로그만, **초회 STG 《Attack of the Destroyer》 PCSG-01093 영어 완역은 다른 게임** | **2017-09-07 PS Vita·PS4 동시 → 2017-12-11 일본 Windows DMM → 2020-12-17 Switch DL** / PS Vita 초회 슈팅/의상 DLC, Switch 기본 불포함 / 2019 별도 DRPG 《희망의 미궁》·2020 별도 의상 ADV와 구별 / Vita3K 2023 인게임 그래픽 문제 제보는 에뮬 전용 | 🔴 기준 미달 · 3.0/5, 평가 기록 보존 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 오컬트 ADV / 전술 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Destructoid 8/10 / RPGamer 3.5/5 / TSA 5/10 / Cubed3 4/10 | 공개 한국어 확인 못함·한국 판매 기록과 언어 구분 | Daybreak 강화판 별도 | 기준 미달·기록 보존 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | 보류 | Famitsu 32/40·4명 / Mecha Damashii 7/10 / GAME Watch 본문 | Vita 공개 패치 확인 못함 | REMASTERED Switch 한국어 배포문 확인·연결 파일 현재 이용 미확인 | ⚪ 한국어 대안 확인 보류 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
@@ -93,6 +94,16 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 **집계는 보존 34 / 활성 29 / 비활성·자료보류 5 / 💎 우선 5 / 🔥 A급 3**, 기존 활성 작품들과 다른 기종 원장 및 역사적 평가 점수는 그대로 유지합니다. 별도 [PS3판 기록](../../ps3/games/white-album-2-shiawase-no-mukougawa.md)에도 2012 콘솔 고유 요소를 조사했습니다.
 
+## 2026-10-12 《코노스바: 이 욕심 많은 게임에 심판을!》 PS Vita 3.0점 기준 미달 보존
+
+[《KonoSuba: Judgment on This Greedy Game!》 2017 PS Vita 판본·팬티 재판 게임성·외부평가·한글화·이식 품질 상세](games/konosuba-kono-yokubukai-game-ni-shinpan-wo.md)을 실제 **2017-09-07 일본 PS Vita 정식 출시작**으로 평가했습니다. **패키지 VLJM-35457·다운로드 PCSG-01028·MAGES./5pb.·CERO C**. 2017 PS4 동시판·2017-12 일본 DMM Windows·2020-12-17 Nintendo Switch 다운로드판은 **같은 본편의 별도 SKU**입니다. 일본 Switch판은 초회 특전 슈팅/의상 DLC 코드를 포함하지 않고, **2019년 별도 Vita DRPG 《희망의 미궁》과 2020년 별도 의상 ADV**는 이 작품의 추가 전투 콘텐츠가 아닙니다.
+
+**스토리·캐릭터의 원작다운 코미디 3.0~3.5점 / 단순 증언·물건·소유자 선택의 재판 시스템 2.0점 / 메인 루트의 파트보이스와 제한적 분량·독창성 부족**이 감점 핵심입니다. **PS4 항목 패미통 30/40(8·7·7·8, 4명)**, PS4 스토어 4.29/5·111건, **PS Vita GameFAQs 3.5/5·1명**, PS4 전 루트 실제 완주자·GameWith 편집부 게임성 1/5과 콘텐츠 2/5를 플랫폼/표본별로 구분해 **종합 자체 작품성 ⭐⭐⭐☆☆ 3.0/5**로 판정했습니다. 2017 첫판 개인 트로피 100% 약 8시간40분은 **한 이용자의 PS4 사례**일 뿐 Vita 공식 평균이 아닙니다.
+
+한국어 공식판·적용 가능한 공개 완성 한국어 패치는 일본 PS Vita/PS4·후발 Switch·PC 본편에서 미발견입니다. [Yunyun's Friends의 영어 프롤로그 시험](https://github.com/YunyunsFriends/Konosuba-JGG-ENG-TL)은 **Vita 기계번역 7개 스크립트/불완전한 영문 글꼴**까지만 있고, [별도 슈팅게임 《Attack of the Destroyer》 영어 완역](https://www.gamebrew.org/wiki/Konosuba_Attack_Of_The_Destroyer_English_Vita)은 **다른 앱 PCSG-01093**, 본편 PCSG-01028의 한글패치가 아닙니다. Vita3K 호환성 이슈의 구식 그래픽 문제도 Vita 실기 원본의 확정 버그와 분리했습니다. [Gamer PS4/PS Vita 게임 화면](https://www.gamer.ne.jp/news/201709190049/) 및 [MAGES. 공식 재판 3단계](https://game.mages.co.jp/konosuba/shinpan/system/)를 문서에 보존했으며 원본 게임 자산/폰트 실측이 없어 **기술 난이도 미확인**입니다.
+
+**3.5점 정식 등록 기준에 미달해 🔴 비활성 평가 기록으로만 추가하고 한글화 우선도 A/B/C 미부여.** 이번 변경 후 **Vita 보존 35개 / 활성 29개 / 비활성 6개 / 💎 우선 5개 / 🔥 A급 3개**입니다. 기존 후보·타 플랫폼·사용자 지정 예외와 2026-10-08 평가 원장은 그대로 보존했습니다.
+
 ## PS Vita 등록 운영
 
 - 이 구역의 조사·등록 대상은 **PS Vita판**입니다. 원제·부제·시리즈 순번·실제 발매 기종을 먼저 확인하고, 다른 플랫폼 판본과 혼동하지 않습니다. **2026-10-12 사용자 지정 《나는 소녀만화가》만 Vita 네이티브판이 아닌 PSP DL판 하위호환 예외**로 표시합니다.
@@ -107,15 +118,15 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 항목 | 34 |
+| 보존 항목 | 35 |
 | 활성 후보 | 29 |
-| 비활성·자료 보류 | 5 |
+| 비활성·자료 보류 | 6 |
 | 활성 발굴 우선 후보: 4.0 이상 | 5 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 12 |
 | 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-12 기존 33건 유지 + 《WHITE ALBUM2》 비활성 평가 1건 추가 (보존 34, 활성 29·비활성 5). 기존 2026-10-08 비교 평가 기록은 소급 수정하지 않음.** 이전 2026-10-12 신규 후보 2개·PSP Vita 호환 이동도 보존. 2026-10-08 기준 PS Vita 30작품 본문 재평가 원장은 당시 기록으로 보존하며, 새 작품들은 별도 조사 문서와 후보 행으로 관리합니다.
+최근 갱신: **2026-10-12 《코노스바: 이 욕심 많은 게임에 심판을!》 PS Vita 3.0/5 기준 미달 평가 1건 신규 등록**. 현재 보존 35개 / 활성 29개 / 비활성 6개(기준 미달 4개·기타 보류 2개). 기존 《WHITE ALBUM2》 보류 및 2026-10-08 역사적 평가 원장은 보존합니다.
 
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
