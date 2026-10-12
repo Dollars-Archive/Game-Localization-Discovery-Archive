@@ -8,6 +8,16 @@
 >
 > **한계:** 제작자 공식 자료, 2024 일본판 단일 소비자 평점, **별개 구성의 2022·2023 Switch 합본 리뷰**, PC 각편 리뷰를 엄격히 구분해 평가했다. 2024 **25주년 컬렉션 단독 Metacritic 평론가 점수는 없다**. 일본 2024판 게임 자체를 직접 완주·계측하거나 ROMFS를 분석하지 않았다. 추정 자료를 Switch 직접 검증으로 둔갑시키지 않는다.
 
+## 2026-10-12 2편 《Rhapsody II》 독립 심층 평가와 2026 Switch 2 복각 추가 조사
+
+[**《Rhapsody II: Ballad of the Little Princess》 2편 독립 4.0/5 평가·전투/뮤지컬·PS1 한국어 v0.8 감사·2026 Switch 2 비교**](../archive/rhapsody-ii-ballad-of-the-little-princess-edition-audit.md)를 추가했다. **2023-08-29 북미 Switch 영어 《Marl Kingdom Chronicles》 2+3 합본 / 2023-12-21 일본 Switch 《Little Princess 2》 단품 / 2024-08-29 일본 25th 1+2+3 합본**은 동명의 2편 본편을 공유하므로 **2024년 이 문서에 이미 포함된 2편을 신규 활성 1건으로 중복 등록하지 않는다.** 가장 중요한 고유 정보는 다음과 같다.
+
+- **독립 2편 자체 평가 4.0/5 유지:** [2023 Nintendo Switch 직접 RPGamer 3.5/5](https://rpgamer.com/review/rhapsody-ii-ballad-of-the-little-princess-review/)와 [2023 PC RPGFan 80/100](https://www.rpgfan.com/review/rhapsody-ii-ballad-of-the-little-princess/)을 **각기 다른 기종·독립 리뷰**로 대조했다. 전작의 격자 전투를 턴제로 바꿔 인형·돈(Inotium)·속성/상태이상 운용이 좋아졌으나, **높은 랜덤 조우율·비슷한 던전·동료 장비 재설정**의 약점이 여전하다.
+- **PS1 2편 기존 번역은 2026-09-25 '흐음 v0.8' 실제 등록**: [RetroDB 한국어 패치 색인](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2) 재확인. 배포처의 동적 이동 URL은 이번 브라우저에서 **410 Gone**으로 직접 다운로드 실패. 따라서 **현재 파일 접근성·완역/전 엔딩 적용은 아직 미검증**으로 남긴다. 이걸 완성이라 우기거나 패치가 없다고 누락해서는 안 된다.
+- **새 판본 2026-08-20 Nintendo Switch 2 전용 《Console Archives Rhapsody II》**: [HAMSTER](https://www.hamster.co.jp/en/release/8588/)와 [Nintendo 미국](https://www.nintendo.com/us/store/products/console-archives-rhapsody-ii-ballad-of-the-little-princess-switch-2/)이 **원본 1999 PlayStation 일본어 ROM 사용**을 확인했다. **영어 UI/설명서와 달리 게임 본문은 일본어**. 2023 Switch 리마스터/2024 합본의 업데이트·Switch 1 신규 출시가 아니다. PS1 한글패치와의 기술 호환은 별도 미검증.
+
+**이 업데이트는 기존 25th 전체 작품성 3.5점·B급 활성 상태·3편 한국어 공백·역사적 등록 시점 집계를 변경하지 않는다.**
+
 ## 1. 정확한 발매·구성·언어
 
 | 구분 | 확인 사실 |
