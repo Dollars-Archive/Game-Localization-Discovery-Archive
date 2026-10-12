@@ -52,7 +52,15 @@ test('direct reserve URL, repeated reserve clicks, platform switch and history r
   assert.equal(h.keys().length, 30);
   assert.equal(h.location.searchParams.has('view'), false);
   await h.platform('psp');
-  assert.equal(h.keys().length, readRows(h.fixtures.data['platforms/psp/recommendations.md']).length);
+  const scored = readRows(h.fixtures.data['platforms/psp/recommendations.md']);
+  const readme = readRows(h.fixtures.data['platforms/psp/README.md']);
+  const href = row => row['게임'].match(/\]\((games\/[^)]+)\)/)?.[1];
+  const scoredKeys = new Set(scored.map(href));
+  // Newly registered candidates remain visible while awaiting evidence;
+  // intentionally excluded README records must not re-enter the rankings.
+  const newLiving = readme.filter(row => !scoredKeys.has(href(row))
+    && !/패스|기준 미달|등록선 미달|탈락|후보 종료|활성 후보 제외/.test(row['상태'] || ''));
+  assert.equal(h.keys().length, scored.length + newLiving.length);
   assert.equal(h.location.searchParams.get('platform'), 'psp');
   await h.history.back();
   assert.equal(h.elements['platform-title'].textContent, 'PS3 선정 후보');

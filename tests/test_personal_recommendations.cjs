@@ -114,6 +114,10 @@ test('previously visible passed records stay accessible in My list without retur
 
 test('a new living README record remains visible while awaiting review evidence', async () => {
   const fixtures = createFixtures();
+  // Current PSP README may contain newly registered live games not yet in the
+  // frozen review ranking. Assert the extra synthetic record adds exactly one.
+  const before = await createHarness({ fixtures, query: '?platform=psp' });
+  const baselineCount = before.keys().length;
   const name = 'platforms/psp/README.md';
   const lines = fixtures.data[name].split('\n');
   const first = lines.findIndex(line => line.startsWith('| ['));
@@ -122,7 +126,7 @@ test('a new living README record remains visible while awaiting review evidence'
   const h = await createHarness({ fixtures, query: '?platform=psp' });
   assert.ok(h.keys().includes('platforms/psp/games/new-living-fixture.md'));
   assert.match(h.elements['candidate-body'].innerHTML, /평가보류/);
-  assert.equal(h.keys().length, 123);
+  assert.equal(h.keys().length, baselineCount + 1);
 });
 
 
