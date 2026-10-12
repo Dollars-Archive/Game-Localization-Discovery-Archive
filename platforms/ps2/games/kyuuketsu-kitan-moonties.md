@@ -251,13 +251,13 @@ PS2판은 PC 원작 `ドラクリウス`의 캐릭터·세계관을 기반으로
 
 ## 대표 스크린샷
 
-피코피코대백과 / Gavas의 PS2판 실제 플레이 화면을 사용한다. 저작권 이미지 파일 자체는 저장소에 업로드하지 않고 외부 원본을 링크한다.
+2026-10-12 재검증에서는 이전에 연결한 세 개의 **14145_*.jpg** 파일이 개별 URL로 열리지 않았다. 대신 확인된 **2008년 PS2판 실제 화면 2개**와 원출처의 일반판 플레이 갤러리를 안내한다. 직접 확인되지 않은 세 번째 이미지 URL을 추측해 만들지 않는다.
 
-1. [PS2 실제 플레이 화면 1](https://www.gavas.jp/upload/save_image/14145_1.jpg)
-2. [PS2 실제 플레이 화면 2](https://www.gavas.jp/upload/save_image/14145_2.jpg)
-3. [PS2 실제 플레이 화면 3](https://www.gavas.jp/upload/save_image/14145_3.jpg)
+1. [PS2 일본어 대화 화면: 操](https://www.gavas.jp/upload/save_image/14146_2.jpg), **확인됨**.
+2. [PS2 정식 타이틀 화면: 吸血奇譚 ムーンタイズ](https://www.gavas.jp/upload/save_image/14146_1_sub1.jpg), **확인됨** (본문이 아닌 타이틀 화면).
+3. [PS2 일반판 플레이 화면 갤러리 / Gavas](https://www.gavas.jp/products/detail.php?product_id=14145), **게임 화면을 수록한 페이지**. 개별 이미지의 안정적인 직접 주소는 확인되지 않았음.
 
-- [스크린샷 원본 상품·리뷰 페이지](https://www.gavas.jp/products/detail.php?product_id=14145)
+[PS2 한정판 플레이 갤러리](https://www.gavas.jp/products/detail.php?product_id=14146) · [GungHo 공식 사이트](https://www.gungho.jp/cgame/game/moonties/). 저작권 이미지는 이 저장소에 복제하지 않는다.
 
 ## 한줄평
 
