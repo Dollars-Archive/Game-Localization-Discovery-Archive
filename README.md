@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 10 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 11 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -303,3 +303,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 제작사 공식 발표에 따라 **2024-09 콘솔 출시와 함께 기존 PC판에 없던 신사 연못·서브 이야기·던전·보스 스펠카드 요소가 추가됐으며 이후 PC판에도 같은 변경이 적용**됐습니다. [Steam의 2024-12 v1.09](https://steamcommunity.com/app/1847150/allnews/)는 튜토리얼/특수 던전 등을 추가했지만 **최신 Switch 실기 버전·프레임·동작은 직접 검증하지 않았습니다**. Switch 직접 [PS4Blog 8/10](https://www.ps4blog.net/2024/10/nintendo-switch-touhou-genso-wanderer-foresight-review/), [Video Chums 7.5/10](https://www.switchscores.com/games/13395/touhou-genso-wanderer-foresight), [LadiesGamers 호평](https://ladiesgamers.com/touhou-genso-wanderer-foresight-review/)에 비해, PC Steam **긍정 46%·290건**과 PC Game8 **56/100**, 별도 PS4 Famitsu **29/40**을 판본·표본별로 분리했습니다. 실패해도 레벨·장비를 유지하는 접근성과 새 일러스트·보이스·신사 재건은 장점이지만, 장비 합성·공명인·아이템 다양성과 플레이어블 캐릭터 감소, LP 노가다·후반 보스 능력치 벽, 동방 6~8 사건의 반복 등 **구작 대비 콘텐츠·전투 깊이 축소**를 감점했습니다.
 
 **독립 작품성 3.0/5·🔴 패스(3.5점 신규 활성 후보 기준 미달), 한글화 A/B/C 미부여, 기술 난이도 미확인.** Switch **활성 후보 10개 / 발굴 우선 2개 / A급 0개** 그대로 유지, **기준 미달 평가 기록 6개**로 갱신한 Switch 목록과 동일합니다. 그 밖의 기존 플랫폼 목록·타 작품/평가·과거 날짜 기준 현황 기록은 그대로 보존했습니다.
+
+## 2026-10-12 Nintendo Switch 《동방의 미궁: 환상향과 천관의 대수》 4.0점 B급 신규 등록
+
+[《Labyrinth of Touhou: Gensokyo and the Heaven-Piercing Tree》 상세 작품성·한국어화 평가](platforms/switch/games/labyrinth-of-touhou-gensokyo-and-the-heaven-piercing-tree.md)는 **2020-07-16 일본 Switch/PS4 정식 발매**한 Nise-Eikoku Studio/CUBETYPE의 대형 던전 RPG이며, 2013 Windows 《Labyrinth of Touhou 2》와 2016 **Plus Disk**를 포함한 HD 개선판입니다. **동방슈팅 《Lotus Land Story》 및 AQUASTYLE 《TOD-RELOADED-》·《Lotus Labyrinth R》·《FORESIGHT》와 별개 타이틀**입니다. **전열 4명+후열 8명, 50명 이상 동방 캐릭터, 고유 스킬·서브클래스·장비·스탯 육성과 100개 이상 보스 패턴 대처**는 드문 장점이지만, 이야기의 얕음·음성 부재·고정적인 연출·구식 UI·후반 반복 육성은 감점했습니다. [Switch 패미통 평론가 4명 27/40](https://www.famitsu.com/game/title/40512/reviews)과 [Steam PC 이용자 365건 중 89% 긍정](https://store.steampowered.com/app/1131920/LABYRINTH_OF_TOUHOU__GENSOKYO_AND_THE_HEAVENPIERCING_TREE/?l=koreana)을 별도 표본으로 취급하고, Metacritic Switch 정량 점수 미집계도 기록했습니다. **독립 작품성 ⭐⭐⭐⭐☆ 4.0/5 · 한글화 우선도 B · 💎 활성 발굴 우선 후보**이며 Switch 실기/원본 ROMFS·폰트·실패·프레임 측정 부재로 **한글화 기술 난이도 미확인**입니다.
+
+**언어·한국어 패치 주의:** 일본 2020 Switch판은 일본어만 지원한 것으로 확인되며, PC Steam의 **2021-10 영어 공식 업데이트**가 Switch판 영어/한국어 지원을 증명하지 않습니다. Switch/Steam 공식 한국어 모두 없고 현재 적용 가능한 완성 한국어 패치가 이번 공개 검색에서 확인되지 않았지만, [**2018-06-10 《동방의 미궁2》 구 PC 패치를 찾던 글**](https://gall.dcinside.com/board/view/?id=touhou&no=6363664)에 과거 제작자가 게시물을 삭제했다는 이용자 언급이 있었습니다. **제작/패치 버전·완역·현행 파일 및 구동은 미확인**이므로 구판 한국어화가 없었다고 단정하지 않고 실사용 가능한 완성 대안이 재발견되면 활성 자격을 재평가합니다. 2026 《Labyrinth of Touhou Tri》 한글패치는 별개 후속 게임용입니다.
+
+**현행 Switch 활성 후보 11개 / 💎 발굴 우선 후보 3개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 6개**. 기존 10개 후보와 《FORESIGHT》 3.0점 미선정, 다른 플랫폼별 등록·기존 보류 및 역사적 당시 집계는 보존했습니다.
