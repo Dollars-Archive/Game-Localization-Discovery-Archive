@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 0 | 0 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 1 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -209,3 +209,8 @@ PSP의 **3.5점 후보만 123개 → 30개**로 압축했습니다. 4.0점 22개
 ## PSP 후보 재심사 (2026-09-20)
 
 PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·자료 보류 9작품·중복 1행을 활성 후보표에서 분리했습니다. 4.0 이상 25작품과 사용자 승인 3.0 예외 1작품은 유지합니다. [검토 범위와 판정](platforms/psp/reassessments/2026-09-20-3-5-audit.md)
+
+
+## 2026-10-12 Nintendo Switch 첫 한글화 후보 등록
+
+[《MAMIYA - A Shared Illusion of the World's End -》](platforms/switch/games/mamiya-a-shared-illusion-of-the-worlds-end.md)는 Nintendo Switch에서 2026-06-25 정식 발매한 **일본어 풀보이스·3부 통합·신규 CG/IF 미니게임 추가** 심리 미스터리 비주얼 노벨입니다. **작품성 4.0/5, 한국어화 우선도 B**, 공식 한국어판 및 검증된 실사용 공개 한국어 패치는 찾지 못했습니다. PC 완성판의 영어/중국어 지원은 한국어 대안이 아니므로 한국어화 제외 기준에 해당하지 않습니다. **Switch 첫 후보 1개·💎 우선 후보 1개·🔥 A급 후보 0개**로 반영했으며 다른 기종의 숫자·후보와 역사적 PSP/PS2/PS Vita 평가 기록은 보존했습니다.
