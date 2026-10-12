@@ -16,7 +16,7 @@
 | PlayStation Vita | 34 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 14 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 15 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -467,3 +467,15 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **한국어 대안 판단:** [Myskrpatch PC Extended Edition **본편 v1.1 (2021-10-09)**](https://myskrpatch.tistory.com/172) 및 [**Special Contents v1.0 (2022-01-29)**](https://myskrpatch.tistory.com/201)의 **제작자 직접 공개**를 재검증했습니다. Windows 2018 **패키지 EE용 번역**이며, PS3·Vita 원본에 파일을 복사해 넣으면 그대로 호환된다고 주장하지 않습니다. 다만 **동일 본편 PC 한국어 대안 존재 시 신규 번역 활성 제외**라는 기존 기준에 따라 **PS3는 [reserve.md](platforms/ps3/reserve.md) 예비 1건**, **Vita는 활성 후보 아래 비활성 평가 1건**으로 보존했습니다. **PS3 총 56(선정 30/예비 26), Vita 총 34(활성 29/비활성 5)**. PS3 기존 55개 가중 순위 원장·다른 플랫폼 수치·2026-10-08 역사적 재평가 결과는 소급 변경하지 않았고 별도 기술 난이도는 실기/원본 미분석으로 **미확인**입니다.
 
 앞서 작성한 [Switch 미발매·PC 한국어 패치 감사](platforms/switch/archive/white-album-2-shiawase-no-mukougawa-platform-audit.md)는 **Switch 정식 출시 미확인**이라는 별도 결론으로 유지합니다. 이것을 PS3/Vita 정식 발매 부정의 근거로 사용하지 않습니다.
+
+## 2026-10-12 Nintendo Switch 《탐정박멸 / Process of Elimination》 3.5점 B급 신규 등록
+
+[**《Tantei Bokumetsu / Process of Elimination》 Switch 작품성·추리 시뮬레이션·한글패치/버그·2023 공식 영어판 감사**](platforms/switch/games/tantei-bokumetsu.md)는 **2021-05-27 일본 Nintendo Switch·PS4 《探偵撲滅》**과 그 **2023-04-11 미국/04-14 유럽 정식 영어 Switch·PS4판 《Process of Elimination》**이 **같은 작품의 지역별 표기**라는 점을 확인했습니다. 일본 Switch **HAC-P-A28SA**, 북미 영어 Switch **HAC-P-A28SB**에 대응합니다. [닌텐도 일본 정식 상품·언어표](https://store-jp.nintendo.com/item/software/D70010000037661/)는 **일본어**만, [닌텐도 유럽 영어판](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Process-of-Elimination-2357683.html)은 **영어 카트리지/다운로드(약 2.5GB)**만 지원하며, **공식 한국어와 이번 조사 범위에서 실제 적용 가능한 완성 한국어 팬패치를 확인하지 못했습니다**. 영어판은 한국어판이 아니며, 일본어/영어가 모두 공식 지원되는 단일 통합 SKU라고 추정하지 않습니다. 비공개 또는 과거 삭제된 한국어 작업이 절대 없다는 주장은 하지 않습니다.
+
+**14명 탐정 중 연쇄살인범 팔토막 공작을 찾는 서스펜스/주인공 호조 카즈토의 성장**과 각 탐정의 신념·관계·복선·인물 비중은 강점입니다. **선택지와 스토리 독서 → 제한 턴에서 탐정에게 이동·ES 조사·증거 검증·MP 추리 감소·연계/추리공명·DH 위험 함정 회피를 지시하는 격자형 수사 시뮬레이션 → 증거 기반 정답을 선택하며 신뢰도 관리하는 진상 규명**의 세 단계가 핵심입니다. **일반 SRPG의 무기/HP/경험치 전투가 아닙니다.** 탐정 별명·본명과 WP 어휘 사전·잔류 사념·숨은 대사의 한국어화 가치가 높지만, 긴 초반 인물 설명, 맵 회전/행동 취소 불가·오류 재시도·**수사~진상 구간 자유 세이브 제약**과 후반 수사의 난도 하락으로 **종합 작품성 3.5/5 · 한글화 우선도 B급**에 그쳤습니다.
+
+**전문/사용자 표본을 정확하게 분리했습니다.** [2021 일본 Switch 패미통 8+8+8+7=31/40(4명)](https://www.famitsu.com/game/title/42153/reviews), [2023 영어 Switch Metacritic 70/100·평론가 8건](https://www.metacritic.com/game/process-of-elimination/critic-reviews/), 별도 [Switch 이용자 8.6/10·9명](https://www.metacritic.com/game/process-of-elimination/user-reviews/)을 각각 기록했습니다. [Phenixx 2023 직접 Switch 9/10](https://web.phenixxgaming.com/2023/05/15/process-of-elimination-switch-review/)은 별도 긍정 리뷰이지만 **크래시 2회 경험**을 보고했고, [NookGaming](https://www.nookgaming.com/process-of-elimination-review/)은 맵 조작·재시도·캐릭터 전형성을 비판했습니다. 일본 2021 Switch 완주자 개인 2.5/5도 별도의 부정 표본으로 남겼습니다.
+
+**Switch 초기 버그는 제작사 자료로 공식 확인:** [2021-05-27 v1.0.1](https://nippon1.jp/news/2021/20210527.html)에 무작위 진행불가·게임오버 로드·체험판 세이브 읽은 대사 인계/오탈자 수정, [2021-06-07 v1.0.2](https://nippon1.jp/news/2021/20210607.html)에 **특정 조건 수사 파트 진행불가 해결**이 명시돼 있습니다. 일본 출시 버전과 영어 2023판의 현재 모든 문제가 완벽히 해결됐다거나 꼭 재현된다고 단정하지 않고, **최신 일본/영어 Switch 원본 버전·폰트/ROMFS·대사 추출·실제 프리징을 실측하지 않아 기술 난이도 미확인**입니다. 한글패치 착수 시 순정 수사~진상 구간의 장시간 안정성을 먼저 확인해야 합니다.
+
+**GitHub 선정: 작품성 ⭐⭐⭐½☆ 3.5/5 · 🟢 B급 Switch 한글화 활성 신규 후보**, 전체 후보 15개/💎 우선 3개/🔥 A급 0개/🔴 기준 미달 7개에서 **Switch 활성 후보만 1개 증가**했습니다. 원래 등록된 모든 후보, 한국어가 이미 존재하거나 플랫폼이 불일치하는 제외 기록, PSP/PS2 등 다른 플랫폼의 집계 및 지난 날짜별 과거 수치는 전부 보존했습니다.
