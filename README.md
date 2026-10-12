@@ -368,3 +368,12 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **정량 평가 판본을 구별:** [2018 PS4 원작 Famitsu 8+8+8+8=32/40(4명)](https://www.famitsu.com/game/title/36449/reviews)은 정석 턴제 던전·입문자 친화·성우/의상을 호평했지만, [2024 Switch KIWAMI Famitsu 리뷰는 미집계](https://www.famitsu.com/game/title/54133/reviews)입니다. 2024 KIWAMI의 [PC Metacritic 54/100·평론가 5건](https://www.metacritic.com/game/yuuna-and-the-haunted-hot-springs-the-thrilling/critic-reviews/), [PC Steam 유저 23건 중 56% 긍정](https://store.steampowered.com/app/2436340/?l=koreana), [WTMG PC 7/10](https://waytoomany.games/2024/01/30/review-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami/)과 PS5 구매자 4.06/5(163건)를 모두 다른 기종·표본으로 다뤘습니다. Steam은 **공식 한국어 미지원**(일본어·영어·중문 간/번체), 일본 Switch 한국어 정식판과 Switch·PC에서 사용할 수 있는 공개 완성 한국어 패치를 **2026-10-12 공개 조사 범위에서 발견하지 못했습니다**. **PC 컨트롤러 매핑 오류·iOS 화면 잘림/터치 문제를 Switch의 확정 버그로 둔갑시키지 않고**, 최신 Switch 실기 안정성/파일 구조·한글 출력은 **미검증**으로 보존합니다.
 
 **자체 작품성 ⭐⭐⭐☆☆ 3.0/5 · 🔴 패스(3.5점 정식 한글화 후보 기준 미달)**. 던전·아이템/허기/동료/의상 관리의 기본기는 있지만, 원작 사전지식 의존 스토리·중복 적/방 구조·강한 초기 지원 장비/아이템 손실 스트레스·독창성 부족이 크며, 애니메이션 팬 대상 일러스트·성우만으로 3.5점을 충족하지 못했습니다. **한글화 우선도 미부여, 기술 난이도 미확인**. 실제 Switch판이 존재하므로 게임별 평가 자료는 Switch games 폴더에 남겼고, **활성 후보 14개 / 💎 우선 3개 / A급 0개 그대로, 기준 미달 기록 7개**로 Switch README와 일치시켰습니다. 최근 등록된 다른 2026 게임들, 타 플랫폼·한국어 보류·과거 집계는 변경하지 않았습니다.
+
+
+## 2026-10-12 Nintendo Switch 《Amakano ~Second Season~》 기존 Windows 한국어 패치 확인·신규 후보 검증 보류
+
+[《Amakano ~Second Season~》 Switch 원작·스토리·고백 시스템·외부 평가·기존 한글패치 심층 감사](platforms/switch/archive/amakano-second-season-korean-patch-audit.md)는 **2015-12-25 Azarashi Soft PC 원작을 2023-11-30 ARES Nintendo Switch로 이식**한 네 히로인 순애 연애 ADV를 대상으로 합니다. **2014 PC 첫 《아마카노》, 2023 Switch 본편 2작품 Double Pack, 2017 별도 Windows 《Second Season+》 팬디스크, 2020 PC/2025 Switch 《아마카노2》**는 서로 다른 제품이며 후일담 팬디스크가 2023 Switch 기본 수록됐다고 판단하지 않았습니다.
+
+**4명의 고백 과정과 감정 변화, 지도/호감도/고백 결정, 피로미즈 원화·E-mote·눈 쌓인 온천 마을**의 정서적 강점과 일부 루트의 낮은 사건성·긴 연애 후 구간·회상/씬 점프 QoL을 모두 검토했습니다. 여러 **PC판 독립 전루트 감상과 일부 부정적 리뷰**를 활용하되 Switch 직접 전문 평점·실기 테스트는 부족해 **잠정 작품성 ⭐⭐⭐⭐☆ 4.0/5**로 판정했습니다.
+
+**일본 Switch 공식 한국어 없음**과 별개로, Windows판 **[GTAKU 비공식 한국어 패치 등록](https://www.gtaku.net/vngameinfo/72391)** 및 [2025~2026 Kone 이용자의 설치·애프터 번역·업데이트 호환 기록](https://kone.gg/s/lilili/aabLirVxlgJbn_ZMJQ5PKb?p=69)이 확인됐습니다. 국내 사이트의 **패치 최초 배포일(2024-02-17 / 2025-02-17)이 서로 달라 정확한 시작일 미확정**이며, **모든 루트의 완역 및 설치 파일 무결성·현행 구동은 직접 재검증되지 않았으므로 🟡 한국어 대안 검증 보류**로 분류했습니다. **활성 한글화 후보 미추가, A/B/C 미부여, 기술 난이도 미확인**. 이 작품을 한글패치 없는 미번역작으로 신규 활동 후보에 추가하거나 3.5점 미달 평가에 넣지 않았고 **다른 작품·타 플랫폼 집계는 보존**했습니다.
