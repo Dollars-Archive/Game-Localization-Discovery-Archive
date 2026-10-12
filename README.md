@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 25 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -698,3 +698,16 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **기존 한국어 팬패치의 존재도 확인:** [한글로게임 Windows Steam 《Archetype Arcadia》 2026-01-10 등록 기록](https://www.hangulogame.com/platform/steam/)과 국내 같은 날 수정본 적용 게시물이 확인되지만, **실제 Windows 공식 한국어가 아니라 비공식 팬패치**이고 완역/정품 최신 실행·원제작자의 동의·Switch 직접 호환·NSP 타이틀별 데이터 매핑은 미검증입니다. **Switch 자체 공개 실사용 완성 한국어 패치는 확인 못했고**, **다른 플랫폼 유저 한글패치만으로 Switch 활성 후보 제외하지 않는 사용자 예외**에 따라 B급 신규 등록을 진행했습니다. [2021-12-23 KEMCO 일본 Switch v1.0.2](https://www.kemco.jp/news.html?y=2021)는 엔딩 후 자료집 추가·기능 조정이며 서양 SKU/프리징 전구간 해결 증거는 없습니다. PC Unity/Mono 감지만으로 Switch 파일 구조·한국어 폰트를 인증하지 않았으므로 **기술 난도 미확인**입니다.
 
 **이번 등록 후 Switch 활성 25개 / 💎 우선 7개 / 🔥 A급 0개 / 🔴 등록선 미달 10개**로 Switch README 헤더·표와 동기화했으며 다른 플랫폼 후보와 고유 게임의 기존 평가·과거 숫자·한국어 대안 기록은 변경하지 않았습니다.
+
+
+## 2026-10-13 Nintendo Switch 《JUDGEMENT 7》 일본 확장판 3.5점 B급 활성 후보 · 서양 《Our World Is Ended.》 구판 분리
+
+[**《JUDGEMENT 7 俺達の世界わ終っている。 / 저지먼트 7》 일본 Switch 확장판의 스토리·S.O.S. 제한시간 선택·UI 개선·한국어화 상태와 서양판 구별 상세 평가**](platforms/switch/games/judgement-7-oretachi-no-sekai-wa-owatteiru.md)를 **2019-02-28 Nintendo Switch 일본 eShop 정식판 / 자체 작품성 ⭐⭐⭐½☆ 3.5/5 / B급 🟢 활성 후보**로 등록했습니다. **사용자 입력의 'Our World Is Over' 대신 정식 서양명은 《Our World Is Ended.》**이나, 이 이름의 **2019-04 서양 PQube Switch·2019-05 Steam 제품은 2017 Vita 원본을 이식한 별도 기본판으로 2019 일본 MAGES. J7 완전판보다 콘텐츠가 부족**하다는 사실이 매우 중요합니다. [RED 개발사 일본판 정식 공지](https://red-entertainment.co.jp/release/oreowa/2215.html)는 **새 인물·후일담 추가**, [RED 서양판 별도 공지](https://red-entertainment.co.jp/release/oreowa/2265.html)는 **PQube 버전에 일본 J7 후일담·신기능 일부가 빠졌다고 명시**합니다. 2017 Vita 본편 → 2019 일본 **J7 PS4/일본 Switch DL**은 약 **130% 본문·새 OP·씬별 플로차트·용어집/관계 수치** 개선판이고, 서양판은 영어·일본어 접근은 가능하지만 추가 약 30% 스토리를 포함하지 않습니다.
+
+**줄거리·실제 시스템:** 도쿄 아사쿠사의 소규모 게임 회사 **Judgement 7**의 괴짜 천재 프로그래머 **오와리 세카이**가 만든 **W.O.R.L.D. AR 시스템**이 게임 캐릭터와 세계관을 현실로 소환하기 시작하고, 주인공 **고젠 레이지**가 현실을 지키는 이야기를 그립니다. **직접 조작 전투가 없는 장편 비주얼 노벨**이며, 일상 대화 선택지 외에 문장이 시간제한 안에서 흘러가는 **S.O.S.(Selection of Soul)**가 특징입니다. 호감도에 따른 노멀/진엔딩·남녀 캐릭터 에필로그, 일본 **J7에 새로 들어간 800개 이상 씬 아이콘 플로차트·용어집/후일담**이 강점입니다. 반면 지나친 성적 농담·7인 말싸움의 반복과 우연/편의적 SF 전개, [2020 일본 Switch 직접 완주자](https://yoshidamangame.hatenablog.com/entry/2020/08/14/235637)가 지적한 **이미 읽은 부분 스킵 끊김·플로차트 점프 호감도 스냅샷 혼란·긴 로딩 구간** 때문에 4.0점 대신 3.5점을 부여했습니다.
+
+**다른 판본 평가 혼합 금지:** [2017 Vita 원작 Famitsu 32/40·4명](https://www.famitsu.com/game/title/34726/reviews)은 일본 J7 Switch 메타평점이 아니고, **[2019 서양 PQube Switch Metacritic 59/100·평론가 7건](https://www.metacritic.com/game/our-world-is-ended/critic-reviews/)**은 후일담 등이 없는 **기본판**이므로 일본 J7의 직접 점수로 쓰지 않습니다. [일본 2019 J7 Switch Famitsu 페이지](https://www.famitsu.com/game/title/37108/reviews)는 정량평 미등록. [J7 일본 플레이 분석](https://w.atwiki.jp/gcmatome/pages/6999.html)은 확장판 UI/스토리 평가를 높게 보면서 초기 **용어집 스포일러 조기 노출이 Ver.1.02로 수정**됐다고 기록했습니다. 현재 일본 Switch 정품/실기에서 최신 버그·장시간 프리징·폰트·타이틀 ID/스크립트 추출은 수행하지 않아 **기술 난도 미확인**입니다.
+
+**한국어화 판정:** [Nintendo 일본 J7 제품](https://store-jp.nintendo.com/item/software/D70010000015980)은 **일본어만 공식 지원**, [서양 RED/PQube 공식](https://red-entertainment.co.jp/release/oreowa/2265.html) 및 [Steam](https://store.steampowered.com/app/940650/Our_World_Is_Ended/?l=koreana)은 **일본어·영어만 지원, 한국어는 미지원**입니다. **2026-10-13 공개 검색 범위에서 일본 J7·서양 Switch·Vita·PC용으로 사용 가능한 완성 한국어 팬패치도 미확인**이며 비공개 작업의 절대 부재는 주장하지 않습니다. 그래서 **일본 J7 완전판**을 3.5점 B급 활성 후보로 새로 선정했고, 기존 PQube 구판은 별도 게임 1개로 중복 등록하지 않았습니다. 개발팀 7인 호칭·게임 개발 은어/유머, 본문+후일담 약30%·용어집·플로차트·S.O.S. 시간제한과 폰트·영상/보이스를 각기 독립 검수 대상으로 기록했습니다.
+
+**최신 GitHub 집계:** Switch 활성 후보 **26개**, 💎 4.0 이상 우선 **7개**, 🔥 A급 **0개**, 🔴 기준 미달 **10개**입니다. 일본 J7은 3.5점 **B급 활성 1개**만 집계하며 기존 다른 플랫폼의 후보/보류/패스·과거 시점 결과, 사용자 Switch 예외 정책 및 모든 GitHub Pages 바로가기를 변경하지 않았습니다.
