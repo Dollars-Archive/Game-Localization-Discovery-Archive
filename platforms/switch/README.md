@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **3개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **1개**
+> 등록 후보: **4개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **1개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -15,6 +15,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 |---|---:|---|---:|---:|---|---|---|---|
 | [MAMIYA - A Shared Illusion of the World's End - (마미야)](games/mamiya-a-shared-illusion-of-the-worlds-end.md) | 2026 | 심리 미스터리·멀티시점 다크 비주얼 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | B | PC Steam 90% 긍정·479건 / PC Complete Noisy Pixel 9/10·Mygamer 8/10 / PC 첫 2부 NookGaming 7/10 / Switch NintendoBoy 실플레이 1편·점수 미확정 | 2026-10-12 Switch 한국어 미지원·공개 한국어 패치 미확인 / PC Steam 한국어 미지원·실사용 공개 패치 미발견 | 2021 PC FallDown+DownFall → 2023 PC DoomsDayDreams 별도 DLC → 2026 Switch 3부 합본·일본어 풀보이스·신규 CG·IF 미니게임 | 💎 우선 후보 |
 | [Wizard's Symphony (위저즈 심포니)](games/wizards-symphony.md) | 2019 | 풀보이스 캐릭터 DRPG·1인칭 던전 탐험·턴제 전투 | ⭐⭐⭐½☆ (3.5/5) | B | Switch Famitsu 30/40·4명 / Switch 가격.com 4.00/5·평점 1명 / PS4 PS Store 4.31/5·175명(타기종 참고) / Switch·타판 완주 서술 3명 | 2026-10-12 Switch 일본어 표기·공개 완성 한국어 패치 미확인 / PS4 실사용 한국어 대안 미발견 | 1995 Wizard's Harmony와 별개 신작 / 2019 Switch·PS4 동시판 / 2019 Ver1.01·1.02 개선 | 🟢 후보 |
+| [Soul Cradle: World Eaters / Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자)](games/soul-cradle-world-eaters.md) | 2021 | 3×3 룸 부대 편성·턴제 전략 RPG / Hero·Demon Path | ⭐⭐⭐½☆ (3.5/5) | B | **Switch Soul Nomad RPGamer 2/5·1명 / Chalgyr 7.5/10·1명 / NookGaming 5/10·1명** / Switch 합본 MC 72/100·13건 / PS2 본편 MC 73/100·31건 | **북미 Switch 공식 영어 텍스트만 지원·한국어 없음 / PC Steam 일본어·영어, 한국어 미지원** / 2026-10-12 공개 완성 한글패치 미발견 | 2007 PS2 원작 → 2014 PS3 PS2 Archives → 2021 Switch NIS Classics Vol.1 Phantom Brave와 합본 / 2021 Windows 단독 / Switch 일부 크래시·후속 수정 및 잔존 제보 | 🟢 후보 |
 | [Touhou Sky Arena -Matsuri- Climax (동방 스카이 아레나: 마츠리 클라이맥스)](games/touhou-sky-arena-matsuri-climax.md) | 2019 | 음악-텐션 연동 3D 공중 탄막·대전 액션 | ⭐⭐⭐½☆ (3.5/5) | C | **Switch Video Chums 7.2/10·실플레이 1명** / 일본 Switch 가격.com 5/5·1명 / Play-Asia 4/5·8표(본문2명) / PS4 Famitsu 30/40·4명 / Steam PC 약200건 86% 긍정 | **Switch 공식 일본어·영어만 지원, 한국어 미지원** / 공개 완성 한글패치 확인 못함 / PC Steam 역시 한국어 없음 | 2016 PS4·2017 Vita·**2019 Switch DL 기본20인+DLC3인** / 2020 일본 Switch 패키지 DLC 포함 23인·한정판 추가 30곡 코드 / 2020 PC Steam | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
@@ -55,3 +56,9 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 [《Touhou Sky Arena -Matsuri- Climax》 심층 평가](games/touhou-sky-arena-matsuri-climax.md)는 정식 Nintendo Switch 3D 공중 탄막 대전작이다. **음악의 전개에 따라 사용 가능한 기술과 화력이 달라지는 텐션 시스템**, 2019 기본 20인/40타입·추가 3인 DLC, 2020 Switch 일본 패키지 23인·90곡 이상 소개/한정판 추가 30곡 다운로드 코드를 정확히 구분했다. **Switch 직접 Video Chums 7.2/10**, 일본 Switch 사용자 5/5(1명)·Play-Asia 4/5(8표), PS4 Famitsu 30/40, PC Steam 약 200건 86% 긍정을 판본별로 참고했다. 장점은 곡 연동 전투·컨텐츠, 단점은 낮은 이야기 밀도·초기 조작/난도·다인전 혼잡이다.
 
 **작품성 3.5/5·한글화 C급·🟢 후보**로 정식 등록한다. Switch 공식 한국어 미지원·공개 완성 한글패치 미확인. **정식 등록 3개 / 💎 발굴 우선 1개 / A급 0개**, 기존 MAMIYA·Wizard's Symphony·Astral Takers 및 Switch 평가 보류 기록은 유지한다. 기술적 한글 출력/패치 검증은 미실행이다.
+
+## 2026-10-12 Soul Cradle: World Eaters / Soul Nomad 신규 등록
+
+[《Soul Cradle: World Eaters / Soul Nomad & the World Eaters》](games/soul-cradle-world-eaters.md)는 **2021-08-31 북미 Nintendo Switch 《NIS Classics Volume 1》에 수록된 2007 PS2 SRPG 이식**이다. 일본어 원작과 북미 영어명은 같은 게임이며 《Phantom Brave》가 함께 든 합본과 Windows 2021 단독 판매판을 혼동하지 않았다. **본편 부대 편성 3×3 룸·Gig Edicts·룸 인스펙션과 Demon Path 독립 시나리오**의 장점, **Switch 2021 크래시·구식 화면·이후 일부 수정·잔존 불확실성**을 모두 반영해 **작품성 3.5/5·한글화 B급·🟢 활성 후보**로 등록했다. 북미 Switch판은 **영어 텍스트 / 영어·일본어 음성**, PC Steam은 영어·일본어 텍스트를 지원하며 공식 한국어는 없다. **2026-10-12 검색 범위에서 실사용 가능한 완성 한국어판·공개 한국어 패치 미발견**. Switch 실기·원본 파일과 최신 업데이트 미분석이므로 기술 난이도 미확인이며, 한글패치 최초 검수는 **기존 크래시와 수정 유발 크래시를 대조**해야 한다.
+
+**현재 Switch 정식 후보 4개 / 💎 발굴 우선 후보 1개 / 🔥 A급 0개 / 🔴 등록선 미달 기록 1개**. 《MAMIYA》·《Wizard's Symphony》·《Touhou Sky Arena》의 점수/우선도, 《Astral Takers》의 평가 보존, 《Ley Line》의 한국어 대안 보류, 《Meteor World Actor》의 타 플랫폼 기록을 유지한다. 앞선 날짜별 기록의 당시 집계는 역사적 문구로 보존한다.
