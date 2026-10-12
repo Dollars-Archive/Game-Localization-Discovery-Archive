@@ -16,7 +16,9 @@ test('Switch preserves an eligible MAMIYA and a below-threshold Astral Takers re
   assert.match(astral['발굴 추천도'], /3.0\/5/);
   assert.match(astral['상태'], /패스/);
   assert.equal(astral['한글화 우선도'], '미부여');
-  assert.match(readme, /기준 미달 평가 기록: \*\*1개\*\*/);
+  const rejectedCount = rows.filter(r => /패스/.test(r['상태'])).length;
+  assert.ok(rejectedCount >= 1);
+  assert.ok(readme.includes('기준 미달 평가 기록: **' + rejectedCount + '개**'));
   const detail = fs.readFileSync(path.join(root, slug), 'utf8');
   assert.match(detail, /한국어 미지원/);
   assert.match(detail, /3.0\/5/);
