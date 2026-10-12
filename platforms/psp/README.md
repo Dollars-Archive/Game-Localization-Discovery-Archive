@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **43개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **44개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -48,6 +48,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Toaru Majutsu to Kagaku no Ensemble (어떤 마술과 과학의 군주활극)](games/toaru-majutsu-to-kagaku-no-ensemble.md) | 2013 | 군상 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (17표) / Bangumi 5.9/10 (24표) / 구체 평가 본문 5명 | 2026-10-08 기준 공식판·공개 완성/부분/기계번역 패치 확인 못함 | PSP 일반·한정·DL판 / 동일 본편 후발판 확인 못함 / 2011 금서목록·초전자포는 별도 게임 | 🟢 후보 |
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | PSP Great25표 / PSP장문2명 / 3DS Famitsu29/40·4명·RPGamer2/5 | 2026-10-08 공개 한국어 대안 미확인 / PSP·3DS 영어 부분패치 구분 | PSP·3DS 동시판 / 육성강점·반복/관리부담 / 한글기술미확인 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
+| [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
 | [Sekai de Ichiban NG na Koi: Full House (세상에서 가장 NG인 사랑 풀하우스)](games/sekai-de-ichiban-ng-na-koi-full-house.md) | 2011 | 홈코미디형 연애 ADV | ⭐⭐⭐⭐☆·종전 평가 보존 | 보류·기존 B 참고 | PSP Play-Asia 5/5·5건·본문 1건 / GameFAQs 1.6/5·5표 / GAMEMAN 9.0·표수 미표시·본문 0건 | 2026-10-08 기준 공개적으로 확인되지 않음 | PC 원작 준한글·2026 복구 기록은 부분 번역으로 분리 / PSP 추가 시나리오·CG 약 30장 / 후발 PC 완전 대체 여부 미확인 | 🟡 재평가 보류 |
@@ -147,8 +148,12 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 2026-08-19 국내 커뮤니티에 **Windows 《리벨리온즈》 한글판 실행·세이브 안내 및 한글패치 출처를 제시한 복구 글**이 확인되었다. 다만 정확한 대상 PC판, 번역 전 에피소드의 완료 여부, 원 제작자 패치 파일 단독 배포와 현행 접근성을 원문에서 검증하지 못했으므로 **PSP 신규 한글화 자격을 검증 보류**로 처리한다. PSP 직접 한글패치가 발견됐다는 뜻은 아니다. [작품 상세·근거·기술 검증 기준](games/rebellions-secret-game-2nd-stage.md). 2026-10-08 리뷰 기반 7.9/10 및 작품성 4.0/5, 사용자 메모는 보존한다.
 
-2026-10-12 신규 후보 추가 이후의 현재 집계는 보존 항목 **43개** / 활성 **29개** / 활성 4.0 이상 **5개** / A **3개**입니다. 2026-10-08 당시 작성된 역사적 평가 원장과 순위표는 소급 변경하지 않습니다.
+2026-10-12 《MISSINGPARTS》 및 《영원의 아세리아》 목록 반영 이후 현재 집계는 보존 항목 **44개** / 활성 **30개** / 활성 4.0 이상 **5개** / A **3개**입니다. 2026-10-08 당시 작성된 역사적 평가 원장과 순위표는 소급 변경하지 않습니다.
 
 ## 2026-10-12 MISSINGPARTS the TANTEI stories Complete 신규 등록
 
-[MISSINGPARTS the TANTEI stories Complete](games/missingparts-the-tantei-stories-complete.md)를 PSP **3.5/5·B급 활성 후보**로 추가했습니다. Dreamcast 첫 분할 제품(본편 1~2화)에 대한 2026-09-24 한국어 패치 등록 기록은 있으나, **PSP의 본편 1~6화와 신규 Extra Parts 전체를 한국어로 제공하는 완성 대안인지 검증되지 않았습니다.** 현재 PSP 번역본 미확인과 DC 첫 분할 작품의 번역 정황을 함께 기록하고, 번역 완성 범위와 실제 사용 가능성을 후속 검증 대상으로 보존합니다. 현재 **43개 보존·29개 활성·발굴 우선 후보 5개·A급 3개**로 집계하며, 이번 신규 등록에 무관한 예외·보류 및 2026-10-08 역사적 작품평은 변경하지 않았습니다.
+[MISSINGPARTS the TANTEI stories Complete](games/missingparts-the-tantei-stories-complete.md)를 PSP **3.5/5·B급 활성 후보**로 추가했습니다. Dreamcast 첫 분할 제품(본편 1~2화)에 대한 2026-09-24 한국어 패치 등록 기록은 있으나, **PSP의 본편 1~6화와 신규 Extra Parts 전체를 한국어로 제공하는 완성 대안인지 검증되지 않았습니다.** 현재 PSP 번역본 미확인과 DC 첫 분할 작품의 번역 정황을 함께 기록하고, 번역 완성 범위와 실제 사용 가능성을 후속 검증 대상으로 보존합니다. 《MISSINGPARTS》 등록 직후에는 **43개 보존·29개 활성·발굴 우선 후보 5개·A급 3개**로 집계했으며, 이번 신규 등록에 무관한 예외·보류 및 2026-10-08 역사적 작품평은 변경하지 않았습니다.
+
+## 2026-10-12 《영원의 아세리아》 PSP 활성 후보 반영
+
+[Eien no Aselia: Kono Daichi no Hate de](games/eien-no-aselia-kono-daichi-no-hate-de.md)는 **상세 MD가 이미 존재하던 평가 기록**이나 현재 PSP 활성 후보 표에는 없었기 때문에, 기존 문서를 갱신하고 **3.5/5·C급 활성 후보 행 1건만 추가**했습니다. **직접 조작하는 전술 SRPG**이며 공식 영어 PC판과는 플랫폼/추가 컷인/인터페이스가 다릅니다. 2026-10-12 기준 공식 한국어판·적용 가능한 공개 한국어 패치 미확인. 영어 PC판은 한국어 대안 제외 근거가 아닙니다. **현재 44개 보존·30개 활성·💎 5개·🔥 A 3개**, 다른 작품·2026-10-08 역사 평가 원장은 보존합니다.
