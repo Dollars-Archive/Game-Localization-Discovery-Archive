@@ -239,3 +239,9 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 ## 2026-10-12 BEYBLADE X EVOBATTLE Switch 신규 등록
 
 [《BEYBLADE X EVOBATTLE》](platforms/switch/games/beyblade-x-evobattle.md)는 2025년 Switch에서 출시된 《XONE》의 별도 후속 배틀 액션으로, **2026-10-12 한글화 후보 작품성 3.5/5·우선도 C**로 신규 등록했습니다. 일본판·북미판 Switch에 공식 한국어 지원이 없고 공개적으로 적용 가능한 한국어 패치를 확인하지 못했습니다. **Steam 2026-10-05 중국어 간체·번체 업데이트와 Switch 2 Edition의 성능 강화**는 언어 지원·판본 혼동 없이 구분했습니다. 최신 Switch 목록의 **활성 5개 / 💎 1개 / A급 0개**로 반영하고, **《Astral Takers》·《ROAD59》 기준 미달 기록 2개**는 별도 보존합니다. 이전 모든 플랫폼 진입 링크, 숫자, 역사적 평가 데이터는 변경하지 않습니다.
+
+## 2026-10-12 VARLET Switch 공식 한국어판·작품성 2.5점 제외 기록
+
+[《VARLET (ヴァレット)》 평가 보고서](platforms/switch/games/varlet.md)는 2025년 출시된 학원 심리·타임라인 턴제 RPG의 **2025-08-27 북미 Switch판**과 **2025-08-28 한국어 자막을 포함한 아시아 Switch판**을 구분했습니다. [Clouded Leopard Entertainment의 공식 출시 안내](https://www.cloudedleopardent.com/kr/news/5605/)로 **Switch 자체 한국어 정식판이 있음**을 확인했으며 PS5 한국판과 PC Steam에도 한국어가 있습니다. 따라서 북미 Nintendo Store가 일본어·영어만 표시한다는 이유로 한글화 대상에 넣지 않습니다.
+
+작품성은 **2.5/5·🔴 패스**입니다. Switch Metacritic 50/100(평론가 4건), PC Steam 사용자 긍정 47%(117건), 리뷰의 전투 밸런스·반복 탐색·스토리 문제를 근거로 하되, 다른 전문지의 긍정 의견도 기록했습니다. **Switch 정식 활성 후보 5개 / 발굴 우선 1개 / 한글화 A급 0개 유지**, Switch 기준 미달 평가 기록만 **2개 → 3개**로 늘렸습니다. 기존 다른 플랫폼 집계·후보·보류 자료는 그대로 보존합니다.
