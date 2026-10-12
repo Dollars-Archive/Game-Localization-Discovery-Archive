@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 6 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 7 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -256,3 +256,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 [《Never 7 - The End of Infinity》](platforms/switch/games/never7-the-end-of-infinity.md)은 **2025-03-06 Nintendo Switch·PS4·Steam HD 리마스터**입니다. 닌텐도 공식 Switch판은 **일본어·영어·번체중문**만 지원하고 한국어가 없지만, 다른 기종에 한국어 패치가 있음을 확인했습니다. [2026-06-07 2025 Steam 리마스터판 유저 한국어 패치 공개](https://gall.dcinside.com/mgallery/board/view/?id=memooff&no=3826) 및 [2026-10-11 PSP 일본판 ULJM-05433용 Noctil Patchworks v0.9.0 한국어 베타 공개](https://ievy3.github.io/projects/never7/)입니다. **PC/PSP 패치를 Switch에 그대로 적용할 수 있다는 증거는 없습니다.** 공개 패치 이력과 전체 완역·전 루트 실사용 검증 완료 여부는 구분했습니다.
 
 Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100** 및 PC Steam **68% 긍정·64건**을 판본별로 분리했습니다. 우치코시 코타로의 초기 SF/연애 미스터리와 아보 타케시 음악은 의미 있지만, 매우 느린 공통 루트·여러 경로 반복·18개 엔딩의 낮은 접근성·리마스터의 16:9 화면 자르기·저해상도 원본 영상 자산 문제가 커서 **종합 3.0/5·🔴 패스**, 새 한국어화 우선도는 미부여했습니다. **Switch 활성 후보 6개 / 💎 우선 1개 / 🔥 A급 0개 유지**, 정식 등록선 3.5 미달 평가 기록은 **3개에서 4개**로 늘렸습니다. 이전 6개 활성 후보와 다른 플랫폼 기록·역사적 집계는 변경하지 않았습니다.
+
+
+## 2026-10-12 Ayakashi Gohan Oomori for S Nintendo Switch 신규 등록
+
+[《Ayakashi Gohan ~Oomori!~ for S》](platforms/switch/games/ayakashi-gohan-oomori-for-s.md)는 2025-05-22 Nintendo Switch로 발매된 **2015 PS Vita 《Oomori!》 본편의 이식판**입니다. 2014 PC 원작·2015 Vita 강화판·2025 Switch와 **2026-08-20 독립 발매된 《Okawari! for S》 연애 후일담 팬디스크**를 구분해 **Switch 작품성 4.0/5 · 한글화 우선도 B · 💎 활성 발굴 후보**로 등록했습니다. 유년기 선택이 주인공 린의 성격을 갈라 **인간편/요괴편 3인씩 총 6명의 연애 이야기와 아사기 최종 루트**로 이어지는 구조를 긍정했으며, 개별 연애 루트 밀도 편차·장문의 공통부, 2015 Vita판 UI 문제와 Switch 개선 실측 부재를 감점했습니다. 일본어 외 **공식 한국어 지원 및 실사용 가능한 PC/Vita/Switch 공개 한국어 패치가 2026-10-12 조사에서 확인되지 않았으며**, 2025 Switch판 실제 게임 화면 3장을 상세 자료에 링크했습니다. **현재 Switch 활성 후보 7개 / 💎 우선 후보 2개 / 🔥 A급 0개**, 기존 등록선 미달 조사 5개와 다른 플랫폼 및 한국어 검증 보류 기록을 보존했습니다.
