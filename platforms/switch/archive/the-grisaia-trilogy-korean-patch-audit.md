@@ -211,10 +211,10 @@ PROTOTYPE이 공식 안내한 **2019 Switch 패키지의 수록 시나리오**:
 
 > **한줄평:** 미하마 학원의 상처 입은 다섯 인물과 유지의 복합적인 과거를 풀어내는 심리 드라마로서 첫 편은 빼어나지만, 후속편은 간혹 과장된 첩보 액션 때문에 매력이 희석된다. Switch 통합판은 조작과 수록량이 강점인 **4.0점 우수작**. 그러나 한국어는 이전 두 편뿐 아니라 최신 《낙원》·세 사이드까지 번역 자료가 확인되므로, 단순 '미번역 신작'으로 새 활성 후보에 넣기보다 현재 합법적 patch-only·완역/실구동을 먼저 검증해야 한다.
 
+## 공식·독립 자료
+
 - [**2019 과실 Polaris 원 배포자의 명시적인 손번역 한정 범위/그 외 번역기·미검수**](https://polaris.hided.net/aral_pds/2700822)
 - [2019 미궁 Polaris 원 배포 글(현재 웹 조회 타임아웃, 부분 번역 색인)](https://polaris.hided.net/aral_pds/2700829)
-
-## 공식·독립 자료
 
 - [PROTOTYPE Switch 공식 2019 영어 설명·실제 UI·수록 9개 그룹](https://www.prot.co.jp/switch/grisaiafull_en/index.html)
 - [PROTOTYPE 일본어 수록 전체·별개 미수록 스핀오프](https://www.prot.co.jp/switch/grisaiafull/introduction.html)
