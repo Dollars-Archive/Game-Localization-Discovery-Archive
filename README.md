@@ -214,3 +214,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 ## 2026-10-12 Nintendo Switch 첫 한글화 후보 등록
 
 [《MAMIYA - A Shared Illusion of the World's End -》](platforms/switch/games/mamiya-a-shared-illusion-of-the-worlds-end.md)는 Nintendo Switch에서 2026-06-25 정식 발매한 **일본어 풀보이스·3부 통합·신규 CG/IF 미니게임 추가** 심리 미스터리 비주얼 노벨입니다. **작품성 4.0/5, 한국어화 우선도 B**, 공식 한국어판 및 검증된 실사용 공개 한국어 패치는 찾지 못했습니다. PC 완성판의 영어/중국어 지원은 한국어 대안이 아니므로 한국어화 제외 기준에 해당하지 않습니다. **Switch 첫 후보 1개·💎 우선 후보 1개·🔥 A급 후보 0개**로 반영했으며 다른 기종의 숫자·후보와 역사적 PSP/PS2/PS Vita 평가 기록은 보존했습니다.
+
+
+## 2026-10-12 Switch 기준 미달 평가 이력
+
+[《Astral Takers》](platforms/switch/games/astral-takers.md)는 **닌텐도 Switch 정식 발매·한국어 미지원**을 확인했으나 실제 Switch 독립 리뷰 2개 모두 **6/10**이고 스토리·전투 육성·탐험·UI가 부족하여 **작품성 3.0/5·🔴 패스**로 기록했습니다. Switch 목록에는 **정식 미선정 검토 기록 1건**으로 표시하며 **기존 《MAMIYA》 정식 후보 1개·발굴 우선 1개·A급 0개**는 변경하지 않았습니다. 일반 등록 기준 3.5/5도 그대로 유지합니다.
