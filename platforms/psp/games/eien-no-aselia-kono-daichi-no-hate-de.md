@@ -1,4 +1,4 @@
-# Eien no Aseria: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)
+# Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)
 
 ## 2026-10-12 재평가: 전술 전투·PSP 이식·언어 접근성
 
