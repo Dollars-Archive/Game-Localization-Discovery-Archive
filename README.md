@@ -295,3 +295,11 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 [《WiZmans World Re;Try》 3.5/5 작품성 평가 및 공식 한국어 지원 판본 비교](platforms/switch/archive/wizmans-world-retry-official-korean.md)는 **2024-05-30 일본 City Connection Switch 리마스터판**과 **2026-02-19 북미·유럽 Clear River Games Switch 발매판**의 출시·언어·제품코드를 분리합니다. **닌텐도 미국/영국 공식 상점과 배급사가 2026 Switch 한국어 지원을 확인**하며, 2026 Windows Steam판에도 **공식 한국어 자막/메뉴**가 있습니다. 2024 일본 실물판의 한국어 수록 여부는 **별도 검증하지 않았습니다**.
 
 **Switch Metacritic 74/100·전문지 6건** 및 2024 일본 Switch 실제 완주 경험을 비교해, **아니마 퓨전과 속성·행동 순서·체인 전투의 강점**, 긴 반복 던전·몬스터 영혼 파밍과 보스 난도 편차를 감점해 **작품성 3.5/5**로 평가했습니다. **점수는 등록선을 넘지만 게임 자체에 공식 한국어판이 이미 존재**하므로 **활성 후보·발굴 우선 후보·한글화 A급에 추가하지 않으며**, 기존 Switch 집계와 기준 미달 5개 기록은 보존했습니다. 한국어판 확인 미선정 이력만 Switch 별도 아카이브에 추가했습니다.
+
+## 2026-10-12 이상한 환상향 -FORESIGHT- Switch 작품성 3.0점 평가 기록
+
+[《Touhou Genso Wanderer -FORESIGHT- / 이상한 환상향 포사이트》 상세 심층 평가](platforms/switch/games/touhou-genso-wanderer-foresight.md)는 **2024-09-19 일본 Nintendo Switch·PS4판(북미 현지 09-18)**을 대상으로 검토했습니다. 원작 2018 Switch 《TOD-RELOADED-》 및 《Lotus Labyrinth R》와는 **별개의 2024 게임**이며 기존 한글패치가 FORESIGHT판을 번역한 것으로 보지 않습니다. [닌텐도 공식 언어](https://www.nintendo.com/us/store/products/touhou-genso-wanderer-foresight-switch/)와 [Steam 공식 언어](https://store.steampowered.com/app/1847150/?l=koreana)는 일본어·영어·중국어 간체·번체만 지원하고 **한국어는 미지원**, 2026-10-12 공개 검색 범위에서 FORESIGHT용 공개 완성 한글패치를 확인하지 못했습니다.
+
+제작사 공식 발표에 따라 **2024-09 콘솔 출시와 함께 기존 PC판에 없던 신사 연못·서브 이야기·던전·보스 스펠카드 요소가 추가됐으며 이후 PC판에도 같은 변경이 적용**됐습니다. [Steam의 2024-12 v1.09](https://steamcommunity.com/app/1847150/allnews/)는 튜토리얼/특수 던전 등을 추가했지만 **최신 Switch 실기 버전·프레임·동작은 직접 검증하지 않았습니다**. Switch 직접 [PS4Blog 8/10](https://www.ps4blog.net/2024/10/nintendo-switch-touhou-genso-wanderer-foresight-review/), [Video Chums 7.5/10](https://www.switchscores.com/games/13395/touhou-genso-wanderer-foresight), [LadiesGamers 호평](https://ladiesgamers.com/touhou-genso-wanderer-foresight-review/)에 비해, PC Steam **긍정 46%·290건**과 PC Game8 **56/100**, 별도 PS4 Famitsu **29/40**을 판본·표본별로 분리했습니다. 실패해도 레벨·장비를 유지하는 접근성과 새 일러스트·보이스·신사 재건은 장점이지만, 장비 합성·공명인·아이템 다양성과 플레이어블 캐릭터 감소, LP 노가다·후반 보스 능력치 벽, 동방 6~8 사건의 반복 등 **구작 대비 콘텐츠·전투 깊이 축소**를 감점했습니다.
+
+**독립 작품성 3.0/5·🔴 패스(3.5점 신규 활성 후보 기준 미달), 한글화 A/B/C 미부여, 기술 난이도 미확인.** Switch **활성 후보 10개 / 발굴 우선 2개 / A급 0개** 그대로 유지, **기준 미달 평가 기록 6개**로 갱신한 Switch 목록과 동일합니다. 그 밖의 기존 플랫폼 목록·타 작품/평가·과거 날짜 기준 현황 기록은 그대로 보존했습니다.
