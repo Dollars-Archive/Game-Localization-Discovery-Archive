@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 1 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 2 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
