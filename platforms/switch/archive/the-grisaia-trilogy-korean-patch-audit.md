@@ -1,5 +1,7 @@
 # The Grisaia Trilogy (그리자이아 트릴로지) | Nintendo Switch 작품성 4.0 · 기존 한국어 번역 자료 검증 보류
 
+> **현재 등록 상태 안내 (2026-10-13):** 사용자가 기존 Windows 한국어 자료 이력을 이유로 제외하지 않는 **예외 등록**을 지시하여, 《The Grisaia Trilogy》를 Switch 작품성 **4.0/5 · 한글화 B급 · 💎 활성 우선 후보**로 등록했습니다. **최신 등록 상태는 [Switch 활성 평가](../games/the-grisaia-trilogy.md)** 및 [Switch 후보 목록](../README.md)을 참고하세요. 이 `archive/` 문서는 예외 승인 이전의 한국어 자산 조사·보류 판단을 **이력으로 보존**한 것입니다. Windows 자산의 완역·권리·정품 호환·Switch 적용이 확인됐다는 뜻은 아닙니다.
+
 > **원제 グリザイアの果実・迷宮・楽園 フルパッケージ / 영어 THE GRISAIA TRILOGY**
 >
 > **2019-11-07 Nintendo Switch 일본·서양 정식 출시 / PROTOTYPE 이식·발매 / Frontwing 원작 / Switch CERO D·ESRB M·PEGI 18**
