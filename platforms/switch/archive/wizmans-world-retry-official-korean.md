@@ -40,7 +40,7 @@
 | 기술 난이도 | **미확인**. 게임 파일/실기 미분석. 공식 한국어가 있어 신규 패치 엔지니어링 불필요 |
 | 현재 추천 | **공식 한국어 Switch 2026 해외 출시판** 또는 **Steam 2026판**. 구매·계정·지역 실사용은 공식 스토어에서 직접 확인 |
 
-**판본·언어 핵심 근거:** [City Connection 2024 일본 공식 발매](https://city-connection.co.jp/wizmans_world/), [GameFAQs 2024 JP / 2026 US Switch 발매 제품코드](https://gamefaqs.gamespot.com/switch/443956-wizmans-world-retry/data), [Nintendo US 2026 지원 언어](https://www.nintendo.com/us/store/products/wizmans-world-re-try-switch/), [Nintendo UK 2026 지원 언어](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/WiZmans-World-Re-Try-3021855.html), [서양 배급사 Clear River Games 2026 언어 명시](https://clearrivergames.com/games/wizmans-world-retry/), [한국어 Steam 공식 상품](https://store.steampowered.com/app/2214620/WiZmans_World_ReTry/?l=koreana).
+**판본·언어 핵심 근거:** [City Connection 2024 일본 공식 발매](https://city-connection.co.jp/wizmans_world/), [GameFAQs 2024 JP / 2026 US Switch 발매 제품코드](https://gamefaqs.gamespot.com/pc/443957-wizmans-world-retry/data), [Nintendo US 2026 지원 언어](https://www.nintendo.com/us/store/products/wizmans-world-re-try-switch/), [Nintendo UK 2026 지원 언어](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/WiZmans-World-Re-Try-3021855.html), [서양 배급사 Clear River Games 2026 언어 명시](https://clearrivergames.com/games/wizmans-world-retry/), [한국어 Steam 공식 상품](https://store.steampowered.com/app/2214620/WiZmans_World_ReTry/?l=koreana).
 
 **명확한 지역별 판정:**
 - **일본 Switch (City Connection, 2024-05-30):** 당시 일본 발매 확실, 자체 언어·업데이트 기준 한국어 포함 여부는 별도 실측/명세 미검증. **이 한 상품의 언어를 서양판 데이터로 소급해 단정하지 말 것.**
@@ -51,7 +51,7 @@
 
 ## 스포일러 최소 이야기 소개
 
-외부와 연결이 끊긴 **유폐의 도시 위자레스트(Wizarest)**. 어느 날 깨어난 주민들은 과거의 자신과 도시가 봉쇄된 원인을 기억하지 못한다. 도시의 사방은 몬스터가 들끓는 던전으로 둘러싸였고, 사람들은 **한 세기가 지나도록 출구를 찾지 못했다**. 일부 지역에선 세계 자체가 '붕괴'하며 지형이 바뀐다.
+외부와 연결이 끊긴 **유폐의 도시 비자레스트(Wizarest)**. 어느 날 깨어난 주민들은 과거의 자신과 도시가 봉쇄된 원인을 기억하지 못한다. 도시의 사방은 몬스터가 들끓는 던전으로 둘러싸였고, 사람들은 **한 세기가 지나도록 출구를 찾지 못했다**. 일부 지역에선 세계 자체가 '붕괴'하며 지형이 바뀐다.
 
 주인공 **클라우스**는 숲에서 발견되어 마법사 **지젤**에게 길러졌다. 지젤이 던전에서 실종되자, 그녀가 남긴 세 호문쿨루스와 동행해 **실종된 스승, 잃어버린 기억, 외부로 나갈 길**을 찾아 나선다. 행동과 선택의 결과가 이후 인물 관계·도시·던전의 상태에 반영된다.
 
@@ -160,7 +160,7 @@
 - [City Connection 2024 Switch 패치 수정](https://city-connection.co.jp/wizmans_world/news/)
 - [City Connection 게임 스토리·인물·전투](https://city-connection.co.jp/wizmans_world/about/)
 - [Steam 2026 공식 한국어 UI·자막](https://store.steampowered.com/app/2214620/WiZmans_World_ReTry/?l=koreana)
-- [GameFAQs Switch 미국/일본 제품 코드·발매 지역](https://gamefaqs.gamespot.com/switch/443956-wizmans-world-retry/data)
+- [GameFAQs Switch 미국/일본 제품 코드·발매 지역](https://gamefaqs.gamespot.com/pc/443957-wizmans-world-retry/data)
 - [4Gamer 일본 Switch 2024 및 2010 DS 원작 구분](https://www.4gamer.net/games/766/G076600/20240111029/)
 - [Metacritic 2026 Switch 평론가 74/100·6개](https://www.metacritic.com/game/wizmans-world-retry/critic-reviews/)
 - [RPGamer 2026 Switch 3.5/5·전투·편의·20-40시간](https://rpgamer.com/review/wizmans-world-retry-review/)
