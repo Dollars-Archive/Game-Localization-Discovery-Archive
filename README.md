@@ -229,3 +229,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 ## 2026-10-12 Soul Cradle Switch 한글화 후보 신규 등록
 
 [《Soul Cradle: World Eaters / Soul Nomad & the World Eaters》](platforms/switch/games/soul-cradle-world-eaters.md)는 2021년 북미 Nintendo Switch의 《Prinny Presents NIS Classics Volume 1》 합본 수록작을 기준으로 **작품성 3.5/5, 한글화 우선도 B, 활성 후보**로 등록했습니다. PS2 원작의 부대 편성·별도 악역 시나리오는 강점, Switch 이식의 낮은 화면 개선 폭과 크래시 제보는 감점했습니다. 출시 당시 강제 종료와 후속 패치 일부 개선·잔존 문제를 구분했으며 실제 최신 실기 안정성은 아직 미확인입니다. 공식 Switch 북미판 한국어는 미지원, Windows Steam의 영어·일본어판도 한국어 대안이 아닙니다. **현재 Switch 정식 후보 4개 / 발굴 우선 1개 / A급 0개**, 기준 미달 평가 기록 1개를 유지하며 다른 플랫폼의 집계와 GitHub Pages 진입 주소는 보존합니다.
+
+
+## 2026-10-12 ROAD59 Switch 기준 미달 평가 기록
+
+[《ROAD59 -A Yakuza’s Last Stand-》](platforms/switch/games/road59-a-yakuzas-last-stand.md)는 **2025년 9월 발매 Switch·Steam 비주얼노벨**로, 공식 한국어는 없고 일본어 파트보이스·영어·중국어 간체/번체 자막을 지원합니다. 스토리 설정과 성우·일부 Extra는 장점이지만 **Steam 직접 구매 리뷰 긍정 37%(27건)**와 전체 46/63 긍정(외부 키·무료 포함)의 표본 차이, 짧은 본편·23인 군상극의 비중 편차·선택지의 실제 영향·결말 완성도에 대한 지적을 근거로 **작품성 3.0/5 · 🔴 패스**, 일반 3.5 후보 등록선 미달이라고 판단했습니다. **정식 Switch 후보 4개·우선 1개·A급 0개는 변동 없고**, 평가 이력은 웹 목록에 보존합니다.
