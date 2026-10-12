@@ -18,6 +18,17 @@
 
 **이 업데이트는 기존 25th 전체 작품성 3.5점·B급 활성 상태·3편 한국어 공백·역사적 등록 시점 집계를 변경하지 않는다.**
 
+## 2026-10-12 3편 《Angel's Present / Rhapsody III》 독립 작품성·Switch 이식 재평가
+
+[**《Angel's Present: A Marl Kingdom Story / Rhapsody III: Memories of Marl Kingdom》 3편 독립 심층 평가·16인 전투·2024 v1.0.2 세이브 버그·한국어 지원 조사**](../archive/rhapsody-iii-memories-of-marl-kingdom-edition-audit.md)를 추가했다. 기존 25주년 컬렉션 자체는 **1편 3.5/5, 2편 4.0/5, 3편 3.0/5로 구성된 3.5/5·B급 후보**이며, 3편은 처음부터 이 항목에 포함되어 있으므로 **독립 활성 후보나 기준 미달 평가 기록으로 또 세지 않는다**.
+
+- **발매·판본:** 2000-12-21 일본 PS2 원작 → **2023-08-29 북미 Switch 영어 《Marl Kingdom Chronicles》 2+3 합본** → **2023-12-21 일본 Switch 《天使のプレゼント マール王国物語》 단품(출시 당시 3,278엔)** → **2024-08-29 일본 Switch 1+2+3 컬렉션**. 일본 Switch 단독 상품은 [Nippon Ichi 공식](https://nippon1.jp/consumer/marl_kingdom3/)에 명시된다. 2023 서양 합본의 영어를 일본 단독판/25th판의 확정 포함 언어로 오인하지 않는다.
+- **시나리오·시스템:** [공식 5개 스토리](https://nippon1.jp/consumer/marl_kingdom3/)와 추가 보너스 1개로 총 6장. 가장 높은 완성도는 셰리의 고대 왕국/가족 비극 서사, 4개의 리더에 각각 최대 3명의 파트너를 붙인 **최대 16인 턴제·합체기·몬스터 육성**이 특징이다. 그러나 짧고 산만한 개그 외전·던전 반복, SP/AI와 많은 파트너 관리에 비해 일반 전투가 지나치게 쉬운 점이 **3편 단독 3.0/5**의 감점이다.
+- **평가 표본:** 2023 [RPGamer Switch 3편 단독 2.0/5](https://rpgamer.com/review/rhapsody-iii-memories-of-marl-kingdom-review/), 2024 [RPGFan PC 3편 단독 72/100](https://www.rpgfan.com/review/rhapsody-iii-memories-of-marl-kingdom/), [Steam PC 단독 88% 긍정·이용자 27건](https://store.steampowered.com/app/2002880/?l=koreana)을 분리했다. **2023 Switch 2+3 합본 Metacritic 70/100·10건**을 3편 단독 전문 점수로 둔갑시키지 않았다.
+- **한국어/버그:** 2023 일본 Switch·2023 영어 합본·2024 25th 컬렉션 **공식 한국어 없음**. 2026-10-12 공개 검색에서 **3편 자체에 적용할 수 있는 완성 한글패치 미발견**, 기존 PS1 1편 v0.9·2편 v0.8을 3편 한국어판으로 오인하지 않았다. [Nippon Ichi 2024-10-22 Switch 1.0.2 공식 버그 수정](https://nippon1.jp/consumer/marl_kingdom3/patch/patch_01.html)은 소환 인원 상한에서 파티/스탯 깨짐을 해결했지만 **이미 손상된 세이브는 복원 불가**이고 **25th 합본의 3편에도 적용된다**. 현행 ROMFS·글꼴·프리징·최신 실기 안정성은 미검증.
+
+**연결 문서는 상세 평가만 보강하며, 기존 25th 3.5점·한글화 B급·Switch 활성 후보 집계에는 변화가 없다.**
+
 ## 1. 정확한 발매·구성·언어
 
 | 구분 | 확인 사실 |
