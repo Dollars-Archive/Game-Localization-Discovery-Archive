@@ -16,7 +16,7 @@
 | PlayStation Vita | 35 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 15 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 16 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -498,3 +498,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **신규 후보를 추가하지 않는 중요한 이유:** 공식 Nintendo 일본/북미 상품은 일본어/영어 텍스트만 표기돼 **정식 한국어 미지원**이나, **[2026-08-24 '스위치판 그림 그리모어 원스모어 한글 패치 0.53' 실제 제작자 게시물](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=207783)**을 이번에 직접 확인했습니다. 이 원문에는 **V0.53, MEGA 파일 배포 링크와 '말투 수정·9클로 제공 폰트 적용'**이 명시돼, **닌텐도 Switch판 자체에 적용하는 한국어 작업이 공개됐다는 강한 증거**입니다. 반면 **파일 실다운로드/해시·본편 전 5일/25 Trial·엔딩/지역별 일본/미국 ROMFS 호환·정확한 번역 범위/현행 링크와 상위 버전은 검증하지 않았고**, **v0.53=53% 완역이라는 뜻도 아닙니다**. [RetroDB의 PS2 그림 그리모어 v0.9·9클로·2026-08-23](https://retrodb.info/krpatch?page=10&platform=PS2)는 원작 PS2용 **별도 한글패치 기록**이므로 자동 호환·Switch 작업의 동일 제작자/전체 텍스트 사용 증거가 아닙니다.
 
 **최종 처리: 작품성 4.0점은 인정하되 🟡 동일 Nintendo Switch 게임의 기존 유저 한국어 패치 공개·완성도 검증 보류로 신규 한국어화 활성/💎 우선 후보 제외, A/B/C 신규 한글화 우선도 미부여, 기술 난도 미확인.** 본작은 **점수 미달이 아니라 기존 번역 작업 중복 방지** 사유로 \`archive/\`에 평가를 보존했습니다. **최신 Switch 활성 15개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 7개 변경 없음**, 기존 Switch·PSP·PS2 등 모든 후보/한국어 대안 보류/플랫폼 불일치 기록/과거 시점 통계 보존.
+
+
+## 2026-10-12 Nintendo Switch 《역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 완》 신규 C급 활성 후보
+
+[《Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Kan / 俺ガイル完》 Nintendo Switch 2023 작품성·6 IF 루트·풀보이스·기존 한국어 번역 조사](platforms/switch/games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.md)를 **2023-04-27 일본 Nintendo Switch·PS4 정식 출시(CERO C, MAGES.)**로 확인하고, **자체 작품성 ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도 C / 🟢 활성 후보**로 등록했습니다. 2022년 Switch의 **첫 《俺ガイル》+2016 《続》 오마토메 합본**은 이번 2023년 별도 세 번째 게임 《完》을 **수록하지 않으며**, 이전 PS Vita의 《続》 B급 평가·인물 루트와도 중복 계산하지 않습니다.
+
+원작 10권 마라톤 이후, TV 《完》의 프롬과 달리 **봉사부가 미인가로 폐지될 위기에 놓이고 상공회의소 밸런타인데이 행사 의뢰**를 해결하는 6인 IF 이야기입니다. **유키노·유이·이로하·사키·히라쓰카·토츠카**의 여섯 고유 루트와 **하치만 독신/졸업 짧은 결말**을 구분했습니다. 2023 [제작사/원작자 인터뷰](https://www.gamer.ne.jp/news/202306210001/)에서 **원작자 와타리 와타루의 여러 차례 플롯·시나리오 직접 수정**과 유키노/유이 대칭 시점 구축이 확인됩니다. 풀보이스·새 이벤트 CG·백로그/오토/기독 스킵은 장점이지만, 원작 의존·전작 독자 선택 시스템 삭제, 구 PS4 **실제 전루트 트로피 약 8시간** 등의 **짧은 분량/일부 루트 전개 반복**이 감점입니다. **PS4 이용자 4.76/5·25명**은 Switch 별점으로 복사하지 않고, **Switch 4Gamer/Famitsu 전문 정량 점수 미집계**와 PS4 루트별 전·부분 완료 반대 견해를 분리했습니다.
+
+**공식 한국어 지원과 공개 사용 가능 완성 한글패치 확인 못함.** [2023 Switch 《完》의 GTAKU 상품·비공식 번역 색인](https://www.gtaku.net/vngameinfo/30025)에는 **중국어 간체/영어/러시아어 팬 번역 항목**이 있으나 한국어가 없고, **2026-09-24 다른 2013년 Vita 첫 게임용 AI 한글 초안**은 《完》의 한국어판이 아닙니다. 기존 소설·애니 한국어 자막도 원작자 직접 재작성한 여섯 IF 대사의 한국어 번역본을 제공하지 않습니다. **콘솔 ROMFS·한글 폰트·실기 정상 출력 및 버그/패치 수정 이력은 직접 미검증으로 기술 난이도 미확인**입니다. **2023 한정판 OVA는 별도 Blu-ray**이지 일반판 게임 속 번역 대상이 아닙니다.
+
+**최신 Nintendo Switch 활성 후보 16개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 등록선 미달 평가 7개**로 Switch README 실제 후보 행 수를 맞췄습니다. 기존 동시 등록 타이틀·플랫폼별 현황 및 과거 시점 평가·개별 성적은 보존했습니다.
