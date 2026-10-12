@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **4개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **2개**
+> 등록 후보: **5개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **2개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -17,6 +17,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [Wizard's Symphony (위저즈 심포니)](games/wizards-symphony.md) | 2019 | 풀보이스 캐릭터 DRPG·1인칭 던전 탐험·턴제 전투 | ⭐⭐⭐½☆ (3.5/5) | B | Switch Famitsu 30/40·4명 / Switch 가격.com 4.00/5·평점 1명 / PS4 PS Store 4.31/5·175명(타기종 참고) / Switch·타판 완주 서술 3명 | 2026-10-12 Switch 일본어 표기·공개 완성 한국어 패치 미확인 / PS4 실사용 한국어 대안 미발견 | 1995 Wizard's Harmony와 별개 신작 / 2019 Switch·PS4 동시판 / 2019 Ver1.01·1.02 개선 | 🟢 후보 |
 | [Soul Cradle: World Eaters / Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자)](games/soul-cradle-world-eaters.md) | 2021 | 3×3 룸 부대 편성·턴제 전략 RPG / Hero·Demon Path | ⭐⭐⭐½☆ (3.5/5) | B | **Switch Soul Nomad RPGamer 2/5·1명 / Chalgyr 7.5/10·1명 / NookGaming 5/10·1명** / Switch 합본 MC 72/100·13건 / PS2 본편 MC 73/100·31건 | **북미 Switch 공식 영어 텍스트만 지원·한국어 없음 / PC Steam 일본어·영어, 한국어 미지원** / 2026-10-12 공개 완성 한글패치 미발견 | 2007 PS2 원작 → 2014 PS3 PS2 Archives → 2021 Switch NIS Classics Vol.1 Phantom Brave와 합본 / 2021 Windows 단독 / Switch 일부 크래시·후속 수정 및 잔존 제보 | 🟢 후보 |
 | [Touhou Sky Arena -Matsuri- Climax (동방 스카이 아레나: 마츠리 클라이맥스)](games/touhou-sky-arena-matsuri-climax.md) | 2019 | 음악-텐션 연동 3D 공중 탄막·대전 액션 | ⭐⭐⭐½☆ (3.5/5) | C | **Switch Video Chums 7.2/10·실플레이 1명** / 일본 Switch 가격.com 5/5·1명 / Play-Asia 4/5·8표(본문2명) / PS4 Famitsu 30/40·4명 / Steam PC 약200건 86% 긍정 | **Switch 공식 일본어·영어만 지원, 한국어 미지원** / 공개 완성 한글패치 확인 못함 / PC Steam 역시 한국어 없음 | 2016 PS4·2017 Vita·**2019 Switch DL 기본20인+DLC3인** / 2020 일본 Switch 패키지 DLC 포함 23인·한정판 추가 30곡 코드 / 2020 PC Steam | 🟢 후보 |
+| [BEYBLADE X EVOBATTLE (베이블레이드 X: 에보배틀)](games/beyblade-x-evobattle.md) | 2025 | 베이블레이드 실시간 액션·CX 부품 커스텀·온라인 대전 | ⭐⭐⭐½☆ (3.5/5) | C | Switch 価格.com 3.0/5·1명 / PC Noisy Pixel 7/10·1명 / Steam 80% 긍정·121건(PC) / Famitsu·4Gamer Switch 리뷰 0건 | 2026-10-12 Switch 일본어·북미 영어, 한국어 미지원 / Steam 한국어 미지원·2026-10-05 중국어 간·번체 추가 / 공개 완성 한글패치 미발견 | 2024 XONE 별도 전작 → 2025 Switch EVOBATTLE 신규 스토리·타입 배틀·CX / 일본 Switch 2 Edition 2025-12-18·미국 2026-01-12 향상 / 2026 PS5판·유료 DLC | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 | [ROAD59 -A Yakuza’s Last Stand- (ROAD59: 신시대 임협특구 마천루 흑백 항쟁)](games/road59-a-yakuzas-last-stand.md) | 2025 | 이능 야쿠자·시간 반복·23인 군상극·선택지형 비주얼노벨 | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Steam 직접 구매 27건 중 긍정 37% / 전체 63건 중 긍정 46건·73%(외부 키/무료 포함)** / Dengeki Switch·Steam 본편·Extra 실기 정성 호평 / Famitsu Switch 정량 평가 없음 | Switch 공식 영어·일본어·중국어 간체/번체 / **한국어 미지원**, 2026-10-12 공개 완성 한국어 패치 미확인 | 2025-09-25 일본 Switch/Steam 동시 / 일본어 파트보이스 / 바·루프/배드 분기·본편 후 Extra 2개 / 2026 Windows Steam만 무료 체험판 / Switch2 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
 
@@ -69,3 +70,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 [《ROAD59》 상세 문서](games/road59-a-yakuzas-last-stand.md)에는 **2025-09-25 일본 Nintendo Switch/Steam 출시**, 조직물·신기(神祇)·시간 반복·Bar ROAD59와 엔딩 후 Extra 2편, **파트보이스·일본어/영어/중국어 간·번체 지원·한국어 미지원**을 정리했다. 기존 무대극/게임 홍보의 호평과 별개로 **Steam 직접 구매자 27건 긍정 37%**, 외부 키/무료 리뷰를 포함한 전체 **63건 46명 긍정(73%)**의 **서로 다른 평가 분모**를 구분했다. 본편 군상극 23명에 비해 실제 주요 진영·캐릭터의 분량이 짧고, 초반 선택이 최종 결말에 제한적으로 반영되며, 추가 분기·바·Extra가 있어도 결과가 급히 마무리된다는 다수 완주 후기의 비판을 반영해 **작품성 3.0/5 · 🔴 패스**로 판단한다.
 
 이번 것은 **정식 후보가 아니라 기준 미달 평가 기록**이므로 **활성 Nintendo Switch 정식 후보 4개 / 우선 1개 / A급 0개**를 유지한다. 미선정 기록은 2개. 《MAMIYA》, 《Wizard's Symphony》, 《Soul Cradle》, 《Touhou Sky Arena》의 등록·점수·한글화 우선도와 《Astral Takers》 패스 및 기타 한국어 대안 검증 보류 기록은 변경하지 않았다.
+
+## 2026-10-12 BEYBLADE X EVOBATTLE 신규 후보 등록
+
+[《BEYBLADE X EVOBATTLE》 심층 평가](games/beyblade-x-evobattle.md)는 **2025년 일본 Switch·북미 Switch 별도 발매일**, **2025/2026 Switch 2 Edition** 및 전작 《XONE》과의 차이를 구분합니다. **부품 CX·타입 전술·X 스킬·실시간 배틀의 개선**과 **짧은 스토리·반복 상점/강화·영문 번역 및 일부 PC 버그 보고**를 각각 검토했습니다. **2026-04-01 일본 Switch 구매자 평 3/5(1명), PC Noisy Pixel 7/10(1명), Steam PC 이용자 약 80% 긍정(121건)**을 판본별로 분리했고 Famitsu/4Gamer Switch 직접 리뷰는 0건으로 **평가 0점이 아니라 결측**으로 기록했습니다.
+
+일본 Switch판 공식 일본어·북미판 영어만 확인되며 **Switch 공식 한국어와 실사용 가능한 공개 한국어 패치가 2026-10-12 기준 미발견**입니다. **Steam 2026-10-05 중국어 간·번체 추가는 Switch 언어 지원 증거가 아님**을 명확히 했습니다. **작품성 3.5/5·한글화 우선도 C·🟢 활성 후보**로 등록하며 Switch 원본/폰트/저장·온라인/유료 DLC 미분석으로 기술 난이도는 **미확인**입니다.
+
+**현재 Switch 등록 5개 / 💎 우선 후보 1개 / 🔥 A급 0개 / 기준 미달 기록 2개**입니다. 기존 MAMIYA·Wizard's Symphony·Soul Cradle·Touhou Sky Arena 활성 후보와 Astral Takers·ROAD59 기준 미달, Ley Line 한국어 패치 검증 보류, Meteor World Actor 타 플랫폼 기록은 보존했습니다. 앞선 문서의 '당시 집계' 문장은 역사 자료로 남겼습니다.
