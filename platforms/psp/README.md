@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **43개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **7개** / 한글화 A급 후보: **3개**
+> 보존 항목: **43개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **6개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -48,7 +48,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | PSP Great25표 / PSP장문2명 / 3DS Famitsu29/40·4명·RPGamer2/5 | 2026-10-08 공개 한국어 대안 미확인 / PSP·3DS 영어 부분패치 구분 | PSP·3DS 동시판 / 육성강점·반복/관리부담 / 한글기술미확인 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가)](games/ore-wa-shoujo-mangaka.md) | 2012 | 코미디·연애 ADV | ⭐⭐⭐⭐☆ (4.0/5) | C | PSP 본문4명 / 4Gamer95·95·60 보정83 / GameFAQsGreat16표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원형 / 2013 PC R 역이식·새OP / 작업성 비교 우선 | 💎 우선 후보 |
-| [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | C | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) | 2026-10-08 PSP·타 판본 한국어 대안 확인 못함 | CODE:Revise 대폭 개정 / PC BOOSTED 추가 콘텐츠 / Switch 후발 이식 / PSP 실화면 3장 검증 미완료 | 💎 우선 후보 |
+| [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
 | [Sekai de Ichiban NG na Koi: Full House (세상에서 가장 NG인 사랑 풀하우스)](games/sekai-de-ichiban-ng-na-koi-full-house.md) | 2011 | 홈코미디형 연애 ADV | ⭐⭐⭐⭐☆·종전 평가 보존 | 보류·기존 B 참고 | PSP Play-Asia 5/5·5건·본문 1건 / GameFAQs 1.6/5·5표 / GAMEMAN 9.0·표수 미표시·본문 0건 | 2026-10-08 기준 공개적으로 확인되지 않음 | PC 원작 준한글·2026 복구 기록은 부분 번역으로 분리 / PSP 추가 시나리오·CG 약 30장 / 후발 PC 완전 대체 여부 미확인 | 🟡 재평가 보류 |
 | [Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)](games/zhp-unlosing-ranger-vs-darkdeath-evilman.md) | 2010 | 로그라이크 던전 RPG | ⭐⭐⭐⭐☆ | 보류 | Metacritic PSP 81/100 (19개) / RPGFan 85/100 / RPGamer 4/5 / GameFAQs 4.13/5 (379표) | 시놀부 v1.0 배포 기록 2026-06-08 / 범위·이용 가능성 추가 확인 | 2022 Switch·PC 콜라보 삭제 / PSP 한국 정발판 일본어 | ⏸️ 한국어 대안 검증 보류 |
@@ -136,3 +136,10 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 기존 표와 후보 자격은 보존하며, 기존 목록 30개 + 후보군 93개 = 123개를 감사했습니다. 근거 충분 77개 / 잠정 35개 / 평가보류 11개입니다. [전체 평가·짧은 근거](recommendations.md) · [원평점·표본·판본·확인일](reassessments/2026-10-08-review-assessments.md) · [구조화된 평가 원장](reassessments/2026-10-08-review-assessments.json). 후보군과 명시 탈락 기록의 상태를 유지합니다.
+
+
+## 2026-10-12 Rebellions 한국어 대안 확인 보류
+
+2026-08-19 국내 커뮤니티에 **Windows 《리벨리온즈》 한글판 실행·세이브 안내 및 한글패치 출처를 제시한 복구 글**이 확인되었다. 다만 정확한 대상 PC판, 번역 전 에피소드의 완료 여부, 원 제작자 패치 파일 단독 배포와 현행 접근성을 원문에서 검증하지 못했으므로 **PSP 신규 한글화 자격을 검증 보류**로 처리한다. PSP 직접 한글패치가 발견됐다는 뜻은 아니다. [작품 상세·근거·기술 검증 기준](games/rebellions-secret-game-2nd-stage.md). 2026-10-08 리뷰 기반 7.9/10 및 작품성 4.0/5, 사용자 메모는 보존한다.
+
+보존 항목 **43개** / 활성 **29개** / 4.0 이상 **6개** / A **3개**. 이 집계는 2026-10-08 당시 작성된 역사적 평가 원장이나 보존 행 수를 수정하지 않는다.
