@@ -218,3 +218,10 @@ PS4 발표 자료 본문에는 속을 ‘2015년 발매’로 적은 부분이 �
 - [PS4 합본 공식 판매 정보](https://store.playstation.com/ja-jp/concept/230718)
 - [MAGES Switch 합본 발표 PDF](https://mages.co.jp/wp-content/uploads/2022/06/%E3%80%90%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91Switch%E7%89%88%E3%80%8E%E4%BF%BA%E3%82%AC%E3%82%A4%E3%83%AB%E3%80%8F%E3%82%B2%E3%83%BC%E3%83%A0%E7%99%BA%E5%A3%B2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B_cp.pdf)
 - [작품별 언어·판본 DB / 공식과 비공식 구분 참고](https://www.gtaku.net/vngameinfo/73507)
+
+
+## 2026-10-12 시리즈 후속 Switch 《完》과 한국어 번역 대상 구분
+
+**본 PS Vita 《続》(2016 원작·2017 PS4/2022 Switch 첫 게임+속 합본에 수록)**은 별도 후속 작품 **[《やはりゲームでも俺の青春ラブコメはまちがっている。完》 2023 Nintendo Switch 독립 상세 평가](../../switch/games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.md)**와 다른 게임이다. 《完》은 **2023-04-27 일본 Switch/PS4 출시, 별도 신규 6인 IF·원작자 와타리 와타루의 여러 차례 각본 수정/풀보이스**, 자체 작품성 **3.5/5·한글화 C급** 평가로 등록됐다. **2013 첫 PS Vita 게임의 2026-09-24 AI 한국어 초안**([The TuNings](https://mtune.pe.kr/1023/)) 역시 이번 《続》/2023 《完》에 적용되는 번역이 아니다. 
+
+**이 연결은 기존 《続》 PS Vita판 작품성 3.5/5, 한글화 B급 여부와 선행 리뷰 원장·후보 집계·기술 미확인 상태에 영향을 주지 않는다.** 세 게임의 시나리오/선택지/콘솔 포트 자산을 독립적으로 추출·검수해야 한다.
