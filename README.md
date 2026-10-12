@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 11 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 12 | 3 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -311,3 +311,14 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **언어·한국어 패치 주의:** 일본 2020 Switch판은 일본어만 지원한 것으로 확인되며, PC Steam의 **2021-10 영어 공식 업데이트**가 Switch판 영어/한국어 지원을 증명하지 않습니다. Switch/Steam 공식 한국어 모두 없고 현재 적용 가능한 완성 한국어 패치가 이번 공개 검색에서 확인되지 않았지만, [**2018-06-10 《동방의 미궁2》 구 PC 패치를 찾던 글**](https://gall.dcinside.com/board/view/?id=touhou&no=6363664)에 과거 제작자가 게시물을 삭제했다는 이용자 언급이 있었습니다. **제작/패치 버전·완역·현행 파일 및 구동은 미확인**이므로 구판 한국어화가 없었다고 단정하지 않고 실사용 가능한 완성 대안이 재발견되면 활성 자격을 재평가합니다. 2026 《Labyrinth of Touhou Tri》 한글패치는 별개 후속 게임용입니다.
 
 **현행 Switch 활성 후보 11개 / 💎 발굴 우선 후보 3개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 6개**. 기존 10개 후보와 《FORESIGHT》 3.0점 미선정, 다른 플랫폼별 등록·기존 보류 및 역사적 당시 집계는 보존했습니다.
+
+
+## 2026-10-12 Nintendo Switch 《검과 마법과 학원물 Anniversary Edition》 신규 C급 후보 등록
+
+[《Ken to Mahou to Gakuen Mono. Anniversary Edition / Class of Heroes: Anniversary Edition》 Switch 원작·전투·한글화 종합 평가](platforms/switch/games/ken-to-mahou-to-gakuen-mono-anniversary-edition.md)는 **2008 PSP 1편을 강화한 2018-04-26 일본 Switch 정식판**을 대상으로, **2024-04-26 서양 Switch 영문판·Steam/PS5판**, 서양 **2024 1+2 합본**, **2025-09-18 일본 1·2·3 합본**을 구분했습니다. 이미 활성 등록된 《Class of Heroes 3 Remaster》와는 **스토리·학과·시스템이 다른 시리즈 1편**입니다.
+
+10종족·15학과·성향·전열/후열·합체기와 전과, 아이템 감정·연금술 및 기념판 투기장·난도/외형·음악 기능은 장점입니다. 그러나 **스토리 밀도 2.5/5, 던전 맵 2.5/5**와 높은 진입장벽·비효율적인 연금술/인벤토리 UI·불규칙한 난도 곡선을 감점해 **자체 작품성 ⭐⭐⭐½☆ 3.5/5, 한글화 C급 🟢 활성 후보**로 판정했습니다. **2018/2024 일본 Switch 최종 의뢰·후반 던전 완료자 2명**, **2024 PC 1편 Tech-Gaming 75점**, **PSP 원판 Metacritic 61점·12건**, **2024 Switch 1+2 합본 MC 67점·5건**은 기종·상품/표본을 분리했습니다. 일본 비평 Wiki의 **2024-07 미니맵·지도 오토파일럿 업데이트 기록**과 초기 불편을 구분하며, 최신 Switch 버전/실기 FPS·버그는 미측정입니다.
+
+**북미 Switch 공식 지원 언어는 일본어·영어, 2024 Steam 역시 일본어·영어**로 한국어가 없습니다. 현재 조사 범위에서 PSP/PC/Switch 한글패치 적용이 가능한 공개 완성 한국어 대안 미발견입니다. 직업·아이템·퀘스트 한국어화 가치는 있으나 대사·시나리오 밀도가 낮아 **B보다 낮은 C**를 권고하고, 실제 Switch 자산 미분석으로 **기술 난도 미확인**을 유지했습니다.
+
+**이번 갱신 시점 현행 Switch 활성 후보 12개 / 💎 발굴 우선 3개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 기록 6개**입니다. 같은 날 별도로 추가된 《Labyrinth of Touhou》와 기존 다른 플랫폼·보류·패스/역사적 현황은 보존했습니다.
