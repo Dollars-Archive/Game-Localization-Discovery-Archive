@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 9 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 10 | 2 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -278,3 +278,13 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **모에게임 어워드 2024 시나리오상과 1월 월간상**을 수상한 PC 원작이지만 독립 PC 평가 **Bangumi 6.5/10·53명, 일본 74/100·1명, 한국 79/100·1명**과 2025 Switch 재플레이 정성 호평을 구분했습니다. 네 커플 간 연결이 약하고 중간 자핑이 독서를 끊으며 후반 설전·조연 처리에 불만이 있다는 점을 반영해 **자체 작품성 ⭐⭐⭐½☆ 3.5/5·한글화 B급·🟢 활성 후보**로 판단했습니다. 일본 Switch판 공식 한국어와 Switch/PC 공개 실사용 완성 한국어 패치는 현재 공개 범위에서 발견되지 않았습니다. Switch 폰트·데이터·버그 미분석이므로 **기술 난이도 미확인**입니다.
 
 **현행 Nintendo Switch 활성 후보 9개 / 💎 발굴 우선 2개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 보존 5개**로 갱신했습니다. 다른 플랫폼 수치, 모든 기존 게임 평가, 이전 날짜의 당시 집계는 그대로 보존했습니다.
+
+## 2026-10-12 Nintendo Switch 《FAIRY TAIL 2》 한국어 미지원·3.5점 C급 신규 등록
+
+[《FAIRY TAIL 2》 상세 Switch 작품성·한글패치 감사](platforms/switch/games/fairy-tail-2.md)는 **2024-12-12 한국·일본 Nintendo Switch 정식 출시**(북미·유럽 12월 13일)된 거스트의 후속 RPG입니다. 한국닌텐도 [상품 페이지](https://store.nintendo.co.kr/70010000082887)는 **일본어·중국어만 지원**하며, [코에이 테크모 공식 언어 FAQ](https://fairytailgame.com/2/us/faq.html)에 따르면 북미 Switch 일본어·영어·프랑스어, Steam PC의 영어·프랑스어·일본어·중국어 간·번체까지 **전 기종 한국어 미지원**입니다. 2026-10-12 검색 범위에서 2024 《FAIRY TAIL 2》 본편을 실제 적용할 수 있는 **공개 완성 한국어 패치를 찾지 못했습니다**. 기존 원작 한국어 만화·애니메이션은 게임만의 오리지널 후일담·모닥불/개별 캐릭터 대사를 번역한 한국어 게임판이 아닙니다.
+
+**Switch 직접 Metacritic 72/100·평론가 6건**(Digitally Downloaded 8/10, RPGFan 79/100, Siliconera·Nintendo Life·Pure Nintendo 7/10, Gamereactor 6/10)과 별도 PS5 Metacritic 68/100·26건, Steam 이용자 긍정 61%·166건을 플랫폼/표본별로 구분했습니다. **SP → Fairy Rank → Break → Unison Raid·Awakening의 속도감 있는 커맨드 전투, 3인 파티와 동료 모닥불 이야기, 오리지널 후일담 4장**은 장점인 반면, 알바레스 제국편 원작 압축·얕은 성장·출시 당시 Switch 프레임 저하·긴 로딩·작은 UI·일부 멈춤이 큰 감점입니다. [공식 버그/패치 이력](https://fairytailgame.com/2/us/update.html)을 재확인하여 출시 초기 진행 불가와 비정상 로딩의 일부는 2024-12-12 v1.0.1 이후 수정됐고, 현재 확인되는 최신 Switch **2025-04-07 v1.4.2**에서 표시 버그도 수정됐음을 구분했습니다. 최신 버전의 실측 프레임/ROMFS·폰트·DLC 한글 출력은 아직 **미검증**이므로 기술 난이도는 **미확인**입니다.
+
+**자체 작품성 ⭐⭐⭐½☆ 3.5/5 · 한국어화 우선도 C · 🟢 활성 후보**. 원작/게임 팬 대상 한글화의 가치는 인정하되 Switch 포트 품질과 이미 한국어로 접할 수 있는 만화/애니의 본편 스토리 중복성을 감안해 낮은 우선도를 부여했습니다.
+
+**최신 Switch 활성 후보 10개 / 💎 발굴 우선 2개 / 🔥 한글화 A급 0개 / 🔴 기준 미달 기록 5개**. 같은 날 별도로 등록된 《Hakkenden (팔검전)》 및 이전 후보, 타 플랫폼·보류·패스·역사적 기록은 보존했습니다.
