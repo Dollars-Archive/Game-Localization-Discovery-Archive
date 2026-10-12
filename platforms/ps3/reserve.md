@@ -1,10 +1,10 @@
 # PS3 예비 기록
 
-기본 화면에서 숨긴 25개입니다. 상세 문서·개인 점수·기존 조사 기록을 보존하며 찜·착수는 내 목록에서 계속 확인할 수 있습니다.
+기본 화면에서 숨긴 **26개**입니다. 2026-10-08에 순위를 매긴 기존 25개에 2026-10-12 PS3 신규 한국어 대안 확인 보류 작품 1개를 추가했습니다. 상세 문서·개인 점수·기존 조사 기록을 보존하며 찜·착수는 내 목록에서 계속 확인할 수 있습니다.
 
 [선정 목록](README.md) · [웹 예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [평가 근거](reassessments/2026-10-08-personal-top-30.md)
 
-개인 순위는 전체 55개 기준이며, 점수컷과 한국어 대안·확인 보류·작품성 등록선 미달을 구분합니다.
+개인 순위는 **2026-10-08 심사 당시의 기존 55개** 기준이며, 새로 추가한 WHITE ALBUM2의 개인 점수·순위는 역사적 55작품 결과를 다시 정렬하지 않아 **미산정**으로 둡니다. 기존 후보의 점수컷과 한국어 대안·확인 보류·작품성 등록선 미달을 구분합니다.
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS3 한글패치 | 타 기종 / 다른 버전 | 상태 | 개인 추천점수 | 개인 순위 | 예비 사유 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -33,3 +33,12 @@
 | [The Awakened Fate Ultimatum (신과 운명각성의 크로스테제)](games/the-awakened-fate-ultimatum.md) | 2014 | 로그라이크 RPG / 던전 크롤러 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | MC 65·20평론 / Famitsu 28/40 / RPG Site 8/10 / Push Square 7/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 유통판 일본어 | PS3 독점 / 북미·유럽 영어판 / 후발 이식·리마스터 확인 못함 | 🟡 등록선 미달·기록 보존 | 7.8 | 16 | 작품성 등록선 미달 · 3.0/5 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 비주얼 노벨 / 턴제 전략 RPG / 학원 오컬트 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 평균 7.7/10 / Push Square 8/10 / RPGamer 3.5/5 / RPGFan 60/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Daybreak Special Gigs·Steam도 한국어 미지원 | PS3·Vita 원판 / 상위 강화판 Daybreak Special Gigs는 PS3·PS4·Vita·PC로 전투·스토리·튜토리얼 개선 | 🟡 등록선 미달·기록 보존 | 7.2 | 31 | 작품성 등록선 미달 · 3.0/5 |
 | [Dynasty Warriors: Gundam (건담무쌍)](games/dynasty-warriors-gundam.md) | 2007 | 택티컬 액션 / 3D 핵앤슬래시·무쌍 액션 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 33/40 / Metacritic 60·29평론 / GameFAQs Good·372명 | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | PS2 Special에 무사건담 Mk-II·신규 시나리오 추가 / Xbox 360 International 일·영 음성 | 🟡 등록선 미달·기록 보존 | 5.8 | 55 | 작품성 등록선 미달 · 3.0/5 |
+| [WHITE ALBUM2: Shiawase no Mukougawa (화이트 앨범 2: 행복의 저편)](games/white-album-2-shiawase-no-mukougawa.md) | 2012 | 연애·심리 드라마 / 장편 분기 비주얼노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | **PS3 Famitsu 37/40·4명 / Dengeki 90·95·90·80·4명 / PS3 GameFAQs 3.9/5·21명·65.3h/8명** | PS3 일본판 공식 한국어 미지원·PS3용 공개 완성 패치 미확인 / **2018 PC EE용 본편 한국어 v1.1(2021-10-09)·Special Contents v1.0(2022-01-29) 실제 배포** | 2010/2011 PC 본편 통합 → **2012 PS3 신규 CG·스토리·Motion Portrait·Special Contents** → 2013 Vita 본문 동일·노벨 모드/모션 삭제 → 2018 PC EE 한국어패치 대상 | 🟡 기존 PC 한국어 대안 확인·PS3 활성 제외 | 미산정 | 미부여 | 동일 본편 PC EE 한국어 완성형 대안 확인; 원본 PS3판 직접 한국어 패치는 미검증 · 기존 55작품 개인 순위 별도 |
+
+## 2026-10-12 신규 PS3 예비 등록: WHITE ALBUM2
+
+[《WHITE ALBUM2: 행복의 저편》 PS3판 4.5/5 심층 평가·PS Vita판 비교 및 한국어 대안 감사](games/white-album-2-shiawase-no-mukougawa.md)를 사용자 요청으로 정식 **PS3 게임 상세 문서와 예비 평가 행**에 추가했습니다. **PS3는 2012-12-20 AQUAPLUS에서 실제 출시한 게임**이고, 2010/2011 Windows 본편을 한데 묶어 Motion Portrait·신규 시나리오·신규 CG·음성 드라마와 디지털 노벨 Special Contents를 수록합니다. 2013 Vita 휴대판은 Motion Portrait 제거·명장면 마커·노벨 모드와 전부 같은 Special Contents를 제공합니다.
+
+**자체 작품성 4.5/5**는 [Famitsu PS3 37/40](https://www.famitsu.com/game/title/28316/reviews)과 [AQUAPLUS 공식 콘텐츠 안내](https://aquaplus.jp/wa2/product.html), 다른 독립 감상의 강점/비판을 반영했습니다. 한국어 접근성은 [PC Extended Edition 패치 v1.1](https://myskrpatch.tistory.com/172)·[Special Contents v1.0](https://myskrpatch.tistory.com/201)으로 이미 상당 부분 확보됐지만, **PS3 직접 패치 호환은 입증되지 않았습니다**. 기존 아카이브는 같은 본편 타 기종의 한국어 완성형 대안이 있을 때 신규 한글화 활성에서 제외하므로, **🟡 한국어 대안 확인 예비**로 보존하고 PS3 기본 선정 30개는 바꾸지 않습니다.
+
+**총 기록은 기존 55개 → 56개, 기본 선정 30개 유지, 예비 25개 → 26개입니다.** 2026-10-08 원본 55작품 개인점수·순위·JSON은 당시 심사 자료로 그대로 두며, 신규 작품에는 주관적 10점 점수와 1~55 순위를 임의로 배정하지 않았습니다.
