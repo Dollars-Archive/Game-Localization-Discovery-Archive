@@ -6,8 +6,8 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 한글패치 확인 기준일: **2026-10-08, 작품별 번역 상태·검수 범위 참고**  
-> 보존 항목: **33개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 한글패치 확인 기준일: **2026-10-12**, 신규 작품별 번역·판본·검수 범위 참고 (기존 2026-10-08 원장 유지)  
+> 보존 항목: **34개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -51,6 +51,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Charade Maniacs (샤레이드 매니악스)](games/charade-maniacs.md) | 2018 | 오토메 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Zettai Renai 7/10 / Switch RPGFan 79·Otome Kitten 정성평가 / Famitsu 33/40 전달 | 2026-10-08 Vita·Switch·모바일 한국어 대안 공개 확인 못함 | Vita 원판 / Switch 일본어·영어 / iOS·Android 일본어 / 영어 1.0.1 문장 수정 | 🟢 후보 |
 | [Sengoku Hime 5: Senka Tatsu Haou no Keifu (센고쿠히메 5: 전화를 끊는 패왕의 계보)](games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) | 2014 | 전국 전략 시뮬레이션 / 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita Famitsu 24/40·4인 / 시리즈 장기 팬 호평·Vita 프리징 후기 별도 | 2026-10-12 Vita·PS3·PS4·PC 공개 완성 한국어 대안 확인 못함 | Vita 10세력 / PS3 기본 12세력 / PS4 10세력 + 시나리오 DLC 2개 / PC 원작·확장판 | 🟢 후보 |
 | [Ore wa Shoujo Mangaka (나는 소녀만화가) · Vita 호환](games/ore-wa-shoujo-mangaka.md) | 2012 | 코미디·연애 ADV · PSP DL Vita 호환 | ⭐⭐⭐⭐☆ 4.0/5 | C | PSP 후기 6명 / 전격 전체 완료 / 4Gamer 95·95·60(보정83) / GameFAQs Great 16표 | 2026-10-12 공개 한국어판·완성 패치 확인 못함 | PSP UMD 원작 / 2012 PSP DL Vita 하위호환 / Vita 사용자 표지 이미지 불가 / PC R 2013 / **Vita 네이티브판 아님** | 💎 우선 후보 · Vita 호환 예외 |
+| [WHITE ALBUM2: Shiawase no Mukougawa (화이트 앨범 2: 행복의 저편)](games/white-album-2-shiawase-no-mukougawa.md) | 2013 | 장편 심리·연애 비주얼 노벨 / IC·CC·Coda·Special Contents | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | **PS3 원판 Famitsu 37/40·4명·Dengeki 90/95/90/80(타기종)** / **PS Vita Famitsu 점수 미집계**, GameFAQs Vita Good·10명·플레이시간 약 14h/5명(완료 범위 미확인) | **Vita 정식 한국어·Vita용 공개 완성 패치 미확인** / 동일 본편 2018 PC Extended Edition **한국어 v1.1(2021)·Special Contents v1.0(2022) 제작자 직접 배포 확인** | **2012 PS3 Motion Portrait·신규 CG·노벨/보이스드라마 → 2013 Vita Motion Portrait 제거, 명장면 마커·노벨 모드·CG/흉상 OFF 추가**, PS3 Special Contents 전체 유지 / VitaTV 2013-12 수정·v1.02(2014-01-30) 텍스트/음악 버그 수정 | 🟡 기존 PC 한국어 대안 확인·Vita 활성 제외 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 오컬트 ADV / 전술 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Destructoid 8/10 / RPGamer 3.5/5 / TSA 5/10 / Cubed3 4/10 | 공개 한국어 확인 못함·한국 판매 기록과 언어 구분 | Daybreak 강화판 별도 | 기준 미달·기록 보존 |
 | [Mobile Suit Gundam SEED Battle Destiny (기동전사 건담 SEED BATTLE DESTINY)](games/mobile-suit-gundam-seed-battle-destiny.md) | 2012 | 미션형 메카 액션 | ⭐⭐⭐½☆ 3.5/5 | 보류 | Famitsu 32/40·4명 / Mecha Damashii 7/10 / GAME Watch 본문 | Vita 공개 패치 확인 못함 | REMASTERED Switch 한국어 배포문 확인·연결 파일 현재 이용 미확인 | ⚪ 한국어 대안 확인 보류 |
 | [Genkai Tokki: Seven Pirates (한계돌기 세븐 파이러츠)](games/genkai-tokki-seven-pirates.md) | 2016 | 3D 탐색 / 턴제 RPG | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Vita 본문 3명 / 72/100·개인척도 2/10·정성 / 공식1.02 수정 분리 / Switch 본문3명 교차 | 2026-10-08 Vita·Switch 공개 한국어화 확인 못함 | 2016 Vita / 2022 Switch H는 DLC 포함·스틱 입력·공식 영어 | ⚪ 기준 미달 · 평가 보존 |
@@ -82,6 +83,16 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 [기존 4.0점 세 작품과 최종 선정 여섯 작품, 나머지 21개 잠정 후보의 판정](reassessments/2026-10-06-final-30-selection.md). 제외한 작품의 상세 문서는 기록으로 보존한다.
 
+## 2026-10-12 《WHITE ALBUM2: 행복의 저편》 PlayStation Vita판 상세·한국어 대안 평가 신규 보존
+
+[**《WHITE ALBUM2: Shiawase no Mukougawa》 PlayStation Vita판 4.5/5 상세 평가·추가/삭제 기능과 패치 이력**](games/white-album-2-shiawase-no-mukougawa.md)를 2013-11-28 일본 AQUAPLUS의 **네이티브 PS Vita 제품**으로 신규 등록했습니다. 패키지 **VLJM-35071**·다운로드 **PCSG-00249**, **CERO D**, [공식 Vita 제품 사양](https://aquaplus.jp/wa2vita/products/index.html)과 PS Vita판 별도 [4Gamer 실제 게임화면 3장](https://www.4gamer.net/games/228/G022872/screenshot.html)을 확인했습니다. **PS3 Special Contents는 Vita에 전부 포함되지만, Motion Portrait는 반응성 확보를 위해 제거**됐고 **명장면 마커·노벨 모드·일본어 메시지와 인물/CG 표시 OFF** 등 휴대기 전용 UI가 추가됐습니다. [2013-12-06 Vita TV 지원 패치 및 2014-01-30 v1.02 텍스트/Music Mode 오류 수정](https://aquaplus.jp/wa2vita/products/index.html)도 구체적으로 기록했습니다.
+
+**작품 자체 4.5/5**의 스토리 강점은 2012 PS3와 공유하지만, **패미통 PS Vita 독립 리뷰 점수는 미집계**이므로 PS3 37/40을 Vita 자체 37/40으로 기재하지 않았습니다. 실제 Vita 매체 사용자 평점은 [GameFAQs 10명·Good](https://gamefaqs.gamespot.com/vita/726472-white-album-2-shiawase-no-mukougawa)이며 평균 플레이시간 약 14시간(5명)은 진행도 차이 때문에 PS3 전체 65시간 평균(8명)과 직접 비교하기 어렵습니다.
+
+**한국어 감사:** 일본 PS Vita 본편의 공식 한국어와 Vita용 공개 완성 패치 실사용은 이번 조사에서 확인 못했습니다. 하지만 [Myskrpatch 2021-10-09 PC Extended Edition 본편 v1.1](https://myskrpatch.tistory.com/172) 및 [2022-01-29 Special Contents v1.0](https://myskrpatch.tistory.com/201)이 기존에 실제 배포됐습니다. 이 Windows 전용 패치가 PS Vita에 호환된다고 주장하지 않으면서도, 같은 본편의 한국어 완성형 대안으로 인정해 **🟡 Vita 신규 한글화 활성 후보 제외·A/B/C 미부여**로 보존합니다. 실제 Vita 원본 구조·폰트·패치·최신 동작은 분석 전이라 **기술 난이도 미확인**입니다.
+
+**집계는 보존 34 / 활성 29 / 비활성·자료보류 5 / 💎 우선 5 / 🔥 A급 3**, 기존 활성 작품들과 다른 기종 원장 및 역사적 평가 점수는 그대로 유지합니다. 별도 [PS3판 기록](../../ps3/games/white-album-2-shiawase-no-mukougawa.md)에도 2012 콘솔 고유 요소를 조사했습니다.
+
 ## PS Vita 등록 운영
 
 - 이 구역의 조사·등록 대상은 **PS Vita판**입니다. 원제·부제·시리즈 순번·실제 발매 기종을 먼저 확인하고, 다른 플랫폼 판본과 혼동하지 않습니다. **2026-10-12 사용자 지정 《나는 소녀만화가》만 Vita 네이티브판이 아닌 PSP DL판 하위호환 예외**로 표시합니다.
@@ -96,15 +107,15 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 항목 | 33 |
+| 보존 항목 | 34 |
 | 활성 후보 | 29 |
-| 비활성·자료 보류 | 4 |
+| 비활성·자료 보류 | 5 |
 | 활성 발굴 우선 후보: 4.0 이상 | 5 |
 | 한글화 우선도 A | 3 |
 | 한글화 우선도 B | 12 |
 | 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-12 신규 후보 2개 등록 + PSP의 Vita 하위호환 후보 1개 이전**. 2026-10-08 기준 PS Vita 30작품 본문 재평가 원장은 당시 기록으로 보존하며, 새 작품들은 별도 조사 문서와 후보 행으로 관리합니다.
+최근 갱신: **2026-10-12 기존 33건 유지 + 《WHITE ALBUM2》 비활성 평가 1건 추가 (보존 34, 활성 29·비활성 5). 기존 2026-10-08 비교 평가 기록은 소급 수정하지 않음.** 이전 2026-10-12 신규 후보 2개·PSP Vita 호환 이동도 보존. 2026-10-08 기준 PS Vita 30작품 본문 재평가 원장은 당시 기록으로 보존하며, 새 작품들은 별도 조사 문서와 후보 행으로 관리합니다.
 
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
