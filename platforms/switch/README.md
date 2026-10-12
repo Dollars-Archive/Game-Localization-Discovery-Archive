@@ -3,7 +3,7 @@
 전체 한글화 후보 발굴 아카이브 중 **Nintendo Switch 후보**를 정리하는 구역입니다.
 
 > 목록 개설일: **2026-10-12 / Asia/Seoul**  
-> 등록 후보: **5개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **3개**
+> 등록 후보: **6개** / 발굴 우선 후보: **1개** / 한글화 A급 후보: **0개** / 기준 미달 평가 기록: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [Nintendo Switch 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch)
 
@@ -16,6 +16,7 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 | [MAMIYA - A Shared Illusion of the World's End - (마미야)](games/mamiya-a-shared-illusion-of-the-worlds-end.md) | 2026 | 심리 미스터리·멀티시점 다크 비주얼 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | B | PC Steam 90% 긍정·479건 / PC Complete Noisy Pixel 9/10·Mygamer 8/10 / PC 첫 2부 NookGaming 7/10 / Switch NintendoBoy 실플레이 1편·점수 미확정 | 2026-10-12 Switch 한국어 미지원·공개 한국어 패치 미확인 / PC Steam 한국어 미지원·실사용 공개 패치 미발견 | 2021 PC FallDown+DownFall → 2023 PC DoomsDayDreams 별도 DLC → 2026 Switch 3부 합본·일본어 풀보이스·신규 CG·IF 미니게임 | 💎 우선 후보 |
 | [Wizard's Symphony (위저즈 심포니)](games/wizards-symphony.md) | 2019 | 풀보이스 캐릭터 DRPG·1인칭 던전 탐험·턴제 전투 | ⭐⭐⭐½☆ (3.5/5) | B | Switch Famitsu 30/40·4명 / Switch 가격.com 4.00/5·평점 1명 / PS4 PS Store 4.31/5·175명(타기종 참고) / Switch·타판 완주 서술 3명 | 2026-10-12 Switch 일본어 표기·공개 완성 한국어 패치 미확인 / PS4 실사용 한국어 대안 미발견 | 1995 Wizard's Harmony와 별개 신작 / 2019 Switch·PS4 동시판 / 2019 Ver1.01·1.02 개선 | 🟢 후보 |
 | [Soul Cradle: World Eaters / Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자)](games/soul-cradle-world-eaters.md) | 2021 | 3×3 룸 부대 편성·턴제 전략 RPG / Hero·Demon Path | ⭐⭐⭐½☆ (3.5/5) | B | **Switch Soul Nomad RPGamer 2/5·1명 / Chalgyr 7.5/10·1명 / NookGaming 5/10·1명** / Switch 합본 MC 72/100·13건 / PS2 본편 MC 73/100·31건 | **북미 Switch 공식 영어 텍스트만 지원·한국어 없음 / PC Steam 일본어·영어, 한국어 미지원** / 2026-10-12 공개 완성 한글패치 미발견 | 2007 PS2 원작 → 2014 PS3 PS2 Archives → 2021 Switch NIS Classics Vol.1 Phantom Brave와 합본 / 2021 Windows 단독 / Switch 일부 크래시·후속 수정 및 잔존 제보 | 🟢 후보 |
+| [Class of Heroes 3 Remaster (검과 마법과 학원물 3 리마스터)](games/class-of-heroes-3-remaster.md) | 2025 | 3학교·10종족·45학과·6인 1인칭 학원 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | **Switch TheSixthAxis 7/10·1명 / Cubed3 6/10·1명 / Ani-Game 7/10·1명 / Nindie Spotlight 7.3/10·1명 / Steam PC 66%·53건은 별도** | **2025 Switch·PS5·Steam 공식 한국어 미지원 / 적용 가능한 공개 완성 한글패치 미확인 / 2010 한국 PS3 정발은 일본어 게임·한글 설명서** | 2010 일본 PSP·PS3 원작(PSP 주요 NPC 무음성·PS3 일부 음성) → 2025 Switch·PS5·PC HD 리마스터 영문 지원 / 일본 Switch 단품과 1·2·3 패키지 합본 별도 | 🟢 후보 |
 | [Touhou Sky Arena -Matsuri- Climax (동방 스카이 아레나: 마츠리 클라이맥스)](games/touhou-sky-arena-matsuri-climax.md) | 2019 | 음악-텐션 연동 3D 공중 탄막·대전 액션 | ⭐⭐⭐½☆ (3.5/5) | C | **Switch Video Chums 7.2/10·실플레이 1명** / 일본 Switch 가격.com 5/5·1명 / Play-Asia 4/5·8표(본문2명) / PS4 Famitsu 30/40·4명 / Steam PC 약200건 86% 긍정 | **Switch 공식 일본어·영어만 지원, 한국어 미지원** / 공개 완성 한글패치 확인 못함 / PC Steam 역시 한국어 없음 | 2016 PS4·2017 Vita·**2019 Switch DL 기본20인+DLC3인** / 2020 일본 Switch 패키지 DLC 포함 23인·한정판 추가 30곡 코드 / 2020 PC Steam | 🟢 후보 |
 | [BEYBLADE X EVOBATTLE (베이블레이드 X: 에보배틀)](games/beyblade-x-evobattle.md) | 2025 | 베이블레이드 실시간 액션·CX 부품 커스텀·온라인 대전 | ⭐⭐⭐½☆ (3.5/5) | C | Switch 価格.com 3.0/5·1명 / PC Noisy Pixel 7/10·1명 / Steam 80% 긍정·121건(PC) / Famitsu·4Gamer Switch 리뷰 0건 | 2026-10-12 Switch 일본어·북미 영어, 한국어 미지원 / Steam 한국어 미지원·2026-10-05 중국어 간·번체 추가 / 공개 완성 한글패치 미발견 | 2024 XONE 별도 전작 → 2025 Switch EVOBATTLE 신규 스토리·타입 배틀·CX / 일본 Switch 2 Edition 2025-12-18·미국 2026-01-12 향상 / 2026 PS5판·유료 DLC | 🟢 후보 |
 | [Astral Takers (애스트럴 테이커스)](games/astral-takers.md) | 2025 | 소환 영웅·4인 교대·턴제 JRPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | **Switch Pure Nintendo 6/10 1명 / Switch Italia 6/10 1명** / Xbox Video Chums 6.3/10 / PS5 MGT 6/10 / 모바일 원형 별도 | **공식 한국어 미지원(일본어·영어)** / 공개 완성 Switch 한글패치 확인 못함 | 2024 모바일 원작→2025 Switch·Steam·PS·Xbox / Switch 2는 Switch판 호환 | 🔴 패스 · 3.5점 미달, 평가 기록 |
@@ -95,3 +96,11 @@ Switch 첫 번째 활성 후보는 2026-10-12 등록한 《MAMIYA》입니다. �
 작품 자체는 Switch Metacritic **50/100·평론가 4건**, 별도 Switch 전문지의 호불호 및 PC Steam **117건 중 47% 긍정**을 구분해 평가했습니다. 심리 소재·음악·타임라인 전투의 초기 아이디어는 좋지만, 브레이크/회복 남용에 따른 전투 밸런스, SSS 의뢰 반복·얕은 탐험/육성, 익숙한 이야기를 감점해 **작품성 2.5/5 · 🔴 패스**로 결정했습니다. Switch 최적화·프레임·크래시 및 파일 구조는 실측하지 않아 **미확인**입니다.
 
 **활성 Switch 후보 5개 / 💎 발굴 우선 1개 / 🔥 A급 0개는 그대로 유지**, 3.5점 미달 평가 이력은 **3개**로 증가합니다(기존 Astral Takers·ROAD59 및 이번 VARLET). 다른 공식 한국어 대안 보류 기록·타 플랫폼 자료와 과거 시점의 집계를 보존합니다.
+
+## 2026-10-12 Class of Heroes 3 Remaster 신규 후보 등록
+
+[《Class of Heroes 3 Remaster》 상세 평가·한국어화·스크린샷 기록](games/class-of-heroes-3-remaster.md)을 **Nintendo Switch 2025 리마스터, 3.5/5·한글화 우선도 B·🟢 활성 후보**로 새로 등록했습니다. 2010 PSP/PS3 원작과 **2025 Switch 단품·일본 1·2·3 Collection 패키지**를 구분했습니다. 본편은 **3개 학원·10종족·45학과·6인 턴제 전투, 관계도/합성/직업 변경**이 강점이지만, 초반 높은 난도와 중반 이후 전투 균형·구식 합성/UI·짧고 평범한 메인 이야기가 4.0점으로 올라가는 것을 막습니다. **2025 Switch 직접 평가 7/10 TheSixthAxis, 6/10 Cubed3, 7/10 Ani-Game**과 점수 없는 RPGamer 심층평, PC·PS5 매체 점수는 분모와 판본을 구별했습니다.
+
+**2010년 대한민국 PS3 정식 발매 《검과 마법과 학원물 3》의 언어는 일본어·설명서만 한국어**였으며, 이 정발 이력을 이미 게임이 한글화된 것처럼 처리하지 않았습니다. Switch·Steam 2025 리마스터 공식 한국어는 없고 2026-10-12 공개 검색에서 원작/리마스터의 완성·사용 가능한 한국어 패치도 검증하지 못했습니다. **Nintendo 공식 Switch판 실제 화면 1장과 2025 일본 Switch 1·2·3 컬렉션 속 《3》의 관계도/대화 화면 2장**을 출처별로 보존했습니다. **Switch 실제 게임 리소스 미분석으로 기술 난이도 미확인**입니다.
+
+**현재 Nintendo Switch 활성 등록 6개 / 💎 우선 후보 1개 / 🔥 A급 0개 / 🔴 기준 미달 평가 기록 3개**입니다. 이번 신규 등록과 관련 없는 기존 게임의 후보 자격·한국어 보류·플랫폼 불일치 기록 및 이전 날짜의 역사적 집계는 변경하지 않았습니다.
