@@ -434,3 +434,13 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **기존 한국어 완성 대안은 실제 배포 기록이 명확합니다.** [2021-10-09 한국어화 팀 본편 v1.1(제작자 원 배포)](https://myskrpatch.tistory.com/172), [2022-01-29 Special Contents 한국어화 v1.0](https://myskrpatch.tistory.com/201)은 **2018 패키지용 Windows 《WHITE ALBUM2 EXTENDED EDITION》**를 대상으로 하며, 이미지·영상·특전 번역 및 설치기/배포 링크가 공개됐습니다. **PS3·Vita 및 미출시 Switch판에 직접 적용되는 별개 패치는 확인하지 못했습니다.** 원본 게임 및 패치 아카이브 직접 다운로드·최신 PC 전루트 실행 테스트는 하지 않았으므로 현행 OS 완벽 호환성까지 보장하지 않습니다. 중단된 초기 번역 작업만 근거로 **한국어 패치가 없다고 주장하지 않았습니다**.
 
 **등록 판단:** **정식 Switch판 자체가 없고 PC 한국어 대안도 이미 존재**하므로 작품성 점수와 무관하게 **활성 Switch 후보/우선 후보/A급/기준 미달 평가 표 모두 미추가**입니다. 동일 IP의 《WHITE ALBUM》 1편/2023 Windows Steam 상품은 다른 게임이며 이 작품의 Switch 출시 증거가 아닙니다. 보존 기록만 `archive/`에 연결하고 기존 후보·타 기종·과거 당시 집계를 유지했습니다. 이 시점 **Switch 활성 14개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 7개**입니다.
+
+## 2026-10-12 Nintendo Switch 《Sakura-Sou no Pet na Kanojo》 정식 발매 미확인·2013 원작 참고 평가
+
+[《Sakura-Sou no Pet na Kanojo / さくら荘のペットな彼女》 Switch 정식 발매 감사 및 실제 PSP·PS Vita 작품성 평가](platforms/switch/archive/sakura-sou-no-pet-na-kanojo-platform-check.md)에서 개발·발매사 [KADOKAWA의 공식 게임 소개](https://www.kadokawa.co.jp/product/game1618/), [TV 애니메이션 공식 게임 제품 페이지](https://sakurasou.tv/products/game.html), [Tenda Games 개발사 포트폴리오](https://tendagames.co.jp/works/%E3%81%95%E3%81%8F%E3%82%89%E8%8D%98%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%81%AA%E5%BD%BC%E5%A5%B3/)에 **2013-02-14 일본 PSP/PS Vita 게임만 출시된 사실**을 확인했습니다. PSP·Vita의 고유 일본 SKU와 리뷰는 있지만 **Nintendo Switch 정식 e숍 게임·발매일·출시 공지·HAC 타이틀 ID·실기 리뷰는 확인되지 않습니다**. 한글화 활성 후보를 만들기 위한 Switch 정식 발매 조건을 충족하지 못했습니다.
+
+**스토리/시스템 참고 평가:** 칸다 소라타가 시이나 마시로·아오야마 나나미·사쿠라장 동료들과 협력해 3개월 내 게임을 제작하고 창작 콘테스트에서 우승하는 **오리지널 외전**입니다. 신규 캐릭터 나카노 오토하, 개발 팀원 체력/의욕·일일 3회 작업 행동, 기획→알파→베타→마스터 4단계 개발, 사양서 배분, 면담/휴식·친밀도 이벤트가 특징입니다. [2013 패미통 Vita판 평론가 4명 31/40](https://www.famitsu.com/game/title/28218/reviews), [PSP판도 31/40](https://www.famitsu.com/game/title/28217/reviews)은 Live2D 캐릭터 표현과 새로운 게임 제작 시스템을 호평했지만, [4Gamer Vita 사용자 단 한 명 65/100](https://www.4gamer.net/games/179/G017935/index_userreview.html)과 한 명의 2014 완주 사용자는 사양서 해금/분기 안내 부족, 마감 실패 반복, 느린 스킵·UI를 혹평했습니다. **자체 PSP/Vita 원작 작품성 참고는 3.0/5**로 평가했으며, **실존하는 Switch판 자체 점수와 혼동하지 않았습니다**.
+
+**한국어·기종 구분:** 게임은 일본 PSP/Vita판이 정식 발매됐지만 이번 조사에서 대상판용 실제 설치 가능한 완성 한국어 패치/정식 한국어판의 근거는 확인하지 못했습니다. 원작 애니메이션·라이트노벨의 한국어 번역은 2013년 PS 게임의 한글패치가 아닙니다. 새로운 Switch ROMFS, 언어팩, 이식 버그/성능·한글화 기술 난도를 추정하거나 없는 출시판을 등록하지 않았습니다. **🟡 플랫폼 불일치 문서만 Switch archive/에 보존**하며 본 파일은 활성 후보나 점수 미달 Switch 게임 수에 포함되지 않습니다.
+
+**최신 Switch 활성 후보 14개 / 💎 발굴 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 평가 7개 모두 유지**했습니다. PSP/PS Vita에 별도 후보로 자동 편입하지 않았으며, 다른 플랫폼/기존 평가·보류 기록과 이전 시점 집계를 변경하지 않았습니다.
