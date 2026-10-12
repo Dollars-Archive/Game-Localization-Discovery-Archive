@@ -385,3 +385,16 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **한국어화 판정의 결정적 사실:** 공식 Switch/Steam은 한국어 미지원이지만, [**2024-04-12 원 제작팀의 PC Steam 한글패치 직접 배포 게시물**](https://gall.dcinside.com/mgallery/board/view/?id=nipponichi&no=865)·[제작자 설치 블로그](https://blog.naver.com/heartbroken_happy/223412931505)·[2024-04-30 별도 적용 지침](https://lifeculture.tistory.com/1372)·[한국어 패치를 소개하는 Steam 큐레이터·실사용 후기](https://steamcommunity.com/app/1998340/reviews/?browsefilter=toprated&l=koreana)를 확인했습니다. 초기 공개 파일명 **LoGKOR_PATCH0.9.7.zip**, 번역/이미지 식질 참여자·스샷, 2024년 패치가 공개된 뒤 Steam 플레이 후기가 남아 있습니다. 그러나 최신 배포 링크의 현재 작동·전 진엔딩 한국어화·2026 Steam 호환·패치 무결성은 **직접 실행/다운로드 검증을 하지 않았으므로 미확인**이며, PC 실행용 패치가 일본/북미 Switch ROMFS에 그대로 적용되지는 않습니다.
 
 **작품성 4.0점은 유지하되 타 기종 한국어 패치가 실제 공개·사용된 이력이 있어 🟡 한국어 대안 존재, 신규 Switch 한글화 활성 후보 제외 / A·B·C 우선도 미부여 / Switch 기술 난도 미확인**으로 분류했습니다. 다른 플랫폼의 유저 번역을 무시하고 '한국어 전무' 신규 후보로 등록하지 않습니다. **Nintendo Switch 활성 14개 / 💎 우선 3개 / 🔥 A급 0개 / 🔴 기준 미달 7개 유지**, 별도 한국어 대안 archive/ 평가 기록만 보존합니다. 이전 모든 기종 후보·다른 타이틀 점수·역사적 집계를 바꾸지 않았습니다.
+
+
+## 2026-10-12 Nintendo Switch 《Rhapsody II: Ballad of the Little Princess》 4.0점 2편 개별 평가·기존 PS1 번역 감사
+
+[《Rhapsody II / 리틀 프린세스: 마알 왕국의 인형공주 2》 4.0점 개별 심층 평가·Switch 이식/2026 Switch 2 복각·PS1 한글패치](platforms/switch/archive/rhapsody-ii-ballad-of-the-little-princess-edition-audit.md)는 이미 활성 등록된 [《Rhapsody: 25th Anniversary Collection》 3.5점·B급 후보](platforms/switch/games/rhapsody-25th-anniversary-collection.md)에 포함된 **동일 2편 작품**의 별도 판본·게임 완성도·한국어화 이력을 보강합니다. 기존 25주년 문서의 **2편 자체 작품성 4.0/5**와 일치하고 **같은 본편을 신규 활성 후보로 중복 집계하지 않습니다**.
+
+**판본:** 1999 일본 PS1 원작 → 2023-08-29 서양 Switch 영어 《Rhapsody: Marl Kingdom Chronicles》 **2+3 합본** → 2023-12-21 일본 Switch **2편 단독** → 2024-08-29 일본 Switch 《25th Anniversary Collection》 **1+2+3 합본**입니다. 특히 **2026-08-20 HAMSTER가 출시한 《Console Archives Rhapsody II》는 Nintendo Switch 2 전용/PS5 동시 출시의 PS1 일본어 ROM 복각판**으로, 2023 Switch 1판의 영어 본문과 다른 자산입니다. [닌텐도 미국 공식](https://www.nintendo.com/us/store/products/console-archives-rhapsody-ii-ballad-of-the-little-princess-switch-2/)은 다국어로 보이는 지원 언어가 **옵션 UI·설명서만** 해당하며 **게임 내용 자체는 일본어 ROM**이라고 명시합니다.
+
+**독립 비평:** [2023 Nintendo Switch 직접 RPGamer 3.5/5](https://rpgamer.com/review/rhapsody-ii-ballad-of-the-little-princess-review/)와 [2023 Windows 2편 단독 RPGFan 80/100](https://www.rpgfan.com/review/rhapsody-ii-ballad-of-the-little-princess/), **2023 Switch 2+3 합본 Metacritic 70/100·10건**을 구별했습니다. 코르넷의 딸 쿠루루와 크레아·소니아·첼로, 뮤지컬과 성별 편견/자립의 이야기 및 인형·Inotium 마법/상태이상 턴제 개선은 높이 평가하되, 너무 잦은 무작위 전투·재사용 던전·동료 장비 재장착/편의 부족을 감점해 **2편 자체 작품성 4.0/5**로 판단했습니다.
+
+**한글화 감사:** 2026-09-25 [RetroDB의 PS1 원판 《리틀 프린세스2》 흐음 제작 v0.8](https://retrodb.info/krpatch/3970/%EB%A6%AC%ED%8B%80-%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4-%EB%A7%88%EC%95%8C-%EC%99%95%EA%B5%AD%EC%9D%98-%EC%9D%B8%ED%98%95%EA%B3%B5%EC%A3%BC-2) 배포 이력을 직접 확인했습니다. 배포 이동 URL은 이번 조회에서 **410 Gone**이므로 파일 다운로드·현재 패치 사용 가능성·완역/전 엔딩 정상 동작은 **미검증**입니다. Switch 2023/2024 및 새 Switch 2판에 해당 PS1 패치가 자동 호환된다는 증거는 없으며, **가장 큰 신규 한국어화 공백은 기존 25주년 합본의 3편**이라는 기존 후보 판단을 보존합니다.
+
+**이번 평가로 Switch 후보 개수·우선 후보·A급·기준 미달 기록은 변동하지 않습니다.** 14개 활성 / 3개 우선 / A급 0개 / 기준 미달 7개 상태를 유지했고, 타 플랫폼 및 이전 당시 집계·기존 한글패치·한국어 보류 기록을 보존했습니다.
