@@ -16,7 +16,7 @@
 | PlayStation Vita | 33 | 5 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo Switch | 3 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 4 | 1 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
@@ -224,3 +224,8 @@ PSP **172행 → 149작품**, 3.5점 **146행 → 123작품**. 하향 13작품·
 ## 2026-10-12 Nintendo Switch 《Touhou Sky Arena -Matsuri- Climax》 등록
 
 [《Touhou Sky Arena -Matsuri- Climax》](platforms/switch/games/touhou-sky-arena-matsuri-climax.md)은 실제 Switch 실플레이 7.2/10과 별도 PS4 Famitsu 30/40, PC Steam 약 200건·86% 긍정 등 독립 자료를 구분하여 **작품성 3.5/5·한글화 C·🟢 후보**로 등록했습니다. Switch 공식 한국어 없음. 2019 디지털판의 20명과 DLC 3명, 2020 일본 패키지판의 23명·한정 음악 30곡 코드는 별도 판본/권한으로 분리했고 온라인 활동·기술적 파일 분석은 미검증입니다. **Switch 정식 후보 3개·발굴 우선 1개·A급 0개**입니다. 기존 선정·패스·검증보류 기록은 보존합니다.
+
+
+## 2026-10-12 Soul Cradle Switch 한글화 후보 신규 등록
+
+[《Soul Cradle: World Eaters / Soul Nomad & the World Eaters》](platforms/switch/games/soul-cradle-world-eaters.md)는 2021년 북미 Nintendo Switch의 《Prinny Presents NIS Classics Volume 1》 합본 수록작을 기준으로 **작품성 3.5/5, 한글화 우선도 B, 활성 후보**로 등록했습니다. PS2 원작의 부대 편성·별도 악역 시나리오는 강점, Switch 이식의 낮은 화면 개선 폭과 크래시 제보는 감점했습니다. 출시 당시 강제 종료와 후속 패치 일부 개선·잔존 문제를 구분했으며 실제 최신 실기 안정성은 아직 미확인입니다. 공식 Switch 북미판 한국어는 미지원, Windows Steam의 영어·일본어판도 한국어 대안이 아닙니다. **현재 Switch 정식 후보 4개 / 발굴 우선 1개 / A급 0개**, 기준 미달 평가 기록 1개를 유지하며 다른 플랫폼의 집계와 GitHub Pages 진입 주소는 보존합니다.
