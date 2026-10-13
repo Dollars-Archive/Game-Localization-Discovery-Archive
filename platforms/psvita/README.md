@@ -6,8 +6,8 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
-> 한글패치 확인 기준일: **2026-10-12**, 신규 작품별 번역·판본·검수 범위 참고 (기존 2026-10-08 원장 유지)  
-> 보존 항목: **35개** / 활성 후보: **29개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 한글패치 확인 기준일: **2026-10-13**, 신규 작품별 번역·판본·검수 범위 참고 (기존 2026-10-08 원장 유지)\
+> 보존 항목: **36개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **6개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -37,6 +37,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Demon Gaze II (데몬 게이즈 2)](games/demon-gaze-ii.md) | 2016 | 1인칭 던전 RPG | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita 본문7명·4매체 / Famitsu33/40 / 투표3.77/5·52명 | 2026-10-08 공개 한국어 확인 못함 | PS4·Vita Global Edition / Extra는 전작 | 💎 우선 후보 |
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 선택지형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40·4필자 / 4Gamer·완료 후기·부분 후기 교차 / GF 투표 4/5·1명 | 2026-10-06 Vita AI 초안 1.0 공개 / 잔존 미번역·초반만 검수 / 완성 대안과 구분 | 2017 PS4·2022 Switch 1편+속 합본 / Vita·Switch 영어 약94% / 기존 한국어 초안 보완 우선 비교 | 🟢 후보 |
 | [Kadenz fermata//Akkord:fortissimo (카덴차 페르마타: 아코르드 포르티시모)](games/kadenz-fermata-akkord-fortissimo.md) | 2014 | 이능 배틀 ADV / 분기형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Vita 독립 완료 후기·직접 리뷰 | 2026-10-12 Vita·PC 공개 완성 한국어 패치 확인 못함 / PC 중국어 AI 패치는 별도 | 2014 Vita 원작 / 2016 Windows 이식·10주년판 추가 시나리오 / Vita 2014-12 수정 패치 | 🟢 후보 |
+| [Amatsutsumi (아마츠츠미)](games/amatsutsumi.md) | 2018 | 언령·판타지·연애 ADV / 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita Zettai Renai 8/10·1명 / Vita 정성 감상1명 / PC 전문 리뷰2명은 판본 구분 / 서재 8.5/10은 별도 참고 | 2026-10-13 공식 Vita 한국어·공개 완성 패치 확인 못함 / kelvin PC 아랄트랜스 기계번역 준한글화는 Vita 패치 아님 | 2016 일본 PC → 2018 Vita 신규 CG·터치·Vita TV·되돌아보기 / PC 대본 호환·기술 구조 미확인 | 💎 우선 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita RPGFan 80·PSLS 7/10, 독립 본문 4명 | 공개적으로 확인되지 않음 | Switch 추가 단편·CG, 공식 한국어 대안 미확인 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Push Square 7/10·Hardcore Gamer 4/5·타 기종 보조분리 | 공개 확인 못함 | PS3·PC LOVE MAX·PC SIXSTARS XTEND, 한국어 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 함정 액션·전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 3명 / 일본 v1.02 개선 반영 | 공개적으로 확인되지 않음 | The Nightmare Princess가 원판 포함·편의 확장 | 🟢 후보 |
@@ -132,3 +133,7 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 기존 표와 후보 자격은 보존하며, 기존 목록 26개 + 후보군 25개 = 51개를 감사했습니다. 근거 충분 40개 / 잠정 6개 / 평가보류 5개입니다. [전체 평가·짧은 근거](recommendations.md) · [원평점·표본·판본·확인일](reassessments/2026-10-08-review-assessments.md) · [구조화된 평가 원장](reassessments/2026-10-08-review-assessments.json). 후보군과 명시 탈락 기록의 상태를 유지합니다.
+
+## 2026-10-13 아마츠츠미 신규 후보 등록
+
+[아마츠츠미 Vita 상세](games/amatsutsumi.md)를 **4.0/5·B·우선 후보**로 등록했습니다. PC 아랄트랜스 준한글화는 제작자 명시 기계번역 기반 대본으로 Vita용 완성 패치와 구별합니다. 사용자가 제공한 서재 8.5/10은 상세 문서의 참고 평가로 보존하고, 기존 2026-10-08 Vita 리뷰 원장·공동 순위는 소급 변경하지 않습니다. 현재 보존 **36개**, 활성 **30개**, 우선 **6개**, A **3개** / B **13개** / C **14개**입니다.
