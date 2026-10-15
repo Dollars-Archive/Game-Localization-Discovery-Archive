@@ -47,7 +47,8 @@
     "platforms/psp/games/akatsuki-no-goei-trinity.md",
     "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md",
     "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md",
-    "platforms/psvita/games/chusingura46-plus-1-v.md"
+    "platforms/psvita/games/chusingura46-plus-1-v.md",
+    "platforms/psp/games/routes-portable.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -236,6 +237,10 @@
     },
     "platforms/psvita/games/chusingura46-plus-1-v.md": {
       "added": "2026-10-15T12:28:19.414Z",
+      "note": ""
+    },
+    "platforms/psp/games/routes-portable.md": {
+      "added": "2026-10-15T22:39:34.327Z",
       "note": ""
     }
   }
