@@ -25,7 +25,8 @@ for (const [platform, total] of Object.entries(platforms)) {
       || (b.reviewScore || 0) - (a.reviewScore || 0) || a.slug.localeCompare(b.slug, 'en'));
     assert.deepEqual(record.games.map(g => g.slug), sorted.map(g => g.slug));
     const rows = readRows(fs.readFileSync(path.join(root, `platforms/${platform}/recommendations.md`), 'utf8'));
-    assert.equal(rows.length, total + (platform === 'psp' ? -1 : platform === 'psvita' ? 1 : 0));
+    // PS Vita live ranking has one moved PSP-compatible title and one 2026-10-15 special admission.
+    assert.equal(rows.length, total + (platform === 'psp' ? -1 : platform === 'psvita' ? 2 : 0));
     for (const [i, game] of record.games.entries()) {
       const moved = platform === 'psp' && game.slug === movedSlug;
       const row = rows.find(value => value['게임'].includes(`games/${game.slug}.md`));
