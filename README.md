@@ -13,7 +13,7 @@
 |---|---:|---:|---:|---|
 | PlayStation 2 | 41 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 44 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
-| PlayStation Vita | 36 | 6 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
+| PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
@@ -25,7 +25,7 @@
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
 >
-> PS Vita 보존 **36개** 중 활성 후보는 **30개**, 등록선 미달 기록은 **4개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **6개**, A 3 / B 13 / C 14입니다. 2026-10-13 [아마츠츠미](platforms/psvita/games/amatsutsumi.md)를 4.0점 B급 활성 후보로 추가했습니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
+> PS Vita 보존 **37개** 중 활성 후보는 **31개**, 등록선 미달 기록은 **4개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **7개**, A 3 / B 14 / C 14입니다. **2026-10-15 《ChuSingura46+1 V》를 사용자 승인 B급 특채 활성 후보로 등록**했습니다. PC AI 번역본 배포 제보의 확인 한계와 Vita 한글패치 상태는 분리 기록합니다. 2026-10-13 [아마츠츠미](platforms/psvita/games/amatsutsumi.md)를 4.0점 B급 활성 후보로 추가했습니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
