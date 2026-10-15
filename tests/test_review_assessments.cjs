@@ -2,6 +2,7 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
+const vm = require('node:vm');
 const { root, readRows, createFixtures, createHarness } = require('./helpers/index-harness.cjs');
 const platforms = { ps2: 69, psp: 123, psvita: 51 }; // 2026-10-08 historical snapshots
 const movedSlug = 'ore-wa-shoujo-mangaka';
@@ -122,4 +123,17 @@ test('PS3 keeps its personal recommendation label and score contract after platf
   assert.match(h.sorts.find(x => x.dataset.sort === 'personal').textContent, /개인 추천점수/);
   assert.match(h.elements['candidate-body'].innerHTML, /개인 9\.9\/10 · 2위/);
   assert.doesNotMatch(h.elements['source-note'].innerHTML, /리뷰 근거 기반 작품 평가/);
+});
+
+test('Bokukimi PSP keeps one provisional 7.5 record and renders the approved 3.75 stars', async () => {
+  const h = await createHarness({ query: '?platform=psp' });
+  const key = 'platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md';
+  assert.equal(h.keys().filter(value => value === key).length, 1);
+  const row = h.elements['candidate-body'].innerHTML.split('<tr ').find(value => value.includes(`data-key="${key}"`));
+  assert.match(row, /7\.5\/10/);
+  assert.match(row, /provisional-score/);
+  assert.match(row, /⭐⭐⭐¾☆ \(3\.75\/5\)/);
+  assert.equal(vm.runInContext("ratingValue('⭐⭐⭐¾☆ (3.75/5)')", h.context), 3.75);
+  assert.equal(vm.runInContext("ratingValue('⭐⭐⭐½☆ (3.5/5)')", h.context), 3.5);
+  assert.equal(vm.runInContext("ratingValue('⭐⭐⭐⭐☆')", h.context), 4);
 });

@@ -69,7 +69,7 @@ function priorityRank(value) {
 function ratingValue(value) {
   const s = cleanText(value);
   const stars = (s.match(/⭐/g) || []).length;
-  return stars + (s.includes('½') ? 0.5 : 0);
+  return stars + (s.includes('¾') ? 0.75 : s.includes('½') ? 0.5 : 0);
 }
 function localizeGamePath(href, platform) {
   if (!href) return '#';
