@@ -45,7 +45,8 @@
     "platforms/dreamcast/games/elysion-eien-no-sanctuary.md",
     "platforms/dreamcast/games/dousoukai-2-again-refrain.md",
     "platforms/psp/games/akatsuki-no-goei-trinity.md",
-    "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md"
+    "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md",
+    "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -226,6 +227,10 @@
     },
     "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md": {
       "added": "2026-10-12T06:07:01.891Z",
+      "note": ""
+    },
+    "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md": {
+      "added": "2026-10-15T11:48:14.037Z",
       "note": ""
     }
   }
