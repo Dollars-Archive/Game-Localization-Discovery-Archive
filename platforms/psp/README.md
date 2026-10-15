@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **44개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **45개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -48,6 +48,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Toaru Majutsu to Kagaku no Ensemble (어떤 마술과 과학의 군주활극)](games/toaru-majutsu-to-kagaku-no-ensemble.md) | 2013 | 군상 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Great (17표) / Bangumi 5.9/10 (24표) / 구체 평가 본문 5명 | 2026-10-08 기준 공식판·공개 완성/부분/기계번역 패치 확인 못함 | PSP 일반·한정·DL판 / 동일 본편 후발판 확인 못함 / 2011 금서목록·초전자포는 별도 게임 | 🟢 후보 |
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | PSP Great25표 / PSP장문2명 / 3DS Famitsu29/40·4명·RPGamer2/5 | 2026-10-08 공개 한국어 대안 미확인 / PSP·3DS 영어 부분패치 구분 | PSP·3DS 동시판 / 육성강점·반복/관리부담 / 한글기술미확인 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
+| [Routes Portable (루츠 포터블)](games/routes-portable.md) | 2007 | 첩보 액션·학원 연애·전기 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Playable (9표) / GAMEMAN 8.2/10 (서술 리뷰 0) / 일본 게임카탈로그 정성평 | 2026-10-16 PSP 한국어 패치 미확인 / 2003 PC 원작 AI 한글패치 v1.04 확인 | 2003 Windows 원작(한국어 AI 패치) → 2007 PS2 PE·PSP 확장 리메이크 / 신규 후미츠키 루트·풀보이스·추가 CG·후일담 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
@@ -157,3 +158,9 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-12 《영원의 아세리아》 PSP 활성 후보 반영
 
 [Eien no Aselia: Kono Daichi no Hate de](games/eien-no-aselia-kono-daichi-no-hate-de.md)는 **상세 MD가 이미 존재하던 평가 기록**이나 현재 PSP 활성 후보 표에는 없었기 때문에, 기존 문서를 갱신하고 **3.5/5·C급 활성 후보 행 1건만 추가**했습니다. **직접 조작하는 전술 SRPG**이며 공식 영어 PC판과는 플랫폼/추가 컷인/인터페이스가 다릅니다. 2026-10-12 기준 공식 한국어판·적용 가능한 공개 한국어 패치 미확인. 영어 PC판은 한국어 대안 제외 근거가 아닙니다. **현재 44개 보존·30개 활성·💎 5개·🔥 A 3개**, 다른 작품·2026-10-08 역사 평가 원장은 보존합니다.
+
+## 2026-10-16 《Routes Portable》 PSP 목록 누락 복구
+
+기존 [Routes Portable (루츠 포터블)](games/routes-portable.md)의 2026-09-18 상세 평가 MD는 보존하고, PSP 검토 표에 누락됐던 **3.5/5·B급 활성 후보 1행**을 복구했습니다. 2003 Windows 원작에는 [2025년 AI 한국어 패치 v1.04](https://gall.dcinside.com/mgallery/board/view/?exception_mode=recommend&id=aleaf&no=2631&page=1&s_keyword=routes&s_type=search_subject_memo)가 공개되어 있지만, PSP판은 풀보이스·추가 후미츠키 루트·후일담·신규 CG가 포함된 확장 리메이크 계열입니다. PSP판 자체의 공개 한국어 패치는 확인되지 않았고, PC 패치가 PSP판에 적용된다고 보지 않습니다. 구작만 한국어 대안이 있는 리메이크 예외 적용에 따른 활성 후보 유지입니다.
+
+현재 PSP 보존 **45개** / 활성 **31개** / 발굴 우선 후보 **5개** / 한글화 A급 **3개**. 2026-10-08 당시 리뷰 평가 원장은 역사 기록으로 유지합니다.
