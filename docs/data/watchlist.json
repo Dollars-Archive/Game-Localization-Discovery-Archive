@@ -46,7 +46,8 @@
     "platforms/dreamcast/games/dousoukai-2-again-refrain.md",
     "platforms/psp/games/akatsuki-no-goei-trinity.md",
     "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md",
-    "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md"
+    "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md",
+    "platforms/psvita/games/chusingura46-plus-1-v.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -231,6 +232,10 @@
     },
     "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md": {
       "added": "2026-10-15T11:48:14.037Z",
+      "note": ""
+    },
+    "platforms/psvita/games/chusingura46-plus-1-v.md": {
+      "added": "2026-10-15T12:28:19.414Z",
       "note": ""
     }
   }
