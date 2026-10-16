@@ -11,7 +11,7 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 41 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 42 | 7 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 46 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
@@ -19,7 +19,8 @@
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
-> PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> 2026-10-12 당시 PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
+> **2026-10-17 PS2 신규 등록:** [《마나케미아 2: 타락한 학원과 연금술사들》](platforms/ps2/games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md)을 **PS2 작품성 4.0/5·한글화 B급·💎 우선 후보**로 상세 등록했습니다. 2편 PS2·PSP 공개 한국어 완성 패치는 확인되지 않았고, 2024년 SeHwa의 v0.5 AI 초벌 한글패치는 **1편 전용**이므로 구별했습니다. PSP 2편은 기존 3.5/5·C 예비 기록을 유지합니다. **PS2 현행 42개·💎 우선 7개·🔥 A 6개**, 다른 플랫폼의 목록·개인 랭킹·GitHub Pages 링크는 불변입니다.
 >
 > PSP 보존 46개 중 활성 후보는 **31개**, 한국어 대안·재평가 보류 **12개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
 >
