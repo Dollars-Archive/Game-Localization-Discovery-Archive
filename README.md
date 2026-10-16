@@ -12,7 +12,7 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 2 | 41 | 6 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 45 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 46 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 3 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
@@ -21,7 +21,7 @@
 > [!NOTE]
 > PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 >
-> PSP 보존 45개 중 활성 후보는 **31개**, 한국어 대안·재평가 보류 **11개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
+> PSP 보존 46개 중 활성 후보는 **31개**, 한국어 대안·재평가 보류 **12개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
 >
 > **2026-10-16 PSP 현행 등록:** 상세 문서가 이미 있던 [《Routes Portable》](platforms/psp/games/routes-portable.md)을 누락된 PSP 후보 표에 **3.5/5·B급**으로 복구했습니다. Windows 구작의 2025년 AI 한국어 패치는 확인했으나 PSP 확장 리메이크판에는 추가 루트·후일담·풀보이스 등 독자 콘텐츠가 있어 구작 패치 예외를 적용했습니다. 현행 **45개 보존·31개 활성·💎 5개·🔥 A 3개**입니다.
 >
@@ -31,7 +31,9 @@
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
-> PS3는 **56개 기록을 보존**하며, **기본 선정 30개 / 예비 26개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
+> PS3는 **57개 기록을 보존**하며, **기본 선정 30개 / 예비 27개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
+>
+> **2026-10-17 신규 별점 평가 기록:** [《차륜의 나라, 해바라기의 소녀》 PSP판](platforms/psp/games/sharin-no-kuni-himawari-no-shoujo.md) **4.0/5** 및 [PS3판](platforms/ps3/games/sharin-no-kuni-himawari-no-shoujo.md) **4.5/5**를 별도 문서로 등록했습니다. PS3 Famitsu 32/40, PSP 실기 감상과 두 판본의 본편+법월편 이식 차이를 조사했습니다. Windows 원작의 2018 한국어 준한글화(아랄트랜스 필요) 완료 등록을 확인하여 **신규 콘솔 한글화 활성 후보로는 편입하지 않고**, PSP 비활성 보존 **46개/활성 31개**, PS3 예비 **27개/기본 선정 30개/전체 보존 57개**로 기록했습니다. [PS3 예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve). 기존 PS3 개인 55작품 순위와 2026-10-08 평가 원장은 유지합니다.
 >
 > PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 >

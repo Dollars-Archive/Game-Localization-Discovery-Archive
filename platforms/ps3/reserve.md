@@ -1,6 +1,6 @@
 # PS3 예비 기록
 
-기본 화면에서 숨긴 **26개**입니다. 2026-10-08에 순위를 매긴 기존 25개에 2026-10-12 PS3 신규 한국어 대안 확인 보류 작품 1개를 추가했습니다. 상세 문서·개인 점수·기존 조사 기록을 보존하며 찜·착수는 내 목록에서 계속 확인할 수 있습니다.
+기본 화면에서 숨긴 **27개**입니다. 2026-10-08에 순위를 매긴 기존 25개에 2026-10-12 PS3 한국어 대안으로 신규 예비 보존한 2026-10-12 WHITE ALBUM2와 2026-10-17 차륜의 나라 PS3판을 합쳐 2개를 추가했습니다. 상세 문서·개인 점수·기존 조사 기록을 보존하며 찜·착수는 내 목록에서 계속 확인할 수 있습니다.
 
 [선정 목록](README.md) · [웹 예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [평가 근거](reassessments/2026-10-08-personal-top-30.md)
 
@@ -34,6 +34,7 @@
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 비주얼 노벨 / 턴제 전략 RPG / 학원 오컬트 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 평균 7.7/10 / Push Square 8/10 / RPGamer 3.5/5 / RPGFan 60/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Daybreak Special Gigs·Steam도 한국어 미지원 | PS3·Vita 원판 / 상위 강화판 Daybreak Special Gigs는 PS3·PS4·Vita·PC로 전투·스토리·튜토리얼 개선 | 🟡 등록선 미달·기록 보존 | 7.2 | 31 | 작품성 등록선 미달 · 3.0/5 |
 | [Dynasty Warriors: Gundam (건담무쌍)](games/dynasty-warriors-gundam.md) | 2007 | 택티컬 액션 / 3D 핵앤슬래시·무쌍 액션 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 33/40 / Metacritic 60·29평론 / GameFAQs Good·372명 | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | PS2 Special에 무사건담 Mk-II·신규 시나리오 추가 / Xbox 360 International 일·영 음성 | 🟡 등록선 미달·기록 보존 | 5.8 | 55 | 작품성 등록선 미달 · 3.0/5 |
 | [WHITE ALBUM2: Shiawase no Mukougawa (화이트 앨범 2: 행복의 저편)](games/white-album-2-shiawase-no-mukougawa.md) | 2012 | 연애·심리 드라마 / 장편 분기 비주얼노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | **PS3 Famitsu 37/40·4명 / Dengeki 90·95·90·80·4명 / PS3 GameFAQs 3.9/5·21명·65.3h/8명** | PS3 일본판 공식 한국어 미지원·PS3용 공개 완성 패치 미확인 / **2018 PC EE용 본편 한국어 v1.1(2021-10-09)·Special Contents v1.0(2022-01-29) 실제 배포** | 2010/2011 PC 본편 통합 → **2012 PS3 신규 CG·스토리·Motion Portrait·Special Contents** → 2013 Vita 본문 동일·노벨 모드/모션 삭제 → 2018 PC EE 한국어패치 대상 | 🟡 기존 PC 한국어 대안 확인·PS3 활성 제외 | 미산정 | 미부여 | 동일 본편 PC EE 한국어 완성형 대안 확인; 원본 PS3판 직접 한국어 패치는 미검증 · 기존 55작품 개인 순위 별도 |
+| [Sharin no Kuni, Himawari no Shoujo (차륜의 나라, 해바라기의 소녀)](games/sharin-no-kuni-himawari-no-shoujo.md) | 2013 | 사회파 서스펜스 / 휴먼 드라마·비주얼 노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | Famitsu PS3 32/40·4명 / 전격 PSP 실기 호평 (다른 판본 참고) / 원작 개인평 45/50·1건 (참고) | 2026-10-17 PS3 공식 한국어·완성 패치 미확인 / Windows 원작 2018 한국어 준한글화 완료 등록·아랄트랜스 필요·현행 구동 미검증 | 2005 PC 원작 → 2010 Xbox 360 → 2012 PSP 16:9·법월편 → 2013 PS3 이식판에 콘솔 추가곡·CG 통합 | 🟡 Windows 원작 한국어 대안 확인·PS3 활성 제외 | 미산정 | 미부여 | 원작 PC 한국어 번역 대안 기록 확인·법월편 범위 및 현재 실사용은 미검증 · 기존 개인 순위 보존 |
 
 ## 2026-10-12 신규 PS3 예비 등록: WHITE ALBUM2
 
@@ -42,3 +43,7 @@
 **자체 작품성 4.5/5**는 [Famitsu PS3 37/40](https://www.famitsu.com/game/title/28316/reviews)과 [AQUAPLUS 공식 콘텐츠 안내](https://aquaplus.jp/wa2/product.html), 다른 독립 감상의 강점/비판을 반영했습니다. 한국어 접근성은 [PC Extended Edition 패치 v1.1](https://myskrpatch.tistory.com/172)·[Special Contents v1.0](https://myskrpatch.tistory.com/201)으로 이미 상당 부분 확보됐지만, **PS3 직접 패치 호환은 입증되지 않았습니다**. 기존 아카이브는 같은 본편 타 기종의 한국어 완성형 대안이 있을 때 신규 한글화 활성에서 제외하므로, **🟡 한국어 대안 확인 예비**로 보존하고 PS3 기본 선정 30개는 바꾸지 않습니다.
 
 **총 기록은 기존 55개 → 56개, 기본 선정 30개 유지, 예비 25개 → 26개입니다.** 2026-10-08 원본 55작품 개인점수·순위·JSON은 당시 심사 자료로 그대로 두며, 신규 작품에는 주관적 10점 점수와 1~55 순위를 임의로 배정하지 않았습니다.
+
+## 2026-10-17 신규 PS3 예비 등록: 차륜의 나라, 해바라기의 소녀
+
+[《차륜의 나라, 해바라기의 소녀》 PS3판 상세 평가 4.5/5 및 PSP판 비교](games/sharin-no-kuni-himawari-no-shoujo.md)를 사용자 요청에 따라 PS3 게임 상세 문서·예비 평가 행으로 등록했습니다. [Famitsu 2013 PS3 크로스 리뷰 32/40](https://www.famitsu.com/game/title/28745/reviews)과 [PS3 공식 사이트](https://game.mages.co.jp/syarin/ps3/)에서 직접 출시/콘솔 이식 추가 요소를 확인했습니다. Windows 원작에 2018년 아랄트랜스 기반 한국어 번역판 완료 등록이 있어 아카이브 기본 규칙에 따라 신규 활성 한글화 대상에서 제외하되 작품성·장단점은 보존합니다. **보존 57작품 / 선정 30 / 예비 27**, 기존 55작품 개인 순위와 점수는 그대로 둡니다.

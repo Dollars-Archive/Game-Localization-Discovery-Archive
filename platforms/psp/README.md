@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST**  
-> 보존 항목: **45개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **46개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -64,6 +64,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Twinkle Crusaders STARLIT BRAVE!! (트윙클☆크루세이더스 STARLIT BRAVE!!)](games/twinkle-crusaders-starlit-brave.md) | 2010 | 크로스오버 ADV·전술 배틀 | ⭐⭐⭐½☆ (3.5/5) | 보류 | STARLIT 서술 3명·보조 언급 1명 / GameFAQs Outstanding·1표 | PC SBX 튜토리얼 준한글화·번역기 연계 확인 / PSP 패치 확인 못함 | GoGo 호화판 별도 UMD / PC XTREAM은 게스트·스토리 구성 상이 / 한국어 범위 대조 필요 | 🟡 자격·우선도 보류 |
 | [Clock Zero: Shuuen no Ichibyou Portable (CLOCK ZERO ~종언의 1초~ Portable)](games/clock-zero-shuuen-no-ichibyou-portable.md) | 2011 | SF 미스터리·여성향 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | GameFAQs Fair·13표 / Play-Asia 4/5·13평가 중 서술 3건 / Bangumi 7.6/10·205표·PS2/PSP 통합 | 2026-10-08 기준 공개 완성·부분·기계번역 PSP 패치 미확인 | PS2 원작 / Vita ExTime 시나리오·음성 이름 호명·장면 스킵 추가 / Switch Devote 중학생편 / Android Devote 부분 AI 한국어화 기록, 현재 실사용 미검증 | 🟡 후보 자격 보류 |
 | [Shinigami to Shoujo (사신과 소녀)](games/shinigami-to-shoujo.md) | 2011 | 환상 이야기 ADV·오토메 VN | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | PSP 본문 5편·5명 / Bangumi 8.1·245표 작품 통합 / GameFAQs Fair·7표 | 2026-07-27 2차 기록 있음·텍스트 GPT 번역·이미지 미번역·실사용 범위 미확인 | 2019 Vita / 2022 Switch 신규 OP·ED·영상 선택 / PC판 공식 근거 미확인 | 🟡 후보 자격 보류 |
+| [Sharin no Kuni, Himawari no Shoujo (차륜의 나라, 해바라기의 소녀)](games/sharin-no-kuni-himawari-no-shoujo.md) | 2012 | 사회파 서스펜스·비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 보류·미부여 | 전격온라인 PSP 실기 호평 1건 / PSP 완주 약 23h·34h 1건 / Famitsu PS3 32/40은 참고만 | 2026-10-17 PSP 공개 완성 패치 미확인 / Windows 2018 준한글화 완료 등록·아랄트랜스 필요·현행 구동 미검증 | Windows 2005 → Xbox 360 2010 → PSP 2012 본편+법월편 → PS3 2013 추가 요소 통합 | 🟡 PC 원작 한국어 번역 대안 확인·활성 제외 |
 
 ## 발굴 상태 기준
 
@@ -164,3 +165,7 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 기존 [Routes Portable (루츠 포터블)](games/routes-portable.md)의 2026-09-18 상세 평가 MD는 보존하고, PSP 검토 표에 누락됐던 **3.5/5·B급 활성 후보 1행**을 복구했습니다. 2003 Windows 원작에는 [2025년 AI 한국어 패치 v1.04](https://gall.dcinside.com/mgallery/board/view/?exception_mode=recommend&id=aleaf&no=2631&page=1&s_keyword=routes&s_type=search_subject_memo)가 공개되어 있지만, PSP판은 풀보이스·추가 후미츠키 루트·후일담·신규 CG가 포함된 확장 리메이크 계열입니다. PSP판 자체의 공개 한국어 패치는 확인되지 않았고, PC 패치가 PSP판에 적용된다고 보지 않습니다. 구작만 한국어 대안이 있는 리메이크 예외 적용에 따른 활성 후보 유지입니다.
 
 현재 PSP 보존 **45개** / 활성 **31개** / 발굴 우선 후보 **5개** / 한글화 A급 **3개**. 2026-10-08 당시 리뷰 평가 원장은 역사 기록으로 유지합니다.
+
+## 2026-10-17 《차륜의 나라, 해바라기의 소녀》 PSP판 별점 평가 기록
+
+[PSP판 상세 장단점·4.0/5·본편과 법월편 비교](games/sharin-no-kuni-himawari-no-shoujo.md)를 비활성 보존 1행으로 추가했습니다. 본편은 2012년 2월 23일 일본 발매된 정식 PSP판입니다. 2018년 Windows 원작 한국어 준한글화(아랄트랜스 필요) 완료 등록이 확인되어 신규 한글화 활성 후보에는 넣지 않았습니다. 현재 PSP판 자체 공개 완성 패치와 PC 패치의 콘솔 호환은 미확인입니다. **보존 46개·활성 31개·활성 💎 5개·한글화 A 3개**로 갱신했으며 기존 2026-10-08 재평가 원장은 유지했습니다.
