@@ -5,8 +5,8 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-12**  
-> 등록 후보: **41개** / 발굴 우선 후보: **6개** / 한글화 A급 후보: **6개**
+> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2는 **2026-10-17** 별도 검증)  
+> 등록 후보: **42개** / 발굴 우선 후보: **7개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -35,6 +35,7 @@
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·텍스트 ADV | ⭐⭐⭐½☆ | B | Joko 공개 20건 만족도 3.80/5 / 4Gamer 60점·가격.com 4점 각 1건 / 판본별 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 → Windows → PSP CG 보강·신규 영상/주제가 / 대규모 시나리오 추가 미확인 | 🟢 후보 |
 | [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
 | [Mana Khemia: Alchemists of Al-Revis (마나케미아: 학원의 연금술사들)](games/mana-khemia-gakuen-no-renkinjutsushitachi.md) | 2007 | 연금술 학원·3+3인 교대 전투·턴제 RPG | ⭐⭐⭐⭐☆ (4.0/5) | B | PS2 Metacritic 69/100·평론가 20명 / RPGFan 90/100 / GameSpot 7.5/10 / RPGamer 3/5·4/5 / 일본 게임카탈로그 良作 | 2024-01-01 SeHwa v0.5 AI 초벌 패치 존재 / 이미지 미번역·검수 미실시·임시 코드 불안정·완성본 아님 | 2007 PS2 일본판 SLPM-66748·2008 영어판 / 2008 PSP PORTABLE+ 추가 요소 있으나 로딩·화면 열화 / PS2 권장 | 💎 우선 후보 |
+| [Mana Khemia 2: Fall of Alchemy (마나케미아 2: 타락한 학원과 연금술사들)](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md) | 2008 | 학원 연금술·턴제 파티 RPG / 로제·울리카 2주인공 | ⭐⭐⭐⭐☆ (4.0/5) | B | PS2 MC 70/100·평론가 12건 / Famitsu 32/40·4명 / RPGFan 89/100 / RPGamer 2.5/5 | 2026-10-17 2편 공개 완성 한글패치 확인 못함 / SeHwa 2024 v0.5 AI 초벌 한글패치는 1편 전용 | PS2 일본 SLPM-55005·북미 공식 영어 SLUS-21890 / PSP PORTABLE+는 전투원양성소·미디어 인스톨 추가 / PS2 우선 추천 | 💎 우선 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
 | [Lost Passage: Ushinawareta Hitofushi (로스트 패시지 ～잃어버린 한 구절～)](games/lost-passage-ushinawareta-hitofushi.md) | 2003 | 교육실습·연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 3.63/5·8건 / Gavas6+2건 중복·소개형 구분 / PS2 개인평2편 / GameFAQs Fair8표 | 2026-10-07 완성판 확인 못함 / PC ATCode 별도 | PC2002 → PS2 추가 시나리오·CG 기록(2차 자료) / 팬디스크·PC DL 별도 | 🟢 후보 |
 | [Men at Work! 3: Ai to Seishun no Hunter Gakuen (멘 앳 워크! 3 ～사랑과 청춘의 헌터 학원～)](games/men-at-work-3-ai-to-seishun-no-hunter-gakuen.md) | 2004 | 마법학원 육성·RPG·연애 ADV | ⭐⭐⭐½☆ | B | Joko 본문4.00/5·5건(내장집계3.2) / Gavas4+1건 중 경험글2건 / PS2 개인글2편 / GF Good16표 | 2026-10-07 PC·PS2 공개 확인 못함 | PC2002 → PS2 추가 콘텐츠·합체공격 / 후속작 동봉PC는 별도 빌드 | 🟢 후보 |
@@ -166,3 +167,8 @@
 ## 2026-10-12 Mana Khemia PS2 원작 평가 및 후보 등록
 
 [《Mana Khemia: Alchemists of Al-Revis》](games/mana-khemia-gakuen-no-renkinjutsushitachi.md)는 **PS2 원작 기준 작품성 4.0/5, 한글화 우선도 B**로 등록했습니다. PS2의 전위 3명·후위 3명 교대 전투, Burst·Variable Strike, 연금술과 Grow Book 성장, 12장 학원 일정을 평가했습니다. PSP 이식판의 메타크리틱 41/100·심각한 로딩 문제를 PS2 자체 결함으로 옮기지 않았습니다. **2024-01-01 SeHwa v0.5 한국어 AI 초벌 패치가 이미 존재**하며, 원 제작자가 **이미지 미번역·검수 미실시·불안정 코드 패치·실행 보장 없음**을 알렸으므로 **완성·실사용 한국어 대안으로 단정해 제외하지 않았습니다.** 실제 패치 실행과 독립 완성본이 확인되면 자격을 재판정합니다. 이번 등록 후 **PS2 기록 41개, 💎 우선 후보 6개, 🔥 A급 6개**로 집계하며 역사적 재평가 원장은 보존합니다.
+
+
+## 2026-10-17 마나케미아 2 PS2 원작 심층 평가·등록
+
+[《Mana Khemia 2: Fall of Alchemy》](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md)를 **PS2 일본 원작 기준 작품성 4.0/5·B급·💎 우선 후보**로 등록했다. 로제·울리카 두 주인공과 후속 시나리오, 교대 전투·유나이트·그로우 북, 전작보다 향상된 시스템과 가벼워진 서사·반복 채집·합성을 교차 평가했다. **PS2 Metacritic 70/100·12건, 패미통 32/40·4명, RPGFan 89/100, RPGamer 2.5/5**를 PS2 판본 기준으로 분리 기록했다. **2026-10-17 기준 2편 PS2·PSP의 공식 한국어판·공개 완성 한국어 패치는 확인되지 않았다.** SeHwa의 2024년 v0.5 AI 초벌 한글패치는 1편 전용이며 2편에 적용할 수 있다고 추정하지 않았다. PSP 2편의 기존 3.5/5·C급 예비 상세와 재평가 이력은 그대로 보존하고, PS2 신규 문서와 PS2 목록만 갱신했다. **현행 PS2 목록 42건 / 💎 4.0 이상 7건 / 🔥 A 6건**이며 기존 2026-10-08 리뷰 원장은 소급 수정하지 않는다.
