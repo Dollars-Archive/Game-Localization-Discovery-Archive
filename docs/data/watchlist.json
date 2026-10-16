@@ -48,7 +48,8 @@
     "platforms/psp/games/seinaru-kana-orichalcum-no-na-no-motoni.md",
     "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md",
     "platforms/psvita/games/chusingura46-plus-1-v.md",
-    "platforms/psp/games/routes-portable.md"
+    "platforms/psp/games/routes-portable.md",
+    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -241,6 +242,10 @@
     },
     "platforms/psp/games/routes-portable.md": {
       "added": "2026-10-15T22:39:34.327Z",
+      "note": ""
+    },
+    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md": {
+      "added": "2026-10-16T23:14:52.800Z",
       "note": ""
     }
   }
