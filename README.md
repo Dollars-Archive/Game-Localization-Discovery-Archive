@@ -11,7 +11,7 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 42 | 7 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 43 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 46 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
@@ -21,6 +21,8 @@
 > [!NOTE]
 > 2026-10-12 당시 PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
 > **2026-10-17 PS2 신규 등록:** [《마나케미아 2: 타락한 학원과 연금술사들》](platforms/ps2/games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md)을 **PS2 작품성 4.0/5·한글화 B급·💎 우선 후보**로 상세 등록했습니다. 2편 PS2·PSP 공개 한국어 완성 패치는 확인되지 않았고, 2024년 SeHwa의 v0.5 AI 초벌 한글패치는 **1편 전용**이므로 구별했습니다. PSP 2편은 기존 3.5/5·C 예비 기록을 유지합니다. **PS2 현행 42개·💎 우선 7개·🔥 A 6개**, 다른 플랫폼의 목록·개인 랭킹·GitHub Pages 링크는 불변입니다.
+>
+> **2026-10-17 PS2 기종 분류 정정:** [《Soul Nomad & the World Eaters / 소울 크레이들: 세계를 먹는 자》](platforms/ps2/games/soul-nomad-the-world-eaters.md)를 **2007년 PS2 원작**으로 [PS2 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2)에 **⭐⭐⭐⭐☆ 4.0/5·개인 편집 참고 7.5/10·한글화 B급**으로 등록했습니다. PS3에서 판매됐던 것은 PS2 Classics 디지털 배포판이므로 이전의 잘못된 PS3 분류는 삭제했으며, 그로 인해 밀린 [《Dungeons & Dragons: Chronicles of Mystara》](platforms/ps3/games/dungeons-dragons-chronicles-of-mystara.md)를 PS3 기본 목록에 복구했습니다. PS2 **43개·💎 8개·A급 6개**, PS3 **총 57개(기본 30·예비 27)**입니다. [Switch판 상세 평가](platforms/switch/games/soul-cradle-world-eaters.md)는 별도로 유지합니다.
 >
 > PSP 보존 46개 중 활성 후보는 **31개**, 한국어 대안·재평가 보류 **12개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
 >
@@ -32,11 +34,9 @@
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
-> PS3는 **58개 기록을 보존**하며, **기본 선정 30개 / 예비 28개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. **2026-10-17 사용자 지정 기본 목록 등록으로 《차륜의 나라》가 기본 30개에 포함됐고 《XBLAZE》가 예비로 이동했으며 원래의 역사적 55작품 순위는 유지합니다.** [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
+> PS3는 **57개 기록을 보존**하며, **기본 선정 30개 / 예비 27개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. **2026-10-17 사용자 지정 기본 목록 등록으로 《차륜의 나라》가 기본 30개에 포함됐고 《XBLAZE》가 예비로 이동했으며 원래의 역사적 55작품 순위는 유지합니다.** [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
 >
 > **2026-10-17 기본 화면 노출 정정:** [《차륜의 나라, 해바라기의 소녀》 PS3판](platforms/ps3/games/sharin-no-kuni-himawari-no-shoujo.md)을 사용자가 요청한 [PS3 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)에 **작품성 4.5/5·개인 추천 8.3/10**으로 표시합니다. 최초에 예비에만 등록했던 배치를 수정했고, 기존 **30개 화면 제한**을 위해 [《XBLAZE Code: Embryo》](platforms/ps3/games/xblaze-code-embryo.md)는 예비로 이동했으며 기존 7.1점·34위·평가와 찜 키는 보존했습니다. PSP판은 기존대로 [4.0/5 상세 평가](platforms/psp/games/sharin-no-kuni-himawari-no-shoujo.md)를 보존합니다. PS3 **기본 선정 30개 / 예비 27개 / 총 57개·작품성 4.0 이상 4개**, PSP 보존 46개(활성 31개)입니다. Windows 원작의 한국어 준한글화 기록을 병기하며 PS3 신규 한글화 활성 대상이라고 단정하지 않습니다. 기존 PS3 55작품 개인 순위/2026-10-08 재평가 원장은 수정하지 않았습니다.
->
-> **2026-10-17 PS3 기본 등록:** [《Soul Nomad & the World Eaters》 PS3 PS2 Classics](platforms/ps3/games/soul-nomad-the-world-eaters-ps2-classics.md)를 **작품성 4.0/5·개인 7.5/10·한글화 우선도 C**로 [PS3 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)에 추가했습니다. 본 게임은 2007 PS2 원작의 2014년 일본 PS3 아카이브 정식 디지털 배포로, PS3 네이티브 리메이크나 PSP판이 아닙니다. 기존 30개 기본 표시를 유지하기 위해 [《Dungeons & Dragons: Chronicles of Mystara》](platforms/ps3/games/dungeons-dragons-chronicles-of-mystara.md)를 개인 7.1/10·역사 전체 33위·작품성 4.0/5 및 찜 키를 보존한 채 예비로 이동했습니다. 현황 **PS3 총 58건 / 기본 30건 / 예비 28건**, 기존 55개 역사 점수 및 순위 불변. [Switch판 평가 3.5/5](platforms/switch/games/soul-cradle-world-eaters.md)는 별도의 이식판 평가로 유지합니다.
 >
 > PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 >

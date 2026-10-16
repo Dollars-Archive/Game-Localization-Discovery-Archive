@@ -5,8 +5,8 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2는 **2026-10-17** 별도 검증)  
-> 등록 후보: **42개** / 발굴 우선 후보: **7개** / 한글화 A급 후보: **6개**
+> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad는 **2026-10-17** 별도 검증)  
+> 등록 후보: **43개** / 발굴 우선 후보: **8개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -25,6 +25,7 @@
 | [Only You: Liber Cross (온리 유 리베르크루스)](games/only-you-liber-cross.md) | 2002 | 열혈 격투·연애 ADV/RPG | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 15건 만족도 4.27/5 / GameFAQs 3.77/5 (15표) / PS2 비평 3명 교차 검토 | 2026-10-07 공개 확인 못함 | 1996 원작 → 2001 PC 리메이크 → PS2 음성·영상·표현 수정 / 현대 공식판 확인 못함 | 🟢 후보 |
 | [Fragments Blue (프래그먼츠 블루)](games/fragments-blue.md) | 2006 | 라이트 미스터리·청춘 여행 ADV | ⭐⭐⭐½☆ | 🔥 A | Joko 공개 11건 / Gavas 4.6/5 (7건, 기대·소개 혼재) / GameFAQs 3.9/5 (5표) / PS2 완주 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원작 / Special Edition 동봉 화집 / 후발 공식판 확인 못함 | 🟢 후보 |
 | [Shikigami no Shiro: Nanayozuki Gensoukyoku (식신의 성 칠야월환상곡)](games/shikigami-no-shiro-nanayozuki-gensoukyoku.md) | 2005 | 캐릭터·전기 ADV / 슈팅 전투 | ⭐⭐⭐½☆ | 🔥 A | Joko 3건 만족도 4.33/5 / 실플레이 비평 5개 목소리 / HG101·동일 저자 초기 인상 별도 | 2026-10-07 공개 확인 못함 | PS2 오리지널 ADV / 현대 슈팅 트릴로지와 별개 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
+| [Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자)](games/soul-nomad-the-world-eaters.md) | 2007 | 다크 판타지 SRPG·턴제 부대 편성·분기 캠페인 | ⭐⭐⭐⭐☆ 4.0/5 | B | Metacritic PS2 73/100·31평론 / RPGFan PS2 83/100·1평론 / GameSpot PS2 8/10·1평론 | 2026-10-17 PS2 일본판·북미판 공개 완성 한국어 패치 확인 못함 / 북미 PS2는 공식 영어판 | 2007 일본 PS2 원작 SLPS-25739 / 2007 북미 PS2 SLUS-21603 / 2014 PS3 PS2 Classics / 2021 Switch·PC 복각 / PSP 출시 없음 | 💎 우선 후보 |
 | [Doko e Iku no, Anohi: Hikaru Ashita e... (도코에 이쿠노, 아노히 ～히카루 아시타에…～)](games/doko-e-iku-no-anohi-hikaru-ashita-e.md) | 2005 | SF·병행세계·미스터리 VN | ⭐⭐⭐½☆ | B | Joko 3.5/5 (6건) / GameFAQs 3.33/5 (9표) / Gavas 4.5/5 (6건·중복 주의) | 2026-10-07 공개 배포 확인 못함 | PC 성인 원작·추가 디스크 → PS2 가정용 조정·CG 추가 / PC DL에도 추가 디스크 포함 | 🟢 후보 |
 | [Kyuuketsu Hime Yui: Senyasyo (뱀파이어 유이 ～천야초～)](games/kyuuketsu-hime-yui-senyasyo.md) | 2003 | 학교 괴담·다중시점 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 공개 4건·Gavas 6건 본문 검토 / PS2 회고·PC 완료평 구분 | 확인 못함 | PS2 → Windows 그래픽 개선·치사 이야기 추가 | 🟢 후보 |
 | [Juujigen Rippoutai Cipher: Game of Survival (십차원 입방체 사이퍼: 게임 오브 서바이벌)](games/juujigen-rippoutai-cipher-game-of-survival.md) | 2007 | 실시간 미스터리·수수께끼 ADV | ⭐⭐⭐½☆ | B | Joko 4.00/5 (4건) / PS2 개인 후기 4명 교차 확인 | 확인 못함 | PC 원작 → PS2 음성·후일담 → PSP 단편 문제집 추가 | 🟢 후보 |
@@ -172,3 +173,7 @@
 ## 2026-10-17 마나케미아 2 PS2 원작 심층 평가·등록
 
 [《Mana Khemia 2: Fall of Alchemy》](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md)를 **PS2 일본 원작 기준 작품성 4.0/5·B급·💎 우선 후보**로 등록했다. 로제·울리카 두 주인공과 후속 시나리오, 교대 전투·유나이트·그로우 북, 전작보다 향상된 시스템과 가벼워진 서사·반복 채집·합성을 교차 평가했다. **PS2 Metacritic 70/100·12건, 패미통 32/40·4명, RPGFan 89/100, RPGamer 2.5/5**를 PS2 판본 기준으로 분리 기록했다. **2026-10-17 기준 2편 PS2·PSP의 공식 한국어판·공개 완성 한국어 패치는 확인되지 않았다.** SeHwa의 2024년 v0.5 AI 초벌 한글패치는 1편 전용이며 2편에 적용할 수 있다고 추정하지 않았다. PSP 2편의 기존 3.5/5·C급 예비 상세와 재평가 이력은 그대로 보존하고, PS2 신규 문서와 PS2 목록만 갱신했다. **현행 PS2 목록 42건 / 💎 4.0 이상 7건 / 🔥 A 6건**이며 기존 2026-10-08 리뷰 원장은 소급 수정하지 않는다.
+
+## 2026-10-17 《Soul Nomad & the World Eaters》 PS2 원작 등록 및 잘못된 PS3 분류 정정
+
+[《Soul Nomad & the World Eaters》(소울 크레이들: 세계를 먹는 자)](games/soul-nomad-the-world-eaters.md)를 **2007-02-15 일본 PS2 원작 SLPS-25739 / 2007-09-25 북미 PS2 SLUS-21603** 기준으로 신규 등록했습니다. **작품성 ⭐⭐⭐⭐☆ 4.0/5·개인 편집 참고 7.5/10·한글화 우선도 B·💎 우선 후보**입니다. 메타크리틱 PS2 73/100·평론가 31개, RPGFan PS2 83/100, GameSpot PS2 8/10을 근거로 시나리오의 반전과 Demon Path, 부대형 턴제 전략성, 룸 편성·메뉴 반복과 낡은 UX의 장단점을 기록했습니다. **일본 PS2·북미 PS2 공개 완성 한국어 패치는 2026-10-17 기준 확인되지 않음**. 2014년 PS3 배포는 PS2 Classics 실행형 서비스이지 PS3 네이티브 신작이 아니므로, 앞서 잘못 등록한 PS3 게임 행과 상세 MD는 삭제하고 PS3 원래 30개·예비 27개 목록을 복원했습니다. **PS2 현행 43건·💎 8건·🔥 A 6건**이며 기존 작품 평점·개인 랭킹·Switch 이식판 평가는 변경하지 않았습니다.

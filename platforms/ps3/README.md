@@ -3,7 +3,7 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **58개** / 기본 선정: **30개** / 예비 기록: **28개**  
+> 기록 보존: **57개** / 기본 선정: **30개** / 예비 기록: **27개**  
 > 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 13 · C 16 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
@@ -41,10 +41,10 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 | [.hack: Sekai no Mukou ni + Versus Hybrid Pack (닷핵 세계의 저편으로 + Versus Hybrid Pack)](games/hack-sekai-no-mukou-ni-versus-hybrid-pack.md) | 2012 | 3D 대전 액션 / Hybrid Disc | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 31/40 / GameFAQs Great·64명 / 4Gamer 40·1명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 BLKS-95001은 일본어 / 공개 영문패치 존재 | PS3 독점 / 영화 112분+Versus / 후발 이식 없음 / 영문 data.cpk 패치 사례 | 🟢 후보 | 7.6 | 22 |  |
 | [Dengeki Bunko: Fighting Climax Ignition (전격문고 FIGHTING CLIMAX IGNITION)](games/dengeki-bunko-fighting-climax-ignition.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / GameFAQs Great·17명 / 플레이타임 43시간·9명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 비공식 영문패치 기록만 확인 | 전작 확장 독립판 / PS4·PS3 크로스플레이 / PS Vita 동시판 / Yuuki·Ako DLC | 🟢 후보 | 7.6 | 23 |  |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2011 | 서스펜스 픽션 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 4Gamer 81·3명 / GameFAQs Good·11명 / Bangumi 6.5·30명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3·Xbox 360 원판 / PSP 강화 이식은 과거편·후일담+신규 CG 추가 | 🟢 후보 | 7.5 | 24 |  |
-| [Soul Nomad & the World Eaters (소울 크레이들: 세계를 먹는 자) · PS2 Classics](games/soul-nomad-the-world-eaters-ps2-classics.md) | 2014 | 판타지 전술 SRPG / 턴제 부대편성·다중 루트 | ⭐⭐⭐⭐☆ 4.0/5 | C | PS2 Metacritic 73/100·31비평 / RPGFan PS2 83/100 / GameSpot PS2 8/10 (PS3판 직접 리뷰 없음) | 2026-10-17 PS3 일본 PS2 Classics 공식 한국어·공개 완성 한글패치 확인 못함 / Steam 한국어 미지원 | 2007 PS2 원작 / 일본 2014 PS3 PS2 Classics NPJD-00066 원본 실행 / 2021 Switch 복각 합본·Steam 단독 / PSP판 없음 | 💎 PS3 기본 후보·PS2 Classics 정식 배포판 | 7.5 | 미부여 |  |
 | [AquaPazza: AquaPlus Dream Match (아쿠아파짜 -아쿠아플러스 드림 매치-)](games/aquapazza-aquaplus-dream-match.md) | 2012 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | MC 75·13평론 / GameSpot 7/10 / GameFAQs Good·144명 / Famitsu 26/40 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BCKS-10223 존재 / PC도 한국어 미지원 | PS3 가정용 확장판·북미 영어판 / 2025 PC 후발 이식은 PS3판 기반 | 🟢 후보 | 7.4 | 25 |  |
 | [Nitroplus Blasterz: Heroines Infinite Duel (니트로플러스 블래스터즈 -히로인즈 인피니트 듀얼-)](games/nitroplus-blasterz-heroines-infinite-duel.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 28/40 / Press Play 7/10 / Steam 90%·1,045평가 참고 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·PS4 크로스플레이 / PC판 최신 아케이드 밸런스·추가 연출·콘솔 DLC 기본 포함 | 🟢 후보 | 7.2 | 30 |  |
 | [Koihime Enbu (연희연무)](games/koihime-enbu.md) | 2016 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 28/40 / GameFAQs Great·16명 / MC PC 68·10평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam 원판·RyoRaiRai·Version 3도 한국어 미지원 | PS3·PS4 가정용판 / PC 원판 / 상위 확장판 RyoRaiRai·Version 3는 장료·가후·서황·곽가 및 시스템 개편 / RyoRaiRai는 원판 별도 Scenario Mode 미수록 | 🟢 후보 | 7.2 | 32 |  |
+| [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 💎 우선 후보 | 7.1 | 33 |  |
 | [Sharin no Kuni, Himawari no Shoujo (차륜의 나라, 해바라기의 소녀)](games/sharin-no-kuni-himawari-no-shoujo.md) | 2013 | 사회파 서스펜스 / 휴먼 드라마·비주얼 노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | Famitsu PS3 32/40·4명 / 전격 PSP 실기 호평 (다른 판본 참고) / 원작 개인평 45/50·1건 (참고) | 2026-10-17 PS3 공식 한국어·완성 패치 미확인 / Windows 원작 2018 한국어 준한글화 완료 등록·아랄트랜스 필요·현행 구동 미검증 | 2005 PC 원작 → 2010 Xbox 360 → 2012 PSP 16:9·법월편 → 2013 PS3 이식판에 콘솔 추가곡·CG 통합 | 💎 사용자 지정 기본 선정·Windows PC 한국어 번역 대안 확인 (신규 한글화 활성 아님) | 8.3 | 미부여 |  |
 
 ## 2026-10-12 신규 PS3 평가 등록: WHITE ALBUM2 행복의 저편
@@ -75,21 +75,17 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 기록 | 58 |
+| 보존 기록 | 57 |
 | 기본 선정 후보 | 30 |
-| 예비 기록 | 28 |
+| 예비 기록 | 27 |
 | 선정 작품성 4.0 이상 | 4 |
 | 선정 한글화 우선도 A | 0 |
 | 선정 한글화 우선도 B | 13 |
 | 선정 한글화 우선도 C | 16 |
 | 사용자 지정 별점 평가 표시 · 한글화 우선도 미부여 | 1 |
 
-최근 갱신: **2026-10-17, 《Soul Nomad & the World Eaters》 일본 PS3 PS2 Classics판 기본 목록 신규 등록·《Dungeons & Dragons: Chronicles of Mystara》 예비 이동. 총 58작품·기본 선정 30·예비 28, 2026-10-08 기존 55작품 순위 불변.**
+최근 갱신: **2026-10-17, 《차륜의 나라, 해바라기의 소녀》를 사용자 요청에 따라 PS3 기본 선정 화면에 표시하고 《XBLAZE Code: Embryo》를 예비로 이동. 총 57작품·기본 선정 30·예비 27, 기존 55작품 개인 순위 변경 없음.**
 
 ## 2026-10-17 《차륜의 나라, 해바라기의 소녀》 PS3판 신규 별점 평가 및 기본 목록 노출 정정
 
 [PS3 상세 평가 4.5/5·개인 추천 8.3/10](games/sharin-no-kuni-himawari-no-shoujo.md)를 **사용자가 지정한 PS3 기본 화면**에 직접 포함했습니다. 이전 예비 목록만 등록했던 것은 표시 위치 오류이므로 정정했습니다. PS3 Famitsu 32/40(4명), 본편+법월편 및 Xbox 360/PSP 추가곡·CG 통합을 반영합니다. Windows 원작의 한국어 준한글화 기록은 별도로 유지하며, **한글화 신규 활성 자격과 무관한 작품 평가 표시 예외**라는 점을 명확히 합니다. 기본 30개 한도를 지키고 다른 문서·개인점수·찜키를 보존하기 위해 기존 개인 34위 《XBLAZE Code: Embryo》(7.1/10·3.5/5·C)를 [PS3 예비 목록](reserve.md)으로 이동했습니다. **총 보존 57건·기본 표시 30건·예비 27건**, 기본 표시 4.0 이상 4건, A 0/B 13/C 16/미부여 1입니다. 2026-10-08 기존 55작품 역사적 순위는 수정하지 않았습니다.
-
-## 2026-10-17 《Soul Nomad & the World Eaters》 일본 PS3 PS2 Classics 신규 등록
-
-[PS3 상세 평가 4.0/5·개인 추천 7.5/10](games/soul-nomad-the-world-eaters-ps2-classics.md)을 사용자 요청에 맞춘 **[PS3 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)**에 추가했습니다. 2014-12-17 일본 PS Store에서 배포된 **PS2 아카이브(NPJD-00066)**입니다. PS3 네이티브 리메이크/PSP판은 존재하지 않으며 PS2 원작의 화면과 본편을 실행하는 상품입니다. [4Gamer PS3 출시 기사](https://www.4gamer.net/games/085/G008540/20141217052/)·[패미통 배포 기록](https://www.famitsu.com/news/201412/17068050.html)으로 대상 기종을 검증했고, PS2판 [Metacritic 73/100·31개 비평](https://www.metacritic.com/game/soul-nomad-and-the-world-eaters/critic-reviews/)을 참고했으나 PS3 전용 리뷰라고 옮기지 않았습니다. 한글화 후보 등록선 3.5를 충족하며 다른 플랫폼의 완성 한국어 대안은 확인되지 않아 한글화 우선도 C로 기재했습니다. 기본 표시 30개 유지로 [《Dungeons & Dragons: Chronicles of Mystara》](games/dungeons-dragons-chronicles-of-mystara.md)는 [PS3 예비](reserve.md)로 이동하되 원래 4.0/5·C급·개인점수 7.1/10·역사 33위·찜 키는 보존했습니다. 현재 **총 58 / 기본 30 / 예비 28**, 기본 별점 4.0 이상 4개·A 0/B 13/C 16/미부여 1개로 유지합니다. 기존 2026-10-08 개인 평가 55개 원장도 변경하지 않았습니다.
