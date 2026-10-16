@@ -32,9 +32,11 @@
 >
 > PS Vita 구역은 **2026-09-20**에 개설했습니다. 사용자가 보내는 제목을 PS Vita판 기준으로 조사하고, **다른 판본의 한국어 대안까지 재확인한 뒤** 기준을 통과한 후보를 누적합니다.
 >
-> PS3는 **57개 기록을 보존**하며, **기본 선정 30개 / 예비 27개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. **2026-10-17 사용자 지정 기본 목록 등록으로 《차륜의 나라》가 기본 30개에 포함됐고 《XBLAZE》가 예비로 이동했으며 원래의 역사적 55작품 순위는 유지합니다.** [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
+> PS3는 **58개 기록을 보존**하며, **기본 선정 30개 / 예비 28개**로 관리합니다. 2026-10-08에 종합 점수·순위를 부여한 기존 55개는 그대로 유지하고 2026-10-12 《WHITE ALBUM2》 PS3판(4.5점, 기존 PC 한국어 대안 확인) 1건은 **새 예비 기록·개인 점수 미산정**으로 등록했습니다. **2026-10-17 사용자 지정 기본 목록 등록으로 《차륜의 나라》가 기본 30개에 포함됐고 《XBLAZE》가 예비로 이동했으며 원래의 역사적 55작품 순위는 유지합니다.** [전체 점수·근거](platforms/ps3/reassessments/2026-10-08-personal-top-30.md) · [예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve).
 >
 > **2026-10-17 기본 화면 노출 정정:** [《차륜의 나라, 해바라기의 소녀》 PS3판](platforms/ps3/games/sharin-no-kuni-himawari-no-shoujo.md)을 사용자가 요청한 [PS3 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)에 **작품성 4.5/5·개인 추천 8.3/10**으로 표시합니다. 최초에 예비에만 등록했던 배치를 수정했고, 기존 **30개 화면 제한**을 위해 [《XBLAZE Code: Embryo》](platforms/ps3/games/xblaze-code-embryo.md)는 예비로 이동했으며 기존 7.1점·34위·평가와 찜 키는 보존했습니다. PSP판은 기존대로 [4.0/5 상세 평가](platforms/psp/games/sharin-no-kuni-himawari-no-shoujo.md)를 보존합니다. PS3 **기본 선정 30개 / 예비 27개 / 총 57개·작품성 4.0 이상 4개**, PSP 보존 46개(활성 31개)입니다. Windows 원작의 한국어 준한글화 기록을 병기하며 PS3 신규 한글화 활성 대상이라고 단정하지 않습니다. 기존 PS3 55작품 개인 순위/2026-10-08 재평가 원장은 수정하지 않았습니다.
+>
+> **2026-10-17 PS3 기본 등록:** [《Soul Nomad & the World Eaters》 PS3 PS2 Classics](platforms/ps3/games/soul-nomad-the-world-eaters-ps2-classics.md)를 **작품성 4.0/5·개인 7.5/10·한글화 우선도 C**로 [PS3 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3)에 추가했습니다. 본 게임은 2007 PS2 원작의 2014년 일본 PS3 아카이브 정식 디지털 배포로, PS3 네이티브 리메이크나 PSP판이 아닙니다. 기존 30개 기본 표시를 유지하기 위해 [《Dungeons & Dragons: Chronicles of Mystara》](platforms/ps3/games/dungeons-dragons-chronicles-of-mystara.md)를 개인 7.1/10·역사 전체 33위·작품성 4.0/5 및 찜 키를 보존한 채 예비로 이동했습니다. 현황 **PS3 총 58건 / 기본 30건 / 예비 28건**, 기존 55개 역사 점수 및 순위 불변. [Switch판 평가 3.5/5](platforms/switch/games/soul-cradle-world-eaters.md)는 별도의 이식판 평가로 유지합니다.
 >
 > PS3 구역은 **2026-10-07**에 개설했습니다. 사용자가 보내는 제목을 PS3판 기준으로 조사하고, 다른 판본의 한국어 대안과 PS3판 자체의 판본 가치를 함께 확인해 후보를 누적합니다.
 >
