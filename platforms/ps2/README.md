@@ -5,7 +5,7 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증)  
+> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인)  
 > 등록·보존 기록: **46개** / 활성 발굴 우선 후보: **8개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
@@ -34,7 +34,7 @@
 | [Mahou Sensei Negima! 1-Jikanme ～Okochama Sensei wa Mahoutsukai!～ (마법선생 네기마! 1교시 ～꼬마 선생님은 마법사!～)](games/mahou-sensei-negima-1-jikanme.md) | 2005 | 학원 육성 시뮬레이션·ADV | ⭐⭐⭐½☆ | B | Joko 공개52건 3.56/5 / Gavas6건(발매 전 기대·소개 포함) / 완료 후기3명 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 두 초기 패키지는 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [Mahou Sensei Negima! 2-Jikanme ～Tatakau Otometachi! Mahora Daiundokai SP!～ (마법선생 네기마! 2교시 ～싸우는 소녀들! 마호라 대운동회 SP～)](games/mahou-sensei-negima-2-jikanme.md) | 2005 | 학원 육성·스포츠축제 ADV | ⭐⭐⭐½☆ | B | Joko 표시59건 3.58/5(내장집계와 불일치) / GameFAQs Great 19표 / 개인 후기3명 교차 | 2026-10-07 공개 확인 못함 | PS2 원판·Best / 금·은메달판은 동봉CD 차이 / 후발 동일본편 확인 못함 | 🟢 후보 |
 | [12RIVEN -the Ψcliminal of integral- (12 리븐)](games/12riven-the-psycliminal-of-integral.md) | 2008 | SF 미스터리·텍스트 ADV | ⭐⭐⭐½☆ | B | Joko 공개 20건 만족도 3.80/5 / 4Gamer 60점·가격.com 4점 각 1건 / 판본별 후기 교차 검토 | 2026-10-07 공개 확인 못함 | PS2 → Windows → PSP CG 보강·신규 영상/주제가 / 대규모 시나리오 추가 미확인 | 🟢 후보 |
-| [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | Famitsu 31/40 / GameFAQs 4.02/5 (24표) / Joko 공개7건 2.29/5 / 양 루트 완료평·초기평 구분 | 2026-10-07 공개 확인 못함 | PS2 오리지널 / 동일 본편 후발 공식판 확인 못함 | 🟢 후보 |
+| [Sacred Blaze (세이크리드 블레이즈)](games/sacred-blaze.md) | 2009 | 판타지·유닛 턴제 택티컬 SRPG | ⭐⭐⭐½☆ | B | PS2 Famitsu 31/40·평론 4명 / GameFAQs Great·24표 / Joko 공개 7건 평균 2.29/5 / 2026 양 루트 완료평 1명과 2009 초기 후기는 구분 | 2026-10-17 PS2 공개 완성 한국어 패치·공식 한국어판 확인 못함 / RetroDB PS2 및 원어·한글·영문 재검색 / 비공개 배포 부재까지 단정 안 함 | 2009 일본 PS2 원작 SLPS-25917 / Flight-Plan 자체 발매 / PSP·PS3·PC 등 동일 본편 공식 이식 확인 못함 / 유사명 Sacred Blade 다른 작품 | 🟢 후보 |
 | [Mana Khemia: Alchemists of Al-Revis (마나케미아: 학원의 연금술사들)](games/mana-khemia-gakuen-no-renkinjutsushitachi.md) | 2007 | 연금술 학원·3+3인 교대 전투·턴제 RPG | ⭐⭐⭐⭐☆ (4.0/5) | B | PS2 Metacritic 69/100·평론가 20명 / RPGFan 90/100 / GameSpot 7.5/10 / RPGamer 3/5·4/5 / 일본 게임카탈로그 良作 | 2024-01-01 SeHwa v0.5 AI 초벌 패치 존재 / 이미지 미번역·검수 미실시·임시 코드 불안정·완성본 아님 | 2007 PS2 일본판 SLPM-66748·2008 영어판 / 2008 PSP PORTABLE+ 추가 요소 있으나 로딩·화면 열화 / PS2 권장 | 💎 우선 후보 |
 | [Mana Khemia 2: Fall of Alchemy (마나케미아 2: 타락한 학원과 연금술사들)](games/mana-khemia-2-ochita-gakuen-to-renkinjutsushi-tachi.md) | 2008 | 학원 연금술·턴제 파티 RPG / 로제·울리카 2주인공 | ⭐⭐⭐⭐☆ (4.0/5) | B | PS2 MC 70/100·평론가 12건 / Famitsu 32/40·4명 / RPGFan 89/100 / RPGamer 2.5/5 | 2026-10-17 2편 공개 완성 한글패치 확인 못함 / SeHwa 2024 v0.5 AI 초벌 한글패치는 1편 전용 | PS2 일본 SLPM-55005·북미 공식 영어 SLUS-21890 / PSP PORTABLE+는 전투원양성소·미디어 인스톨 추가 / PS2 우선 추천 | 💎 우선 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아 ～이 대지의 끝에서～)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2005 | 이세계 소환·전략 SLG/ADV | ⭐⭐⭐⭐☆ | B | 피코피코대백과 4.3/5 (7건) / Joko 3.83/5 (공개 24건) / GameFAQs Great (19표) | 공개적으로 확인되지 않음 | PC 원작 → PS2 확장 → PSP / Special Edition / Premium Special Edition | 💎 우선 후보 |
@@ -192,3 +192,8 @@
 ## 2026-10-17 《달의 빛: 가라앉은 종의 살인》 PS2 원작 직접 후보 등록
 
 [2002-05-23 PS2 일본 원작 SLPS-20196 심층 평가](games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md)를 **PS2 활성 한글화 C급·작품성 3.5/5·리뷰 참고 7.2/10**으로 본 목록에 1건 등록했습니다. 원작의 드뷔시 「달빛」 피아노 오프닝·3D/음향 연출과 후발 2008 DS판의 추가 에필로그·타카다 번외편/키워드 터치 및 일부 영상 삭제를 구분했습니다. PS2 [패미통 발매정보](https://www.famitsu.com/game/title/9803/page/1), [Joko 직접 후기를 2쪽](https://www.joko.jp/ps2/review/ti246.html), [분기/배드엔딩 구조의 장문 후기](https://ameblo.jp/adoventure-kenkyu/entry-10161452569.html)를 근거로 조사했습니다. 다른 플랫폼의 실사용 완성 한국어 패치를 공개적으로 확인하지 못해 후보 자격을 유지하고, **DS 번역 연구가 상대적으로 우선이라 C급**으로 구분했습니다. PSP/PS1/PS3로 착각해 등록하지 않았으며 기존 PS2 기록·리뷰 순위는 모두 유지했습니다. **현행 PS2 보존 46개·활성 우선 8개·A급 6개**, 2026-10-08 역사 재평가 원장 변경 없음.
+
+
+## 2026-10-17 《Sacred Blaze》 기존 PS2 등록·한국어화 재확인
+
+[《Sacred Blaze》 PS2 상세](games/sacred-blaze.md)을 2026-10-17 재검토했습니다. 이미 **2009년 정식 PS2 SLPS-25917의 3.5/5·B급 활성 후보 1건**이 등록돼 있어 중복을 추가하지 않았습니다. [Famitsu 네 평론가 31/40](https://www.famitsu.com/game/title/1336/reviews), [GameFAQs PS2 Great·24표](https://gamefaqs.gamespot.com/ps2/954908-sacred-blaze), [Joko 실제 후기 7건 2.29/5](https://www.joko.jp/ps2/review/ti2509.html)의 양극 평가를 함께 기록해 기존 작품성 3.5/5·리뷰 기반 종합 7.7/10(2026-10-08 공동 8위)을 유지했습니다. [RetroDB PS2 한국어 패치 목록](https://retrodb.info/krpatch?platform=PS2)과 영·한·일 제목 검색에서 적용 가능한 공개 완성 한국어 패치를 새로 확인하지 못했습니다. 비공개·과거 배포의 절대 부재를 단정하지 않고, 실제 게임 파일 미분석으로 기술 난이도는 **미확인**을 유지합니다. **PS2 전체 기록·활성 후보·💎·A급 집계는 이번 검수 전후 변동 없음**. 기존 게임/다른 기종/찜·역사 평가원장은 그대로 보존했습니다.
