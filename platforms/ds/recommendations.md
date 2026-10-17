@@ -1,6 +1,6 @@
 # Nintendo DS 전체 작품 평가
 
-> **2026-10-17 최초 1건 이후 현행 2건**: 기존 다른 플랫폼의 작품별 점수/순위에는 전혀 영향을 주지 않습니다. 닌텐도 DS 작품성 5점 척도, 리뷰 기반 10점 척도 별도 운영. 충분한 자료 없이 외부 수치를 평균해 기계적으로 평가하지 않습니다.
+> **2026-10-17 최초 1건 이후 현행 3건**: 기존 다른 플랫폼의 작품별 점수/순위에는 전혀 영향을 주지 않습니다. 닌텐도 DS 작품성 5점 척도, 리뷰 기반 10점 척도 별도 운영. 충분한 자료 없이 외부 수치를 평균해 기계적으로 평가하지 않습니다.
 
 [DS 후보 목록](README.md) · [웹 기본 DS 화면](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds)
 
@@ -8,8 +8,14 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [Akagawa Jirō Mystery: Tsuki no Hikari - Shizumeru Kane no Satsujin (달의 빛: 가라앉은 종의 살인)](games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md) | 2008 | 학원 미스터리·추리·터치 조사 사운드노벨 | ⭐⭐⭐½☆ 3.5/5 | B | DS GameFAQs Great·11표·11h/8명 / ANTIDOTE 완주평 B+·1명 / 가격.com 3.0/5·1건 | 2026-10-17 PS2·DS 공식 한국어·저작자/적용파일까지 검증된 공개 완성 한글패치 미확인 / 다른 赤川次郎 夜想曲 게임과 혼동 금지 | 2002 PS2 원작 SLPS-20196·원래 영상·드뷔시 달빛 OP → 2008 DS NTR-CJ6J·터치 조사·8 책갈피·타카다 번외편·추가 에필로그 / 영상 일부 삭감·HOTARU OP | 🟢 후보 | 기존 목록 |  | 7.6 | 미산정 | PS2 서사의 축적과 추가 에필로그·타카다 번외편·터치 관계도·8 책갈피가 장점. 일부 원본 영상 삭제·도입부 반복과 후반 오컬트 전개의 취향 차이가 약점. | 근거 충분 |
 | [Akagawa Jirō Mystery: Yasōkyoku - Hon ni Manekareta Satsujin (야상곡: 책에 초대된 살인)](games/akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.md) | 2008 | 죽음의 책·도서관·추리 호러 사운드 노벨·두 편 합본 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 26/40·평론가 4인 / DS GF Playable·17명·23h(7명) / 4Gamer 80/100·1명 / ANTIDOTE B+·완료평 1인 | 2026-10-17 DS NTR-P-YOQJ 직접 한국어 패치 완역 미확인 / RetroDB #5136 표제 달의 빛과 연결 게임 야상곡 출시·설명 충돌 / 적용판·파일 검증 보류 | PS1 1998 야상곡1 + 2001 야상곡2 각 별도 → DS 2008 NTR-P-YOQJ 합본·터치 키워드·인물 관계도 / DS 달의 빛 NTR-P-CJ6J는 별도 게임 | 🟡 사용자 지정 DS 기본 작품 평가·한국어 대안 게임 매핑 검증 보류·신규 번역 활성 제외 | 기존 목록 |  | 7.8 | 미산정 | 원 PS1 2편 합본의 서사량과 미스터리·공포 분위기, 단서 터치·인물 관계 자동 추적이 강점. 분기점 책갈피·반복 스킵 불편과 원본 이미지/시나리오 노후화가 단점. | 근거 충분 |
+| [Another Time Another Leaf: Kagami no Naka no Tantei (어나더 타임 어나더 리프: 거울 속의 탐정)](games/another-time-another-leaf-kagami-no-naka-no-tantei.md) | 2009 | 거울 속 자아·과거 시간 이동·컷 앤드 액션 미스터리 ADV | ⭐⭐⭐☆☆ 3.0/5 | 미부여 | DS Famitsu 29/40(7·8·8·6)·4인 / Bangumi DS 5.4/10·19명 / 첫 완료 10h미만 개인평 1명 / 영어 장문 2~3h 중도 포기 1명 | 2026-10-17 DS 일본 NTR-CMZJ 정식 한국어 지원·제작자/적용판 검증된 공개 완성 한글패치 미확인 | 2009 NDS Killaware·Arc System Works NTR-CMZJ-JPN 오리지널 / LUX-PAIN과 개발팀만 공유·별개 이야기 / 동일 본편 정식 이식 미확인 | 🔴 작품성 기준 3.5 미달·DS 사용자 요청 기본 평가 검토 기록·신규 한국어화 활성 제외 | 기존 목록 | 3.0/5 미달 검토 기록으로만 표시 / A·B·C 우선도 미부여, 신규 번역 활성 후보·사용자 승인 예외 아님 | 6.2 | 미산정 | Cut & Action 대사·배경 절취, 거울 아케하 시간 이동과 인물 시각 표현이 강점. 추리의 지나친 자동 안내·단서 총당식, 반복 대화/이동, 후반 서사의 개연성과 효과음 불일치가 핵심 감점. | 근거 충분 |
 
 
 ## 2026-10-17 《야상곡: 책에 초대된 살인》 DS 합본 1·2편 작품성 등록
 
 [DS 2008 《赤川次郎ミステリー 夜想曲 本に招かれた殺人》](games/akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.md)의 독립 평가를 **3.5/5·7.8/10·신규 순위 미산정**으로 추가했습니다. [Marvelous 공식 DS 합본](https://www.marv.jp/titles/cs/512/)과 [Famitsu 전문 리뷰 26/40·4인](https://www.famitsu.com/game/title/3300/reviews), [GameFAQs DS Playable·17표](https://gamefaqs.gamespot.com/ds/944064-akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin)로 검증했습니다. [RetroDB #5136의 패치 표제 《달의 빛》과 연결된 게임 《야상곡》의 정보가 서로 다름](https://retrodb.info/krpatch/5136/%EC%95%84%EC%B9%B4%EA%B0%80%EC%99%80-%EC%A7%80%EB%A1%9C-%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC-%EB%8B%AC%EC%9D%98-%EB%B9%9B-%EA%B0%80%EB%9D%BC%EC%95%89%EC%9D%80-%EC%A2%85%EC%9D%98-%EC%82%B4%EC%9D%B8)을 공식 두 게임 출시 자료로 검증했지만 실제 배포 파일 적용판은 확인 못했으므로 **한국어화 프로젝트 활성 제외·A/B/C 미부여·자료 보류**합니다. 그러나 DS 작품 목록의 기존 목록에 점수는 표시합니다. 기존 **《달의 빛》 3.5/5·7.6/10·B급 활성 번역 후보**는 그대로 유지했습니다. **DS 현행 2건 / 기본 표시 2건 / 신규 한글화 활성 1건 / 발굴 우선 0 / A 0**. 타 플랫폼 원순위·찜 데이터 불변.
+
+
+## 2026-10-17 《Another Time Another Leaf》 DS 작품 평가 미선정 보존
+
+[2009 NDS 원작 《어나더 타임 어나더 리프: 거울 속의 탐정》](games/another-time-another-leaf-kagami-no-naka-no-tantei.md) **작품성 ⭐⭐⭐☆☆ 3.0/5·별도 정성 리뷰 6.2/10**. [Famitsu 29/40 (4명)](https://www.famitsu.com/game/title/1809/reviews)는 두 시스템과 일상 미스터리의 독특한 발상을 긍정한 반면, [Bangumi 5.4/10·19명](https://bangumi.tv/subject/67201), [일본 게임카탈로그 비평](https://w.atwiki.jp/gcmatome/pages/698.html), [일본 첫 완료 보고](https://w.atwiki.jp/ggame/pages/148.html), [영어권 비완주 독립 비평](https://www.tehvidya.com/another-time-another-leaf-kagami-no-naka-no-tantei/)에서는 낮은 추리 난도와 반복·후반부 설득력 부족을 지적했습니다. NTR-CMZJ 2009 Nintendo DS 정식판이 유일하게 확인된 공식 발매 버전이며, 공개 한국어 완역 패치는 2026-10-17 기준 확인 못했습니다. **3.5 작품성 등록 하한에 미달해 🔴 신규 한국어화 활성 번역 대상에서 제외, 우선도 A/B/C 미부여**로 기록합니다. 그러나 사용자 제목별 평가를 이어갈 수 있도록 DS 웹 **기존 목록의 비활성 평가 기록 1행**으로 남기며, 이는 정식 한글화 후보 예외 승인이 아닙니다. 기존 《달의 빛》 7.6/10·B급, 《야상곡》 7.8/10·한국어 대안 검증 보류 유지. DS 총 작품 평가 **3건**, 실제 신규 한국어화 활성 **1건**, 역사 순위·타 플랫폼·찜키 무변경.
