@@ -11,8 +11,8 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 2 | 43 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 46 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation 2 | 44 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation Portable | 47 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
@@ -24,13 +24,15 @@
 >
 > **2026-10-17 PS2 기종 분류 정정:** [《Soul Nomad & the World Eaters / 소울 크레이들: 세계를 먹는 자》](platforms/ps2/games/soul-nomad-the-world-eaters.md)를 **2007년 PS2 원작**으로 [PS2 기본 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2)에 **⭐⭐⭐⭐☆ 4.0/5·개인 편집 참고 7.5/10·한글화 B급**으로 등록했습니다. PS3에서 판매됐던 것은 PS2 Classics 디지털 배포판이므로 이전의 잘못된 PS3 분류는 삭제했으며, 그로 인해 밀린 [《Dungeons & Dragons: Chronicles of Mystara》](platforms/ps3/games/dungeons-dragons-chronicles-of-mystara.md)를 PS3 기본 목록에 복구했습니다. PS2 **43개·💎 8개·A급 6개**, PS3 **총 57개(기본 30·예비 27)**입니다. [Switch판 상세 평가](platforms/switch/games/soul-cradle-world-eaters.md)는 별도로 유지합니다.
 >
-> PSP 보존 46개 중 활성 후보는 **30개**, 한국어 대안·재평가 보류 **13개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
+> PSP 보존 47개 중 활성 후보는 **30개**, 한국어 대안·재평가 보류 **13개**, 등록선 미달 기록 2개, **사용자 승인 3.0점 예외 1개**입니다. 발굴 우선 후보는 **5개**, A급 **3개**이며 일반 등록 하한은 **3.5/5**로 유지합니다. **2026-10-12 《Rebellions》 Windows 한글판 실행·패치출처 복구 기록 발견**으로 해당 PSP 신규 한글화 자격을 [한국어 대안 검증 보류](platforms/psp/games/rebellions-secret-game-2nd-stage.md)로 전환했고, 기존 4.0/5 작품성·2026-10-08 평가 원장은 보존했습니다. **2026-10-12에는 [《MISSINGPARTS the TANTEI stories Complete》](platforms/psp/games/missingparts-the-tantei-stories-complete.md)를 PSP 3.5/5·B급 활성 후보로 신규 등록했습니다.** 2026-09-24 Dreamcast 첫 분할본의 한국어 패치 등록은 발견했으나 PSP 합본 전 6화와 추가편의 한국어 완성 대안인지는 검증되지 않았습니다. **[《영원의 아세리아》](platforms/psp/games/eien-no-aselia-kono-daichi-no-hate-de.md)는 기존 상세 문서를 보강하고, PSP C급(3.5/5) 활성 후보 목록에 반영했습니다.** 공식 영어 PC판은 있으나 한국어 완성 대안은 확인되지 않았습니다.
 >
 > **2026-10-16 PSP 현행 등록:** 상세 문서가 이미 있던 [《Routes Portable》](platforms/psp/games/routes-portable.md)을 누락된 PSP 후보 표에 **3.5/5·B급**으로 복구했습니다. Windows 구작의 2025년 AI 한국어 패치는 확인했으나 PSP 확장 리메이크판에는 추가 루트·후일담·풀보이스 등 독자 콘텐츠가 있어 구작 패치 예외를 적용했습니다. 현행 **45개 보존·31개 활성·💎 5개·🔥 A 3개**입니다.
 >
 > **2026-10-17 PSP 한국어 대안 재검증:** [《스즈미야 하루히의 추상》 PSP판](platforms/psp/games/suzumiya-haruhi-no-tsuisou.md)은 **이미 등록된 3.5/5·리뷰 7.7/10 작품**입니다. 2026-09-04 [레트로게임기 커뮤니티의 정확한 《추상》 PSP 한글패치 게시물](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=214388)이 [제작자 블로그](https://m.blog.naver.com/sanholo34/224400311498)를 연결하는 것을 확인해 과거 '한국어 패치 미발견' 기록을 정정했습니다. 원문 접근 제한으로 실사용 패치 배포·범위·완성도를 검증하지 못해 **🟡 한국어 대안 검증 보류**로 재분류했습니다. 작품성·원평점과 PSP 게임 상세 문서·기존 사이트 목록은 유지합니다. **PSP 보존 46 / 한글화 활성 후보 30 / 검증 보류 13 / 등록선 미달 2 / 사용자 예외 1 / 💎 5 / 🔥 A 3**. 사이트 '전체 작품 평가'에서는 계속 확인할 수 있고 '기존 목록' 대신 '후보군'에 분류합니다.
 >
 > PSP 구역은 **2026-09-16**에 시작했으며, 같은 등록 하한과 평가 축으로 후보를 누적합니다.
+>
+> **2026-10-17 《AIR》 PS2·PSP 평가 등록:** [2002년 PS2 《AIR》](platforms/ps2/games/air.md) 작품성 **4.0/5·리뷰 8.1/10**, [2007년 PSP 《AIR》](platforms/psp/games/air.md) 작품성 **4.0/5·리뷰 7.9/10**을 원 발매 기종별 상세 파일 및 웹 평가 목록에 각각 1건씩 추가했습니다. [ANIS 공식 2026-10-17 2차 한글패치 v1.2.0](https://krmod.anis.co.kr/patch/air)은 **PS2 SLPS-25127 베타·PSP ULJM05282 v1.02**를 지원하나 사람의 번역 전수 교정·전 엔딩·실기 검수는 미완료입니다. PC Standard/Memorial Edition 한글화 대안도 있어 **신규 한글화 활성 후보에서 제외하고 전체 작품 평가 '후보군'에 보존**합니다. PS2 기록 **44개**(활성 우선 8·A 6), PSP 기록 **47개**(활성 30·활성 우선 5·A 3). 이전 평가 순위와 다른 플랫폼 파일·웹사이트 코드는 보존했습니다.
 >
 > PS Vita 보존 **37개** 중 활성 후보는 **31개**, 등록선 미달 기록은 **4개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **7개**, A 3 / B 14 / C 14입니다. **2026-10-15 《ChuSingura46+1 V》를 사용자 승인 B급 특채 활성 후보로 등록**했습니다. PC AI 번역본 배포 제보의 확인 한계와 Vita 한글패치 상태는 분리 기록합니다. 2026-10-13 [아마츠츠미](platforms/psvita/games/amatsutsumi.md)를 4.0점 B급 활성 후보로 추가했습니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
