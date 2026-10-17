@@ -3,8 +3,8 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **59개** / 기본 선정: **30개** / 예비 기록: **29개**  
-> 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 15 · C 14 · 작품 평가만 표시(우선도 미부여) 1개
+> 기록 보존: **60개** / 기본 선정: **30개** / 예비 기록: **30개**  
+> 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 16 · C 13 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
 
@@ -33,6 +33,7 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 | [Sengoku Hime 5: Senka Tatsu Haou no Keifu (센고쿠히메 5: 전화를 끊는 패왕의 계보)](games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) | 2015 | 미소녀 ADV + 전국시대 전략 시뮬레이션 | ⭐⭐⭐½☆ 3.5/5 | B | Vita Famitsu 약 24/40 / PS3 GameFAQs Great·3명 / PS4 Store 4.51·65평가 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 주요 판본 모두 일본어 | PS3판은 추가 시나리오 3개 기본 수록 기록 / PS4 일부 루트 DLC / PC 강화판·Ultra Deluxe 존재 | 🟢 후보 | 7.3 | 26 |  |
 | [Wizardry Perfect Pack (위저드리 퍼펙트 팩)](games/wizardry-perfect-pack.md) | 2011 | 1인칭 3D 던전 크롤러 RPG / 턴제 RPG·합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·3명 / 수록작 MC 61·9평론 / GameSpot 7.5/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / PC Labyrinth도 한국어 미지원 | PS3 집대성 합본 / 두 작품+추가 시나리오+신규 잔혼의 미궁 / Vita Total Pack은 잔혼의 미궁 수록 미확인 | 🟢 후보 | 7.3 | 29 |  |
 | [Muv-Luv Alternative: Total Eclipse (마브러브 얼터너티브: 토탈 이클립스)](games/muv-luv-alternative-total-eclipse.md) | 2013 | SF·군사·정치극 / 메카 시네마틱 연출·장편 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Famitsu PS3 30/40·4명 / GameFAQs PS3 3.98/5·29명·30h/19명 / 4Gamer 35/100·1명 / Steam 영어 Remastered 94%·250명은 별도 | 2026-10-17 PS3 BLJM-60579 공식 한국어·공개 완성 한국어 패치 미확인 / Steam 2022 Remastered 일본어·영어만 공식 지원 | 2013 PS3·Xbox360 본편 동시 발매 / 2014 PC 일본판에 전일담 帝都燃ゆ / 2022 Steam Remastered 영어 본편·전일담 별도 2023 | 💎 PS3 기본 선정·긴 SF 군사 VN 한글화 B급 | 8.1 | 미부여 |  |
+| [Muv-Luv photonflowers* (마브러브 포톤플라워즈)](games/muv-luv-photonflowers.md) | 2014 | SF·연애·군사 외전 12편 합본 / 키네틱 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | PS3 GameFAQs Outstanding·20표 / PS3 25h·15명 / PS3 Kakaku 기명 전문후기 4/5·1명 / Steam 2019 영어판 95%·241건은 타판 | 2026-10-17 PS3 일본 BLJM-61175 공식 한국어·공개 완성 한글패치 확인 못함 / Steam PC 2019 일·영어만 / 2026 PC 중국어 BETA는 한국어 아님 | 2014 PS3 최초 7묶음·12단편(Extra 7+Alternative 5) / 2019 Steam 공식 영어 동일 외전 계열 / 2014 PS3 photonmelodies♮는 별개 3외전 합본 | 🟢 PS3 기본 선정·한글화 B급 후보 | 7.7 | 미부여 |  |
 | [Maji de Watashi ni Koi Shinasai! R (진심으로 날 사랑해라! R)](games/maji-de-watashi-ni-koi-shinasai-r.md) | 2012 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 萌えゲーアワード 원작 은상·시나리오 금상 / VNDB 8.4 참고 / PS3 직접 평점 표본 극소 | 2026-10-07 공식 한국어판·공개 완성 한글패치 확인 못함 / Steam 공식 영어판은 한국어 미지원 | PC 원작의 PS3 전연령 이식 / 720p·16:9 / 마작·카와카미 대전 추가 / 2021 PC 공식 영어판 | 🟢 후보 | 8.5 | 5 |  |
 | [Kidou Senshi Gundam: Extreme VS Full Boost (기동전사 건담 익스트림 버서스 풀부스트)](games/kidou-senshi-gundam-extreme-vs-full-boost.md) | 2014 | 2 on 2 팀 배틀 액션 / 3D 대전 액션 | ⭐⭐⭐⭐☆ 4.0/5 | C | Famitsu 36/40 / GameFAQs Outstanding·198명 / Push Square 4.2·6명 | 2026-10-07 공개 한국어 패치 확인 못함 / 한국 지역판 BLKS-20461은 존재하나 한국어 지원 근거 미확인 | 아케이드 원작 이식 + PS3 전용 Full Boost Mission / 후속 PS4 Maxi Boost ON 공식 한국어 | 💎 우선 후보 | 8.2 | 10 |  |
 | [Battle Princess of Arcadias (아르카디아스의 전희)](games/battle-princess-of-arcadias.md) | 2013 | 횡스크롤 액션 RPG / 2D 벨트스크롤·병단 전투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 69·22평론 / Famitsu 28/40 / GameFAQs Good·77명 | 2026-10-07 한국 정발 일본어 / 공식 한국어판·공개 한글패치 확인 못함 / BLJS-10224 중국어 완전패치 사례 | PS3 독점 / 북미·유럽 공식 영어 DL판 / 후발 이식·리마스터 확인 못함 | 🟢 후보 | 8.1 | 12 |  |
@@ -46,7 +47,6 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 | [Dengeki Bunko: Fighting Climax Ignition (전격문고 FIGHTING CLIMAX IGNITION)](games/dengeki-bunko-fighting-climax-ignition.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 32/40 / GameFAQs Great·17명 / 플레이타임 43시간·9명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 비공식 영문패치 기록만 확인 | 전작 확장 독립판 / PS4·PS3 크로스플레이 / PS Vita 동시판 / Yuuki·Ako DLC | 🟢 후보 | 7.6 | 23 |  |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2011 | 서스펜스 픽션 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | 4Gamer 81·3명 / GameFAQs Good·11명 / Bangumi 6.5·30명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 | PS3·Xbox 360 원판 / PSP 강화 이식은 과거편·후일담+신규 CG 추가 | 🟢 후보 | 7.5 | 24 |  |
 | [AquaPazza: AquaPlus Dream Match (아쿠아파짜 -아쿠아플러스 드림 매치-)](games/aquapazza-aquaplus-dream-match.md) | 2012 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | MC 75·13평론 / GameSpot 7/10 / GameFAQs Good·144명 / Famitsu 26/40 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 지역판 BCKS-10223 존재 / PC도 한국어 미지원 | PS3 가정용 확장판·북미 영어판 / 2025 PC 후발 이식은 PS3판 기반 | 🟢 후보 | 7.4 | 25 |  |
-| [Nitroplus Blasterz: Heroines Infinite Duel (니트로플러스 블래스터즈 -히로인즈 인피니트 듀얼-)](games/nitroplus-blasterz-heroines-infinite-duel.md) | 2015 | 2D 대전 격투 / 크로스오버 캐릭터 배틀 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 28/40 / Press Play 7/10 / Steam 90%·1,045평가 참고 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·PS4 크로스플레이 / PC판 최신 아케이드 밸런스·추가 연출·콘솔 DLC 기본 포함 | 🟢 후보 | 7.2 | 30 |  |
 | [Sharin no Kuni, Himawari no Shoujo (차륜의 나라, 해바라기의 소녀)](games/sharin-no-kuni-himawari-no-shoujo.md) | 2013 | 사회파 서스펜스 / 휴먼 드라마·비주얼 노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | Famitsu PS3 32/40·4명 / 전격 PSP 실기 호평 (다른 판본 참고) / 원작 개인평 45/50·1건 (참고) | 2026-10-17 PS3 공식 한국어·완성 패치 미확인 / Windows 원작 2018 한국어 준한글화 완료 등록·아랄트랜스 필요·현행 구동 미검증 | 2005 PC 원작 → 2010 Xbox 360 → 2012 PSP 16:9·법월편 → 2013 PS3 이식판에 콘솔 추가곡·CG 통합 | 💎 사용자 지정 기본 선정·Windows PC 한국어 번역 대안 확인 (신규 한글화 활성 아님) | 8.3 | 미부여 |  |
 
 ## 2026-10-12 신규 PS3 평가 등록: WHITE ALBUM2 행복의 저편
@@ -77,13 +77,13 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 기록 | 59 |
+| 보존 기록 | 60 |
 | 기본 선정 후보 | 30 |
-| 예비 기록 | 29 |
+| 예비 기록 | 30 |
 | 선정 작품성 4.0 이상 | 4 |
 | 선정 한글화 우선도 A | 0 |
-| 선정 한글화 우선도 B | 15 |
-| 선정 한글화 우선도 C | 14 |
+| 선정 한글화 우선도 B | 16 |
+| 선정 한글화 우선도 C | 13 |
 | 사용자 지정 별점 평가 표시 · 한글화 우선도 미부여 | 1 |
 
 최근 갱신: **2026-10-17, 《차륜의 나라, 해바라기의 소녀》를 사용자 요청에 따라 PS3 기본 선정 화면에 표시하고 《XBLAZE Code: Embryo》를 예비로 이동. 총 57작품·기본 선정 30·예비 27, 기존 55작품 개인 순위 변경 없음.**
@@ -108,3 +108,11 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 [2013 PS3 《토탈 이클립스》 전체 상세 평가](games/muv-luv-alternative-total-eclipse.md)를 **PS3 기본 선정 30개**에 **작품성 4.0/5·개인 8.1/10·한글화 우선도 B**로 등록했습니다. 2013-05-16 정식 PS3 게임 패키지 코드 **BLJM-60579**, PS Store **NPJB-00314**이고, 2012 PS3 《Muv-Luv Alternative》 삼부작 본편 및 2014 PS3 《photonmelodies》와는 별개입니다. [Famitsu PS3 평론 30/40](https://www.famitsu.com/game/title/27895/reviews), [GameFAQs PS3 이용자 3.98/5·29표/30시간·19명](https://gamefaqs.gamespot.com/ps3/675516-muv-luv-alternative-total-eclipse/stats), [4Gamer PS3 35/100·1명](https://www.4gamer.net/games/174/G017444/)을 구분했습니다. 2013 [MAGES 공식 PS3 XMB 앨범/음성 패치](https://blog.mages.co.jp/muvluv/) 기록과 [2022 Steam 영어 Remastered 본편만 수록·한국어 미지원](https://store.steampowered.com/app/787510/MuvLuv_Alternative_Total_Eclipse_Remastered/?l=koreana)도 비교했습니다.
 
 **기존 30개 표시 한도 유지:** 개인 기존 33위·7.1/10·작품성 4.0/5·한글화 C급의 [《Dungeons & Dragons: Chronicles of Mystara》](games/dungeons-dragons-chronicles-of-mystara.md)를 [PS3 예비](reserve.md)로 이동하되 점수·역사 순위·상세 문서·찜 식별자는 손대지 않았습니다. 현황 **총 보존 59 / 기본 30 / 예비 29**, 기본 4.0 이상 4건, A 0/B 15/C 14/미부여 1건. 2026-10-08 역사적 55개 순위 원장은 불변입니다.
+
+## 2026-10-17 《Muv-Luv photonflowers*》 PS3 최초 발매판 신규 기본 선정
+
+[2014년 PS3 《마브러브 포톤플라워즈》 심층 평가](games/muv-luv-photonflowers.md)를 **PS3 기본 30개 목록**에 **작품성 3.5/5·개인 신규 7.7/10·한글화 우선도 B급**으로 등록했습니다. **2014-04-24 5pb. PS3 네이티브 게임 BLJM-61175**이며 2019년 PC Steam판이 본 게임 12단편의 정식 영어 번역을 제공하는 후발판입니다. 《photonmelodies♮》의 3외전 합본과 별도입니다.
+
+[2014 5pb. 공식 사이트의 7수록 묶음·12단편 목록과 실게임 화면](https://game.mages.co.jp/muvluv/fm/flowers/sp/), [PS3 GameFAQs Outstanding 20표·25시간/15명](https://gamefaqs.gamespot.com/ps3/774736-muv-luv-photonflowers), [2017 Kakaku 전문 기명 평론 4/5·1명](https://review.kakaku.com/review/K0000611620/), [2014 PS3 당시 개별 감상](https://02memo.seesaa.net/article/395524798.html)을 교차 확인했습니다. [2019 PC Steam](https://store.steampowered.com/app/889700/MuvLuv_photonflowers/?l=koreana)은 공식 영어·일본어를 지원하지만 **한국어 미지원**, PC 중국어 BETA 번역은 한국어 대안이 아니므로 한국어화 신규 후보 자격을 유지했습니다. 방대한 분기 게임이 아닌 12편 거의 무선택 읽기형이며 작품성 3.5점은 개별 단편 편차·원작을 먼저 읽어야 하는 장벽과 좋은 외전 서사의 대비를 반영합니다.
+
+**기본 표시 30개 유지:** 기존 2026-10-08 개인 30위 《Nitroplus Blasterz: Heroines Infinite Duel》(별점 3.5/5·개인 7.2/10·C급)을 [예비 목록](reserve.md)으로 이동하며 기존 **평가 문서·찜 식별자·7.2점·30위는 원상 보존**합니다. 총 **60개(기본 30·예비 30)**, 기본 작품성 4.0 이상 4개, A 0/B 16/C 13/미부여 1개. 기존 55개 역사 순위 원장 및 기존 《photonmelodies♮》·《Total Eclipse》 등록은 불변입니다.
