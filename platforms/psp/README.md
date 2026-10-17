@@ -5,7 +5,7 @@
 PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 가치·한국어 접근성·후발 이식 여부를 별도로 확인합니다. 한글화 기술 난이도는 실제 게임 파일 또는 신뢰할 만한 해당 판본 기술 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인)  
+> 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
 > 보존 항목: **49개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
@@ -30,7 +30,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Arcana Famiglia: Vascello Phantasma no Majutsushi (아르카나 파밀리아 유령선의 마술사)](games/arcana-famiglia-vascello-phantasma-no-majutsushi.md) | 2012 | 오토메 비주얼 노벨·연애 ADV·후속 스페셜 디스크 | ⭐⭐⭐⭐☆ | B | Bangumi 7.4/10 (59표) / Play-Asia 4/5 (평가 4개·본문 1개) / 독립 서술평 5명 | 2026-10-08 기준 공개 PSP 한국어 패치 확인 못함 | PSP 후속 스페셜 디스크 / 2015 Vita Ancora·2025 Switch·2026 Steam Rinato는 본편 계열 / 직접 현대 이식 확인 못함 | 💎 우선 후보 |
 | [ARMEN NOIR portable (아멘 느와르 포터블)](games/armen-noir-portable.md) | 2012 | 디스토피아 연애 ADV·오토메 비주얼 노벨 | ⭐⭐⭐½☆ | B | PSP GameFAQs 2.97/5 (15명)·23.3h (9명) / Bangumi 6.4/10 (70표) / PSP 실플레이 글 4명: 연출 호평·반복 편의성 비판 | 2026-10-08 기준 PSP·PS2 공개 한국어 게임 대안 확인 못함 / 한국어 기념 SS 번역과 2014 번역 기술 문의는 본편 패치와 구분 | 2010 PS2 원작 → 2012 PSP 시나리오·입식·시스템 보강 / 직접 현대 이식 확인 못함 | 🟢 후보 |
 | [Boku wa Tomodachi ga Sukunai Portable (나는 친구가 적다 포터블)](games/boku-wa-tomodachi-ga-sukunai-portable.md) | 2012 | 학원 러브코미디 ADV·비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs 4.00/5·34표 / 4Gamer 95/100·1건 / 価格.com 5/5·1건 / 독립 완주 감상 교차 확인 | 2026-10-08 기준 공개적으로 확인되지 않음 | PSP 본편 / 한정판 별도 PSP 게임 동봉 / iP는 체험·캐릭터 앱 / 직접 후발 이식·실사용 한국어 대안 확인 못함 | 🟢 후보 |
-| [Bullet Butlers: Juudan no Kanata (불릿 버틀러스 ～총탄의 저편～)](games/bullet-butlers-juudan-no-kanata.md) | 2012 | 총·마법·집사 판타지 ADV | ⭐⭐⭐½☆ | B | 본문 7건(PSP 1·PC 5·판본 미명시 1) / PSP GameFAQs Poor·10표, PC Good·7표 / VNDB 재인용 7.26·83표 | 2026-10-08 PSP·PC·재발매 공식 한국어·검증된 공개 한글패치 미확인 | PC 성인용 원작 → PSP CERO C 추가 에피소드·CG / 2023 PC 합본 / 크로노벨트는 별개 | 🟢 후보 |
+| [Bullet Butlers: Juudan no Kanata (불릿 버틀러스 ～총탄의 저편～)](games/bullet-butlers-juudan-no-kanata.md) | 2012 | 총·마법·집사 판타지 ADV | ⭐⭐⭐½☆ | B | PSP 완주 서술 1명·PC 서술 5명·판본 미명시 1명 / PSP GameFAQs Poor·10표 / VNDB 계열 통합 7.26/10·83표 (PSP만 아님) | 2026-10-17 PSP·PC·2023 합본 한국어 공식판·공개 완성 한글패치 확인 못함 / PC 2007 v1.02 업데이트는 한국어 패치 아님 | 2007 PC propeller 원작 → 2012 PSP ULJM-05941 CERO C 추가 에피소드·CG / 2012 ChronoBelt 트리플팩 / 2023 PC 원작 합본은 PSP 추가분 동일성 미확인 | 🟢 후보 |
 | [Dead End: Orchestral Manoeuvres in the Dead End (데드엔드)](games/dead-end-orchestral-manoeuvres-in-the-dead-end.md) | 2011 | 디지털 게임북·호러 ADV | ⭐⭐⭐½☆ | B | Famitsu28/40·4명 / 플레이 관련 본문7개 / Play-Asia5/5·5평가·본문0 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작 / 다운로드2011-12-01 / 현대 직접 이식 미확인 | 🟢 후보 |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2012 | 서스펜스 픽션 ADV·SF 비주얼노벨 | ⭐⭐⭐½☆ | B | PSP GameFAQs 3.21/5·12표 / Bangumi 6.5/10·30표(판본 통합) / PS3 4Gamer 81/100·3건 / PSP 본문평 2명 | 2026-10-08 기준 공개적으로 확인되지 않음 | 2011 PS3·Xbox 360 원작 / 2012 PSP 추가 시나리오 2편·신규 CG / 2013 PSP DL판 / 직접 현대 이식 미확인 | 🟢 후보 |
 | [Gallery Fake (갤러리 페이크)](games/gallery-fake.md) | 2005 | 미술품 미스터리 ADV·추리 비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good·6표 / Amazon 4.4/5·9평가 / 개인 리뷰 5/10·1편 / 완주평은 이야기 호평·판정 안내 비판 | 2026-10-08 기준 공식·공개 PSP 한국어판·부분·기계번역·과거 배포 기록 확인 못함 / 중국어 완역 과거 이력 | PSP 원작·8장 중 대부분 게임 오리지널 / 직접 이식·확장·리메이크·타 기종 한국어 대안 확인 못함 | 🟢 후보 |
@@ -194,3 +194,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 [기존 PSP 본편+팬디스크 통합판 《MagusTale Eternity》](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md)는 사용자의 제목별 등록 요청에 따라 **2026-10-04 압축에서 예비 후보군으로 분류됐던 기존 3.5/5·B급 작품을 활성 PSP 후보로 복귀**시켰다. 별도 상세 MD를 새로 만들지 않고 원문과 평가 근거를 2026-10-17 기준 갱신했다. PSP GameFAQs **Fair·7표**, GAMEMAN **8.1/10(서술 리뷰 0)**, Play-Asia **5/5·5건**, PSP 완주 개인평 **88/100**, 기존 리뷰 기반 **7.4/10(2026-10-08 원장 공동 28위, 현행 웹 표 공동 27위)**를 판본·표본별로 구분해 작품성 3.5를 유지했다. 한국어판/검증된 공개 완역 PSP·PC 한글패치는 2026-10-17 기준 찾지 못했으며, [2015-02-18 PSP 중국어 간체 완역 원 배포 기록](https://bbs2.seikuu.com/thread-139177-1-1.html)은 **한국어 대안이 아니다**. PSP 독자 추가 시나리오·CG가 있어 단순 PC 원작 중복 이식과 구별한다. **PSP 현행 보존 49개 / 활성 31개 / 💎 우선 5개 / 🔥 A 3개**. 2026-10-08 역사 리뷰 원장·다른 작품의 점수/우선도/기존 순위를 변경하지 않았다.
 
+
+
+## 2026-10-17 《Bullet Butlers》 PSP 기존 활성 후보 보강
+
+[PSP판 《Bullet Butlers -銃弾の彼方-》](games/bullet-butlers-juudan-no-kanata.md)의 기존 **3.5/5·B급 활성 후보**와 웹 리뷰 **잠정 7.5/10**을 그대로 유지했습니다. 동종족·마법·과학이 혼합된 도시에서 하프엘프 집사 릭이 주인 셀마를 지키는 원작 설정과 PSP 주요 인물 루트 구조를 스포일러 없이 보강했습니다. **2026-10-17 재조회 기준** PSP·2007 Windows 원판·2023 PC 합본에서 검증 가능한 공개 완역 한국어 패치를 찾지 못했으며, [propeller 공식 v1.02](https://www.propeller-game.com/product/bb/html/top.html)는 일본어 원판의 기술 수정입니다. [작품 통합 원평점·언어 정보](https://vnclub.org/vn/v445/)는 PSP만의 점수로 사용하지 않습니다. PSP 제품 코드는 [ULJM-05941](https://gamefaqs.gamespot.com/psp/629354-bullet-butlers-juudan-no-kanata/data)이며 2007 PC 원작과 구별했습니다. 기존 **PSP 기록 49개 / 활성 31개 / 💎 5개 / 🔥 A 3개** 및 타 작품·역사 리뷰 원장을 변경하지 않았습니다.
