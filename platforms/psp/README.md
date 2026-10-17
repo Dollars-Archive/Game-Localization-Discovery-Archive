@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
-> 보존 항목: **52개** / 활성 후보: **32개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **53개** / 활성 후보: **33개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -51,6 +51,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Routes Portable (루츠 포터블)](games/routes-portable.md) | 2007 | 첩보 액션·학원 연애·전기 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Playable (9표) / GAMEMAN 8.2/10 (서술 리뷰 0) / 일본 게임카탈로그 정성평 | 2026-10-16 PSP 한국어 패치 미확인 / 2003 PC 원작 AI 한글패치 v1.04 확인 | 2003 Windows 원작(한국어 AI 패치) → 2007 PS2 PE·PSP 확장 리메이크 / 신규 후미츠키 루트·풀보이스·추가 CG·후일담 | 🟢 후보 |
 | [MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai (마기우스테일 이터니티: 세계수와 사랑하는 마법사)](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md) | 2009 | 마법학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·7표 / GAMEMAN 8.1/10·리뷰 0 / Play-Asia 5/5·5건·서술 1 / PSP 완주평 88/100·1명 | 2026-10-17 PSP·PC 한국어 공식판·검증된 공개 완역 한글패치 확인 못함 / PSP 중국어 완역은 2015-02-18 공개·한국어 아님 | PC 2007 본편 + 2008 Infinity → 2009 PSP Eternity 본편·후일담·IF·PSP 독자 시나리오/CG / PC W-Pack은 원래 성인 콘텐츠 보존 | 🟢 후보 |
 | [Suigetsu Portable (수월 포터블)](games/suigetsu-portable.md) | 2008 | 전기·민속학 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs 3.17/5·15명·10.5시간/8명 / GAMEMAN 8.1/10·서술리뷰 0 / PC 원작 게임카탈로그 良作 | 2026-10-17 PS2 SLPM-65751·PSP ULJM-05346·2002 PC·2023 Grand Package 공식 한국어·검증된 공개 완성 한글패치 미발견 / 비공개·미등록 작업 부재 단정 불가 | 2002 PC 원작·みずかべ → 2004 PS2/DC 迷心 음성·CG·시나리오·미즈카베 보강 → 2008 PSP Portable 16:9·노벨 UI → 2023 PC Grand Package | 🟢 PSP 활성 B급·추가분/휴대성 보존 |
+| [Shirokuma Belles Stars: Happy Holidays! (시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~)](games/shirokuma-belles-stars-happy-holidays.md) | 2012 | 산타/토나카이 직업 판타지·겨울 연애 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP 4Gamer 독립 평가 0·Famitsu 개별 점수 없음 / PC 원작 ErogameScape 과거 중앙값 80·141건 / PC 완주 8/10·1건 | 2026-10-17 PSP ULJM-06111·2009 PC 원작 정식 한국어·검증된 공개 완역 패치 미발견 / 2011 PC 번체 중국어는 한국어 아님 | 2009 PC PULLTOP 원작 → 2012 PSP ULJM-06111 전연령 확장·새 로맨스/서브 시나리오·신규 CG/OP·16:9·백점프 | 🟢 PSP 기본 활성 B급·콘솔 추가 시나리오 보존 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
@@ -217,3 +218,7 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-17 《Suigetsu Portable》 기존 상세·평가 보존, 활성 B급 재선정
 
 [PSP 2008 ULJM-05346 기존 상세](games/suigetsu-portable.md)를 다시 검토하고 **3.5/5·한글화 B급·기존 잠정 7.0/10**은 그대로 유지했습니다. 2026-10-04 목록 정원 압축 당시 PSP 전체 평가의 후보군으로 이동했던 것을 이번 작품별 검토로 **활성 기본 기존 목록에 1회 복귀**시키며 상세 파일·127개 평가표에 중복 신규 행을 만들지 않았습니다. 16:9·PC식 노벨 표시·PS2 콘솔 가필과 みずかべ 계승은 장점이나 [GameFAQs 직접 3.17/5·15명·10.5시간/8명](https://gamefaqs.gamespot.com/psp/945189-suigetsu-portable/stats) 및 느린 로딩·스킵은 감점했습니다. [F&C 2023 Windows Grand Package](https://fandc.co.jp/suigetsu_gp/main.php)는 고해상도/현대 OS 이점이 있어도 PSP 고유 추가분의 완전한 번역 대안/상위호환·한국어 지원이라는 뜻은 아닙니다. 공개 완성 한국어 번역 확인되지 않아 **PSP 활성 B급**. PSP **보존 52·활성 32·💎 5·A급 3**, 이전 역사 원장·평점 보존.
+
+## 2026-10-17 Shirokuma Belles Stars PSP 활성 B급 기본 목록 복귀
+
+[기존 PSP 평가 상세](games/shirokuma-belles-stars-happy-holidays.md)의 작품성 3.5/5, 기존 잠정 리뷰 7.5/10(현재 공동 16위), 한글화 우선도 B를 유지하면서 종전 후보군에서 PSP 기본 기존 목록에 1개 행으로 복귀했습니다. [GameFAQs](https://gamefaqs.gamespot.com/psp/665265-shirokuma-belles-stars-happy-holidays/data)에 일본 2012-07-26 ULJM-06111 정식 발매가 확인되며, [4Gamer 2012년 발표](https://www.4gamer.net/games/151/G015191/20120526001/)는 PC 원작 대비 추가 연애·서브 캐릭터 시나리오, CG, 무비, 16:9를 설명합니다. 일본어 원판 및 2009 PC 원작에 대한 실사용 공개 한국어 완성 패치를 2026-10-17 조회에서 확인하지 못했습니다. PSP 독립 평론이 부족하므로 점수는 잠정 유지하며 실제 기술 난도는 미확인입니다. PSP 보존 53 / 활성 33 / 활성 우선 5 / A급 3. 기존 127개 웹 리뷰 행, 역사 평가 원장, 찜 키는 유지합니다.

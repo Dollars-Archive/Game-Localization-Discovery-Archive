@@ -13,12 +13,16 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 1 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 47 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 52 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 53 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 1 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-17 PSP 《시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~》 활성 B급 복귀:** [2012 BOOST ON PSP ULJM-06111 기존 상세](platforms/psp/games/shirokuma-belles-stars-happy-holidays.md)의 작품성 **3.5/5·자료 기반 잠정 7.5/10·현행 공동 16위·B급**을 유지하며 [PSP 기본 기존 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp&view=active)에 1행 등록했습니다. 기존 PSP 전체 리뷰의 후보군 분류만 활성으로 수정해 중복 게임이나 점수를 만들지 않았습니다. 2009 PULLTOP Windows 원작 대비 [2012 PSP 새 연애/서브 캐릭터/CG/OP 16:9](https://www.4gamer.net/games/151/G015191/20120526001/)를 추가한 확장 이식이며 2011 PC 번체 중국어판은 한국어판이 아닙니다. **2026-10-17 PSP와 PC에 검증된 공개 완성 한국어 패치 미발견**, 한글화 활성 B급. 현행 PSP 총 **53건·활성 33건·💎 5건·A급 3건**, 리뷰 127행·기존 역사 평가·찜 키·다른 기종 집계 불변.
+>
+
 
 > **2026-10-17 PSP 신규 《Brave Story: New Traveler》 평가 보존:** [2006 일본·2007 북미 PSP 상세 작품성 4.0/5·리뷰 7.9/10](platforms/psp/games/brave-story-new-traveler.md)을 [PSP 전체 작품 평가](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp)의 **후보군**에 신규 등록했습니다. [신선짱 2026-08-17 PSP v0.91 공개 이력](https://retrodb.info/krpatch/1907/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C-%EC%8A%A4%ED%86%A0%EB%A6%AC) 및 [원 배포처 안내](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=202600)는 확인됐지만 원본 파일·지원 일본/북미 지역판·100% 대사/UI 번역·실기/엔딩은 미확인입니다. 이미 게시된 한패가 있어 **새 번역 활성 후보로 중복 추가하지 않고** 작품성 기록으로 보존했습니다. 최신 **PSP 보존 51 / 활성 31 / 활성 💎 5 / A 3 / PSP 전체 평가 127행**. 직전 《Mashiroiro Symphony》 추가와 다른 플랫폼·역사적 순위·Pages 링크는 보존했습니다.
 >
