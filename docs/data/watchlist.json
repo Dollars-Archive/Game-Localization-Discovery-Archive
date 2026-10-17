@@ -49,7 +49,8 @@
     "platforms/psp/games/boku-wa-kimi-dake-o-mitsumeru.md",
     "platforms/psvita/games/chusingura46-plus-1-v.md",
     "platforms/psp/games/routes-portable.md",
-    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md"
+    "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md",
+    "platforms/switch/games/9-nine.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -246,6 +247,10 @@
     },
     "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md": {
       "added": "2026-10-16T23:14:52.800Z",
+      "note": ""
+    },
+    "platforms/switch/games/9-nine.md": {
+      "added": "2026-10-17T11:31:54.235Z",
       "note": ""
     }
   }
