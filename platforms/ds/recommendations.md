@@ -1,6 +1,6 @@
 # Nintendo DS 전체 작품 평가
 
-> **2026-10-17 최초 1건 이후 현행 5건**: 기존 다른 플랫폼의 작품별 점수/순위에는 전혀 영향을 주지 않습니다. 닌텐도 DS 작품성 5점 척도, 리뷰 기반 10점 척도 별도 운영. 충분한 자료 없이 외부 수치를 평균해 기계적으로 평가하지 않습니다.
+> **2026-10-17 최초 1건 이후 현행 6건**: 기존 다른 플랫폼의 작품별 점수/순위에는 전혀 영향을 주지 않습니다. 닌텐도 DS 작품성 5점 척도, 리뷰 기반 10점 척도 별도 운영. 충분한 자료 없이 외부 수치를 평균해 기계적으로 평가하지 않습니다.
 
 [DS 후보 목록](README.md) · [웹 기본 DS 화면](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds)
 
@@ -12,6 +12,15 @@
 | [Yatsu Hakamura (팔묘촌: 여덟 개의 무덤 마을)](games/yatsu-hakamura.md) | 2009 | 문학 원작 수묵화 미스터리·중요어 심리전·3D 종유동 탐색 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 28/40·평론가 4명 / GameFAQs DS Good·이용자 6명·19h/5명 / JIM'S ATTIC DS 실제 완주 7/10·1명(본편 5h 미만) / 4Gamer 사용자 0건 | 2026-10-02 Dansic 제작 《팔묘촌》 Nintendo DS v0.9 RetroDB #4445 공개 / 한글로게임 교차 확인 / 지원 ROM·완역·미니게임/엔딩·실제 원본 배포 미검증 | 2009 일본 DS NTR-CK8J-JPN FromSoftware 요코미조 세이시 소설 기반 / 2009 DS 《犬神家の一族》 2탄 계열 별개 이야기·신규 3D 동굴 / 정식 동일 본편 후발 기종 미확인 | 🟡 대상 DS 팬 한글패치 v0.9 확인·번역 범위/실사용 검증 보류·신규 한글화 활성 제외 | 기존 목록 | 2026-10-02 RetroDB 공개 v0.9 및 한글로게임 등재는 확인되나 원 배포 링크가 열리지 않아 완역·실기 검증 불가 / 새 A/B/C 우선도 미부여 / 사용자 지정 DS 작품 평가만 표시 | 7.2 | 미산정 | 고전 추리소설 분위기와 흑백 수묵화 연출, 중요어 조사·새 3D 종유동 및 부가 신문 퍼즐은 장점. 짧은 본편·쉬운 추리·전작 설계 반복·일부 터치 반응 지연이 감점 | 근거 충분 |
 | [Another Time Another Leaf: Kagami no Naka no Tantei (어나더 타임 어나더 리프: 거울 속의 탐정)](games/another-time-another-leaf-kagami-no-naka-no-tantei.md) | 2009 | 거울 속 자아·과거 시간 이동·컷 앤드 액션 미스터리 ADV | ⭐⭐⭐☆☆ 3.0/5 | 미부여 | DS Famitsu 29/40(7·8·8·6)·4인 / Bangumi DS 5.4/10·19명 / 첫 완료 10h미만 개인평 1명 / 영어 장문 2~3h 중도 포기 1명 | 2026-10-17 DS 일본 NTR-CMZJ 정식 한국어 지원·제작자/적용판 검증된 공개 완성 한글패치 미확인 | 2009 NDS Killaware·Arc System Works NTR-CMZJ-JPN 오리지널 / LUX-PAIN과 개발팀만 공유·별개 이야기 / 동일 본편 정식 이식 미확인 | 🔴 작품성 기준 3.5 미달·DS 사용자 요청 기본 평가 검토 기록·신규 한국어화 활성 제외 | 기존 목록 | 3.0/5 미달 검토 기록으로만 표시 / A·B·C 우선도 미부여, 신규 번역 활성 후보·사용자 승인 예외 아님 | 6.2 | 미산정 | Cut & Action 대사·배경 절취, 거울 아케하 시간 이동과 인물 시각 표현이 강점. 추리의 지나친 자동 안내·단서 총당식, 반복 대화/이동, 후반 서사의 개연성과 효과음 불일치가 핵심 감점. | 근거 충분 |
 
+| [Golden Sun: Dark Dawn (황금의 태양: 칠흑의 새벽)](games/golden-sun-dark-dawn.md) | 2010 | 원소 능력 유적 퍼즐·진/직업 조합·턴제 판타지 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 33/40·4명 / Metacritic DS 79/100·63매체 / RPGFan 86/100·1명 / GameSpot 7.5/10 / Nintendo Life 8/10 / GameFAQs 3.95/5·2181명 | 2026-10-17 DS Dansic 팬패치 v0.8.1 RetroDB 공개 기록·v0.8 10/14 공개 / 완역·ROM 지역판·실기 검증 미확인 / 공식 한국어판 미확인 | 2010 일본 DS NTR-B05J / 북미·유럽 영어 DS 동시대 현지화 / 2001·2002 GBA 1·2편의 30년 후 정식 후속작·리메이크 아님 / DS 후발 정식 이식 미확인 | 🟡 DS 공개 유저 한국어패치 v0.8.1 존재·완역/실사용 검증 보류·신규 한글화 활성 제외 | 기존 목록 | Dansic v0.8.1 DS 패치 등록 확인·번역 범위·실기/엔딩 검수 및 파일 접근 미검증 / 신규 한글화 A·B·C 미부여·평가만 기본 표시 | 7.7 | 미산정 | 원소 능력 던전 퍼즐·진/직업 편성·DS 3D 소환 연출이 강점. 쉬운 일반 전투·대사 과다·주조연 서사 약화·영구 누락되는 진과 복귀 불가 지역이 4.0/5 미달 사유. | 근거 충분 |
+
+## 2026-10-17 《황금의 태양: 칠흑의 새벽》 DS 작품성 평가와 Dansic 패치 대조
+
+[《Golden Sun: Dark Dawn》 2010 DS 작품성·장단점·출처·스크린샷·기술 항목 상세](games/golden-sun-dark-dawn.md)을 **⭐⭐⭐½☆ 3.5/5 / 별도 신규 리뷰 7.7/10(역사 순위 미산정)**으로 평가했다. [닌텐도 일본 공식 발매(2010-10-28)](https://www.nintendo.co.jp/ds/bo5j/index.html), [Famitsu DS 33/40·4명](https://www.famitsu.com/game/title/5931/reviews), [Metacritic 79/100·63매체](https://www.metacritic.com/game/golden-sun-dark-dawn/), [RPGFan DS 86/100](https://www.rpgfan.com/review/golden-sun-dark-dawn/), [GameFAQs 3.95/5·2,181명 및 자기보고 37.4h·896명](https://gamefaqs.gamespot.com/ds/960545-golden-sun-dark-dawn/stats)의 서로 다른 표본을 구분했다. 원소 퍼즐·진/클래스와 3D 전투는 매력적이지만 긴 대사·서사 완성도·쉬운 일반 전투·되돌릴 수 없는 진 수집이 4.0점을 주기 어려운 이유다.
+
+**기존 한국어 패치 주의:** [2026-10-14 RetroDB Dansic DS v0.8](https://retrodb.info/krpatch?page=9&sort=added) 및 [RetroDB 쇼케이스 DS v0.8.1](https://retrodb.info/krpatch/showcase)의 공개 기록이 있다. 실제 패치 파일·지원 ROM 지역판·완역 범위·엔딩까지 구동/배포 정상 여부는 직접 검증하지 못했으므로 **🟡 한국어 대안 완성/실사용 검증 보류·신규 한글화 활성 제외·우선도 A/B/C 미부여**로 분류한다. 본편은 GBA 전작의 리메이크가 아닌 **DS 2010 후속작**이다.
+
+사용자 요청에 따라 **DS 기본 작품 평가 「기존 목록」**에 1행 연결한다. DS **기본 평가 5→6건**, 실질 새 번역 활성 후보 **1건**, 활성 💎 0 / A 0 / B 1 / C 0 유지. 기존 DS 5작품 평점·2026-10-08 타 기종 역사 순위·사이트 코드·찜 식별자는 변경하지 않는다.
 
 ## 2026-10-17 《야상곡: 책에 초대된 살인》 DS 합본 1·2편 작품성 등록
 
