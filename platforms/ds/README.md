@@ -2,7 +2,7 @@
 
 **Nintendo DS 실발매 게임**의 작품성·한국어 접근성·판본 고유 기능을 확인하고 한글화 후보를 평가하는 아카이브입니다.
 
-> 조사 기준: **2026-10-17 KST** / 보존 기록 **5개** / 활성 한글화 후보 **1개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **1개** / C급 **0개**
+> 조사 기준: **2026-10-17 KST** / 보존 기록 **6개** / 활성 한글화 후보 **1개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **1개** / C급 **0개**
 >
 > 신규 **한글화 활성 후보** 등록 기준은 작품성 **3.5/5 이상**입니다. 웹 기본 작품 평가에는 **🔴 기준 미달 검토 기록**이나 🟡 검증 보류가 함께 표시될 수 있지만, 이는 활성 번역 후보 승인이 아닙니다. 별점·10점 리뷰 평가·우선도는 별개이며 게임 파일 미분석 시 기술 난이도는 미확인으로 유지합니다.
 
@@ -17,6 +17,13 @@
 | [Time Hollow: Ubawareta Kako o Motomete (타임 할로우: 빼앗긴 과거를 찾아서)](games/time-hollow-ubawareta-kako-o-motomete.md) | 2008 | 시간 수정·가족 실종·터치 펜 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 32/40·4명 / Metacritic 64/100·매체 24곳 / Nintendo Life 7/10 / GameSpot 5.5/10 / Adventure Gamers 2008 Best Story | 2020-10-02 에리어 201002 DS 팬 한글패치 등록·2021 완역 플레이 후기 / 2026-09-30 뿡빵이 1.0 별도 패치는 배포중단 / 2020판 적용·현행 파일 직접 미검증 | 일본 2008-03-19 NTR-YHLJ-JPN → 북미 2008-09-23 NTR-YHLE-USA → 유럽 2009-02-06 NTR-YHLP-EUR / 모두 Nintendo DS 동일 본편·공식 일본어·영어판 / 후발 타 기종 정식 이식 미확인 | 🟡 기존 DS 한국어 패치 확인·신규 한글화 활성 제외 / DS 기본 작품 평가 기록 |
 | [Yatsu Hakamura (팔묘촌: 여덟 개의 무덤 마을)](games/yatsu-hakamura.md) | 2009 | 요코미조 세이시 원작·긴다이치 고스케·중요어 추리·3D 동굴 탐색 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 28/40·평론가 4명 / GameFAQs DS Good·이용자 6명·19h/5명 / JIM'S ATTIC DS 완료 7/10·1명·본편 5시간 미만 / 4Gamer 독자평 0 | 2026-10-02 RetroDB #4445 Dansic v0.9 DS 공개 한글패치 확인 / 한글로게임 교차 등록 / 배포 원문 조회 410·지원 ROM·대사 완역·엔딩 검수 미확인 | 2009-04-23 일본 DS NTR-CK8J-JPN FromSoftware 원본 / 2009-01-22 《犬神家の一族》와 같은 제작사·탐정/시스템의 별도 소설 게임 2탄 / 후발 동일 작품 공식 타 기종 이식 확인 못함 | 🟡 한국어 패치 v0.9 공개·완역/실사용 검증 보류·새 한글화 활성 제외 / DS 기본 작품 평가 |
 | [Another Time Another Leaf: Kagami no Naka no Tantei (어나더 타임 어나더 리프: 거울 속의 탐정)](games/another-time-another-leaf-kagami-no-naka-no-tantei.md) | 2009 | 거울 속 또 다른 자아·시간 이동·터치 단서 추리 ADV | ⭐⭐⭐☆☆ 3.0/5 | 미부여 | Famitsu DS 29/40·4인 / Bangumi DS 5.4/10·19명 / 2009 일본 약 10h 첫 완료 1인 / 영어 2~3h 중단 평가 1인 | 2026-10-17 일본 DS NTR-CMZJ 한국어 공식판·검증된 공개 완역 패치 확인 못함 / 비공개 패치 부재 단정 불가 | 2009 Killaware 개발·Arc System Works 일본 DS 오리지널 NTR-CMZJ / 2008 LUX-PAIN은 개발팀 공통의 별개 게임 / 본작 정식 후발 이식 미확인 | 🔴 작품성 3.5 등록선 미달·DS 기본 평가 검토 기록·신규 한글화 활성 제외 |
+| [Golden Sun: Dark Dawn (황금의 태양: 칠흑의 새벽)](games/golden-sun-dark-dawn.md) | 2010 | 원소 퍼즐·진 수집/직업 조합·턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 33/40·4명 / Metacritic DS 79/100·63매체 / RPGFan 86/100·1명 / GameSpot 7.5/10 / Nintendo Life 8/10 / GameFAQs 3.95/5·2181명 | 2026-10-17 DS Dansic 팬패치 v0.8.1 RetroDB 공개 기록·v0.8 10/14 공개 / 완역·ROM 지역판·실기 검증 미확인 / 공식 한국어판 미확인 | 2010 일본 DS NTR-B05J / 북미·유럽 영어 DS 동시대 현지화 / 2001·2002 GBA 1·2편의 30년 후 정식 후속작·리메이크 아님 / DS 후발 정식 이식 미확인 | 🟡 DS 공개 유저 한국어패치 v0.8.1 존재·완역/실사용 검증 보류·신규 한글화 활성 제외 |
+
+## 2026-10-17 《황금의 태양: 칠흑의 새벽》 DS 작품 평가와 유저패치 기록
+
+[《Golden Sun: Dark Dawn》 2010 Nintendo DS판 상세 평가](games/golden-sun-dark-dawn.md)를 **발굴 추천도 ⭐⭐⭐½☆ 3.5/5·별도 작품 리뷰 7.7/10(신규 평가·역사 순위 미산정)**으로 평가해 DS **기본 작품 평가 「기존 목록」에 1건** 연결했습니다. [Nintendo 공식 DS 발매](https://www.nintendo.co.jp/ds/bo5j/index.html), [Famitsu DS 33/40·4인](https://www.famitsu.com/game/title/5931/reviews), [Metacritic DS 79/100·63매체](https://www.metacritic.com/game/golden-sun-dark-dawn/), [RPGFan DS 86/100](https://www.rpgfan.com/review/golden-sun-dark-dawn/), [GameFAQs 3.95/5·2,181명](https://gamefaqs.gamespot.com/ds/960545-golden-sun-dark-dawn/stats)을 별도 지표로 확인했습니다. 원소 필드 퍼즐·진 직업/소환 편성과 3D 전투는 강점, 장황한 설명·쉬운 일반 전투·되돌릴 수 없는 수집 구간은 약점입니다.
+
+**한국어 패치:** [RetroDB 2026-10-14 Dansic Nintendo DS v0.8](https://retrodb.info/krpatch?page=9&sort=added) 이후 [v0.8.1 등록 기록](https://retrodb.info/krpatch/showcase)을 확인했습니다. 공식 한국어판은 확인 못했으며 패치 대상 ROM·전체 대사·UI·엔딩·실기/에뮬 실행과 현재 배포 파일은 미검증입니다. 따라서 **🟡 기존 한국어 패치 완역/실사용 검증 보류·새 한글화 활성 후보 제외·우선도 미부여**, 그러나 작품 평가는 기본 목록에 보존합니다. **DS 총 기록 5→6개 / 신규 한국어화 활성 후보 1개 / 💎 0 / A급 0 / B급 1 / C급 0** 유지. 다른 작품·플랫폼 및 찜/역사 순위는 변경하지 않습니다.
 
 ## 2026-10-17 최초 DS 작품: 달의 빛
 
