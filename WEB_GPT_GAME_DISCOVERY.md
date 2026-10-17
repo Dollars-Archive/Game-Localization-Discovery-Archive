@@ -49,7 +49,7 @@ platforms/ps2/games/kazoku-keikaku-kokoro-no-kizuna.md
 
 `game.html?file=...` 주소는 표시용 페이지다. 본문 판단은 저장소의 원본 MD를 기준으로 한다.
 
-2026-10-17 기준 사이트는 `docs/assets/app.js`에서 **PS1·PS2·PSP·PS Vita·PS3·Dreamcast·Nintendo Switch 플랫폼 전환을 지원**하며 각각 다음 원본 표를 읽는다.
+2026-10-17 기준 사이트는 `docs/assets/app.js`에서 **PS1·PS2·PSP·PS Vita·PS3·Dreamcast·Nintendo DS·Nintendo Switch 플랫폼 전환을 지원**하며 각각 다음 원본 표를 읽는다.
 
 ```text
 platforms/ps1/README.md
@@ -57,6 +57,7 @@ platforms/ps2/README.md
 platforms/psp/README.md
 platforms/psvita/README.md
 platforms/ps3/README.md
+platforms/ds/README.md
 ```
 
 이 구조를 영구 사실로 가정하지 말고 매 작품 시작 시 최신 코드를 다시 확인한다.
@@ -248,7 +249,7 @@ platforms/ps3/README.md
 2. `platforms/<platform>/README.md`: 후보 행 추가, A → B → C 정렬, 해당 플랫폼 집계.
 3. 루트 `README.md`: 해당 플랫폼 등록 후보 / 💎 우선 후보 / A급 후보 집계.
 
-현재 플랫폼 식별자는 `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `dreamcast`, `switch`이다. 실행 시 최신 구조를 확인하며 후보 제외·보류만 보고할 때는 신규 후보 행과 집계를 추가하지 않는다.
+현재 플랫폼 식별자는 `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `dreamcast`, `ds`, `switch`이다. 실행 시 최신 구조를 확인하며 후보 제외·보류만 보고할 때는 신규 후보 행과 집계를 추가하지 않는다.
 
 후보 수는 기억에 의존해 `+1` 하지 않고 현재 표의 고유 행 기준으로 재계산한다.
 
@@ -278,6 +279,7 @@ platforms/ps3/README.md
 
 ```text
 PS1 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1
+DS 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds
 PS2 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2
 PSP 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp
 PS Vita 후보 보기 → https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita

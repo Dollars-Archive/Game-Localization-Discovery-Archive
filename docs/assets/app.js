@@ -21,6 +21,7 @@ const PLATFORMS = {
   psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md', rankingPath: 'platforms/psvita/recommendations.md' },
   ps3: { label: 'PLAYSTATION 3', short: 'PS3', path: 'platforms/ps3/README.md', reservePath: 'platforms/ps3/reserve.md' },
   dreamcast: { label: 'DREAMCAST', short: 'Dreamcast', path: 'platforms/dreamcast/README.md', rankingPath: 'platforms/dreamcast/recommendations.md', assessmentPath: 'platforms/dreamcast/reassessments/2026-10-09-review-assessments.md' },
+  ds: { label: 'NINTENDO DS', short: 'DS', path: 'platforms/ds/README.md', rankingPath: 'platforms/ds/recommendations.md' },
   switch: { label: 'NINTENDO SWITCH', short: 'Nintendo Switch', path: 'platforms/switch/README.md', emptyMessage: '아직 등록된 Nintendo Switch 후보가 없습니다.' },
 };
 

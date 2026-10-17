@@ -12,11 +12,12 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 1 | 1 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
-| PlayStation 2 | 45 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 46 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 49 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
+| Nintendo DS | 1 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
 > [!NOTE]
@@ -38,6 +39,8 @@
 > **2026-10-17 《히마와리》 PSP 한국어 대안 재검증:** [2010 PSP 《Himawari: Pebble in the Sky Portable》](platforms/psp/games/himawari-pebble-in-the-sky-portable.md)은 기존 4.0/5 작품성을 보존하고 리뷰 기반 **8.0/10**을 별도 등록했습니다. PSP DX팩에만 실물 **PS2판 게임**이 동봉됐고 [RetroDB의 제작자 요청 게시중단 명단](https://retrodb.info/krpatch)에 해당 PS2판 한국어 패치가 기록돼 있습니다. 그러나 완역 범위·현행 배포·PSP 호환성은 미검증이므로 **2026-10-05 활성 후보 종료 조치를 🟡 한국어 대안 검증 보류**로 정정하고 **PSP 전체 작품 평가 후보군**에 연결했습니다. PSP 보존 **47개 / 활성 30개 / 💎 5개 / 🔥 A 3개** 수치, 2026-10-08 역사 순위와 타 플랫폼 목록은 그대로 유지합니다.
 >
 > **2026-10-17 《ToHeart》 1편 PS1·PS2·PSP 기종별 조사·사이트 등록:** [PS1 1999년판](platforms/ps1/games/toheart.md) 작품성 **4.0/5·리뷰 8.2/10**, [PS2 2004년 디럭스팩 동봉 1편](platforms/ps2/games/toheart.md) **4.0/5·8.1/10**, [PSP 2009년 Portable](platforms/psp/games/toheart-portable.md) **4.0/5·7.9/10**을 기종별 상세·사이트 전체 작품 평가 표에 등록했습니다. 신규 [PS1 플랫폼 메뉴](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1)를 만들고 PS2·PSP는 기존 상세 문서의 평가 표 누락을 복구했습니다. [2025 Steam 리메이크 한국어 팬패치](https://steamcommunity.com/app/3380520/guides/)는 제작자 표현상 **‘본편 부분’**이며 모든 루트·구작 콘솔판 적용이 검증되지 않아 신규 한글화 활성 후보는 지정하지 않고 작품성 평가를 보존합니다. 현재 **PS1 1건(활성 0) / PS2 기록 45건(활성 우선 8·A 6) / PSP 기록 48건(활성 30·우선 5·A 3)**. 이전의 역사적 점수와 순위·다른 게임 문서는 유지했습니다.
+>
+> **2026-10-17 DS 신규 플랫폼 + 《달의 빛: 가라앉은 종의 살인》 기종별 등록:** 최초 **PS2판은 2002-05-23 SLPS-20196**, 후발 **DS판은 2008-11-06 NTR-P-CJ6J**가 맞으며 같은 작품이지만 후발 DS가 에필로그·타카다 번외편·터치/책갈피를 더하고 원래 PS2 영상/음악 일부를 변경했습니다. [DS 상세 평가](platforms/ds/games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md) **3.5/5·7.6/10·활성 B급**과 [PS2 상세 평가](platforms/ps2/games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md) **3.5/5·7.2/10·활성 C급**을 각각 별도 작성했습니다. 사이트의 [DS 플랫폼 메뉴](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds)를 새로 개설하고 PS2 기존 기록/전체 리뷰표에는 한 행씩 추가했습니다. **DS 1건·A급 0 / PS2 보존 46건·활성 우선 8·A급 6**. 2026-10-17 공개 한국어 완성 패치·공식 한국어판은 확인 못했으며 다른 赤川次郎의 『夜想曲』과 혼동하지 않았습니다. 기존 2026-10-08 원장·랭킹, 다른 플랫폼/찜 기록을 변경하지 않았습니다.
 >
 > PS Vita 보존 **37개** 중 활성 후보는 **31개**, 등록선 미달 기록은 **4개**, 한국어 대안 확인·비활성 보류는 **2개**입니다. 2026-10-12 《WHITE ALBUM2》 Vita판 4.5/5를 기존 PC 한국어 완성 대안으로 별도 보존했습니다. 활성 발굴 우선 후보는 **7개**, A 3 / B 14 / C 14입니다. **2026-10-15 《ChuSingura46+1 V》를 사용자 승인 B급 특채 활성 후보로 등록**했습니다. PC AI 번역본 배포 제보의 확인 한계와 Vita 한글패치 상태는 분리 기록합니다. 2026-10-13 [아마츠츠미](platforms/psvita/games/amatsutsumi.md)를 4.0점 B급 활성 후보로 추가했습니다. [2026-10-08 기존 30개 재평가 결과](platforms/psvita/reassessments/2026-10-08-full-review.md) 이후 [2026-10-12 Kadenz fermata](platforms/psvita/games/kadenz-fermata-akkord-fortissimo.md) 및 [2026-10-12 Sengoku Hime 5](platforms/psvita/games/sengoku-hime-5-senka-tatsu-haou-no-keifu.md) 신규 등록을 반영했습니다.
 >
