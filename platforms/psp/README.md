@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
-> 보존 항목: **51개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **52개** / 활성 후보: **32개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -50,6 +50,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Routes Portable (루츠 포터블)](games/routes-portable.md) | 2007 | 첩보 액션·학원 연애·전기 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Playable (9표) / GAMEMAN 8.2/10 (서술 리뷰 0) / 일본 게임카탈로그 정성평 | 2026-10-16 PSP 한국어 패치 미확인 / 2003 PC 원작 AI 한글패치 v1.04 확인 | 2003 Windows 원작(한국어 AI 패치) → 2007 PS2 PE·PSP 확장 리메이크 / 신규 후미츠키 루트·풀보이스·추가 CG·후일담 | 🟢 후보 |
 | [MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai (마기우스테일 이터니티: 세계수와 사랑하는 마법사)](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md) | 2009 | 마법학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·7표 / GAMEMAN 8.1/10·리뷰 0 / Play-Asia 5/5·5건·서술 1 / PSP 완주평 88/100·1명 | 2026-10-17 PSP·PC 한국어 공식판·검증된 공개 완역 한글패치 확인 못함 / PSP 중국어 완역은 2015-02-18 공개·한국어 아님 | PC 2007 본편 + 2008 Infinity → 2009 PSP Eternity 본편·후일담·IF·PSP 독자 시나리오/CG / PC W-Pack은 원래 성인 콘텐츠 보존 | 🟢 후보 |
+| [Suigetsu Portable (수월 포터블)](games/suigetsu-portable.md) | 2008 | 전기·민속학 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs 3.17/5·15명·10.5시간/8명 / GAMEMAN 8.1/10·서술리뷰 0 / PC 원작 게임카탈로그 良作 | 2026-10-17 PS2 SLPM-65751·PSP ULJM-05346·2002 PC·2023 Grand Package 공식 한국어·검증된 공개 완성 한글패치 미발견 / 비공개·미등록 작업 부재 단정 불가 | 2002 PC 원작·みずかべ → 2004 PS2/DC 迷心 음성·CG·시나리오·미즈카베 보강 → 2008 PSP Portable 16:9·노벨 UI → 2023 PC Grand Package | 🟢 PSP 활성 B급·추가분/휴대성 보존 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
@@ -211,3 +212,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-17 《Brave Story: New Traveler》 PSP 비활성 작품성 보존
 
 [2006 일본 PSP 원작 및 2007 북미 공식 영어판 상세 평가](games/brave-story-new-traveler.md)를 **⭐⭐⭐⭐☆ 4.0/5·자료 기반 리뷰 7.9/10**으로 신규 보존했습니다. [메타크리틱 PSP 76/100·30평론](https://www.metacritic.com/game/brave-story/critic-reviews/), [RPGFan PSP 86점](https://www.rpgfan.com/review/brave-story-new-traveler/), [GameSpot PSP 6.5점](https://www.gamespot.com/reviews/brave-story-new-traveler-review/1900-6176740/), [GameFAQs 3.81/5·529명/38.6시간·162명](https://gamefaqs.gamespot.com/psp/932265-brave-story-new-traveler/stats)을 본 PSP에 한정해 비교했습니다. **[신선짱 한글패치 v0.91 2026-08-17](https://retrodb.info/krpatch/1907/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C-%EC%8A%A4%ED%86%A0%EB%A6%AC)**과 [네이버 원 배포자 링크의 국내 게시글](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=202600)이 있으나 제작자 원문 접근 제한으로 지원 빌드·완역 범위·실기/엔딩 안정성을 확인하지 못했습니다. 한국어 패치가 없는 게임으로 소개하거나 v0.91을 91% 번역이라고 추정하지 않습니다. 새 한글화 프로젝트 활성 후보에 중복 편입하지 않고 **PSP 전체 작품 평가의 후보군**에 보존했습니다. PSP 보존 **51개 / 활성 31개 / 활성 💎 5개 / A급 3개**. 기존 원장 불변.
+
+
+## 2026-10-17 《Suigetsu Portable》 기존 상세·평가 보존, 활성 B급 재선정
+
+[PSP 2008 ULJM-05346 기존 상세](games/suigetsu-portable.md)를 다시 검토하고 **3.5/5·한글화 B급·기존 잠정 7.0/10**은 그대로 유지했습니다. 2026-10-04 목록 정원 압축 당시 PSP 전체 평가의 후보군으로 이동했던 것을 이번 작품별 검토로 **활성 기본 기존 목록에 1회 복귀**시키며 상세 파일·127개 평가표에 중복 신규 행을 만들지 않았습니다. 16:9·PC식 노벨 표시·PS2 콘솔 가필과 みずかべ 계승은 장점이나 [GameFAQs 직접 3.17/5·15명·10.5시간/8명](https://gamefaqs.gamespot.com/psp/945189-suigetsu-portable/stats) 및 느린 로딩·스킵은 감점했습니다. [F&C 2023 Windows Grand Package](https://fandc.co.jp/suigetsu_gp/main.php)는 고해상도/현대 OS 이점이 있어도 PSP 고유 추가분의 완전한 번역 대안/상위호환·한국어 지원이라는 뜻은 아닙니다. 공개 완성 한국어 번역 확인되지 않아 **PSP 활성 B급**. PSP **보존 52·활성 32·💎 5·A급 3**, 이전 역사 원장·평점 보존.

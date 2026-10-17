@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인)  
-> 등록·보존 기록: **46개** / 활성 발굴 우선 후보: **8개** / 한글화 A급 후보: **6개**
+> 등록·보존 기록: **47개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -56,6 +56,7 @@
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | 구체적 경험 본문 2건 / GameFAQs Good 18표 / 3.5 잠정·근거 신뢰도 낮음 | 2026-10-07 확인 못함 | PS2 통상·피규어 한정판 / 슬롯 앱은 별개 / 후발 본편 확인 못함 | 🟢 후보 |
 | [Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)](games/wizardry-xth-2-mugen-no-gakuto.md) | 2006 | 1인칭 3D 던전 RPG | ⭐⭐⭐½☆ | B | Joko 4페이지 35건 / PS2 기명 실플레이 3편 / GameFAQs Good (6표) | 2026-10-07 공개 확인 못함 | PS2 통상판·Wonder Price / 동일 본편 강화 이식 확인 못함 / 관련 계열 별도 | 🟢 후보 |
+| [Suigetsu: Mayoigokoro (수월: 미심)](games/suigetsu-mayoigokoro.md) | 2004 | 민속학·기억·전기 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | PS2 Gavas 4.3/5·7명 / Joko PS2 개인평 2쪽 / PS2 개인 82/100·1명 / 출시 당시 원본 PS2 음성/백로그 평가 | 2026-10-17 PS2 SLPM-65751·PSP ULJM-05346·2002 PC·2023 Grand Package 공식 한국어·검증된 공개 완성 한글패치 미발견 / 비공개·미등록 작업 부재 단정 불가 | 2002 PC 원작·みずかべ → 2004 PS2/DC 迷心 음성·CG·시나리오·미즈카베 보강 → 2008 PSP Portable 16:9·노벨 UI → 2023 PC Grand Package | 💎 우선 후보·한글화 활성 B급 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 커맨드형 탐정·미스터리 ADV | ⭐⭐⭐½☆ | C | Joko 본문3.00/17건·내장2.76 구분 / PS2 개인평4명 / GameFAQs Good15표 | 2026-10-07 공개 확인 못함 | PC → PS2 음성·지도 개편 → PSP/Win 단편 추가 → 2025 콘솔 HD·재녹음 / Steam 미정 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | C | PS2 개인 비평 3편 / Joko 공개 41건 (판·완료 범위 혼재) | 확인 못함 | PC 원작 → PS2 강화 → 동일 게임 내용의 2019 Windows 역이식 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF 연애 ADV·비주얼노벨 합본 | ⭐⭐⭐⭐☆ | C | Joko 전4쪽36건 3.58/5 / Gavas6+4건 소개·경험 분리 / 개인평 판본·완료 구분 / Bangumi8.2·104표 통합 | 2026-10-07 공개 확인 못함 | PS2 두 본편·추가분 합본 → PSP → 2026 Switch·PS4·Steam 풀HD / 일본어 | 💎 우선 후보 |
@@ -197,3 +198,8 @@
 ## 2026-10-17 《Sacred Blaze》 기존 PS2 등록·한국어화 재확인
 
 [《Sacred Blaze》 PS2 상세](games/sacred-blaze.md)을 2026-10-17 재검토했습니다. 이미 **2009년 정식 PS2 SLPS-25917의 3.5/5·B급 활성 후보 1건**이 등록돼 있어 중복을 추가하지 않았습니다. [Famitsu 네 평론가 31/40](https://www.famitsu.com/game/title/1336/reviews), [GameFAQs PS2 Great·24표](https://gamefaqs.gamespot.com/ps2/954908-sacred-blaze), [Joko 실제 후기 7건 2.29/5](https://www.joko.jp/ps2/review/ti2509.html)의 양극 평가를 함께 기록해 기존 작품성 3.5/5·리뷰 기반 종합 7.7/10(2026-10-08 공동 8위)을 유지했습니다. [RetroDB PS2 한국어 패치 목록](https://retrodb.info/krpatch?platform=PS2)과 영·한·일 제목 검색에서 적용 가능한 공개 완성 한국어 패치를 새로 확인하지 못했습니다. 비공개·과거 배포의 절대 부재를 단정하지 않고, 실제 게임 파일 미분석으로 기술 난이도는 **미확인**을 유지합니다. **PS2 전체 기록·활성 후보·💎·A급 집계는 이번 검수 전후 변동 없음**. 기존 게임/다른 기종/찜·역사 평가원장은 그대로 보존했습니다.
+
+
+## 2026-10-17 《수월: 미심》 PS2 판본 신규 평가·활성 B급 등록
+
+[2004년 PS2 水月 ～迷心～ 상세 평가](games/suigetsu-mayoigokoro.md)를 **2004-10-28 KID 일본 SLPM-65751, 작품성 4.0/5·독립 리뷰 8.0/10·B급 활성 우선 후보**로 실제 기본 후보 표와 전체 평가에 등록했습니다. 2006 저가 재판 SLPM-66587은 같은 작품으로 중복 계산하지 않습니다. [F&C/KID PS2 정식 제품·추가 요소](https://fandc.co.jp/catalog/consumer/144), [Gavas PS2 4.3/5·7명](https://www.gavas.jp/products/detail.php?product_id=13907), [Joko PS2 후기 1](https://www.joko.jp/ps2/review/ti1239.html)·[후기 2](https://www.joko.jp/ps2/review/ti1239-2.html), [2004 PS2 직접 백로그·음성·오토세이브 이용 평가](https://do-gugan.com/~furuta/archives/2004/11/ps2.html)를 바탕으로 세계관·보이스·みずかべ·신규 CG를 높게 보되 난해한 설명과 전연령 각색의 연결 부족을 감점했습니다. 2026-10-17 공개 확인 범위에서 PS2·PSP·PC 계보의 완성·적용 가능한 한국어 대안을 찾지 못해 신규 한국어화 **B급 활성**입니다. 현행 PS2 총 **47개·💎 9개·A급 6개**, 2026-10-08 역사 평가 원장 불변.

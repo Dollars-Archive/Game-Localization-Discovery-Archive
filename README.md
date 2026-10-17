@@ -12,8 +12,8 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 1 | 1 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
-| PlayStation 2 | 46 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 51 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation 2 | 47 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation Portable | 52 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
@@ -740,3 +740,8 @@ Switch Metacritic **62/100·전문 리뷰 5건**, 타 기종 PS5 RPGFan **81/100
 **한국어화 판정:** [Nintendo 일본 J7 제품](https://store-jp.nintendo.com/item/software/D70010000015980)은 **일본어만 공식 지원**, [서양 RED/PQube 공식](https://red-entertainment.co.jp/release/oreowa/2265.html) 및 [Steam](https://store.steampowered.com/app/940650/Our_World_Is_Ended/?l=koreana)은 **일본어·영어만 지원, 한국어는 미지원**입니다. **2026-10-13 공개 검색 범위에서 일본 J7·서양 Switch·Vita·PC용으로 사용 가능한 완성 한국어 팬패치도 미확인**이며 비공개 작업의 절대 부재는 주장하지 않습니다. 그래서 **일본 J7 완전판**을 3.5점 B급 활성 후보로 새로 선정했고, 기존 PQube 구판은 별도 게임 1개로 중복 등록하지 않았습니다. 개발팀 7인 호칭·게임 개발 은어/유머, 본문+후일담 약30%·용어집·플로차트·S.O.S. 시간제한과 폰트·영상/보이스를 각기 독립 검수 대상으로 기록했습니다.
 
 **최신 GitHub 집계:** Switch 활성 후보 **26개**, 💎 4.0 이상 우선 **7개**, 🔥 A급 **0개**, 🔴 기준 미달 **10개**입니다. 일본 J7은 3.5점 **B급 활성 1개**만 집계하며 기존 다른 플랫폼의 후보/보류/패스·과거 시점 결과, 사용자 Switch 예외 정책 및 모든 GitHub Pages 바로가기를 변경하지 않았습니다.
+
+
+## 2026-10-17 水月 ～迷心～ PS2 / 水月 ～Portable～ PSP 기종별 평가·웹 기본 목록 반영
+
+[PS2 2004 SLPM-65751 상세](platforms/ps2/games/suigetsu-mayoigokoro.md)은 **⭐⭐⭐⭐☆ 4.0/5·개인 리뷰 8.0/10·활성 B급/💎 우선**으로 신규 등록했습니다. [PSP 2008 ULJM-05346 기존 상세](platforms/psp/games/suigetsu-portable.md)은 **⭐⭐⭐½☆ 3.5/5·잠정 7.0/10·B급**을 보존하고 과거 압축으로 빠졌던 **PSP 기존 목록 활성**에 복귀시켰습니다. PS2는 F&C PC 2002 원작의 전연령 가필·주인공 외 보이스·신규 CG·みずかべ ADV·새 OP/ED, PSP는 그 콘텐츠를 기반으로 16:9·휴대·PC식 노벨 화면에 맞춘 버전입니다. PSP 직접 이용자 **3.17/5·15명**과 로딩·스킵 약점은 PS2 직접 사용자 **Gavas 4.3/5·7명/Joko 이용 후기 2쪽**과 분리 평가했습니다. 2026-10-17 공개 확인 범위에서 PS2·PSP 및 PC 원본/2023 Grand Package의 **검증된 공개 한국어 완성판을 확인하지 못했습니다**. 현황 **PS2 전체 47·💎 9·A 6 / PSP 보존 52·활성 32·💎 5·A 3**, PS2 전체 평가 74건/PSP 전체 평가 127건입니다. 다른 기종 평가·찜 키·2026-10-08 역사 순위 원장 및 사이트 Pages 링크 유지.
