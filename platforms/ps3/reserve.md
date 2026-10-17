@@ -1,7 +1,8 @@
 # PS3 예비 기록
 
-기본 화면에서 숨긴 **28개**입니다. 2026-10-08 당시 예비 25개에 2026-10-12 《WHITE ALBUM2》가 추가됐습니다. 2026-10-17 사용자 요청으로 《차륜의 나라, 해바라기의 소녀》는 **기본 선정 목록으로 이동**했고, 30개 기본 표시 한도 유지를 위해 기존 개인 34위 《XBLAZE Code: Embryo》는 본 예비로 이동했습니다. 원문 상세 문서·개인 점수·기존 역사 순위·찜 키는 모두 보존합니다.
+기본 화면에서 숨긴 **29개**입니다. 2026-10-08 당시 예비 25개에 2026-10-12 《WHITE ALBUM2》가 추가됐습니다. 2026-10-17 사용자 요청으로 《차륜의 나라, 해바라기의 소녀》는 **기본 선정 목록으로 이동**했고, 30개 기본 표시 한도 유지를 위해 기존 개인 34위 《XBLAZE Code: Embryo》는 본 예비로 이동했습니다. 원문 상세 문서·개인 점수·기존 역사 순위·찜 키는 모두 보존합니다.
 2026-10-17 《마브러브 photonmelodies♮》의 사용자 지정 PS3 기본 선정 요청을 반영하면서 **기존 개인 32위 《Koihime Enbu》를 예비로 이동**했습니다. 해당 작품의 점수 7.2/10·역사 순위 32위·C급 평가·상세 MD·찜 키는 그대로 보존하며, 실사용 번역 가능성을 임의로 바꾸지 않습니다.
+2026-10-17 《마브러브 얼터너티브: 토탈 이클립스》 PS3 정식판을 기본 목록으로 넣는 30개 한도 조정을 위해 개인 33위 《Dungeons & Dragons: Chronicles of Mystara》를 본 예비로 이동했습니다. 기존 작품성 4.0/5·개인 7.1/10·C급·찜 키·상세 내용은 모두 보존했습니다. 현황 총 59개 / 기본 30개 / 예비 29개.
 
 [선정 목록](README.md) · [웹 예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [평가 근거](reassessments/2026-10-08-personal-top-30.md)
 
@@ -35,6 +36,7 @@
 | [The Awakened Fate Ultimatum (신과 운명각성의 크로스테제)](games/the-awakened-fate-ultimatum.md) | 2014 | 로그라이크 RPG / 던전 크롤러 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | MC 65·20평론 / Famitsu 28/40 / RPG Site 8/10 / Push Square 7/10 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 한국 유통판 일본어 | PS3 독점 / 북미·유럽 영어판 / 후발 이식·리마스터 확인 못함 | 🟡 등록선 미달·기록 보존 | 7.8 | 16 | 작품성 등록선 미달 · 3.0/5 |
 | [Tokyo Twilight Ghost Hunters (마도홍색유격대)](games/tokyo-twilight-ghost-hunters.md) | 2014 | 비주얼 노벨 / 턴제 전략 RPG / 학원 오컬트 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 평균 7.7/10 / Push Square 8/10 / RPGamer 3.5/5 / RPGFan 60/100 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Daybreak Special Gigs·Steam도 한국어 미지원 | PS3·Vita 원판 / 상위 강화판 Daybreak Special Gigs는 PS3·PS4·Vita·PC로 전투·스토리·튜토리얼 개선 | 🟡 등록선 미달·기록 보존 | 7.2 | 31 | 작품성 등록선 미달 · 3.0/5 |
 | [Dynasty Warriors: Gundam (건담무쌍)](games/dynasty-warriors-gundam.md) | 2007 | 택티컬 액션 / 3D 핵앤슬래시·무쌍 액션 | ⭐⭐⭐☆☆ 3.0/5 | 해당 없음 | Famitsu 33/40 / Metacritic 60·29평론 / GameFAQs Good·372명 | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | PS2 Special에 무사건담 Mk-II·신규 시나리오 추가 / Xbox 360 International 일·영 음성 | 🟡 등록선 미달·기록 보존 | 5.8 | 55 | 작품성 등록선 미달 · 3.0/5 |
+| [Dungeons & Dragons: Chronicles of Mystara (던전 앤 드래곤: 크로니클 오브 미스타라)](games/dungeons-dragons-chronicles-of-mystara.md) | 2013 | 벨트스크롤 액션 / 액션 RPG·아케이드 합본 | ⭐⭐⭐⭐☆ 4.0/5 | C | Metacritic PS3 83 / Push Square 9/10 / GameFAQs Good·159명 | 2026-10-07 HD판 공식·공개 PS3 한국어 확인 못함 / 아케이드 원작 2편은 공개 한글패치 존재 | 월드판 GGPO·House Rules / 일본 PS3 미스타라 영웅전기는 더 정확한 이식·주회·컬러에디트 등 독자 기능 | 🟡 예비 기록·기존 작품성 4.0/5·한글화 C급 유지 | 7.1 | 33 | 2026-10-17 PS3 기본 30개 한도 조정 / 《마브러브 토탈 이클립스》 신규 선정 / 4.0/5·7.1점·33위·찜 기록 유지 |
 | [XBLAZE Code: Embryo (엑스블레이즈 코드: 엠브리오)](games/xblaze-code-embryo.md) | 2013 | 비주얼 노벨 / 스토리 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 30/40 / GameFAQs Good·59명 / MC Vita 43·5평론 | 2026-10-07 공식 한국어판·공개 한글패치 확인 못함 / Steam도 한국어 미지원 | PS3·Vita 동시판 / 북미·유럽 영어판 / 2016 Steam 후발 이식 / PS3 고유 콘텐츠 미확인 | 🟡 예비 기록·작품성 3.5/5·한글화 후보 C급 자격 유지 | 7.1 | 34 | 2026-10-17 사용자 요청 신작 기본 선정에 따른 30개 한도 조정 / 기존 개인 추천 7.1·전체 순위 34위 보존 |
 | [WHITE ALBUM2: Shiawase no Mukougawa (화이트 앨범 2: 행복의 저편)](games/white-album-2-shiawase-no-mukougawa.md) | 2012 | 연애·심리 드라마 / 장편 분기 비주얼노벨 | ⭐⭐⭐⭐½ 4.5/5 | 미부여 | **PS3 Famitsu 37/40·4명 / Dengeki 90·95·90·80·4명 / PS3 GameFAQs 3.9/5·21명·65.3h/8명** | PS3 일본판 공식 한국어 미지원·PS3용 공개 완성 패치 미확인 / **2018 PC EE용 본편 한국어 v1.1(2021-10-09)·Special Contents v1.0(2022-01-29) 실제 배포** | 2010/2011 PC 본편 통합 → **2012 PS3 신규 CG·스토리·Motion Portrait·Special Contents** → 2013 Vita 본문 동일·노벨 모드/모션 삭제 → 2018 PC EE 한국어패치 대상 | 🟡 기존 PC 한국어 대안 확인·PS3 활성 제외 | 미산정 | 미부여 | 동일 본편 PC EE 한국어 완성형 대안 확인; 원본 PS3판 직접 한국어 패치는 미검증 · 기존 55작품 개인 순위 별도 |
 
@@ -54,3 +56,7 @@
 
 2014년 PS3 정식판 [《Muv-Luv photonmelodies♮》](games/muv-luv-photonmelodies.md)를 작품성 **3.5/5**, 개인 신규 추천 **7.8/10**, 한글화 **B급**으로 [기본 PS3 선정 화면](README.md)에 추가하기 위해, 이전 기본 화면의 [《Koihime Enbu》](games/koihime-enbu.md)를 이 예비 표로 이동했습니다. 기존 개인 **7.2/10·32위**, 작품성 3.5/5·C급, 자세한 평가 문서와 찜 키를 보존했습니다. 이번 신규 선정의 별도 신규 개인점수는 2026-10-08의 55편 역사 점수 원장에 추가하지 않으며 새 작품의 역사적 순위는 **미부여**입니다. **예비 28개 / 기본 30개 / 총 58개**입니다.
 
+
+## 2026-10-17 토탈 이클립스 PS3 기본 등록에 따른 미스타라 예비 이동
+
+2013 일본 PS3 정식판 [《Muv-Luv Alternative: Total Eclipse》](games/muv-luv-alternative-total-eclipse.md)를 [기본 PS3 선정 목록](README.md)에 작품성 4.0/5·개인 8.1/10·B급으로 등록했습니다. 30개 기본 표시 제한을 지키기 위해 [《Dungeons & Dragons: Chronicles of Mystara》](games/dungeons-dragons-chronicles-of-mystara.md)를 예비로 이동했지만 해당 작품의 **별점 4.0/5·기존 개인 7.1/10·역사 33위·C급 자격·원본 문서·찜 키는 보존**합니다. 이는 신규 PS3 사용자 지정 목록 편집이며 기존 평가 절하가 아닙니다. 전체 **59건 / 기본 30건 / 예비 29건**.
