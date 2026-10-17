@@ -1,6 +1,7 @@
 # PS3 예비 기록
 
-기본 화면에서 숨긴 **27개**입니다. 2026-10-08 당시 예비 25개에 2026-10-12 《WHITE ALBUM2》가 추가됐습니다. 2026-10-17 사용자 요청으로 《차륜의 나라, 해바라기의 소녀》는 **기본 선정 목록으로 이동**했고, 30개 기본 표시 한도 유지를 위해 기존 개인 34위 《XBLAZE Code: Embryo》는 본 예비로 이동했습니다. 원문 상세 문서·개인 점수·기존 역사 순위·찜 키는 모두 보존합니다.
+기본 화면에서 숨긴 **28개**입니다. 2026-10-08 당시 예비 25개에 2026-10-12 《WHITE ALBUM2》가 추가됐습니다. 2026-10-17 사용자 요청으로 《차륜의 나라, 해바라기의 소녀》는 **기본 선정 목록으로 이동**했고, 30개 기본 표시 한도 유지를 위해 기존 개인 34위 《XBLAZE Code: Embryo》는 본 예비로 이동했습니다. 원문 상세 문서·개인 점수·기존 역사 순위·찜 키는 모두 보존합니다.
+2026-10-17 《마브러브 photonmelodies♮》의 사용자 지정 PS3 기본 선정 요청을 반영하면서 **기존 개인 32위 《Koihime Enbu》를 예비로 이동**했습니다. 해당 작품의 점수 7.2/10·역사 순위 32위·C급 평가·상세 MD·찜 키는 그대로 보존하며, 실사용 번역 가능성을 임의로 바꾸지 않습니다.
 
 [선정 목록](README.md) · [웹 예비 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [평가 근거](reassessments/2026-10-08-personal-top-30.md)
 
@@ -13,6 +14,7 @@
 | [Touch, Shot! Love Application (터치, 하자! -Love Application-)](games/touch-shot-love-application.md) | 2012 | 연애 시뮬레이션 / 3D 연애 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / DPS 80·70·85·60 / GameFAQs Good·3명 | 2026-10-07 한국 정발 BLKS-20357도 일본어 / 공식 한국어·공개 PS3 한글패치 확인 못함 | PS3 독점 / 공식 영어판·후발 이식 확인 못함 / yPhone·Satori·3D Avatar Mode | 🟡 예비 후보 | 7.0 | 42 | 개인 추천 순위 경계 밖 |
 | [ToHeart2 DX PLUS (투하트2 DX PLUS)](games/toheart2-dx-plus.md) | 2011 | 연애 어드벤처 / 비주얼 노벨·확장 합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Great·17명 / 가격.com 4.0·1명 / 개인평 C | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | ToHeart2+AnotherDays 합본 / PS3 전용 미오·신규 CG·리파인·MotionPortrait | 🟡 예비 후보 | 6.6 | 52 | 한국어 대안 범위·현행 배포 확인 보류 |
 | [Skullgirls Encore (스컬걸즈 앙코르)](games/skullgirls-encore.md) | 2014 | 2D 대전 격투 / 태그 배틀 | ⭐⭐⭐⭐☆ 4.0/5 | C | Push Square 8/10 / GameFAQs Great·149명 / MC PS3 원판 82·25평론 | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | PS3 Encore 최종 DLC 반영 / 현행 PC·콘솔 2nd Encore는 음성 스토리·Trials·Challenges·Season 1 지원 | 🟡 예비 후보 | 7.3 | 28 | 한국어 대안 범위·현행 배포 확인 보류 |
+| [Koihime Enbu (연희연무)](games/koihime-enbu.md) | 2016 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 28/40 / GameFAQs Great·16명 / MC PC 68·10평론 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam 원판·RyoRaiRai·Version 3도 한국어 미지원 | PS3·PS4 가정용판 / PC 원판 / 상위 확장판 RyoRaiRai·Version 3는 장료·가후·서황·곽가 및 시스템 개편 / RyoRaiRai는 원판 별도 Scenario Mode 미수록 | 🟡 예비 후보·기존 상세/한글화 자격 유지 | 7.2 | 32 | 2026-10-17 마브러브 photonmelodies 신규 PS3 기본 선정 30개 한도 조정 / 기존 개인 점수 7.2·전체 32위·C급 원본 보존 |
 | [Arcana Heart 3: LOVE MAX!!!!! (아르카나 하트 3 LOVE MAX!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | MC 68 / Famitsu 28/40 / PS Store 4.6·206명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / Steam LOVE MAX·SIXSTARS XTEND도 한국어 미지원 | PS3·Vita 동시판 / PC LOVE MAX 후발 이식 / 상위 확장판 SIXSTARS XTEND는 PC | 🟡 예비 후보 | 7.1 | 36 | 개인 추천 순위 경계 밖 |
 | [JoJo's Bizarre Adventure HD Ver. (죠죠의 기묘한 모험 미래로의 유산 HD Ver.)](games/jojos-bizarre-adventure-hd-ver.md) | 2012 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Metacritic 64·24평론 / GameSpot 7/10 / GameFAQs Good·67명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 구작 한국어 패치도 공개 검색에서 미확인 | PS1·Dreamcast 구작 기반 HD 재출시 / 온라인·리플레이 추가 / 2014년경 디지털 판매 종료 | 🟡 예비 후보 | 7.1 | 37 | 개인 추천 순위 경계 밖 |
 | [Class of Heroes 2G (검과 마법과 학원물 2G)](games/class-of-heroes-2g.md) | 2010 | 1인칭 던전 크롤러 RPG / 턴제 RPG | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu 25/40 / GameFAQs Good·28명 / PS3 장기 리뷰 호평·혼합 | 2026-10-07 공식 한국어판·공개 한글패치 확인 못함 / 2024 리마스터도 한국어 미지원 | PSP Class of Heroes 2 강화판 / 신규 미궁·몬스터·풀보이스 / 2024 PS5·Switch·PC 리마스터 | 🟡 예비 후보 | 7.0 | 38 | 개인 추천 순위 경계 밖 |
@@ -47,3 +49,8 @@
 ## 2026-10-17 PS3 기본 목록 노출 정정
 
 《차륜의 나라, 해바라기의 소녀》는 최초 [예비 평가](games/sharin-no-kuni-himawari-no-shoujo.md)로 기록됐지만 사용자가 명시한 기본 PS3 화면에 보이도록 **기본 선정 목록으로 이동**했습니다. 이 문서의 예비 표에서는 해당 행을 제거했고, 30개 제한 유지를 위해 기존 전체 개인 순위 34위의 [《XBLAZE Code: Embryo》](games/xblaze-code-embryo.md)를 예비로 옮겼습니다. 두 작품의 상세 조사와 Windows 원작 한국어 번역 대안 기록은 그대로 보존합니다. 현재 PS3는 **전체 보존 57개 / 기본 선정 30개 / 예비 27개**입니다.
+
+## 2026-10-17 PS3 기본 30개 유지·마브러브 photonmelodies 신규 선정
+
+2014년 PS3 정식판 [《Muv-Luv photonmelodies♮》](games/muv-luv-photonmelodies.md)를 작품성 **3.5/5, 개인 신규 추천 **7.8/10**, 한글화 B급**으로 [기본 PS3 선정 화면](README.md)에 추가하기 위해, 이전 기본 화면의 [《Koihime Enbu》](games/koihime-enbu.md)를 이 예비 표로 이동했습니다. 기존 개인 **7.2/10·32위**, 작품성 3.5/5·C급, 자세한 평가 문서와 찜 키를 보존했습니다. 이번 신규 선정의 별도 신규 개인점수는 2026-10-08의 55편 역사 점수 원장에 추가하지 않으며 새 작품의 역사적 순위는 **미부여**입니다. **예비 28개 / 기본 30개 / 총 58개**입니다.
+
