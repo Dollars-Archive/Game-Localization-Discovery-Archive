@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
-> 보존 항목: **49개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **50개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -68,6 +68,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sharin no Kuni, Himawari no Shoujo (차륜의 나라, 해바라기의 소녀)](games/sharin-no-kuni-himawari-no-shoujo.md) | 2012 | 사회파 서스펜스·비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 보류·미부여 | 전격온라인 PSP 실기 호평 1건 / PSP 완주 약 23h·34h 1건 / Famitsu PS3 32/40은 참고만 | 2026-10-17 PSP 공개 완성 패치 미확인 / Windows 2018 준한글화 완료 등록·아랄트랜스 필요·현행 구동 미검증 | Windows 2005 → Xbox 360 2010 → PSP 2012 본편+법월편 → PS3 2013 추가 요소 통합 | 🟡 PC 원작 한국어 번역 대안 확인·활성 제외 |
 | [AIR (에어)](games/air.md) | 2007 | 여름·가족·전기 VN·나키게 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | GameFAQs PSP Good·24표 / 36시간·14명 / MobyGames 작품 통합 85%·평론 2건 | 2026-10-17 ANIS v1.2.0 PSP ULJM05282 v1.02 / 48,910행·UI 51장 AI 번역·PPSSPP 초반 확인 / 엔딩·실기 미검수 / PC 기존 패치 | 2000 PC → 2002 PS2 → 2007 PSP 원본·2010 DL → 2016 Vita First Sky → 2021 Switch·2025 Steam HD | 🟡 기존 PC·콘솔 공개 한글패치 확인·신규 한글화 활성 제외 |
 | [ToHeart Portable (투하트 포터블)](games/toheart-portable.md) | 2009 | 학원·청춘 연애 VN·휴대 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | PSP GameFAQs Good·16표 / 평균 플레이 29h·8명 / GAMEMAN 9.6/10 (본문 후기 0) | 2026-10-17 PS1·PS2·PSP 완성 유저패치 미확인 / 2025 Steam 리메이크 '본편 부분' 공개 한국어 팬패치·콘솔 호환성·전 루트 완역 미검증 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2003 PSE → 2004 PS2 1편 디럭스팩 → 2009 PSP W팩·2011 단품 → 2025 Steam·Switch 리메이크 | 🟡 타 판본 한국어 대안 범위 검증 보류·작품성 평가 보존 |
+| [Mashiroiro Symphony: *mutsu-no-hana (새하얀 색 심포니: 무츠노하나)](games/mashiroiro-symphony-mutsu-no-hana.md) | 2011 | 학원통합·겨울 첫사랑·6히로인 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PSP 7.7/10·636명 / GameFAQs PSP Good·18표·평균 21h(10명) / PSP 전 루트 후기 2명 / Famitsu·4Gamer PSP 평론 미집계 | 2026-08 PSP 한글패치 공개 이력 / RetroDB 제작자 요청 게시중단 / PPSSPP 실행 1명 제보·Vita Adrenaline 실행 오류 1명 / 6루트 완역·현행 실행 미검증 | 2009 PC 4루트 → 2011 PSP 사나·유츠키 신규 6루트 / 2023·24 FHD 본편 4루트+독립 SANA / PSP 유츠키는 후발판 미수록 | 🟡 PSP 한국어 대안 검증 보류·활성 후보 제외 |
 
 ## 발굴 상태 기준
 
@@ -199,3 +200,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-17 《Bullet Butlers》 PSP 기존 활성 후보 보강
 
 [PSP판 《Bullet Butlers -銃弾の彼方-》](games/bullet-butlers-juudan-no-kanata.md)의 기존 **3.5/5·B급 활성 후보**와 웹 리뷰 **잠정 7.5/10**을 그대로 유지했습니다. 동종족·마법·과학이 혼합된 도시에서 하프엘프 집사 릭이 주인 셀마를 지키는 원작 설정과 PSP 주요 인물 루트 구조를 스포일러 없이 보강했습니다. **2026-10-17 재조회 기준** PSP·2007 Windows 원판·2023 PC 합본에서 검증 가능한 공개 완역 한국어 패치를 찾지 못했으며, [propeller 공식 v1.02](https://www.propeller-game.com/product/bb/html/top.html)는 일본어 원판의 기술 수정입니다. [작품 통합 원평점·언어 정보](https://vnclub.org/vn/v445/)는 PSP만의 점수로 사용하지 않습니다. PSP 제품 코드는 [ULJM-05941](https://gamefaqs.gamespot.com/psp/629354-bullet-butlers-juudan-no-kanata/data)이며 2007 PC 원작과 구별했습니다. 기존 **PSP 기록 49개 / 활성 31개 / 💎 5개 / 🔥 A 3개** 및 타 작품·역사 리뷰 원장을 변경하지 않았습니다.
+
+## 2026-10-17 《새하얀 색 심포니 *mutsu-no-hana》 PSP 한국어 패치 공개 이력·평가 보존
+
+[PSP 2011년판 《Mashiroiro Symphony: *mutsu-no-hana》](games/mashiroiro-symphony-mutsu-no-hana.md)은 **2011-06-30 일본 PSP ULJM-05889** 정식 출시, PC 2009 원작 4명에서 **사나·유츠키 공략 루트가 추가된 6명짜리 확장판**이다. Bangumi **PSP 자체 7.7/10·636명**, GameFAQs PSP **Good·18표**와 PSP 6인 완주 후기를 검토해 **작품성 4.0/5, 별도 정성 리뷰 8.0/10(2026 신규·원장 순위 미산정)**을 부여했다. 핵심 한국어화 사실은 [RetroDB 제작자 요청 게시중단 명단](https://retrodb.info/krpatch?old=0&platform=PSP)의 **「PSP 마시로이로 심포니」**와 [2026-08-21 PPSSPP 실행·Vita 아드레날린 오류 제보](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=206445)다. 최초 번역자 원문·전체 여섯 루트 완역·파일 버전·PSP 실기와 2026 현행 패치 배포를 확인하지 못해 **🟡 한국어 패치 공개 이력·범위 검증 보류, 우선도 미부여 / 활성 한국어화 후보 미편입**으로 기록한다. 제작자 요청에 따른 내려간 패치 파일을 재게시·우회 제공하지 않는다. 기존 PSP 후보 49건에 **비활성 보존 1건만 추가하여 현행 총 50건 / 활성 31건 / 활성 💎 5건 / A급 3건**을 유지한다. 2026-10-08의 역사 리뷰 원장과 다른 작품의 점수·찜 링크는 그대로 보존한다.
+
