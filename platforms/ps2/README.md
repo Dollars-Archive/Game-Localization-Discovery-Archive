@@ -5,7 +5,7 @@
 기존의 플레이 가치 조사에 더해, 각 게임을 실제 한글화 프로젝트로 검토할 때 필요한 **한글화 우선도와 기술 난이도**를 함께 기록합니다. 기술 난이도는 실제 파일 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인)  
+> 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인 / 《Final Approach》 **2026-10-17** 재검증)  
 > 등록·보존 기록: **47개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
@@ -51,7 +51,7 @@
 | [Missing Blue (미싱 블루)](games/missing-blue.md) | 2001 | 학원·연애·분기형 디지털 노벨 ADV | ⭐⭐⭐½☆ | B | Joko 공개38건 3.79/5(내장집계와 불일치) / Gameiroiro5건·개인감상5명·가격.com1건 | 2026-10-07 공개 확인 못함 | PS2 통상·초회한정·Best / 후발 본편 확인 못함 / 공개 파일·이미지 추출 도구 있음 | 🟢 후보 |
 | [D.N.Angel: Kurenai no Tsubasa (D.N.ANGEL ～붉은 날개～)](games/dnangel-kurenai-no-tsubasa.md) | 2003 | 원작 연계·괴도·퍼즐 ADV | ⭐⭐⭐½☆ | B | Joko19건(집계·개별평균 불일치) / Gavas8건 중 실경험5건 / GameFAQs4.25/5·4표 | 2026-10-07 공개 확인 못함 | PS2 오리지널5화·TV성우 풀보이스 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Remember11 -the age of infinity- (리멤버11 -the age of infinity-)](games/remember11-the-age-of-infinity.md) | 2004 | 서스펜스·미스터리·텍스트 ADV | ⭐⭐⭐½☆ | B | Joko 전5쪽49건 만족도3.73/5(내장3.31 별도) / PS2 비평4명 / Gavas8+5+6건 소개·중복 분리 | PS2 미확인 / PSP 한국어 v0.1 베타 공개 | PSP 한국어 AI 번역·검수 베타: 대부분 텍스트·이미지 미작업·전체 플레이 미검증 | 🟡 보류 |
-| [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 선택지형 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | Joko 본문 3.65·23건 (집계 3.78) / Gavas 4.4·8건, Collection 4.0·4건 / GF 3.64·7표; 중복·소개형 분리, 상세 검토 | 공개적으로 확인되지 않음 | PS2 통상·Collection 기준 / 폰판 일부 CG 생략 / PC 팬디스크·PSP 2편 별개 | 🟢 후보 |
+| [Final Approach (파이널 어프로치)](games/final-approach.md) | 2004 | 선택지형 연애 ADV / 비주얼노벨 | ⭐⭐⭐½☆ | B | PS2 Joko 본문 23건 평균 3.65/5·사이트 집계 3.78 / Gavas 4.4/5·8건·Collection 4.0/5·4건 / GameFAQs 3.64/5·7명 / Famitsu PS2 리뷰 수치 미집계 | 2026-10-17 PS2 일본 원판·2006 Collection·휴대폰 이식까지 검증된 공식 한국어·공개 완역 팬패치 확인 못함 / RetroDB PS2·동일 게임 검색 / 2편과 애니 자막 구별 | 2004 PS2 SLPM-65676·한정 SLPM-65675 / 2006 Collection SLPM-66323 본편 재발매 / 2005 일본 구형폰 이식은 CG 일부 차이 / PC Final fandisk·2008 PS2 2편·2009 PSP 2편은 독립 제품 | 🟢 후보 |
 | [DearS (디어스)](games/dears.md) | 2004 | SF 학원 러브코미디·연애 시뮬레이션/VN | ⭐⭐⭐½☆ | B | 잠정 3.5·신뢰도 낮음 / 실경험 글 3건 / GameFAQs 3.79/5 (14표) / Wazap 60.8/100 (5표·산식 미확인) | 공개적으로 확인되지 않음 | PS2 전용 / 초회한정판은 동봉 특전 차이 / 후발 동일본편 이식 확인 못함 | 🟢 후보 |
 | [Chobits: Chiidake no Hito (쵸비츠 ～치이만의 사람～)](games/chobits-chiidake-no-hito.md) | 2003 | 육성 어드벤처·캐릭터 시뮬레이션 | ⭐⭐⭐½☆ | B | Joko 6건 3.50/5 / Gavas 4.3/6건 중 실경험 2건 / GameFAQs 3.86/7표·후기 9/10 1편 | 2026-10-07 공개 확인 못함 | GBA·Windows/Mac 별도 게임 / GBA 한국어 검수 진행 기록 / 동일 본편 후발판 확인 못함 | 🟢 후보 |
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | 구체적 경험 본문 2건 / GameFAQs Good 18표 / 3.5 잠정·근거 신뢰도 낮음 | 2026-10-07 확인 못함 | PS2 통상·피규어 한정판 / 슬롯 앱은 별개 / 후발 본편 확인 못함 | 🟢 후보 |
@@ -203,3 +203,12 @@
 ## 2026-10-17 《수월: 미심》 PS2 판본 신규 평가·활성 B급 등록
 
 [2004년 PS2 水月 ～迷心～ 상세 평가](games/suigetsu-mayoigokoro.md)를 **2004-10-28 KID 일본 SLPM-65751, 작품성 4.0/5·독립 리뷰 8.0/10·B급 활성 우선 후보**로 실제 기본 후보 표와 전체 평가에 등록했습니다. 2006 저가 재판 SLPM-66587은 같은 작품으로 중복 계산하지 않습니다. [F&C/KID PS2 정식 제품·추가 요소](https://fandc.co.jp/catalog/consumer/144), [Gavas PS2 4.3/5·7명](https://www.gavas.jp/products/detail.php?product_id=13907), [Joko PS2 후기 1](https://www.joko.jp/ps2/review/ti1239.html)·[후기 2](https://www.joko.jp/ps2/review/ti1239-2.html), [2004 PS2 직접 백로그·음성·오토세이브 이용 평가](https://do-gugan.com/~furuta/archives/2004/11/ps2.html)를 바탕으로 세계관·보이스·みずかべ·신규 CG를 높게 보되 난해한 설명과 전연령 각색의 연결 부족을 감점했습니다. 2026-10-17 공개 확인 범위에서 PS2·PSP·PC 계보의 완성·적용 가능한 한국어 대안을 찾지 못해 신규 한국어화 **B급 활성**입니다. 현행 PS2 총 **47개·💎 9개·A급 6개**, 2026-10-08 역사 평가 원장 불변.
+
+## 2026-10-17 《Final Approach》 PS2 기존 B급 평가 재확인
+
+[2004년 PS2 《Φなる・あぷろーち》 상세](games/final-approach.md)은 **이미 기본 목록에 등록된 3.5/5·B급 활성 후보**입니다. 2004-10-07 일본 **SLPM-65676** 정식판, 2006-03-02 저가 Collection **SLPM-66323**을 구별하고, 후속 **2008년 PS2 《Φなる・あぷろーち2》 / 2009년 PSP Portable**은 **본편 1편이 아닌 별도 2편**임을 재확인했습니다. [2004년 PS2 인물별 선택지](https://foxtail.okitsune.com/kitchen/capture/fa1-y.htm)와 [2026년 PS2 장문 플레이 리뷰](https://zatugyo.hatenablog.com/entry/2026/08/08/180000)에 근거해 료·아카네의 생활, 정부가 제안한 강제 약혼 실험, 시스카와 다섯 히로인 분기의 줄거리를 스포일러 없이 상세 문서에 보강했습니다.
+
+[PS2 Joko 본문 총 23건](https://www.joko.jp/ps2/review/ti1209.html)의 표시 평가 직접 평균은 **3.65/5**, 사이트의 구조화 집계는 **3.78/5**, [Gavas 2004 통상판 4.4/5·8건](https://www.gavas.jp/products/detail.php?product_id=14046), [GameFAQs PS2 3.64/5·7명](https://gamefaqs.gamespot.com/ps2/917340-final-approach/stats)으로 출처·표본을 구분했습니다. [Famitsu 2004 PS2 본편](https://www.famitsu.com/game/title/9712/reviews)은 **직접 점수 미집계**여서 수치를 창작하지 않습니다. **기존 작품성 3.5/5·리뷰 7.4/10·역사 순위 유지**, 한글화 우선도 B급 유지. [RetroDB PS2 공개 패치 목록](https://retrodb.info/krpatch?platform=PS2)과 한·영·일 제목 재검색에서 적용 가능한 공개 한국어 완성 패치·공식 한국어 대안은 **2026-10-17 기준 미확인**이며, 비공개 작업의 부재까지 단정하지 않습니다.
+
+**PS2 상세·플랫폼 목록·전체 작품 평가의 같은 1건만 갱신해 중복과 집계 변동 없음.** 기존 다른 게임 및 사용자 찜, 이전 역사 순위는 변경하지 않았습니다.
+
