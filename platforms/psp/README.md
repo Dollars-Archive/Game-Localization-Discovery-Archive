@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인)  
-> 보존 항목: **48개** / 활성 후보: **30개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **49개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -49,6 +49,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [UnchainBlades EXXiV (언체인 블레이즈 엑시브)](games/unchainblades-exxiv.md) | 2012 | 1인칭 던전 RPG | ⭐⭐⭐½☆ (3.5/5) | B | PSP Great25표 / PSP장문2명 / 3DS Famitsu29/40·4명·RPGamer2/5 | 2026-10-08 공개 한국어 대안 미확인 / PSP·3DS 영어 부분패치 구분 | PSP·3DS 동시판 / 육성강점·반복/관리부담 / 한글기술미확인 | 🟢 후보 |
 | [Wild ARMs XF (와일드 암즈 크로스 파이어)](games/wild-arms-xf.md) | 2007 | HEX·직업 조합 SRPG | ⭐⭐⭐½☆ (3.5/5) | B | 본문6명: RPGFan87/100·GameSpot5.5/10·HG4.5/5 외 / MC64·22비평 / GF Great·400표 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작·공식 영어판 / Vita는 PSP 호환 / 일본 WA5 연동·북미 미지원 / 현대 직접 이식 확인 못함 | 🟢 후보 |
 | [Routes Portable (루츠 포터블)](games/routes-portable.md) | 2007 | 첩보 액션·학원 연애·전기 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Playable (9표) / GAMEMAN 8.2/10 (서술 리뷰 0) / 일본 게임카탈로그 정성평 | 2026-10-16 PSP 한국어 패치 미확인 / 2003 PC 원작 AI 한글패치 v1.04 확인 | 2003 Windows 원작(한국어 AI 패치) → 2007 PS2 PE·PSP 확장 리메이크 / 신규 후미츠키 루트·풀보이스·추가 CG·후일담 | 🟢 후보 |
+| [MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai (마기우스테일 이터니티: 세계수와 사랑하는 마법사)](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md) | 2009 | 마법학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·7표 / GAMEMAN 8.1/10·리뷰 0 / Play-Asia 5/5·5건·서술 1 / PSP 완주평 88/100·1명 | 2026-10-17 PSP·PC 한국어 공식판·검증된 공개 완역 한글패치 확인 못함 / PSP 중국어 완역은 2015-02-18 공개·한국어 아님 | PC 2007 본편 + 2008 Infinity → 2009 PSP Eternity 본편·후일담·IF·PSP 독자 시나리오/CG / PC W-Pack은 원래 성인 콘텐츠 보존 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
@@ -188,3 +189,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-17 ToHeart Portable PSP 기존 문서 평가표 연결
 
 [2009년 W팩 ToHeart Portable 1편](games/toheart-portable.md)을 새 상세 중복 없이 PSP 기본 목록/전체 리뷰에 한 행씩 추가했습니다. W팩 ULJM-05486, 2011 단품 ULJM-05972, 2013 DL NPJH-50791을 구분하며 작품성 4.0/5·신규 리뷰 7.9/10을 기록했습니다. [2025 리메이크 본편 부분 팬패치](https://steamcommunity.com/app/3380520/guides/)는 PSP 직접 완역·호환의 근거가 아니라 한국어화 검증 보류로 분류합니다. PSP 보존 48건 / 활성 30건 / 활성 우선 5건 / A급 3건. 기존 역사 리뷰순위 불변.
+
+## 2026-10-17 《MagusTale Eternity》 PSP 후보군 → 활성 후보 복구
+
+[기존 PSP 본편+팬디스크 통합판 《MagusTale Eternity》](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md)는 사용자의 제목별 등록 요청에 따라 **2026-10-04 압축에서 예비 후보군으로 분류됐던 기존 3.5/5·B급 작품을 활성 PSP 후보로 복귀**시켰다. 별도 상세 MD를 새로 만들지 않고 원문과 평가 근거를 2026-10-17 기준 갱신했다. PSP GameFAQs **Fair·7표**, GAMEMAN **8.1/10(서술 리뷰 0)**, Play-Asia **5/5·5건**, PSP 완주 개인평 **88/100**, 기존 리뷰 기반 **7.4/10(2026-10-08 과거 공동 27위)**를 판본·표본별로 구분해 작품성 3.5를 유지했다. 한국어판/검증된 공개 완역 PSP·PC 한글패치는 2026-10-17 기준 찾지 못했으며, [2015-02-18 PSP 중국어 간체 완역 원 배포 기록](https://bbs2.seikuu.com/thread-139177-1-1.html)은 **한국어 대안이 아니다**. PSP 독자 추가 시나리오·CG가 있어 단순 PC 원작 중복 이식과 구별한다. **PSP 현행 보존 49개 / 활성 31개 / 💎 우선 5개 / 🔥 A 3개**. 2026-10-08 역사 리뷰 원장·다른 작품의 점수/우선도/기존 순위를 변경하지 않았다.
+
