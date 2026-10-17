@@ -15,6 +15,7 @@ const Core = window.WatchlistCore;
 const Exclusions = window.ExclusionCore;
 
 const PLATFORMS = {
+  ps1: { label: 'PLAYSTATION 1', short: 'PS1', path: 'platforms/ps1/README.md', rankingPath: 'platforms/ps1/recommendations.md' },
   ps2: { label: 'PLAYSTATION 2', short: 'PS2', path: 'platforms/ps2/README.md', rankingPath: 'platforms/ps2/recommendations.md' },
   psp: { label: 'PLAYSTATION PORTABLE', short: 'PSP', path: 'platforms/psp/README.md', rankingPath: 'platforms/psp/recommendations.md' },
   psvita: { label: 'PLAYSTATION VITA', short: 'PS Vita', path: 'platforms/psvita/README.md', rankingPath: 'platforms/psvita/recommendations.md' },
