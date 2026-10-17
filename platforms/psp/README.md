@@ -5,8 +5,8 @@
 PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 가치·한국어 접근성·후발 이식 여부를 별도로 확인합니다. 한글화 기술 난이도는 실제 게임 파일 또는 신뢰할 만한 해당 판본 기술 분석 전에는 추측하지 않고 `미확인`으로 유지합니다.
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
-> 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
-> 보존 항목: **53개** / 활성 후보: **33개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
+> 보존 항목: **54개** / 활성 후보: **33개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -72,6 +72,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [ToHeart Portable (투하트 포터블)](games/toheart-portable.md) | 2009 | 학원·청춘 연애 VN·휴대 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | PSP GameFAQs Good·16표 / 평균 플레이 29h·8명 / GAMEMAN 9.6/10 (본문 후기 0) | 2026-10-17 PS1·PS2·PSP 완성 유저패치 미확인 / 2025 Steam 리메이크 '본편 부분' 공개 한국어 팬패치·콘솔 호환성·전 루트 완역 미검증 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2003 PSE → 2004 PS2 1편 디럭스팩 → 2009 PSP W팩·2011 단품 → 2025 Steam·Switch 리메이크 | 🟡 타 판본 한국어 대안 범위 검증 보류·작품성 평가 보존 |
 | [Mashiroiro Symphony: *mutsu-no-hana (새하얀 색 심포니: 무츠노하나)](games/mashiroiro-symphony-mutsu-no-hana.md) | 2011 | 학원통합·겨울 첫사랑·6히로인 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PSP 7.7/10·636명 / GameFAQs PSP Good·18표·평균 21h(10명) / PSP 전 루트 후기 2명 / Famitsu·4Gamer PSP 평론 미집계 | 2026-08 PSP 한글패치 공개 이력 / RetroDB 제작자 요청 게시중단 / PPSSPP 실행 1명 제보·Vita Adrenaline 실행 오류 1명 / 6루트 완역·현행 실행 미검증 | 2009 PC 4루트 → 2011 PSP 사나·유츠키 신규 6루트 / 2023·24 FHD 본편 4루트+독립 SANA / PSP 유츠키는 후발판 미수록 | 🟡 PSP 한국어 대안 검증 보류·활성 후보 제외 |
 | [Brave Story: New Traveler (브레이브 스토리: 새로운 여행자)](games/brave-story-new-traveler.md) | 2006 | 성장 판타지·3D 정통 턴제 JRPG | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | Metacritic PSP 76/100·30평론 / RPGFan PSP 86/100 / GameSpot PSP 6.5/10 / GameFAQs PSP 3.81/5·529명 | 2026-08-17 신선짱 PSP v0.91 공개(08-16 v0.9) / 제작자 원본 접근 제한·지원 지역판·완역·실기·엔딩 검증 미완 | 2006 일본 UCJS-10024·아시아 UCAS-40096 → 2007 북미 XSEED 공식 영어 ULUS-10279 / PS2 와타루의 모험은 다른 액션게임 | 🟡 공개 한글패치 v0.91 확인·번역 범위/호환 검증 보류 |
+| [Princess Evangile PORTABLE (프린세스 에반젤 포터블 / 프린세스 에반질 Portable)](games/princess-evangile-portable.md) | 2012 | 여학교 공학화·26화 장편 학원 연애 비주얼 노벨·4히로인 | ⭐⭐⭐½☆ 3.5/5 | 미부여 (과거 C) | PSP GF Good·18명 / PSP Gamer 2012 중반 실플레이 1인 / Play-Asia PSP 5/5·5표·서술 1건 / Steam 영어 PC 본편 92%·138명은 타 판본 참고 | 2026-10-17 PSP ULJM-06036 자체 한국어판·검증된 공개 완역 패치 미발견 / 2015-10-13 MOONSTONE 공식 한국어 Android 본편 발매 확인 / 2016 한국어 W Happiness 모바일판 / 현재 신규 판매중단 보고 | 2011 PC 4히로인 본편 → 2012 PSP CG·신규 OP·UI 추가 / 2015 일본 Android Portable에서 PSP 추가 CG 고해상도 수록 / 2015 한국어 i-play 앱과 CG 동일성 미검증 | 🟡 사용자 지정 PSP 기본 작품 평가·공식 한국어 모바일판 이력·신규 한글화 활성 제외 |
 
 ## 발굴 상태 기준
 
@@ -227,3 +228,16 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 [《연애 0킬로미터 포터블》 웹 상세 페이지](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/game.html?file=platforms%2Fpsp%2Fgames%2Frenai-0-kilometer-portable.md)의 기존 **작품성 3.5/5·별도 잠정 리뷰 7.5/10·종전 C급 판단**을 보존했다. 2013 PSP ULJM-06221에 새 공략 루트 4개가 있으며 2014 Vita V는 이 9히로인 판본을 고해상도로 완전 이식한다([패미통 PSP 직접 28/40](https://www.famitsu.com/game/title/28609/reviews), [Vita 공식 발표](https://www.4gamer.net/games/259/G025949/20140602085/)). [GTAKU의 2011 PC 원작](https://www.gtaku.net/vngameinfo/43429)에 **MTL 한국어 패치** 등록 기록이 존재하지만 원 게시글·원본 파일·완역·실사용·현재 배포 상태는 검증되지 않았다. [2026 Steam](https://store.steampowered.com/app/3588960/?l=koreana)은 공식 한국어 미지원. PSP/PS Vita 독립 완성 한글패치도 현재 확인하지 못했으며 PC 원작 MTL이 PSP 확장 내용을 대체한다고 단정하지 않는다. 리메이크 예외를 자동 적용하지 않고 **🟡 한국어 대안 검증 보류**, PSP 전체 작품 평가 **후보군**에 기존 행 1건으로 유지한다. PSP 후보 표 **53개·활성 33개·💎 5개·A 3개**, 리뷰 표 **127행**, 역사 평가와 타 게임 점수는 불변.
 
+
+
+## 2026-10-17 《Princess Evangile PORTABLE》 PSP 기본 작품 평가 노출 및 한국어 정식판 감사
+
+기존 [《Princess Evangile PORTABLE》 PSP 상세](games/princess-evangile-portable.md)은 2026-09-19에 **작품성 3.5/5·C급 후보**로 조사됐으나 현행 PSP 기본 목록과 리뷰 평가표에서 누락됐습니다. 이번 제목별 등록 요청에 따라 **동일 상세 파일을 중복 생성하지 않고 기본 「기존 목록」에서 작품성 평가로 표시**합니다. 그러나 이 기본 화면 노출은 한국어 신규 번역 후보 선정과 다릅니다.
+
+**한국어 대안의 직접 근거:** 원 개발사 [MOONSTONE의 2015-10-13 「Princess Evangile 韓国語版 Android 출시」 공식 공지](https://www.moon-stone.jp/product/ms12/)로 동일 네 히로인 본편의 과거 **정식 한국어 모바일판**을 확인했습니다. [i-play 2016-10-20 보도자료](https://www.newswire.co.kr/newsRead.php?no=837792)는 W Happiness 한국어판 모바일 다음날 출시를 예고하며, [국내 출시 이력](https://d.namu.moe/w/%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%20%EC%97%90%EB%B0%98%EC%A0%A4)은 실제 출시를 기록합니다. 2022년 라이선스 만료·2026년 원스토어 판매중단 기록이 있으므로 **정식 한국어판 출시 이력과 현행 구매·재설치 가능성**을 분리해 표기합니다. 2026-10-17 현재 스토어 실거래/재설치 성공은 직접 검증하지 않았습니다.
+
+**PSP의 독자성:** [CyberFront 2012 PSP 실제 플레이](https://www.gamer.ne.jp/news/201204080001/)와 [4Gamer 16장 PSP 화면](https://www.4gamer.net/games/144/G014468/20111208015/)은 PSP UI 조정·추가 이벤트 CG와 전용 OP를 확인합니다. 그러나 [MOONSTONE 2015 일본어 Android Portable](https://www.moon-stone.jp/1776.html)은 PSP 추가 CG를 PC 해상도로 다시 수록합니다. **한국어 Android판과 일본어 Portable의 CG·OP 전체 동일성은 미확인**입니다. PSP 원판에는 공개 완성 한글패치를 확인하지 못했지만 동일 본편 정식 한국어 번역이 다른 플랫폼에 출시된 **단순 강화 이식**이므로, 현행 한글화 정책에 따라 **신규 활성 한글화 제외·A/B/C 우선도 미부여**로 정정합니다(과거 C급은 역사 기록 보존).
+
+**작품성 3.5/5 유지**, [GameFAQs PSP Good·18표](https://gamefaqs.gamespot.com/psp/653320-princess-evangile-portable)와 [Play-Asia PSP 5/5·5건](https://www.play-asia.com/en/princess-evangile-portable/13/704jim), [Steam 영어 PC 92%·138건](https://store.steampowered.com/app/344630/Princess_Evangile_All_Ages_Version/)을 별도 표본으로 구분해 **잠정 리뷰 7.4/10**을 부여합니다. [4Gamer PSP 직접 이용자 리뷰는 0건](https://www.4gamer.net/games/144/G014468/index_userreview.html)이라 이식판 평점 신뢰도의 제한을 병기했습니다.
+
+**PSP 기록 53→54건, 활성 후보 33건·💎 5건·🔥 A 3건은 변동 없음**, 기존 2026-10-08 PSP 123건 평가 순위 원장, 다른 작품과 찜·한글화 자격을 보존합니다.
