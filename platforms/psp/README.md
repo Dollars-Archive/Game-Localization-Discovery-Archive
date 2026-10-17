@@ -222,3 +222,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 ## 2026-10-17 Shirokuma Belles Stars PSP 활성 B급 기본 목록 복귀
 
 [기존 PSP 평가 상세](games/shirokuma-belles-stars-happy-holidays.md)의 작품성 3.5/5, 기존 잠정 리뷰 7.5/10(현재 공동 16위), 한글화 우선도 B를 유지하면서 종전 후보군에서 PSP 기본 기존 목록에 1개 행으로 복귀했습니다. [GameFAQs](https://gamefaqs.gamespot.com/psp/665265-shirokuma-belles-stars-happy-holidays/data)에 일본 2012-07-26 ULJM-06111 정식 발매가 확인되며, [4Gamer 2012년 발표](https://www.4gamer.net/games/151/G015191/20120526001/)는 PC 원작 대비 추가 연애·서브 캐릭터 시나리오, CG, 무비, 16:9를 설명합니다. 일본어 원판 및 2009 PC 원작에 대한 실사용 공개 한국어 완성 패치를 2026-10-17 조회에서 확인하지 못했습니다. PSP 독립 평론이 부족하므로 점수는 잠정 유지하며 실제 기술 난도는 미확인입니다. PSP 보존 53 / 활성 33 / 활성 우선 5 / A급 3. 기존 127개 웹 리뷰 행, 역사 평가 원장, 찜 키는 유지합니다.
+
+## 2026-10-17 《Ren'ai 0 Kilometer Portable》 PSP 기존 리뷰·한국어 대안 재검증
+
+[《연애 0킬로미터 포터블》 웹 상세 페이지](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/game.html?file=platforms%2Fpsp%2Fgames%2Frenai-0-kilometer-portable.md)의 기존 **작품성 3.5/5·별도 잠정 리뷰 7.5/10·종전 C급 판단**을 보존했다. 2013 PSP ULJM-06221에 새 공략 루트 4개가 있으며 2014 Vita V는 이 9히로인 판본을 고해상도로 완전 이식한다([패미통 PSP 직접 28/40](https://www.famitsu.com/game/title/28609/reviews), [Vita 공식 발표](https://www.4gamer.net/games/259/G025949/20140602085/)). [GTAKU의 2011 PC 원작](https://www.gtaku.net/vngameinfo/43429)에 **MTL 한국어 패치** 등록 기록이 존재하지만 원 게시글·원본 파일·완역·실사용·현재 배포 상태는 검증되지 않았다. [2026 Steam](https://store.steampowered.com/app/3588960/?l=koreana)은 공식 한국어 미지원. PSP/PS Vita 독립 완성 한글패치도 현재 확인하지 못했으며 PC 원작 MTL이 PSP 확장 내용을 대체한다고 단정하지 않는다. 리메이크 예외를 자동 적용하지 않고 **🟡 한국어 대안 검증 보류**, PSP 전체 작품 평가 **후보군**에 기존 행 1건으로 유지한다. PSP 후보 표 **53개·활성 33개·💎 5개·A 3개**, 리뷰 표 **127행**, 역사 평가와 타 게임 점수는 불변.
+
