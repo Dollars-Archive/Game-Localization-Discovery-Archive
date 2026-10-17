@@ -20,7 +20,7 @@
 | Nintendo DS | 1 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 
-> **2026-10-17 PSP 《시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~》 활성 B급 복귀:** [2012 BOOST ON PSP ULJM-06111 기존 상세](platforms/psp/games/shirokuma-belles-stars-happy-holidays.md)의 작품성 **3.5/5·자료 기반 잠정 7.5/10·현행 공동 16위·B급**을 유지하며 [PSP 기본 기존 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp&view=active)에 1행 등록했습니다. 기존 PSP 전체 리뷰의 후보군 분류만 활성으로 수정해 중복 게임이나 점수를 만들지 않았습니다. 2009 PULLTOP Windows 원작 대비 [2012 PSP 새 연애/서브 캐릭터/CG/OP 16:9](https://www.4gamer.net/games/151/G015191/20120526001/)를 추가한 확장 이식이며 2011 PC 번체 중국어판은 한국어판이 아닙니다. **2026-10-17 PSP와 PC에 검증된 공개 완성 한국어 패치 미발견**, 한글화 활성 B급. 현행 PSP 총 **53건·활성 33건·💎 5건·A급 3건**, 리뷰 127행·기존 역사 평가·찜 키·다른 기종 집계 불변.
+> **2026-10-17 PSP 《시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~》 활성 B급 복귀:** [2012 BOOST ON PSP ULJM-06111 상세 웹페이지](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/game.html?file=platforms%2Fpsp%2Fgames%2Fshirokuma-belles-stars-happy-holidays.md)의 작품성 **3.5/5·자료 기반 잠정 7.5/10·현행 공동 16위·B급**을 유지하며 [PSP 기본 기존 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp&view=active)에 1행 등록했습니다. 기존 PSP 전체 리뷰의 후보군 분류만 활성으로 수정해 중복 게임이나 점수를 만들지 않았습니다. 2009 PULLTOP Windows 원작 대비 [2012 PSP 새 연애/서브 캐릭터/CG/OP 16:9](https://www.4gamer.net/games/151/G015191/20120526001/)를 추가한 확장 이식이며 2011 PC 번체 중국어판은 한국어판이 아닙니다. **2026-10-17 PSP와 PC에 검증된 공개 완성 한국어 패치 미발견**, 한글화 활성 B급. 현행 PSP 총 **53건·활성 33건·💎 5건·A급 3건**, 리뷰 127행·기존 역사 평가·찜 키·다른 기종 집계 불변.
 >
 
 
