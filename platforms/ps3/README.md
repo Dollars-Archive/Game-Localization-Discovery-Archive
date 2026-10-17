@@ -3,7 +3,7 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **60개** / 기본 선정: **30개** / 예비 기록: **30개**  
+> 기록 보존: **61개** / 기본 선정: **30개** / 예비 기록: **31개**  
 > 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 16 · C 13 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
@@ -116,3 +116,11 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 [2014 5pb. 공식 사이트의 7수록 묶음·12단편 목록과 실게임 화면](https://game.mages.co.jp/muvluv/fm/flowers/sp/), [PS3 GameFAQs Outstanding 20표·25시간/15명](https://gamefaqs.gamespot.com/ps3/774736-muv-luv-photonflowers), [2017 Kakaku 전문 기명 평론 4/5·1명](https://review.kakaku.com/review/K0000611620/), [2014 PS3 당시 개별 감상](https://02memo.seesaa.net/article/395524798.html)을 교차 확인했습니다. [2019 PC Steam](https://store.steampowered.com/app/889700/MuvLuv_photonflowers/?l=koreana)은 공식 영어·일본어를 지원하지만 **한국어 미지원**, PC 중국어 BETA 번역은 한국어 대안이 아니므로 한국어화 신규 후보 자격을 유지했습니다. 방대한 분기 게임이 아닌 12편 거의 무선택 읽기형이며 작품성 3.5점은 개별 단편 편차·원작을 먼저 읽어야 하는 장벽과 좋은 외전 서사의 대비를 반영합니다.
 
 **기본 표시 30개 유지:** 기존 2026-10-08 개인 30위 《Nitroplus Blasterz: Heroines Infinite Duel》(별점 3.5/5·개인 7.2/10·C급)을 [예비 목록](reserve.md)으로 이동하며 기존 **평가 문서·찜 식별자·7.2점·30위는 원상 보존**합니다. 총 **60개(기본 30·예비 30)**, 기본 작품성 4.0 이상 4개, A 0/B 16/C 13/미부여 1개. 기존 55개 역사 순위 원장 및 기존 《photonmelodies♮》·《Total Eclipse》 등록은 불변입니다.
+
+## 2026-10-17 《WHITE ALBUM: 綴られる冬の想い出》 PS3 리메이크 평가와 한국어 대안
+
+[2010 PS3 《화이트 앨범: 엮어 가는 겨울의 추억》 상세 웹페이지](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/game.html?file=platforms%2Fps3%2Fgames%2Fwhite-album-tsuzurareru-fuyu-no-omoide.md)를 **AQUAPLUS 2010-06-24 PS3 리메이크** 기준으로 **작품성 ⭐⭐⭐⭐☆ 4.0/5·개인 신규 잠정 7.9/10(역사 순위 미부여)**으로 기록했습니다. 《WHITE ALBUM2》와 별개의 1편 리메이크로서 새로운 보이스·사요코 히로인·Motion Portrait·그림·음악과 개선된 지도/회화 구조가 장점이고, 짧은 개별 루트·화제 레벨·반복 방문·관계 윤리의 이견이 단점입니다. [4Gamer 2010 PS3 직접 소개](https://www.4gamer.net/games/107/G010790/20100624001/) · [AQUAPLUS 공식 제품 코드](https://aquaplus.jp/wa/product.html) · [2010 직접 개인 감상](https://minatokako.exblog.jp/11424900/).
+
+**2015 리메이크 Windows판 한글패치**와 [2023 Steam 한글 패치 포팅](https://gall.dcinside.com/mgallery/board/view/?id=aleaf&no=1580)이 실제 공개됐습니다. 2023-11 영상 자막과 2023-12 초기 교정 업데이트까지 확인되나 전편 수동 검수·현재 모든 엔딩 실행은 미확인입니다. 2023 Steam [공식 한국어는 미지원](https://store.steampowered.com/app/2432110/WHITE_ALBUM/?l=koreana)이며 비공식 패치는 별개입니다. **PS3 자체에 호환되는 패치는 미발견**이나 *같은 리메이크의 PC 후발판*에 공개 한글패치가 있으므로 신규 PS3 한국어화 활성 후보는 **제외·A/B/C 우선도 미부여**로 판정합니다.
+
+[PS3 예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve)에 신규 비활성 평가 기록 1개를 추가하여 **PS3 보존 60→61개 / 기본 30개 불변 / 예비 30→31개**로 갱신했습니다. 기존 PS3 기본 작품·55개 개인 역사 순위·찜 데이터와 다른 기종은 변경하지 않았습니다.
