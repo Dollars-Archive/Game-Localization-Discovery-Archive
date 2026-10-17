@@ -2,7 +2,7 @@
 
 PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하는 아카이브입니다.
 
-> 2026-10-17 신규 개설 · 등록·보존 **2건** · 활성 한글화 후보 **0건** · 활성 우선 후보 **0건** · 한글화 A급 **0건**
+> 2026-10-17 신규 개설 · 등록·보존 **2건** · 웹 기본 화면 표시 **1건(작품 평가)** · 활성 한글화 후보 **0건** · 활성 우선 후보 **0건** · 한글화 A급 **0건**
 
 [← 전체 아카이브](../../README.md) · [PS1 사이트](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) · [PS1 리뷰 평가](recommendations.md)
 
@@ -11,7 +11,7 @@ PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS1 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [ToHeart (투하트) · PS1](games/toheart.md) | 1999 | 학원·청춘 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | GameFAQs PS1 3.5/5·16표 / 22.3h·13명 / 게임카탈로그 良作 | 2026-10-17 PS1 공개 완성 한글패치 미확인 / 2025 Steam 리메이크 본편 부분 유저 한글패치 공개·완성 범위 불확실 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2004 PS2 동봉판 → 2009 PSP → 2025 PC·Switch 리메이크 | 🟡 다른 판본 한국어 대안 범위 검증 보류 |
-| [serial experiments lain (시리얼 익스페리먼츠 레인)](games/serial-experiments-lain.md) | 1998 | 심리 미스터리·비선형 상담·영상·기록 열람 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PS1 7.8/10·68명 / GameFAQs PS1 Good·25명 / 2018 4Gamer 원 제작자 3명 회고 / 2015 HonestGamers의 조작·로딩 비판 | 2026-10-17 PS1 CD 직접 완역 한글패치 미확인 / lainTSX 웹 한국어 667 VTT vs 영문 673 VTT·주요 상담·일기·영상 분류 보유 / 전수 QA·원본 콘솔 호환 미검증 | 1998 PS1 정식 2CD SLPS-01603·01604 / 2021 팬 웹 한국어 재구현 / 2026 홈브류 Switch·PC 네이티브 코드 복원은 비공식 재현 | 🟡 한국어 웹 번역 대안 확인·PS1 신규 활성 한글화 후보 제외 |
+| [serial experiments lain (시리얼 익스페리먼츠 레인)](games/serial-experiments-lain.md) | 1998 | 심리 미스터리·비선형 상담·영상·기록 열람 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PS1 7.8/10·68명 / GameFAQs PS1 Good·25명 / 2018 4Gamer 원 제작자 3명 회고 / 2015 HonestGamers의 조작·로딩 비판 | 2026-10-17 PS1 CD 직접 완역 한글패치 미확인 / lainTSX 웹 한국어 667 VTT vs 영문 673 VTT·주요 상담·일기·영상 분류 보유 / 전수 QA·원본 콘솔 호환 미검증 | 1998 PS1 정식 2CD SLPS-01603·01604 / 2021 팬 웹 한국어 재구현 / 2026 홈브류 Switch·PC 네이티브 코드 복원은 비공식 재현 | 🟡 사용자 지정 PS1 기본 작품 표시·한국어 웹 번역 대안 확인·신규 한글화 활성 제외 |
 
 ## 2026-10-17 첫 PS1 조사 등록
 
@@ -25,3 +25,10 @@ PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하
 
 **PS1 현행 등록·보존 2개 / 활성 번역 후보 0 / 발굴 우선 0 / 한글화 A급 0**이며 기존 《ToHeart》 4.0점·8.2점·후보 상태와 2026-10-08 타 플랫폼 역사 순위·사이트 링크는 그대로 유지했습니다. [2026년 공개 실제 PS1 C 코드 복원](https://github.com/Y0oshi/lain-psx-decompiled)은 원판의 미래 기술적 연구 기반이지만 Sony/Pioneer 공식 리마스터는 아닙니다.
 
+
+
+## 2026-10-17 사용자 요청: 《serial experiments lain》 PS1 기본 목록 표시
+
+[《serial experiments lain》](games/serial-experiments-lain.md)은 PS1 플랫폼에 이미 등록된 1998년 **PS1 정식판** 평가 기록이었으나, 웹 작품 평가 원본 [recommendations.md](recommendations.md)에서 **「후보군」으로 분류된 탓에 ‘기존 목록’ 필터에 표시되지 않았다**. 사용자 요청에 따라 **기존 한 행만 「기존 목록」으로 이동**했으며, [PS1 기본 화면에서 레인 바로 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1&view=active)와 [PS1 전체 평가](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) 양쪽에 표시하도록 했다.
+
+작품성 **4.0/5**, 추천 **8.3/10**, 한국어 웹 번역([lainTSX Korean](https://3d.laingame.net/), 자막 ko **667건**)과 PS1 원본 직접 한글화 미확인을 모두 보존한다. 이 **사용자 지정 기본 표시 1건은 신규 번역 활성 후보 수에 포함하지 않으며**, 한글화 우선도 **미부여**, **PS1 활성 한글화 후보 0건**이다. 다른 게임 《ToHeart》는 기존 **후보군 1건**으로 유지한다. PS1 전체 보존 **2건**, 발굴 우선 **0건**, 한글화 A **0건** 유지. 다른 플랫폼 기록·찜 키·사이트 코드 무변경.
