@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증)  
-> 보존 항목: **50개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **51개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -69,6 +69,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [AIR (에어)](games/air.md) | 2007 | 여름·가족·전기 VN·나키게 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | GameFAQs PSP Good·24표 / 36시간·14명 / MobyGames 작품 통합 85%·평론 2건 | 2026-10-17 ANIS v1.2.0 PSP ULJM05282 v1.02 / 48,910행·UI 51장 AI 번역·PPSSPP 초반 확인 / 엔딩·실기 미검수 / PC 기존 패치 | 2000 PC → 2002 PS2 → 2007 PSP 원본·2010 DL → 2016 Vita First Sky → 2021 Switch·2025 Steam HD | 🟡 기존 PC·콘솔 공개 한글패치 확인·신규 한글화 활성 제외 |
 | [ToHeart Portable (투하트 포터블)](games/toheart-portable.md) | 2009 | 학원·청춘 연애 VN·휴대 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | PSP GameFAQs Good·16표 / 평균 플레이 29h·8명 / GAMEMAN 9.6/10 (본문 후기 0) | 2026-10-17 PS1·PS2·PSP 완성 유저패치 미확인 / 2025 Steam 리메이크 '본편 부분' 공개 한국어 팬패치·콘솔 호환성·전 루트 완역 미검증 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2003 PSE → 2004 PS2 1편 디럭스팩 → 2009 PSP W팩·2011 단품 → 2025 Steam·Switch 리메이크 | 🟡 타 판본 한국어 대안 범위 검증 보류·작품성 평가 보존 |
 | [Mashiroiro Symphony: *mutsu-no-hana (새하얀 색 심포니: 무츠노하나)](games/mashiroiro-symphony-mutsu-no-hana.md) | 2011 | 학원통합·겨울 첫사랑·6히로인 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PSP 7.7/10·636명 / GameFAQs PSP Good·18표·평균 21h(10명) / PSP 전 루트 후기 2명 / Famitsu·4Gamer PSP 평론 미집계 | 2026-08 PSP 한글패치 공개 이력 / RetroDB 제작자 요청 게시중단 / PPSSPP 실행 1명 제보·Vita Adrenaline 실행 오류 1명 / 6루트 완역·현행 실행 미검증 | 2009 PC 4루트 → 2011 PSP 사나·유츠키 신규 6루트 / 2023·24 FHD 본편 4루트+독립 SANA / PSP 유츠키는 후발판 미수록 | 🟡 PSP 한국어 대안 검증 보류·활성 후보 제외 |
+| [Brave Story: New Traveler (브레이브 스토리: 새로운 여행자)](games/brave-story-new-traveler.md) | 2006 | 성장 판타지·3D 정통 턴제 JRPG | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | Metacritic PSP 76/100·30평론 / RPGFan PSP 86/100 / GameSpot PSP 6.5/10 / GameFAQs PSP 3.81/5·529명 | 2026-08-17 신선짱 PSP v0.91 공개(08-16 v0.9) / 제작자 원본 접근 제한·지원 지역판·완역·실기·엔딩 검증 미완 | 2006 일본 UCJS-10024·아시아 UCAS-40096 → 2007 북미 XSEED 공식 영어 ULUS-10279 / PS2 와타루의 모험은 다른 액션게임 | 🟡 공개 한글패치 v0.91 확인·번역 범위/호환 검증 보류 |
 
 ## 발굴 상태 기준
 
@@ -205,3 +206,8 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 
 [PSP 2011년판 《Mashiroiro Symphony: *mutsu-no-hana》](games/mashiroiro-symphony-mutsu-no-hana.md)은 **2011-06-30 일본 PSP ULJM-05889** 정식 출시, PC 2009 원작 4명에서 **사나·유츠키 공략 루트가 추가된 6명짜리 확장판**이다. Bangumi **PSP 자체 7.7/10·636명**, GameFAQs PSP **Good·18표**와 PSP 6인 완주 후기를 검토해 **작품성 4.0/5, 별도 정성 리뷰 8.0/10(2026 신규·원장 순위 미산정)**을 부여했다. 핵심 한국어화 사실은 [RetroDB 제작자 요청 게시중단 명단](https://retrodb.info/krpatch?old=0&platform=PSP)의 **「PSP 마시로이로 심포니」**와 [2026-08-21 PPSSPP 실행·Vita 아드레날린 오류 제보](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=206445)다. 최초 번역자 원문·전체 여섯 루트 완역·파일 버전·PSP 실기와 2026 현행 패치 배포를 확인하지 못해 **🟡 한국어 패치 공개 이력·범위 검증 보류, 우선도 미부여 / 활성 한국어화 후보 미편입**으로 기록한다. 제작자 요청에 따른 내려간 패치 파일을 재게시·우회 제공하지 않는다. 기존 PSP 후보 49건에 **비활성 보존 1건만 추가하여 현행 총 50건 / 활성 31건 / 활성 💎 5건 / A급 3건**을 유지한다. 2026-10-08의 역사 리뷰 원장과 다른 작품의 점수·찜 링크는 그대로 보존한다.
 
+
+
+## 2026-10-17 《Brave Story: New Traveler》 PSP 비활성 작품성 보존
+
+[2006 일본 PSP 원작 및 2007 북미 공식 영어판 상세 평가](games/brave-story-new-traveler.md)를 **⭐⭐⭐⭐☆ 4.0/5·자료 기반 리뷰 7.9/10**으로 신규 보존했습니다. [메타크리틱 PSP 76/100·30평론](https://www.metacritic.com/game/brave-story/critic-reviews/), [RPGFan PSP 86점](https://www.rpgfan.com/review/brave-story-new-traveler/), [GameSpot PSP 6.5점](https://www.gamespot.com/reviews/brave-story-new-traveler-review/1900-6176740/), [GameFAQs 3.81/5·529명/38.6시간·162명](https://gamefaqs.gamespot.com/psp/932265-brave-story-new-traveler/stats)을 본 PSP에 한정해 비교했습니다. **[신선짱 한글패치 v0.91 2026-08-17](https://retrodb.info/krpatch/1907/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C-%EC%8A%A4%ED%86%A0%EB%A6%AC)**과 [네이버 원 배포자 링크의 국내 게시글](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=202600)이 있으나 제작자 원문 접근 제한으로 지원 빌드·완역 범위·실기/엔딩 안정성을 확인하지 못했습니다. 한국어 패치가 없는 게임으로 소개하거나 v0.91을 91% 번역이라고 추정하지 않습니다. 새 한글화 프로젝트 활성 후보에 중복 편입하지 않고 **PSP 전체 작품 평가의 후보군**에 보존했습니다. PSP 보존 **51개 / 활성 31개 / 활성 💎 5개 / A급 3개**. 기존 원장 불변.

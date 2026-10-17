@@ -13,12 +13,16 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 1 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 46 | 8 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 50 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 51 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 1 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-17 PSP 신규 《Brave Story: New Traveler》 평가 보존:** [2006 일본·2007 북미 PSP 상세 작품성 4.0/5·리뷰 7.9/10](platforms/psp/games/brave-story-new-traveler.md)을 [PSP 전체 작품 평가](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp)의 **후보군**에 신규 등록했습니다. [신선짱 2026-08-17 PSP v0.91 공개 이력](https://retrodb.info/krpatch/1907/%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C-%EC%8A%A4%ED%86%A0%EB%A6%AC) 및 [원 배포처 안내](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=202600)는 확인됐지만 원본 파일·지원 일본/북미 지역판·100% 대사/UI 번역·실기/엔딩은 미확인입니다. 이미 게시된 한패가 있어 **새 번역 활성 후보로 중복 추가하지 않고** 작품성 기록으로 보존했습니다. 최신 **PSP 보존 51 / 활성 31 / 활성 💎 5 / A 3 / PSP 전체 평가 127행**. 직전 《Mashiroiro Symphony》 추가와 다른 플랫폼·역사적 순위·Pages 링크는 보존했습니다.
+>
+
 
 > [!NOTE]
 > 2026-10-12 당시 PS2 등록 41개에는 **사용자 승인으로 보류 기록한 3.0점 예외 항목 1개**가 포함됩니다. **2026-10-12 [《마나케미아: 학원의 연금술사들》](platforms/ps2/games/mana-khemia-gakuen-no-renkinjutsushitachi.md) PS2 원작을 4.0/5·B급으로 추가**했습니다. 2024년 SeHwa 한국어 v0.5는 초벌 AI 번역·미검수·이미지 미번역·코드 안정성 미보장으로 **완성 한국어판과 구분**합니다. 일반 등록 하한은 **3.5/5**로 유지합니다.
