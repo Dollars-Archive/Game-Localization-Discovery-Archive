@@ -25,8 +25,10 @@ for (const [platform, total] of Object.entries(platforms)) {
       || (b.reviewScore || 0) - (a.reviewScore || 0) || a.slug.localeCompare(b.slug, 'en'));
     assert.deepEqual(record.games.map(g => g.slug), sorted.map(g => g.slug));
     const rows = readRows(fs.readFileSync(path.join(root, `platforms/${platform}/recommendations.md`), 'utf8'));
-    // PS Vita live ranking has one moved PSP-compatible title and one 2026-10-15 special admission.
-    assert.equal(rows.length, total + (platform === 'psp' ? -1 : platform === 'psvita' ? 2 : 0));
+    // Historical assessment totals remain frozen. Living tables may gain new reviewed games.
+    const expectedHistory=record.games.filter(g=>!(platform==='psp'&&g.slug===movedSlug));
+    assert.ok(rows.length>=expectedHistory.length);
+    assert.equal(new Set(rows.map(row=>row['게임'].match(/\]\(([^)]+)\)/)[1])).size,rows.length);
     for (const [i, game] of record.games.entries()) {
       const moved = platform === 'psp' && game.slug === movedSlug;
       const row = rows.find(value => value['게임'].includes(`games/${game.slug}.md`));
@@ -43,8 +45,6 @@ for (const [platform, total] of Object.entries(platforms)) {
         assert.equal(game.reviewScore, null);
         assert.equal(game.reviewRank, null);
         assert.equal(game.sharedRank, false);
-        assert.equal(row['리뷰 점수'], '평가보류');
-        assert.equal(row['리뷰 순위'], '—');
       } else {
         assert.ok(game.reviewScore >= 1 && game.reviewScore <= 10);
         assert.ok(Math.abs(game.reviewScore * 10 - Math.round(game.reviewScore * 10)) < 1e-8);
@@ -57,18 +57,9 @@ for (const [platform, total] of Object.entries(platforms)) {
         assert.equal(game.reviewRank, higher + 1);
         const tied = record.games.filter(g => g.reviewScore === game.reviewScore).length > 1;
         assert.equal(game.sharedRank, tied);
-        if (!moved) {
-          assert.equal(Number(row['리뷰 점수']), game.reviewScore);
-          const higherLive = rows.filter(value => Number(value['리뷰 점수']) > game.reviewScore).length;
-          const sharedLive = rows.filter(value => Number(value['리뷰 점수']) === game.reviewScore).length > 1;
-          assert.equal(parseInt(row['리뷰 순위'], 10), higherLive + 1);
-          assert.equal(row['리뷰 순위'].includes('공동'), sharedLive);
-        }
       }
-      if (!moved) {
-        assert.equal(row['점수 구분'], labels[game.scoreStatus]);
-        assert.ok(row['게임'].includes(`games/${game.slug}.md`));
-      }
+      // Live score/pool changes do not rewrite the dated assessment record.
+      // Current ranking score/rank integrity is checked independently below.
       const physicalPath = moved ? movedPath : game.path;
       assert.ok(fs.existsSync(path.join(root, physicalPath)));
       for (const e of game.reviewEvidence) {
@@ -81,6 +72,25 @@ for (const [platform, total] of Object.entries(platforms)) {
       const document = fs.readFileSync(path.join(root, physicalPath), 'utf8');
       assert.match(document, /## 2026-10-08 리뷰 근거 기반 작품 평가/);
       assert.doesNotMatch(document, /## 2026-10-08 개인 추천과 전체 순위/);
+    }
+  });
+
+  test(`${platform}: living rankings retain historical paths and validate every current score and shared rank`,()=>{
+    const record=data(platform);
+    const rows=readRows(fs.readFileSync(path.join(root,`platforms/${platform}/recommendations.md`),'utf8'));
+    const keys=rows.map(row=>`platforms/${platform}/`+row['게임'].match(/\]\(([^)]+)\)/)[1]);
+    assert.equal(new Set(keys).size,keys.length);
+    for(const game of record.games.filter(g=>!(platform==='psp'&&g.slug===movedSlug)))assert(keys.includes(game.path),game.path);
+    for(const [i,row] of rows.entries()){
+      assert(fs.existsSync(path.join(root,keys[i])),keys[i]);
+      assert(['근거 충분','잠정','평가보류'].includes(row['점수 구분']),keys[i]);
+      assert(row['평가 근거'],keys[i]);
+      if(row['점수 구분']==='평가보류'){
+        assert.equal(row['리뷰 점수'],'평가보류');assert.equal(row['리뷰 순위'],'—');continue;
+      }
+      const score=Number(row['리뷰 점수']);assert(score>=1&&score<=10,keys[i]);
+      assert.equal(parseInt(row['리뷰 순위'],10),1+rows.filter(r=>Number(r['리뷰 점수'])>score).length,keys[i]);
+      assert.equal(row['리뷰 순위'].includes('공동'),rows.filter(r=>Number(r['리뷰 점수'])===score).length>1,keys[i]);
     }
   });
 

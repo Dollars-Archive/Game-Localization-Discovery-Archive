@@ -9,19 +9,21 @@ const index = fs.readFileSync(path.join(root, 'docs/index.html'), 'utf8');
 const baseContext = { document: { body: { dataset: {} } }, window: { WatchlistCore: core, ExclusionCore: exclusionCore }, URL, URLSearchParams };
 vm.createContext(baseContext);
 vm.runInContext(app, baseContext);
+const platformNames = vm.runInContext('Object.keys(PLATFORMS)', baseContext);
 const readRows = markdown => Array.from(baseContext.extractMarkdownTable(markdown), row => ({ ...row }));
 
 // Synthetic scores and selection only. Never use these fixtures as editorial data.
 function createFixtures(sourceRoot = root) {
   const data = {};
-  for (const platform of ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast', 'switch']) {
+  for (const platform of platformNames) {
     const name = `platforms/${platform}/README.md`;
     data[name] = fs.readFileSync(path.join(sourceRoot, name), 'utf8');
     const ranking = `platforms/${platform}/recommendations.md`;
     if (fs.existsSync(path.join(sourceRoot, ranking))) data[ranking] = fs.readFileSync(path.join(sourceRoot, ranking), 'utf8');
   }
   const reservePath = path.join(sourceRoot, 'platforms/ps3/reserve.md');
-  const original = [...readRows(data['platforms/ps3/README.md']), ...(fs.existsSync(reservePath) ? readRows(fs.readFileSync(reservePath, 'utf8')) : [])];
+  // Keep synthetic UI fixtures at their documented 30/25 size; live editorial tables are tested separately.
+  const original = [...readRows(data['platforms/ps3/README.md']), ...(fs.existsSync(reservePath) ? readRows(fs.readFileSync(reservePath, 'utf8')) : [])].slice(0, 55);
   const headers = [...new Set([...Object.keys(original[0]), '개인 추천점수', '개인 순위', '예비 사유'])];
   const table = rows => '# LOCAL TEST FIXTURE: NOT AN EDITORIAL RANKING\n\n'
     + '| ' + headers.join(' | ') + ' |\n| ' + headers.map(() => '---').join(' | ') + ' |\n'
@@ -66,7 +68,7 @@ class Element {
 async function createHarness({ query = '?platform=ps3', fixtures = createFixtures(), beforeFetch } = {}) {
   const ids = [...index.matchAll(/id="([^"]+)"/g)].map(match => match[1]);
   const elements = Object.fromEntries(ids.map(id => [id, new Element(id)]));
-  const platforms = ['ps2', 'psp', 'psvita', 'ps3', 'dreamcast', 'switch'].map(p => new Element('', { platform: p }));
+  const platforms = platformNames.map(p => new Element('', { platform: p }));
   const sorts = ['personal', 'priority', 'rating', 'year', 'title'].map(p => new Element('', { sort: p }, p));
   const views = ['all', 'active', 'reserve'].map(view => Object.assign(elements[`recommendations-${view}`], { dataset: { view } }));
   const document = { body: { dataset: {} }, getElementById: id => elements[id], querySelectorAll: selector => selector === '.platform-btn' ? platforms : selector === '.recommendation-view' ? views : sorts };

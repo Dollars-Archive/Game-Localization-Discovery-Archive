@@ -61,29 +61,36 @@ for (const [platform, [total, active, reserve]] of Object.entries(expected)) {
     fixtures.watchlist = { version: 1, order: [], items: {} };
     fixtures.patches = { patches: [] };
     const h = await createHarness({ fixtures, query: `?platform=${platform}` });
-    // New living README candidates may not yet exist in the frozen 2026-10-08 review snapshot.
-    const visibleHistory = record.games.filter(g => !(platform === 'psp' && g.slug === movedSlug));
-    const assessedPaths = new Set(visibleHistory.map(g => g.path));
-    assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)), visibleHistory.map(g => g.path));
-    const newlyRegisteredPaths = h.keys().filter(key => !assessedPaths.has(key));
-    assert.ok(newlyRegisteredPaths.every(key => key.startsWith(`platforms/${platform}/games/`)));
+    // Validate current UI against the living ranking, separately from the frozen history above.
+    const ranked = readRows(fixtures.data[`platforms/${platform}/recommendations.md`])
+      .map((row,index)=>({path:`platforms/${platform}/`+row['게임'].match(/\]\(([^)]+)\)/)[1],
+        pool:row['목록 구분']==='후보군'?'reserve':'active',
+        score:Number(row['리뷰 점수'])||0,index,scoreStatus:row['점수 구분']}))
+      .sort((a,b)=>b.score-a.score||(a.path<b.path?-1:a.path>b.path?1:0));
+    const assessedPaths = new Set(ranked.map(g=>g.path));
+    const allKeys = h.keys();
+    assert.deepEqual(allKeys.filter(key=>assessedPaths.has(key)),ranked.map(g=>g.path));
+    const newlyRegisteredPaths = allKeys.filter(key=>!assessedPaths.has(key));
+    assert.ok(newlyRegisteredPaths.every(key=>key.startsWith(`platforms/${platform}/games/`)));
     assert.equal(h.elements['ps3-views'].hidden, true);
     assert.equal(h.elements['recommendation-views'].hidden, false);
     assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 /);
     await h.click('recommendations-reserve');
     assert.deepEqual(h.keys().filter(key => assessedPaths.has(key)),
-      visibleHistory.filter(g => g.pool === 'reserve').map(g => g.path));
-    assert.equal(h.keys().length, reserve + (platform === 'psvita' ? 1 : 0));
+      ranked.filter(g => g.pool === 'reserve').map(g => g.path));
+    const reserveKeys=h.keys();
     assert.equal(h.location.searchParams.get('view'), 'reserve');
     await h.click('recommendations-active');
-    assert.equal(h.keys().length, active - (platform === 'psp' ? 1 : 0) + newlyRegisteredPaths.filter(key => key !== currentPath).length);
+    const activeKeys=h.keys();
+    assert.equal(activeKeys.some(key=>reserveKeys.includes(key)),false);
+    assert.deepEqual([...activeKeys,...reserveKeys].sort(),[...allKeys].sort());
     await h.history.back();
-    assert.equal(h.keys().length, reserve + (platform === 'psvita' ? 1 : 0));
+    assert.deepEqual(h.keys(),reserveKeys);
     await h.click('recommendations-all');
     await h.search('잠정');
-    for (const game of record.games.filter(g => g.scoreStatus === 'provisional')) assert.ok(h.keys().includes(game.path));
-    if (record.games.some(g => g.scoreStatus === 'provisional')) assert.match(h.elements['candidate-body'].innerHTML, /provisional-score/);
-    const candidates = record.games.filter(g => g.pool === 'reserve');
+    for (const game of ranked.filter(g => g.scoreStatus === '잠정')) assert.ok(h.keys().includes(game.path));
+    if (ranked.some(g => g.scoreStatus === '잠정')) assert.match(h.elements['candidate-body'].innerHTML, /provisional-score/);
+    const candidates = ranked.filter(g => g.pool === 'reserve');
     const keys = [candidates[1].path, candidates[0].path];
     fixtures.watchlist = { version: 1, order: keys, items: Object.fromEntries(keys.map(key => [key, { added: '2026-10-08T00:00:00Z', note: 'preserved candidate memo' }])) };
     fixtures.exclusions.entries[keys[0]] = { deleted: true, updated: '2026-10-08T00:00:00Z', title: 'Excluded fixture' };

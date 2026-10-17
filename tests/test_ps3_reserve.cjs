@@ -314,20 +314,22 @@ test('excluded reserve favorites cannot reopen through a comparison deep link', 
   assert.ok(!h.calls.some(call => call.url.includes('/main/' + keys[1])));
 });
 
-test('final PS3 editorial tables render exactly 30/25 with real personal scores', async () => {
+test('living PS3 editorial tables render all selected/reserve keys with scored entries first', async () => {
   const fixtures = createFixtures();
   for (const filename of ['README.md', 'reserve.md']) fixtures.data[`platforms/ps3/${filename}`] = fs.readFileSync(path.join(root, `platforms/ps3/${filename}`), 'utf8');
   fixtures.watchlist = { version: 1, items: {}, order: [] };
   fixtures.patches = { patches: [] };
   const key = row => 'platforms/ps3/' + row['게임'].match(/\]\(([^)]+)\)$/)[1];
-  const expected = file => readRows(fixtures.data[`platforms/ps3/${file}`]).sort((a,b) => Number(b['개인 추천점수']) - Number(a['개인 추천점수']) || Number(a['개인 순위']) - Number(b['개인 순위'])).map(key);
+  const score=row=>Number(row['개인 추천점수'])||0;
+  const rank=row=>Number(row['개인 순위'])||Number.MAX_SAFE_INTEGER;
+  const expected = file => readRows(fixtures.data[`platforms/ps3/${file}`]).sort((a,b)=>score(b)-score(a)||rank(a)-rank(b)||a['게임'].match(/\[([^\]]+)/)[1].localeCompare(b['게임'].match(/\[([^\]]+)/)[1],'ko')).map(key);
   const h = await createHarness({ fixtures });
   assert.equal(h.keys().length, 30);
   assert.deepEqual(h.keys(), expected('README.md'));
   const active = h.keys();
   await h.click('ps3-reserve');
-  assert.equal(h.keys().length, 25);
+  assert.equal(h.keys().length,expected('reserve.md').length);
   assert.deepEqual(h.keys(), expected('reserve.md'));
-  assert.equal(new Set([...active, ...h.keys()]).size, 55);
-  assert.doesNotMatch(h.elements['candidate-body'].innerHTML, /개인 미평가/);
+  assert.equal(new Set([...active,...h.keys()]).size,active.length+expected('reserve.md').length);
+  if(readRows(fixtures.data['platforms/ps3/reserve.md']).some(row=>!score(row)))assert.match(h.elements['candidate-body'].innerHTML,/개인 미평가/);
 });
