@@ -52,7 +52,8 @@
     "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md",
     "platforms/switch/games/9-nine.md",
     "platforms/psp/games/misshitsu-no-sacrifice.md",
-    "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md"
+    "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md",
+    "platforms/psp/games/koi-to-senkyo-to-chocolate-portable.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -261,6 +262,10 @@
     },
     "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md": {
       "added": "2026-10-20T16:24:08.526Z",
+      "note": ""
+    },
+    "platforms/psp/games/koi-to-senkyo-to-chocolate-portable.md": {
+      "added": "2026-10-20T16:45:04.706Z",
       "note": ""
     }
   }
