@@ -1,5 +1,17 @@
 # Sakura Sakura: Haru Urara (사쿠라 사쿠라 -하루 우라라-)
 
+## 2026-10-21 활성 후보 재평가 및 PSP 판본 비교
+
+- **현행 판정:** 🟢 한글화 활성 후보 복귀 / **발굴 추천도 ⭐⭐⭐½☆ (3.5/5)** / **한글화 우선도 C**. 2026-10-08 기존 리뷰 **7.2/10**·그때의 후보군 분류는 역사 평가 기록으로 보존하며 현재 활성 등록 여부와 구분한다.
+- **대상 작품·판본:** 2010-08-26 일본 PSP 일반판 **ULJM-05758**. [Famitsu PSP](https://www.famitsu.com/game/title/13139/reviews), [GameFAQs PSP](https://gamefaqs.gamespot.com/psp/991808-sakura-sakura-haru-urara), [Suruga-ya ULJM-05758](https://www.suruga-ya.jp/product/detail/177001666). 2012-03-22 Best **ULJM-06056**는 새 후속작이 아니라 저가 재판이다.
+- **PSP 특징:** 2009년 Windows 원작의 3부·두 쌍의 삼각관계 구성을 기반으로 **PSP 오리지널 시나리오·CG**와 4:3 원본을 16:9 PSP 화면에서 조정해 보여주는 기능을 추가했다. [2010 Dengeki 발표](https://dengekionline.com/elem/000/000/259/259537/), [PSP 당시 보도 자료](https://blog.excite.co.jp/exanime/12674912/). 당시 **CG 약 20장**은 출시 전 계획 수치이며 별도 실물 전수 계수는 실시하지 않았다.
+- **외부 평가 판본 분리:** [PSP GameFAQs Fair·12표 / 플레이 시간 13h·6명](https://gamefaqs.gamespot.com/psp/991808-sakura-sakura-haru-urara)은 소표본이다. [PSP 4Gamer 독자 리뷰 0건](https://www.4gamer.net/games/115/G011528/index_userreview.html)으로 매체 정량평을 지어내지 않는다. [Steam 2018 영어판 88%·35건 내외](https://store.steampowered.com/app/658140/?l=koreana)는 다른 판본·시점으로 PSP 점수에 환산하지 않는다. 원작의 2009 萌えゲーアワード 순애계 작품상 금상은 [원작 수상 공식 표기](https://store.steampowered.com/app/658140/?l=koreana)에서 확인되며, PSP 추가분 품질까지 인증하지는 않는다.
+- **장점과 약점:** 두 주인공의 시점·질투 시소 UI·교제 후 관계를 다루는 연애 코미디의 개성이 강점이다. 그러나 공통부 반복·회수 동선과 PSP 신규 CG/시나리오 질에 대한 엇갈린 평가가 있어 4.0보다는 **3.5/5** 유지. [PSP 신규 내용 발표](https://dengekionline.com/elem/000/000/259/259537/), [PSP판 추가분 품질 비판은 위키 계열 참고](https://w.atwiki.jp/aniwotawiki/pages/20111.html). 후자는 비평 표본이나 보편적 사실로 일반화하지 않는다.
+- **한국어 대안(2026-10-21 재조회):** PSP 원판·2009 PC 원작·2018 PS4/PS Vita 리뉴얼·2018 Windows Steam판에 대해 원제/음역/영어명과 '한글패치', '한국어', 'Korean patch'로 공개 검색했으나 **공식 한국어 출시 또는 검증 가능한 공개 완성 한글패치를 찾지 못했다.** 비공개 작업·미색인 배포의 부재는 단정하지 않는다. [Steam 공식 언어표](https://store.steampowered.com/app/658140/?l=koreana)는 영어 인터페이스/자막·일본어 음성만 기재한다. **Steam의 18+ 추가 DLC는 한국어 번역 패치가 아니다.**
+- **현재 재판매·판본 판단:** 2018 PS4·PS Vita 리뉴얼은 CG·아이템·조작을 개선한 별개 후발판이며 [Entergram 2018 제작사 공표](https://www.4gamer.net/games/425/G042513/20180628124/)에서 확인된다. 그러나 [Entergram의 2025-09-30 판매 종료 공식 명단](https://www.entergram.co.jp/2025_endtitle.html)에 **さくらさくら(PS4·PS Vita)**가 있으므로 2026년 신규 이용자에게 계속 정식 디지털 판매 중인 것으로 안내하면 안 된다. 이미 보유한 유저의 현대 콘솔 플레이에는 여전히 PS4/Vita를 추천할 수 있다. 영어로 처음 플레이하려면 PC Steam을 검토하고, PSP만의 2010년 추가 요소 연구는 원래 PSP판을 따로 조사한다.
+- **한글화 판단:** 동일 본편에 확인된 실사용 한국어 대안이 없어 PSP판 C급 활성 후보 복귀가 가능하다. 후발 리뉴얼과 영어판·PSP분기 전수 검수 부담을 고려하면 A/B급 우선 대상으로 높이지 않는다. ISO·폰트·스크립트·삽입·PPSSPP 실기 시험은 아직 수행하지 않아 **기술 난이도 미확인**.
+- **이미지 근거:** [2010 PSP 신규 CG 4장 소개 기사](https://www.animatetimes.com/news/details.php?id=1275283585), [2018 PS4/PS Vita 이벤트 CG 이미지 #5](https://www.gamer.ne.jp/news/201806280078/image/5/), [2018 PS4/PS Vita 이벤트 CG 이미지 #6](https://www.gamer.ne.jp/news/201806280078/image/6/), [2018 PS4/PS Vita 이벤트 CG 이미지 #7](https://www.gamer.ne.jp/news/201806280078/image/7/)을 각각 판본을 명시하여 사용한다. 다른 기종의 CG를 PSP 촬영 화면으로 표기하지 않으며 PSP 원판 인게임 프레임의 외부 3개 개별 직접 링크는 추가 확보 전까지 **미검증**이다.
+
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 - 작품 평가: **7.2/10 · 공동 37위**
@@ -8,14 +20,14 @@
 - 관계 코미디와 캐릭터 대화가 독서 동기를 만듦; 질투·지도·선택 표현은 선명하나 재진행·회수 부담이 큼. 공통 구조 반복과 추가분의 통합 품질이 한계.
 - 자료 한계: 구체적인 PSP 서술 근거를 대조한 문헌 평가. 자발적 소표본·서로 다른 진행 범위가 있어 전체 이용자의 합의로 확대하지 않음. 다른 척도·판본의 수치는 평균하지 않음.
 
-[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#sakura-sakura-haru-urara). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#sakura-sakura-haru-urara). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 이 문장의 「후보군」은 2026-10-08 시점의 역사적 구분이다. 현재는 위 2026-10-21 평가에 따라 **활성 C급 후보**로 복귀했다.
 
 
 > 원제: **さくらさくら -HARU URARA-**  
 > 상태: 🟢 후보  
 > 발굴 추천도: ⭐⭐⭐½☆ (3.5/5)  
 > 한글화 우선도: **C**  
-> 조사 기준일: **2026-09-18**
+> 최신 조사 기준일: **2026-10-21** (과거 2026-09-18 원조사 보존)
 
 ## 한눈에 보기
 
@@ -37,7 +49,7 @@
 | 상태 | 🟢 후보 |
 | 한글화 우선도 | C |
 | 한글화 난이도 | 미확인 |
-| 현재 추천 버전 | **현대 기기와 추가 보강을 우선하면 2018 PS4/PS Vita판.** PSP 독자 신시나리오·약 20장 신규 CG와 휴대기판 보존을 중시하면 PSP판. 공식 영어 접근성은 2018 Steam판이 가장 좋음 |
+| 현재 추천 버전 | **2018 PS4/PS Vita판은 기존 보유자에게 추천하되 2025-09-30 공식 판매 종료 확인.** PSP 독자 신시나리오·약 20장 신규 CG와 휴대기판 보존을 중시하면 PSP판. 공식 영어 접근성은 2018 Steam판이 가장 좋음 |
 
 > 국내에서 공식 한국어 제목은 확인하지 못했다. 검색에서 실제 사용되는 음역을 따라 **「사쿠라 사쿠라 -하루 우라라-」**로 표기한다.
 
@@ -115,6 +127,9 @@ PSP 자체는 GameFAQs에서 Fair에 머물고 추가 콘텐츠의 품질 비판
 
 ## 한국어화 상태
 
+- **2026-10-21 재조회:** 본 PSP 작품 및 2009 PC·2018 PS4/Vita·2018 Steam 동일 본편의 공식 한국어 지원·검증 가능한 공개 완성 유저 한글패치가 검색되지 않음. '검색 미발견'은 비공개·미색인 개인 번역 작업 부재의 보증이 아니다.
+- **2018 Windows Steam 공식 언어:** 영어 자막/인터페이스와 일본어 음성. 한국어 미지원. [Steam 공식 언어표](https://store.steampowered.com/app/658140/?l=koreana).
+
 - 공식 PSP 한국어판: **2026-09-18 기준 확인되지 않음**.
 - 공개 PSP 유저 한글패치: **2026-09-18 기준 공개적으로 확인되지 않음**.
 - 국내 검색에서는 「사쿠라 사쿠라 하루 우라라」라는 제목으로 PSP판 소개·게임 화면 자료는 확인되지만, 공개 한국어 패치 배포 기록은 확인하지 못했다.
@@ -142,6 +157,8 @@ PSP 자체는 GameFAQs에서 Fair에 머물고 추가 콘텐츠의 품질 비판
 | 2018 Steam | PC 계열 공식 영어판 / 일본어 음성·영어 자막 |
 
 ## 현재 추천 버전
+
+> **2026-10-21 주의:** [Entergram 공식 2025-09-30 종료 안내](https://www.entergram.co.jp/2025_endtitle.html)는 PS4/PS Vita 「さくらさくら」의 패키지 출고·다운로드 판매 종료를 명시한다. 이미 보유한 사람의 사용 가능성 및 중고 재고는 신규 정식 디지털 구매와 별개이다.
 
 - **현대 콘솔에서 본편을 가장 편하게 플레이:** 2018 PS4 / PS Vita판.
 - **PSP 독자 추가분과 당시 휴대기판 자체를 보존·연구:** 2010 PSP 「HARU URARA」.
@@ -183,13 +200,14 @@ PSP 자체는 GameFAQs에서 Fair에 머물고 추가 콘텐츠의 품질 비판
 
 ## 대표 스크린샷
 
-PSP판 개별 정지화면을 장기간 안정적으로 직접 링크할 수 있는 공식 원본이 부족해, 아래 **PSP 전용 화면 자료 페이지 3개**를 기록한다. 다른 플랫폼 화면을 PSP 화면으로 둔갑시키지 않는다.
+> **판본 구분 필수.** 2010 PSP 원작 당시 신규 이벤트 CG 4장을 보도한 외부 기사와, 2018 PS4/PS Vita 리뉴얼판의 **개별 스크린샷 페이지 3개**를 함께 보존한다. PSP 실제 480×272 인게임 화면 3개의 독립 사진 링크는 확보되지 않았으므로 **아래 2~4번은 PSP 캡처가 아니다.** PS4/Vita 이미지로 PSP판 고유 CG·UI를 입증하지 않는다. 저작권 이미지를 이 저장소로 복제하지 않는다.
 
-1. [Famitsu - PSP판 이미지 페이지](https://www.famitsu.com/game/title/13139/images/page/1)
-2. [YouTube - PSP 공식 프로모션 영상](https://www.youtube.com/watch?v=osm-IbkPooM)
-3. [YouTube - PSP 오프닝 영상](https://www.youtube.com/watch?v=AK-GyGSX1go)
+1. **2010 PSP 신규 이벤트 CG 4장 묶음 출처:** [Animate Times 2010-05-31 PSP 게임 신규 CG 공개 기사](https://www.animatetimes.com/news/details.php?id=1275283585)
+2. **2018 PS4/PS Vita 리뉴얼판 이벤트 CG 이미지 5:** [Gamer 2018 개별 화면](https://www.gamer.ne.jp/news/201806280078/image/5/)
+3. **2018 PS4/PS Vita 리뉴얼판 이벤트 CG 이미지 6:** [Gamer 2018 개별 화면](https://www.gamer.ne.jp/news/201806280078/image/6/)
+4. **2018 PS4/PS Vita 리뉴얼판 이벤트 CG 이미지 7:** [Gamer 2018 개별 화면](https://www.gamer.ne.jp/news/201806280078/image/7/)
 
-보조 자료: [GameFAQs - PSP Media](https://gamefaqs.gamespot.com/psp/991808-sakura-sakura-haru-urara/media)
+PSP 원판의 2010년 UI·시소 화면·대사창 식별은 [전격온라인의 실제 PSP 소개](https://dengekionline.com/elem/000/000/259/259537/) 및 [PSP 영상 소개](https://www.g-renda.com/news_D3SGkKPlL.html)를 참고한다. 출처가 Windows판이라고 명시한 [2010 Excite 예시 화면](https://blog.excite.co.jp/exanime/12674912/)은 PSP 스크린샷으로 사용하지 않는다.
 
 ## 한줄평
 
@@ -202,7 +220,7 @@ PSP판 개별 정지화면을 장기간 안정적으로 직접 링크할 수 있
 - 한글화 우선도: **C**
 - 기술 난이도: **미확인**
 - 등록 판단: **등록 기준 통과**
-- 공개 한국어화: **2026-09-18 기준 PSP 공식 한국어판·공개 PSP 한글패치 확인 못함**
+- 공개 한국어화: **2026-10-21 기준 PSP·PC·PS4/PS Vita·Steam에 공식 한국어/검증된 공개 완역 패치 확인 못함**
 - 다른 언어 대안: **2018 Steam 공식 영어판 있음**
 - 현재 추천 버전: **PS4/PS Vita판** (현대 플레이) / **PSP HARU URARA** (PSP 독자 추가분·보존) / **Steam판** (공식 영어)
 
