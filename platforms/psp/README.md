@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **55개** / 활성 후보: **34개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **56개** / 활성 후보: **35개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -52,6 +52,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai (마기우스테일 이터니티: 세계수와 사랑하는 마법사)](games/magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.md) | 2009 | 마법학원 판타지 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·7표 / GAMEMAN 8.1/10·리뷰 0 / Play-Asia 5/5·5건·서술 1 / PSP 완주평 88/100·1명 | 2026-10-17 PSP·PC 한국어 공식판·검증된 공개 완역 한글패치 확인 못함 / PSP 중국어 완역은 2015-02-18 공개·한국어 아님 | PC 2007 본편 + 2008 Infinity → 2009 PSP Eternity 본편·후일담·IF·PSP 독자 시나리오/CG / PC W-Pack은 원래 성인 콘텐츠 보존 | 🟢 후보 |
 | [Suigetsu Portable (수월 포터블)](games/suigetsu-portable.md) | 2008 | 전기·민속학 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs 3.17/5·15명·10.5시간/8명 / GAMEMAN 8.1/10·서술리뷰 0 / PC 원작 게임카탈로그 良作 | 2026-10-17 PS2 SLPM-65751·PSP ULJM-05346·2002 PC·2023 Grand Package 공식 한국어·검증된 공개 완성 한글패치 미발견 / 비공개·미등록 작업 부재 단정 불가 | 2002 PC 원작·みずかべ → 2004 PS2/DC 迷心 음성·CG·시나리오·미즈카베 보강 → 2008 PSP Portable 16:9·노벨 UI → 2023 PC Grand Package | 🟢 PSP 활성 B급·추가분/휴대성 보존 |
 | [Shirokuma Belles Stars: Happy Holidays! (시로쿠마 벨스타즈♪ ~해피 홀리데이즈!~)](games/shirokuma-belles-stars-happy-holidays.md) | 2012 | 산타/토나카이 직업 판타지·겨울 연애 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP 4Gamer 독립 평가 0·Famitsu 개별 점수 없음 / PC 원작 ErogameScape 과거 중앙값 80·141건 / PC 완주 8/10·1건 | 2026-10-17 PSP ULJM-06111·2009 PC 원작 정식 한국어·검증된 공개 완역 패치 미발견 / 2011 PC 번체 중국어는 한국어 아님 | 2009 PC PULLTOP 원작 → 2012 PSP ULJM-06111 전연령 확장·새 로맨스/서브 시나리오·신규 CG/OP·16:9·백점프 | 🟢 PSP 기본 활성 B급·콘솔 추가 시나리오 보존 |
+| [Shirogane no Cal to Aoi no Joou (백은의 칼과 창공의 여왕)](games/shirogane-no-cal-to-aoi-no-joou.md) | 2011 | 학생 첩보원·수사 미스터리 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PSP Famitsu 24/40·4명 / PSP 4Gamer 편집 리뷰·1건(정량 점수 없음) / GAMEMAN 8.8/10·서술 0건 / Bangumi 10표 미만 | 2026-10-20 PSP·2010 Windows 원작 공식 한국어·검증된 공개 완역 패치 확인 못함 / PC 버그 수정 업데이트는 한글패치 아님 | 2010 Windows 원작 / 2011 PSP 신규 CG·OP/ED·영상·시스템 개편 / 동일 확장판 현대 후발 이식 미확인 | 🟢 후보 |
 | [Misshitsu no Sacrifice (밀실의 새크리파이스)](games/misshitsu-no-sacrifice.md) | 2010 | SF 서스펜스·탈출 퍼즐 ADV | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu 21/40·4명 / PSP GameFAQs Fair·8표 / 4Gamer 80/100·1건 / Steam 2020 후발판 81% 긍정 (원작 평점과 구분) | 2026-10-20 기준 PSP 공개 완성 한국어 패치 확인되지 않음 / 후발 Steam 공식 한국어 미지원 | 2010 PSP 원작 / 2020 Switch·Steam 힌트·갤러리·그래픽 개선 강화판 / 별도 PSP 스핀오프 2종 | 🟢 후보 |
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
@@ -242,3 +243,9 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 **작품성 3.5/5 유지**, [GameFAQs PSP Good·18표](https://gamefaqs.gamespot.com/psp/653320-princess-evangile-portable)와 [Play-Asia PSP 5/5·5건](https://www.play-asia.com/en/princess-evangile-portable/13/704jim), [Steam 영어 PC 92%·138건](https://store.steampowered.com/app/344630/Princess_Evangile_All_Ages_Version/)을 별도 표본으로 구분해 **잠정 리뷰 7.4/10**을 부여합니다. [4Gamer PSP 직접 이용자 리뷰는 0건](https://www.4gamer.net/games/144/G014468/index_userreview.html)이라 이식판 평점 신뢰도의 제한을 병기했습니다.
 
 **PSP 기록 53→54건, 활성 후보 33건·💎 5건·🔥 A 3건은 변동 없음**, 기존 2026-10-08 PSP 123건 평가 순위 원장, 다른 작품과 찜·한글화 자격을 보존합니다.
+
+## 2026-10-20 《백은의 칼과 창공의 여왕》 PSP 활성 B급 복귀
+
+기존 [PSP 상세 평가](games/shirogane-no-cal-to-aoi-no-joou.md)의 **3.5/5·B급**을 유지한다. 2026-10-04 당시 정원 압축으로 PSP 활성 검토표에서 빠졌으나 2010년 PC 원작에는 없는 2011년 PSP 신규 이벤트 CG·OP/ED·영상, 휴대용 시스템 조정의 가치가 있다. [Famitsu PSP 24/40·4명](https://www.famitsu.com/game/title/22858/reviews)의 반복 탐색·카드배틀 운 의존·UI 지적과 [4Gamer PSP 편집 실평 1건](https://www.4gamer.net/games/135/G013575/20111213093/)의 시나리오·세계관 호평을 함께 반영해 4.0으로 상향하지 않았다. 2026-10-20 공개 자료 조사에서 PSP·PC 원작의 한국어 공식판·검증된 공개 완역 패치는 확인되지 않았다. 제작사 [PC 업데이트 공지](https://www.kogado.com/sw/contents/kuma/cal/special.html)는 버그·오탈자 수정용이며 한국어화 자료가 아니다. 시리즈 다른 작품의 한국어판도 본작의 한국어 대안이 아니다.
+
+중복 신규 상세 MD 없이 **PSP 검토 기록 55→56건 / 활성 한글화 후보 34→35건**으로 복귀. 활성 💎 5건·A급 3건, 전체 작품 평가 **128행**, 기존 6.9/10 평가·역사 순위 원장·찜 식별자·다른 플랫폼 수치 및 기존 Pages 링크는 변경하지 않는다.
