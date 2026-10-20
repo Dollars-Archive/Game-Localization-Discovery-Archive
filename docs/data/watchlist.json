@@ -51,7 +51,8 @@
     "platforms/psp/games/routes-portable.md",
     "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md",
     "platforms/switch/games/9-nine.md",
-    "platforms/psp/games/misshitsu-no-sacrifice.md"
+    "platforms/psp/games/misshitsu-no-sacrifice.md",
+    "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -256,6 +257,10 @@
     },
     "platforms/psp/games/misshitsu-no-sacrifice.md": {
       "added": "2026-10-20T13:35:52.238Z",
+      "note": ""
+    },
+    "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md": {
+      "added": "2026-10-20T16:24:08.526Z",
       "note": ""
     }
   }
