@@ -50,7 +50,8 @@
     "platforms/psvita/games/chusingura46-plus-1-v.md",
     "platforms/psp/games/routes-portable.md",
     "platforms/ps3/games/oretachi-ni-tsubasa-wa-nai.md",
-    "platforms/switch/games/9-nine.md"
+    "platforms/switch/games/9-nine.md",
+    "platforms/psp/games/misshitsu-no-sacrifice.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -251,6 +252,10 @@
     },
     "platforms/switch/games/9-nine.md": {
       "added": "2026-10-17T11:31:54.235Z",
+      "note": ""
+    },
+    "platforms/psp/games/misshitsu-no-sacrifice.md": {
+      "added": "2026-10-20T13:35:52.238Z",
       "note": ""
     }
   }
