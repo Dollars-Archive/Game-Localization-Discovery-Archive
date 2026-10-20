@@ -18,9 +18,28 @@
 
   <main class="reader-shell">
     <div id="reader-status" class="status reader-status">문서를 불러오는 중…</div>
+    <section id="game-actions" class="game-actions" aria-label="게임 찜과 후보 관리" hidden>
+      <div class="game-action-buttons">
+        <button id="game-star" type="button" disabled>☆ 찜 추가</button>
+        <button id="game-delete" type="button" disabled>후보 목록에서 삭제</button>
+        <button id="game-sync" type="button">새로고침</button>
+      </div>
+      <p id="game-action-status" role="status" aria-live="polite">찜과 삭제 상태를 확인하는 중…</p>
+      <details>
+        <summary>⚙ 찜·삭제 편집 열쇠</summary>
+        <p>후보 목록에서 등록한 GitHub 열쇠를 함께 사용합니다.</p>
+        <label for="game-token">GitHub 열쇠</label>
+        <input id="game-token" type="password" autocomplete="off" placeholder="github_pat_…" />
+        <button id="game-token-save" type="button">이 기기에 저장</button>
+        <button id="game-token-clear" type="button">이 기기 열쇠 사용 중지</button>
+      </details>
+    </section>
     <article id="reader" class="reader" hidden></article>
   </main>
 
+  <script src="assets/watchlist-core.js"></script>
+  <script src="assets/exclusion-core.js"></script>
+  <script src="assets/game-actions.js"></script>
   <script src="assets/app.js"></script>
 </body>
 </html>

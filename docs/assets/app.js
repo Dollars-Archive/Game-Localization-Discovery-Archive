@@ -1101,6 +1101,8 @@ async function initIndex() {
   await render();
   if (compareKeys.size >= 2) await openComparison();
   desktopLayout?.addEventListener?.('change', () => { render(); });
+  // Returning from a detail page may restore a stale list from the back/forward cache.
+  window.addEventListener('pageshow', event => { if (event.persisted) location.reload(); });
 }
 
 function resolveRelativeMarkdownLink(currentFile, href) {
@@ -1149,6 +1151,7 @@ async function initGame() {
     if (h1) document.title = `${h1.textContent} · Localization Discovery Archive`;
     status.hidden = true;
     reader.hidden = false;
+    if (typeof initGameActions === 'function') await initGameActions({ key: file, title: h1 ? h1.textContent : file });
   } catch (err) {
     status.textContent = `문서를 불러오지 못했습니다: ${err.message}`;
   }
