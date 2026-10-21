@@ -1,5 +1,17 @@
 # Omoi no Kakera: Close to (오모이노 카케라 -Close to-)
 
+## 2026-10-22 판본·한국어 상태 확인
+
+**현행 작품성 3.5/5·한글화 B급·잠정 별도 리뷰 7.0/10 유지.** 2026-10-08의 「후보군」은 과거 분류이며, 이번에는 PSP 기본 활성 목록으로 복귀한다.
+
+2011-12-22 PSP 일본판 `ULJM-06002`는 2001년 드림캐스트 원작 → 2003년 PS2 신시나리오·CG·악령편 확장판을 바탕으로 데이터 인스톨·쇼트컷을 추가한 이식판이다. PSP 단독 신규 히로인 루트는 확인되지 않았다. [Famitsu 출시 기사](https://www.famitsu.com/news/201109/29051092.html) · [GAME Watch 당시 시스템 소개](https://game.watch.impress.co.jp/docs/news/480434.html).
+
+[GameFAQs PSP](https://gamefaqs.gamespot.com/psp/644800-omoi-no-kakera-close-to)는 **Fair·6명 / 플레이타임 20시간·3명**, [PSP 직접 감상](https://ramhane.blog53.fc2.com/blog-entry-458.html)은 개인 4/5 및 중간 시작 쇼트컷 호평, 악령편의 사족감도 기록한다. [Joko PS2 후기 7명](https://www.joko.jp/ps2/review/ti1878.html)의 이야기·인물감정 호평과 일부 루트의 전개·Room Part 반복 비판을 구분했다. 4.0으로 상향하지 않고 작품성 **3.5/5 유지**.
+
+**한국어화(2026-10-22):** PSP·PS2·DC·2008 Windows 동일 작품의 정식 한국어판 또는 검증된 공개 완성 한국어 패치를 찾지 못했다. [Windows 번체·간체 중국어 공식판 기록](https://zh.wikipedia.org/wiki/Close_to_%EF%BD%9E%E7%A5%88%E9%A1%98%E4%B9%8B%E4%B8%98%EF%BD%9E)은 한국어판이 아니다. 공개 검색 미발견은 비공개 배포 부재의 증거가 아니다. **PSP 한글화 우선도 B 유지**, ISO·폰트·스크립트 재삽입 및 완주 시험 미실시로 기술 난도는 **미확인**.
+
+**2011 PSP 게임 스크린샷 3개:** [4Gamer 이미지 005](https://www.4gamer.net/games/141/G014148/screenshot.html?num=005) · [006](https://www.4gamer.net/games/141/G014148/screenshot.html?num=006) · [012](https://www.4gamer.net/games/141/G014148/screenshot.html?num=012). [PSP 갤러리 전체 17장](https://www.4gamer.net/games/141/G014148/screenshot.html). 타 플랫폼의 이미지는 PSP 실게임 사진으로 표기하지 않는다.
+
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 - 작품 평가: **잠정 7.0/10 · 공동 60위**
@@ -8,10 +20,10 @@
 - 인물·감정 묘사는 강점이나 서술 연결·추가편의 평가가 갈림; 독특한 조작 소재와 별개로 반복·작업성에 이견. PSP 설치·단축 기능은 있으나 제품판 쾌적성 서술 근거 부족.
 - 자료 한계: 대상 PSP판의 충분한 독립 서술 본문이 부족하거나 원작 공통 내용에 근거를 전이한 잠정 평가. 불확실성을 점수 감점으로 바꾸지 않으며 0.5점 단위만 사용.
 
-[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#omoi-no-kakera-close-to). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#omoi-no-kakera-close-to). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 이 「후보군」은 2026-10-08의 과거 분류다. 2026-10-22 PSP 활성 후보로 복귀했다.
 
 
-> 원제: 想いのかけら -Close to- / 상태: 🟢 후보 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 조사 기준일: 2026-09-19
+> 원제: 想いのかけら -Close to- / 상태: 🟢 2026-10-22 PSP B급 활성 / 발굴 추천도: ⭐⭐⭐½☆ 3.5/5 / 한글화 우선도: B / 최신 검증 2026-10-22
 
 > 국내에서 널리 굳어진 한국어 제목은 확인하지 못해, 원제 발음을 살린 **오모이노 카케라 -Close to-**로 기록한다.
 
