@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **61개** / 활성 후보: **40개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **62개** / 활성 후보: **41개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -56,6 +56,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sucre Portable (슈크레 포터블)](games/sucre-portable.md) | 2012 | 카페 재건·가족·직업 드라마·연애 ADV / 선택지형 VN | ⭐⭐⭐½☆ (3.5/5) | B | PSP 전루트 개인 **70/100·1건** / PSP GAMEMAN **8.2/10·서술 리뷰 0건** / Play-Asia **5/5·5평가** / VNDB 작품 계열 **7.31/10·76표**(PSP 단독 아님) | **2026-10-21 PSP·PC·Switch 공식 한국어·공개 실사용 완성 한패 확인 못함**(비공개 작업 미단정) | **2011 GIGA PC 성인 원작 → 2012 PSP** 카이 후타바 가족 테마 신규 루트·치즈루 추가 엔딩·CG 20장+·시나리오 증보·신규 OP / **2025 Switch 단품·3작 합본 2025-09-30 공식 판매 종료**, PSP 추가분 수록 여부 미확인 | 🟢 PSP 활성 B급 후보·기존 2026-10-08 잠정 7.0점·현행 공동64위 / 후속 기종의 추가 시나리오 동일성 미확인 |
 | [Ouka Sengoku Portable (오우카 센고쿠 포터블)](games/ouka-sengoku-portable.md) | 2012 | 전생 전국무장·학원 세력전·역사 패러디·연애 선택지형 VN | ⭐⭐⭐½☆ (3.5/5) | B | **PSP Bangumi 7.5/10·4표 / PSP GameFAQs 3.36/5·투표 수 미확인 / 4Gamer 사용자 0건 / PSP 선행실플레이 1명·TGBus PSP 사용기 1명** / PC EGS 중앙값80·121표는 별도 | **2026-10-22 PSP·PC 공식 한국어판·공개 실사용 완성 한글패치 미발견** / 비공개 작업 부재 단정 안 함 | **2010 PC 정규6인 → 2012 PSP 신규 정규2+서브 노부유키1(유키무라 파생)** / 신규 丙 공통루트·기존 甲乙 가필·CG40장+·추가 SSS·16:9·신규 OP/ED / 네이티브 현대 완전판 미확인 | 🟢 PSP 활성 B급 · 작품성3.5 / 별도잠정7.0·현행 공동64위 / 신규 분기·CG 보존, 전수 QA 미확인 |
 | [Omoi no Kakera: Close to (오모이노 카케라 -Close to-)](games/omoi-no-kakera-close-to.md) | 2011 | 유령·기억상실 감정극·Room Part 연애 ADV | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Fair·6표·20시간/3명 / PSP 개인 4/5·1명(추억 보정) / PS2 Joko 7명·3~5점 / Bangumi 전체 6.99·84명은 타 판본 통합 | 2026-10-22 PSP·PS2·DC·Windows 동일 본편 한국어 정식판·검증된 공개 완성 한글패치 미발견 / Windows 중국어 정식판은 별개 | 2001 DC 원작 → 2003 PS2 신규 시나리오·CG·악령편 → 2011 PSP PS2 확장 시나리오+데이터 인스톨·쇼트컷 / 2008 PC 중국어 현지화 | 🟢 후보 |
+| [Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu (쾌도천사 트윈엔젤 시간과 세계의 미궁)](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md) | 2011 | 시간·다중 시점 히로인 서사·슬롯 배틀 ADV·비주얼노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP Famitsu 25/40·4인(6/6/6/7) / PSP GF Good·9표·10h/4명 / PSP 가격.com 5/5·1명·전투 밸런스/지속성 3/5 / 2025 Steam 100%·10명은 PC 후발판 | 2026-10-22 2011 PSP·2025 PC Re:light/보이스 DLC 공식 한국어·검증된 공개 완성 한패 미발견 / PC 일본어·영어·간체중문만 공식 지원 | 2011 PSP 하루카·아오이·테슬라 루트/TIPS+슬롯 배틀·코인 보상 / 2025 PC Re:light 풀HD·공식 영어/중문·슬롯 배틀 삭제 / Steam DLC Re:light+는 일본어 풀보이스 | 🟢 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 저편에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 섬 생활·신화 판타지·연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·16명 / PSP 17h·11명 / GAMEMAN 8.6·서술0 / 원작 VNDB 약7.25·84표·EGS 75점대(별도 원작) / 신 시나리오·CG 공식 확인 | 2026-10-21 PSP·2015 Vita·PC 본편의 공식 한국어·검증된 공개 완역 미발견 / 2026-09 PC Kone 복구 글은 한글패치 증거 없음 | 2010 PC 5히로인 → 2012 PSP 카호·호노리 2루트 추가/UMD 2장 → 2015 Vita 7히로인+960×544 연출·서사 리파인 / PSP 원본 기술 미분석 | 🟢 후보 |
 | [Sakura Sakura: Haru Urara (사쿠라 사쿠라 -하루 우라라-)](games/sakura-sakura-haru-urara.md) | 2010 | 학원 기숙사·이중 삼각관계 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·12표 / PSP 플레이 13h·6명 / PSP 4Gamer 독자 0건 / 2009 PC 원작 순애계 작품상 금상 / Steam 영어판 88%·35명(별개) | 2026-10-21 PSP·2009 PC·2018 PS4/Vita·Steam 공식 한국어·검증된 공개 완성 한패 확인 못함 / 2018 Steam 공식 영어·일본어 | 2009 PC 원작 / 2010 PSP 신규 에피소드·CG 약 20장 계획·16:9 조정 / 2018 PS4·Vita 리뉴얼 CG/아이템·2025 판매 종료 / 2018 Steam 공식 영어 | 🟢 후보 |
 | [Misshitsu no Sacrifice (밀실의 새크리파이스)](games/misshitsu-no-sacrifice.md) | 2010 | SF 서스펜스·탈출 퍼즐 ADV | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu 21/40·4명 / PSP GameFAQs Fair·8표 / 4Gamer 80/100·1건 / Steam 2020 후발판 81% 긍정 (원작 평점과 구분) | 2026-10-20 기준 PSP 공개 완성 한국어 패치 확인되지 않음 / 후발 Steam 공식 한국어 미지원 | 2010 PSP 원작 / 2020 Switch·Steam 힌트·갤러리·그래픽 개선 강화판 / 별도 PSP 스핀오프 2종 | 🟢 후보 |
@@ -328,3 +329,15 @@ PSP 대화 실제 화면은 [2012 Gamer #12](https://www.gamer.ne.jp/news/201201
 당시 PSP 이미지 출처는 [4Gamer 화면 No.005](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=005) · [No.006](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=006) · [No.010](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=010)으로 상세 문서에 보강했다. 실제 PSP UMD 내 대본·폰트·영상·재삽입·PPSSPP 전 루트 한글화 검수는 미실시해 기술 난도 **미확인**.
 
 PSP 후보표 **보존 61개 / 활성 40개 / 💎 5개 / 한글화 A 3개**, 전체 작품 리뷰 **128개**, 기존 개별 리뷰 **7.1/10 및 역사 순위·찜 식별자**와 타 플랫폼 숫자·사이트 Pages 링크는 **변경하지 않았다**.
+
+## 2026-10-22 《Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu》 PSP C급 활성 복귀
+
+기존 [2011 PSP `ULJM-05908` 상세 평가](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md)는 **⭐⭐⭐½☆ 3.5/5·한글화 C·전체 작품 평가 별도 6.9/10**이며 2026-10-04 선정 압축 이후 웹 평가의 **「후보군」**에 남아 있었다. 이번 제목별 재평가에 따라 **PSP 기존 목록 C급 활성 1행만 복구**하고 과거 개인 리뷰/역사적 순위·찜 식별자를 변경하지 않는다.
+
+[2011 정식 Alchemist PSP](https://twin-angel-psp.com/)는 **하루카/아오이 시점→테슬라 진상 루트·쿠루미 TIPS**와 **액티브 슬롯 배틀·전투 코인 보상 CG/무비**를 가진 ADV다. [Famitsu PSP 리뷰](https://www.famitsu.com/game/title/21041/reviews)는 **6/6/6/7=25/40·4명**, [GameFAQs PSP 직접 Good·9표](https://gamefaqs.gamespot.com/psp/627566-kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu), [가격.com PSP 사용자 리뷰 5/5·1명](https://review.kakaku.com/review/K0000250363/)의 작은 표본과 느린 대화·전투의 반복 비판을 함께 기록한다. 따라서 4.0으로 올리지 않고 **3.5/5 유지**가 적합하다.
+
+[2025-03 Famitsu 제작사 PC `Re:light` 소개](https://www.famitsu.com/article/202503/36365)는 PC 1920×1080·영어·중국어 지원 및 **PSP 액티브 슬롯 배틀 삭제**를 확정한다. [Steam Re:light 본편](https://store.steampowered.com/app/3192560/?l=koreana)은 **공식 한국어 미지원·기본 무음성**이고, [2025-03-21 `Re:light+` DLC](https://store.steampowered.com/app/3524190/?l=koreana)로 풀보이스를 추가한다. 2026-10-22 PSP·PC 동등 본편의 검증 가능한 **공개 완성 한국어 패치**도 찾지 못했다. 비공개·미색인 배포의 절대 부재를 주장하지 않는다. 스토리 감상은 PC 리마스터가 유리하지만 **슬롯 배틀·보상 구조 보존은 PSP만의 가치**다. 기술 구현 난도는 실제 PSP 스크립트·폰트·영상·ISO 미분석으로 **미확인**.
+
+PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/games/132/G013222/screenshot.html?num=012), [PSP 발매직전 004](https://www.4gamer.net/games/132/G013222/20110817034/screenshot.html?num=004), [PSP 시스템 소개 017](https://www.4gamer.net/games/132/G013222/20110426081/screenshot.html?num=017). 2025 PC 화면으로 오인하지 않는다.
+
+**PSP 보존 61→62개 / 활성 40→41개 / 💎 5 / A 3.** PSP 전체 리뷰 원표 **128행 보존**, 같은 게임 한 행을 **후보군→기존 목록**으로만 분류 갱신한다. 다른 기종·게임의 평가·찜 키·Pages URL은 불변.
