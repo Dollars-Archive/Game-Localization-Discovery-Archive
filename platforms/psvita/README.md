@@ -7,7 +7,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 목록 개설일: **2026-09-20 / Asia/Seoul**  
 > 한글패치 확인 기준일: **2026-10-13**, 신규 작품별 번역·판본·검수 범위 참고 (기존 2026-10-08 원장 유지)\
-> 보존 항목: **37개** / 활성 후보: **31개** / 활성 발굴 우선 후보: **7개** / 한글화 A급 후보: **3개**
+> 보존 항목: **38개** / 활성 후보: **32개** / 활성 발굴 우선 후보: **7개** / 한글화 A급 후보: **3개**
 
 [← 전체 아카이브로 돌아가기](../../README.md) · [PS Vita 웹 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita)
 
@@ -39,6 +39,7 @@ PS2·PSP와 같은 작품성 평가 기준과 등록 하한을 사용하되, PS 
 | [Yahari Game demo Ore no Seishun Love Come wa Machigatteiru. Zoku (역시 게임에서도 내 청춘 러브코메디는 잘못됐다. 속)](games/yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.md) | 2016 | 봉사부 체험 ADV / 선택지형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 30/40·4필자 / 4Gamer·완료 후기·부분 후기 교차 / GF 투표 4/5·1명 | 2026-10-06 Vita AI 초안 1.0 공개 / 잔존 미번역·초반만 검수 / 완성 대안과 구분 | 2017 PS4·2022 Switch 1편+속 합본 / Vita·Switch 영어 약94% / 기존 한국어 초안 보완 우선 비교 | 🟢 후보 |
 | [Kadenz fermata//Akkord:fortissimo (카덴차 페르마타: 아코르드 포르티시모)](games/kadenz-fermata-akkord-fortissimo.md) | 2014 | 이능 배틀 ADV / 분기형 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40·4명 / Vita 독립 완료 후기·직접 리뷰 | 2026-10-12 Vita·PC 공개 완성 한국어 패치 확인 못함 / PC 중국어 AI 패치는 별도 | 2014 Vita 원작 / 2016 Windows 이식·10주년판 추가 시나리오 / Vita 2014-12 수정 패치 | 🟢 후보 |
 | [Amatsutsumi (아마츠츠미)](games/amatsutsumi.md) | 2018 | 언령·판타지·연애 ADV / 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | Vita Zettai Renai 8/10·1명 / Vita 정성 감상1명 / PC 전문 리뷰2명은 판본 구분 / 서재 8.5/10은 별도 참고 | 2026-10-13 공식 Vita 한국어·공개 완성 패치 확인 못함 / kelvin PC 아랄트랜스 기계번역 준한글화는 Vita 패치 아님 | 2016 일본 PC → 2018 Vita 신규 CG·터치·Vita TV·되돌아보기 / PC 대본 호환·기술 구조 미확인 | 💎 우선 후보 |
+| [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 저편에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2015 | 섬 생활·신과 요괴·학원 연애 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | Vita GameFAQs Fair·4표·12h/1명 / Nojima 5/5·2건 / Vita 7루트 실기 완주 평가 1명·약30h / PSP 직접 평가 별도 | 2026-10-22 Vita·PSP·2010 PC 원작 정식 한국어·검증된 공개 완성 한글패치 미발견 / Kone PC 게임 복구글은 번역·한글대사 근거 없음 | 2010 Windows 원작 5명 → 2012 PSP 카호·호노리 2루트 추가 → 2015 Vita 7명·960×544·연출·시나리오 표현 리파인·색감·터치·Vita TV / VLJM-35244·PCSG-00638 | 🟢 후보 |
 | [Code: Realize ~Wintertide Miracles~ (코드: 리얼라이즈 ~백은의 기적~)](games/code-realize-wintertide-miracles.md) | 2017 | 여성향 연애 ADV | ⭐⭐⭐½☆ 3.5/5 | C | Vita RPGFan 80·PSLS 7/10, 독립 본문 4명 | 공개적으로 확인되지 않음 | Switch 추가 단편·CG, 공식 한국어 대안 미확인 | 🟢 후보 |
 | [Arcana Heart 3: LOVE MAX!!!!! (알카나 하트 3 러브 맥스!!!!!)](games/arcana-heart-3-love-max.md) | 2014 | 2D 대전 격투 | ⭐⭐⭐½☆ 3.5/5 | C | Vita Push Square 7/10·Hardcore Gamer 4/5·타 기종 보조분리 | 공개 확인 못함 | PS3·PC LOVE MAX·PC SIXSTARS XTEND, 한국어 미지원 | 🟢 후보 |
 | [Deception IV: Blood Ties (영뢰: 다크사이드 프린세스)](games/deception-iv-blood-ties.md) | 2014 | 함정 액션·전략 퍼즐 | ⭐⭐⭐½☆ 3.5/5 | C | Vita 독립 본문 3명 / 일본 v1.02 개선 반영 | 공개적으로 확인되지 않음 | The Nightmare Princess가 원판 포함·편의 확장 | 🟢 후보 |
@@ -124,15 +125,15 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 항목 | 37 |
-| 활성 후보 | 31 |
+| 보존 항목 | 38 |
+| 활성 후보 | 32 |
 | 비활성·자료 보류 | 6 |
 | 활성 발굴 우선 후보: 4.0 이상 | 7 |
 | 한글화 우선도 A | 3 |
-| 한글화 우선도 B | 14 |
+| 한글화 우선도 B | 15 |
 | 한글화 우선도 C | 14 |
 
-최근 갱신: **2026-10-15 《ChuSingura46+1 V》 사용자 특채 B급 활성 등록**. 현행 보존 37개 / 활성 31개 / 비활성 6개 / 우선 7개 / A 3·B 14·C 14. 기존 2026-10-08 평가 원장은 소급 수정하지 않습니다.
+최근 갱신: **2026-10-22 《Amatsumi Sora ni! Kumo no Hatate ni》 Vita 네이티브 3.5/5·B급 신규 등록**. 현행 보존 **38개** / 활성 **32개** / 비활성 **6개** / 우선 **7개** / A **3**·B **15**·C **14**. 2026-10-08 역사 리뷰 평가 원장과 이미 있던 37개 항목은 변경하지 않았습니다.
 
 
 ## 2026-10-08 리뷰 근거 기반 작품 평가
@@ -142,3 +143,13 @@ PS2·PSP와 동일하게 **다른 플랫폼·다른 판본의 공식 한국어�
 ## 2026-10-13 아마츠츠미 신규 후보 등록
 
 [아마츠츠미 Vita 상세](games/amatsutsumi.md)를 **4.0/5·B·우선 후보**로 등록했습니다. PC 아랄트랜스 준한글화는 제작자 명시 기계번역 기반 대본으로 Vita용 완성 패치와 구별합니다. 사용자가 제공한 서재 8.5/10은 상세 문서의 참고 평가로 보존하고, 기존 2026-10-08 Vita 리뷰 원장·공동 순위는 소급 변경하지 않습니다. 현재 보존 **36개**, 활성 **30개**, 우선 **6개**, A **3개** / B **13개** / C **14개**입니다.
+
+## 2026-10-22 《아마츠미소라니! 구름의 저편에》 Vita 네이티브 B급 등록
+
+[2015-09-17 PS Vita 네이티브 상세 분석](games/amatsumi-sora-ni-kumo-no-hatate-ni.md)을 **⭐⭐⭐½☆ 3.5/5·한글화 B급·신규 잠정 리뷰 7.3/10(역사 순위 미산정)**으로 추가했습니다. 일본 [PROTOTYPE Vita 원작 소개](https://www.prot.co.jp/psv/amamiso/introduction.html)·[Vita 시스템](https://www.prot.co.jp/psv/amamiso/system.html)에 따르면 2012 PSP에서 확장된 **총 7개 히로인 루트를 유지**, 960×544·표정/컷인·연애 장면 연출 일부 복원·색감·터치·선택지 점프·Vita TV 지원을 추가했습니다. **Vita GameFAQs Fair·4표/12시간 1명**, [Nojima Vita 5/5·2건](https://online.nojima.co.jp/commodity/1/4580206270507/)과 [Vita 7명 전 루트 완료 후기 1명](https://sapphy0611.doorblog.jp/archives/25607991.html)의 화면·시스템 호평 및 텍스트 분량·인물별 서사의 편차를 함께 평가해 4.0까지는 올리지 않았습니다.
+
+2026-10-22 기준 Vita·PSP·2010 PC 동일 본편의 공식 한국어·검증된 공개 완역 한패는 확인 못했습니다. [2026년 국내 Kone PC 자료 복구](https://kone.gg/s/vndb/bzfF8TptKeR9v4FqwRyAab)는 게임 파일 복구 기록일 뿐 **한국어 대사/패치 원문·번역 완료 증거가 아니므로 한국어 대안으로 간주하지 않습니다**. 비공개·미색인 패치 부재는 단정하지 않습니다. Vita 원본 게임 파일·한글 렌더링 분석 미수행으로 기술 난도는 **미확인**.
+
+기존 [2012 PSP판 별도 평가](../psp/games/amatsumi-sora-ni-kumo-no-hatate-ni.md)는 변경하지 않고, Vita의 같은 7루트·강화 UI를 독립 B급 대상으로 등록합니다. Vita 실화면은 [4Gamer 대화](https://www.4gamer.net/games/300/G030030/20150914064/SS/010.jpg), [PlayStation 공식 대화/CG](https://blog.ja.playstation.com/tachyon/sites/7/2015/09/20150914_amamiso_03.jpg), [4Gamer 설정](https://www.4gamer.net/games/300/G030030/20150914064/SS/027.jpg)에서 확인됩니다.
+
+**PS Vita 보존 37→38 / 활성 31→32 / 💎 우선 7 / A급 3 / B급 14→15 / C급 14**, Vita 리뷰 **53→54행**으로 갱신합니다. 기존 53개 리뷰 행·2026-10-08 역사 순위·다른 플랫폼·사용자 찜 키/상세 MD·Pages 진입 URL은 보존합니다.
