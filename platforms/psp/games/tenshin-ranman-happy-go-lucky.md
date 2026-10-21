@@ -175,11 +175,13 @@ PSP판에서는 PC 원작에 없던 **이츠키시시히메노미코토**와 그
 
 ## 대표 스크린샷
 
-> 실제 PSP판 게임 화면이 포함된 기사 페이지를 사용하며 이미지를 저장소에 재업로드하지 않는다.
+2010년 Dengeki의 **PSP판 전용 소개 자료에 수록된 세 개의 서로 다른 실제 게임 화면**이다. 원본 그림을 저장소에 복제하지 않고 해당 개별 이미지 페이지와 원문 기사로 연결한다. 개별 이미지 페이지가 간헐적으로 열리지 않으면 기사 전체에서 동일한 장면을 확인한다.
 
-1. [4Gamer - PSP 체험판 기사·실제 게임 화면](https://www.4gamer.net/games/101/G010165/20100323063/)
-2. [Dengeki Online - PSP판 캐릭터·이벤트 CG](https://dengekionline.com/elem/000/000/237/237634/)
-3. [Dengeki Online - PSP판 플레이리포트](https://dengekionline.com/elem/000/000/242/242240/)
+1. **PSP 사쿠야히메 등장 화면:** [Dengeki 237671 개별 이미지](https://dengekionline.com/elem/000/000/237/237671/img.html) / [PSP 원문 기사](https://dengekionline.com/elem/000/000/237/237634/)
+2. **PSP 학교 일상 장면:** [Dengeki 237639 개별 이미지](https://dengekionline.com/elem/000/000/237/237639/img.html) / [PSP 원문 기사](https://dengekionline.com/elem/000/000/237/237634/)
+3. **PSP SD 코미디 연출:** [Dengeki 237649 개별 이미지](https://dengekionline.com/elem/000/000/237/237649/img.html) / [PSP 원문 기사](https://dengekionline.com/elem/000/000/237/237634/)
+
+[PSP 출시 당시 직접 플레이 리뷰](https://dengekionline.com/elem/000/000/242/242240/)와 [4Gamer 체험판 자료](https://www.4gamer.net/games/101/G010165/20100323063/)에는 다른 실제 게임 화면도 있다.
 
 ## 한줄평
 
