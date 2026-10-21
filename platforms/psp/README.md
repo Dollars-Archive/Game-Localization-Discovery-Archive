@@ -316,3 +316,15 @@ PSP 대화 실제 화면은 [2012 Gamer #12](https://www.gamer.ne.jp/news/201201
 [기존 상세 평가](games/omoi-no-kakera-close-to.md)의 작품성 **3.5/5·B급·잠정 리뷰 7.0/10**을 유지하면서 2026-10-04 선정 압축으로 후보군에 있던 동일 작품을 **PSP 기본 B급 행 1개**로 복귀했다. [2011 Famitsu PSP판](https://www.famitsu.com/news/201109/29051092.html)·[GAME Watch PSP 기능](https://game.watch.impress.co.jp/docs/news/480434.html)·[GameFAQs PSP Fair·6표](https://gamefaqs.gamespot.com/psp/644800-omoi-no-kakera-close-to)·[Joko PS2 7명 평가](https://www.joko.jp/ps2/review/ti1878.html)로 근거를 분리했다. PC Windows 중국어 정식 현지화는 한국어판이 아니며 2026-10-22 동등 작품의 실사용 공개 완역 한국어 패치는 검색으로 확인하지 못했다. 실제 PSP 스크린샷 [005](https://www.4gamer.net/games/141/G014148/screenshot.html?num=005)·[006](https://www.4gamer.net/games/141/G014148/screenshot.html?num=006)·[012](https://www.4gamer.net/games/141/G014148/screenshot.html?num=012)를 원본 갤러리에서 구분해 링크한다.
 
 등록 후 **PSP 보존 61개 / 활성 40개 / 💎 5개 / A 3개**. 기존 작품·역사 리뷰 7.0/10·찜 식별자는 유지하며 전체 리뷰표에서 기존 해당 1행만 후보군에서 활성로 변경한다.
+
+## 2026-10-22 《your diary+》 PSP 한국어 대안·배포 중단 재검증
+
+기존 [PSP `ULJM-06337` 상세 작품 평가](games/your-diary-plus.md)는 **2013-11-28 일본 Alchemist 발매**, 작품성 **⭐⭐⭐½☆ 3.5/5**, 2026-10-08 별도 리뷰 **7.1/10·당시 공동 52위**로 기존 상세 MD·[전체 PSP 평가표](recommendations.md)에 남아 있다. [Famitsu PSP 직접 평가 30/40 (8·8·7·7)](https://www.famitsu.com/game/title/21843/reviews)와 [PSP 신규 3히로인·CG 30장 이상 기사](https://www.4gamer.net/games/223/G022350/20130701040/)를 함께 확인했다. 원래 C급이었던 상세의 작품성 평가는 유지하지만 **현재 한글화 우선도는 미부여**로 구분한다.
+
+**중요 번역 대안의 확정 사실:** [Myskrpatch 게지네 제작자 글 `your diary+H 간이 한글패치 + 모바일 이식 1.1`](https://myskrpatch.tistory.com/153)은 2014년 **Windows `your diary+H` 패키지판 전용** 간이 기계번역 패치를 **2021-07-10 실제 공개하고 2021-08-24 v1.1로 갱신**했다고 밝힌다. `꿀도르` 번역기, 패치 실행 파일과 모바일 변환 실행 방법을 기록한다. [VNDB 번역 릴리스 기록](https://vndb.org/p10995)은 해당 패치 상태를 **한국어 `complete`**로 구분한다. 그러나 원 제작자 블로그는 **`DMCA 신고로 인해 비공개로 전환합니다`**라고 명시하며 배포 링크를 제거했다. **현재 독립 다운로드·7개 전 루트 직접 실기 검수·PC판 이외 호환성**은 이번 조사에서 확인하지 못했다. [Team 달빛아래의 별도 `your diary+H` 번역 프로젝트](https://teammoonlightunder.blogspot.com/p/blog-page_29.html)와 Myskrpatch 공개 패치를 같은 팀 작업이라고 혼동하지 않는다.
+
+**아카이브 규칙 적용:** 2013 PSP의 일곱 공략 루트가 2014 PC +H와 같은 본편 계열이며 PSP 전용 완성 한국어 패치는 확인하지 못했다. 구작만 한국어 패치가 있는 **별개 리메이크·리마스터 예외는 적용 불가**. 과거 공개 완료로 분류된 PC 패치가 있지만 **현재 원 배포처가 비공개 상태**이므로 **한국어 대안 현재 이용·정확한 번역 범위 재검증까지 🟡 후보 자격 보류**한다. **기존 웹 전체 평가 1행은 `후보군`에 계속 보존하되 우선도 미부여**, PSP 기본 활성 목록으로 중복 추가하지 않는다. 만약 완성된 현행 이용 한국어 대안이 확인되면 신규 번역 활성 제외 규칙을 확정 적용한다. 당장 공개 배포를 복구하기 위해 DMCA로 철회된 파일을 재업로드하거나 다른 다운로드 경로를 이용하지 않는다.
+
+당시 PSP 이미지 출처는 [4Gamer 화면 No.005](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=005) · [No.006](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=006) · [No.010](https://www.4gamer.net/games/223/G022350/20130701040/screenshot.html?num=010)으로 상세 문서에 보강했다. 실제 PSP UMD 내 대본·폰트·영상·재삽입·PPSSPP 전 루트 한글화 검수는 미실시해 기술 난도 **미확인**.
+
+PSP 후보표 **보존 61개 / 활성 40개 / 💎 5개 / 한글화 A 3개**, 전체 작품 리뷰 **128개**, 기존 개별 리뷰 **7.1/10 및 역사 순위·찜 식별자**와 타 플랫폼 숫자·사이트 Pages 링크는 **변경하지 않았다**.
