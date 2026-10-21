@@ -13,7 +13,9 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 3 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 49 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 57 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 58 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+> **2026-10-21 PSP 《Sucre Portable / 슈크레 포터블》 활성 B급 복귀:** [기존 PSP 상세 평가](platforms/psp/games/sucre-portable.md)와 [PSP 전체 작품 평가](platforms/psp/recommendations.md)의 동일 항목을 기준으로 **발굴 ⭐⭐⭐½☆ (3.5/5) / 잠정 리뷰 7.0/10·현행 공동 64위 / 한국어화 B급**을 유지하고 기존 후보군에서 활성 목록으로 복귀시켰다. [2012 공식 PSP 발표](https://www.famitsu.com/news/201205/10014426.html)는 카이 후타바 신규 루트·추가 시나리오·CG 20장 이상을 확인하며, [PSP 개인 전루트 평가](https://note.com/hirajin_x/n/nd0d296143f50)는 치즈루 추가 엔딩·루트 편차를 설명한다. 2025 Switch 기본 단품·3작 합본은 [Entergram 공식 2025-09-30 판매 종료 목록](https://www.entergram.co.jp/2025_endtitle.html)에 포함된다. 2026-10-21 PSP·PC·Switch 검증된 완성 한국어 대안 미발견. 리뷰 총 128행과 기존 점수/역사순위·찜 키·기타 플랫폼은 변경하지 않고 PSP **보존 57→58 / 활성 36→37 / 💎 5 / 🔥 A 3**을 반영했다.
+
 | PlayStation Vita | 37 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
