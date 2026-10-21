@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인 / 《Final Approach》 **2026-10-17** 재검증)  
-> 등록·보존 기록: **47개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
+> 등록·보존 기록: **48개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -57,6 +57,7 @@
 | [Getsumento Heiki Mina: Futatsu no Project M (월면토병기 미나 ～두 개의 PROJECT M～)](games/getsumento-heiki-mina-futatsu-no-project-m.md) | 2007 | 시뮬레이션 배틀·연애 ADV | ⭐⭐⭐½☆ | B | 구체적 경험 본문 2건 / GameFAQs Good 18표 / 3.5 잠정·근거 신뢰도 낮음 | 2026-10-07 확인 못함 | PS2 통상·피규어 한정판 / 슬롯 앱은 별개 / 후발 본편 확인 못함 | 🟢 후보 |
 | [Wizardry Xth 2: Mugen no Gakuto (위저드리 엑스 2 ～무한의 학도～)](games/wizardry-xth-2-mugen-no-gakuto.md) | 2006 | 1인칭 3D 던전 RPG | ⭐⭐⭐½☆ | B | Joko 4페이지 35건 / PS2 기명 실플레이 3편 / GameFAQs Good (6표) | 2026-10-07 공개 확인 못함 | PS2 통상판·Wonder Price / 동일 본편 강화 이식 확인 못함 / 관련 계열 별도 | 🟢 후보 |
 | [Suigetsu: Mayoigokoro (수월: 미심)](games/suigetsu-mayoigokoro.md) | 2004 | 민속학·기억·전기 미스터리 연애 ADV·비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | B | PS2 Gavas 4.3/5·7명 / Joko PS2 개인평 2쪽 / PS2 개인 82/100·1명 / 출시 당시 원본 PS2 음성/백로그 평가 | 2026-10-17 PS2 SLPM-65751·PSP ULJM-05346·2002 PC·2023 Grand Package 공식 한국어·검증된 공개 완성 한글패치 미발견 / 비공개·미등록 작업 부재 단정 불가 | 2002 PC 원작·みずかべ → 2004 PS2/DC 迷心 음성·CG·시나리오·미즈카베 보강 → 2008 PSP Portable 16:9·노벨 UI → 2023 PC Grand Package | 💎 우선 후보·한글화 활성 B급 |
+| [Sekai no Subete: Two of Us (세계의 전부 ～two of us～)](games/sekai-no-subete-two-of-us.md) | 2006 | 청춘 밴드·감정극·연애 ADV / 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | PS2 Joko 직접 후기10명·1~5/5 극단 분산 / GameFAQs 3.75/5·2명 / GAMEMAN 8.6/10·서술 0건 / PC 2012 비평70/100은 별도 | 2026-10-21 PS2·2002 PC·2012 Director's Cut·2023 SEKAI/SUBETE 공개 완성 한국어 패치·공식 한국어 확인 못함 / 2023 영어(MTL) 별도 | 2002 PC 원작·remind / 2006 PS2 신시나리오·CG 약 50장 / 2012 PC 재편집·CG 약 40장 / 2023 PC/Mac HD·영어(MTL), PS2 전체 추가분 계승 미확인 | 🟢 후보 |
 | [Mystereet: Yasogami Kaoru no Jiken File (미스테리트 ～야소가미 카오루의 사건 파일～)](games/mystereet-yasogami-kaoru-no-jiken-file.md) | 2006 | 커맨드형 탐정·미스터리 ADV | ⭐⭐⭐½☆ | C | Joko 본문3.00/17건·내장2.76 구분 / PS2 개인평4명 / GameFAQs Good15표 | 2026-10-07 공개 확인 못함 | PC → PS2 음성·지도 개편 → PSP/Win 단편 추가 → 2025 콘솔 HD·재녹음 / Steam 미정 | 🟢 후보 |
 | [Kishin Houkou Demonbane (기신포후 데몬베인)](games/kishin-houkou-demonbane.md) | 2004 | 크툴루·슈퍼로봇 ADV | ⭐⭐⭐⭐☆ | C | PS2 개인 비평 3편 / Joko 공개 41건 (판·완료 범위 혼재) | 확인 못함 | PC 원작 → PS2 강화 → 동일 게임 내용의 2019 Windows 역이식 | 💎 우선 후보 |
 | [My Merry May with be (마이 메리 메이 위드 비)](games/my-merry-may-with-be.md) | 2005 | SF 연애 ADV·비주얼노벨 합본 | ⭐⭐⭐⭐☆ | C | Joko 전4쪽36건 3.58/5 / Gavas6+4건 소개·경험 분리 / 개인평 판본·완료 구분 / Bangumi8.2·104표 통합 | 2026-10-07 공개 확인 못함 | PS2 두 본편·추가분 합본 → PSP → 2026 Switch·PS4·Steam 풀HD / 일본어 | 💎 우선 후보 |
@@ -212,3 +213,13 @@
 
 **PS2 상세·플랫폼 목록·전체 작품 평가의 같은 1건만 갱신해 중복과 집계 변동 없음.** 기존 다른 게임 및 사용자 찜, 이전 역사 순위는 변경하지 않았습니다.
 
+
+## 2026-10-21 《세계의 전부 ～two of us～》 기존 PS2 B급 활성 후보 복귀
+
+기존 [PS2 상세 원고](games/sekai-no-subete-two-of-us.md)의 발굴 추천도 **⭐⭐⭐½☆ (3.5/5)·한글화 우선도 B**와 기존 리뷰 기반 **7.2/10**은 그대로 보존했다. [Joko PS2 직접 평 10건](https://www.joko.jp/ps2/review/ti2042.html?PageSpeed=noscript)의 강한 감정극 호평과 특정 루트·주인공 행동에 관한 1점 혹평을 모두 반영했으며, [GameFAQs 3.75/5·2표](https://gamefaqs.gamespot.com/ps2/933779-sekai-no-subete-two-of-us/stats)와 [GAMEMAN 8.6·서술 0건](https://www.gameman.jp/item/19228_m.html)은 소표본으로 취급했다.
+
+2006년 PS2 일본판 **SLPM-66544**에 PC판 대비 **신규 이야기·CG 약 50장**이 추가됐다([Joko 당시 소개](https://www.joko.jp/ps2/review/ti2042.html?PageSpeed=noscript)). PS2판 외에도 **2012년 『世界ノ全テノ全テ』 Director's Cut**과 **2023-10-27 『SEKAI/SUBETE』 최신 재구성 HD·영어판**이 존재하며, 2023 영문은 MTL로 기재돼 있다([GTAKU 발매별 언어표](https://www.gtaku.net/vngameinfo/95411)). 이 최신판을 과거 2012판과 혼동하지 않고, 최신판이 PS2/2012 전체 콘텐츠를 모두 포함한다고 단정하지 않는다.
+
+**2026-10-21 공개 조사:** PS2 및 2002 PC·2012 PC·2023 HD 버전에서 공식 한국어판이나 실사용 가능한 공개 완성 한글패치를 확인하지 못했으므로 B급 활성 후보로 복귀한다. 비공개 작업 부재까지 단정하지 않는다. [PS2 SLPM-66544 원본 화면 3장](https://psxdatacenter.com/psx2/games2/SLPM-66544.html)은 상세 문서에 개별 사진 링크로 기록한다. 실제 스크립트/기술 난도는 ISO 미분석으로 미확인.
+
+**PS2 목록 47→48건**, 활성 💎 **9건**, 한글화 A급 **6건** 유지. PS2 전체 작품 리뷰 **74행**, 기존 7.2/10·2026-10-08 원평가 원장·역사 순위·사용자 찜 키·다른 플랫폼 Pages 링크는 그대로 보존한다.
