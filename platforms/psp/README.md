@@ -266,3 +266,15 @@ PSP 후보도 [`../../templates/game-entry-template.md`](../../templates/game-en
 PSP 대표 시각 자료: [2010 PSP 추가 CG 4장 공개 기사](https://www.animatetimes.com/news/details.php?id=1275283585) 및 [2018 PS4/Vita 이미지 5](https://www.gamer.ne.jp/news/201806280078/image/5/) · [이미지 6](https://www.gamer.ne.jp/news/201806280078/image/6/) · [이미지 7](https://www.gamer.ne.jp/news/201806280078/image/7/). 다른 기종의 CG는 PSP 원본 이미지로 표기하지 않는다.
 
 PSP 보존 **56→57건 / 활성 한글화 후보 35→36건**, 💎 **5건**·🔥 A **3건** 유지. 전체 PSP 웹 작품 리뷰 **128행 그대로**, 2026-10-08 역사 순위·원 리뷰 점수·찜 키와 다른 기종, GitHub Pages 기존 링크는 변경하지 않았다.
+
+## 2026-10-21 《소라이로 포터블》 PSP 작품성 3.5 유지·PC 한국어 패치 자격 감사
+
+[2012 PSP 상세 평가](games/sorairo-portable.md)의 작품성 **⭐⭐⭐½☆ 3.5/5**와 잠정 정성 리뷰 **7.0/10**은 유지한다. 대상은 2012-09-06 일본 PSP **ULJM-06138**로, [4Gamer PSP 공식 발표](https://www.4gamer.net/games/156/G015607/20120508067/)와 [2012-05 PSP 독자 신규 후일담 4편 공개](https://www.4gamer.net/games/156/G015607/20120530031/)에서 2009 PC 원작과의 차이, 새 CG·16:9 및 4:3 지원을 확인했다.
+
+그러나 **2026-08-28 [Kone 《소라이로》 원작 Windows 게임 한국어화·복구 게시](https://kone.gg/s/vndb/a-rd7EyGNNRsbZEfVRrAab)**에서 **한국어 타이틀 메뉴와 실제 한국어 대화 장면**이 확인됐다. 게시물은 [Arca Live 한국어 패치 원출처](https://arca.live/b/yuzusoft/181095382)를 명시하지만 2026-10-21 현재 그 본문 직접 열람이 실패해 **원 패치의 전체 3×3 루트 완역·현행 이용 가능성·번역 방식**을 재확인하지 못했다. 복구 게시물의 `v1.10`은 원작 Windows 게임 업데이트 문맥으로 **한글패치 버전명이라고 단정하지 않는다**. Windows용 번역 화면은 PSP용 한글패치가 아니다.
+
+PSP는 본편에 후일담 4편을 추가한 **확장 이식판**이지 해당 원작의 새 리메이크·리마스터 예외로 볼 근거가 없다. 동일 작품의 타 판본 한국어 패치가 공개됐으므로 정책상 **활성 PSP 번역 후보를 바로 B급으로 확정할 수 없어** **🟡 한국어 대안 검증 보류·현행 한글화 우선도 미부여**로 정정한다. 이전 2026-09-19 **B급 판단은 역사 기록 보존**, GitHub PS Portable 검토표에 새로운 B/C 활성 행을 추가하지 않는다. 기존 웹 전체 평가의 같은 1행은 `후보군`에 두고 PC 번역 증거를 갱신한다.
+
+**PSP 검토 기록 57개·활성 36개·활성 💎 5개·한글화 A 3개**, 웹 리뷰 128행 그대로. 기존 2026-10-08 리뷰 7.0/10·순위·찜 식별자·다른 기종 기록 및 기존 GitHub Pages 링크 불변. 기술 난도는 PSP 실기·스크립트·ISO 파일 미분석이므로 미확인.
+
+시각 자료: PSP 원판 [2012 Gamer 신규 이벤트 이미지 3](https://www.gamer.ne.jp/news/201205300024/image/3/) · [이미지 4](https://www.gamer.ne.jp/news/201205300024/image/4/) · [이미지 8](https://www.gamer.ne.jp/news/201205300024/image/8/). PC판 한국어 화면은 같은 기사 속 PSP 이미지가 아니라 [Kone PC 한국어화 기록](https://kone.gg/s/vndb/a-rd7EyGNNRsbZEfVRrAab)으로 분리한다.
