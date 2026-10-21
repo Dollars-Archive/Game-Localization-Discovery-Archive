@@ -56,7 +56,8 @@
     "platforms/psp/games/koi-to-senkyo-to-chocolate-portable.md",
     "platforms/psp/games/sakura-sakura-haru-urara.md",
     "platforms/ps2/games/sekai-no-subete-two-of-us.md",
-    "platforms/ps2/games/shuffle-on-the-stage.md"
+    "platforms/ps2/games/shuffle-on-the-stage.md",
+    "platforms/switch/games/mamiya-a-shared-illusion-of-the-worlds-end.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -281,6 +282,10 @@
     },
     "platforms/ps2/games/shuffle-on-the-stage.md": {
       "added": "2026-10-21T06:33:13.966Z",
+      "note": ""
+    },
+    "platforms/switch/games/mamiya-a-shared-illusion-of-the-worlds-end.md": {
+      "added": "2026-10-21T09:17:59.415Z",
       "note": ""
     }
   }
