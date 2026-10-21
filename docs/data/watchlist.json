@@ -54,7 +54,8 @@
     "platforms/psp/games/misshitsu-no-sacrifice.md",
     "platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md",
     "platforms/psp/games/koi-to-senkyo-to-chocolate-portable.md",
-    "platforms/psp/games/sakura-sakura-haru-urara.md"
+    "platforms/psp/games/sakura-sakura-haru-urara.md",
+    "platforms/ps2/games/sekai-no-subete-two-of-us.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -271,6 +272,10 @@
     },
     "platforms/psp/games/sakura-sakura-haru-urara.md": {
       "added": "2026-10-21T01:59:08.793Z",
+      "note": ""
+    },
+    "platforms/ps2/games/sekai-no-subete-two-of-us.md": {
+      "added": "2026-10-21T05:06:11.388Z",
       "note": ""
     }
   }
