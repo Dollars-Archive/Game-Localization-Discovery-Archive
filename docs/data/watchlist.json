@@ -61,7 +61,8 @@
     "platforms/switch/games/labyrinth-of-touhou-gensokyo-and-the-heaven-piercing-tree.md",
     "platforms/switch/games/hyper-highspeed-genius.md",
     "platforms/psp/games/sorairo-portable.md",
-    "platforms/psp/games/sucre-portable.md"
+    "platforms/psp/games/sucre-portable.md",
+    "platforms/ps2/games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -306,6 +307,10 @@
     },
     "platforms/psp/games/sucre-portable.md": {
       "added": "2026-10-21T13:42:17.364Z",
+      "note": ""
+    },
+    "platforms/ps2/games/itsuka-todoku-ano-sora-ni-yo-no-michi-to-hi-no-tasogare-to.md": {
+      "added": "2026-10-21T16:30:00.250Z",
       "note": ""
     }
   }
