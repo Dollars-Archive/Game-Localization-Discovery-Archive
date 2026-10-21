@@ -18,7 +18,9 @@
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 6 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
-| Nintendo Switch | 26 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+| Nintendo Switch | 27 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+> **2026-10-21 Switch 《Hyper→Highspeed→Genius》 활성 B급 등록:** [2023년 ARES Switch판 평가 상세](platforms/switch/games/hyper-highspeed-genius.md)는 **2011년 Windmill PC 원작 → 2023년 전연령·풀HD 이식** 관계를 확인하고 시나리오의 3학원 세력·복수 루트 및 진상 구성은 장점, 실제 책략의 깊이·반복·서브 루트 편차는 단점으로 판정했다. **자체 작품성 ⭐⭐⭐½☆ 3.5/5 / B급, 별도 10점 참고 7.0/10, 기술 난도 미확인**. 원작 중심 VNDB 7.64/10·180표, Bangumi 7.2/10·148표와 Switch 직접 価格.com 전문가 4/5·1명을 구분했다. **2026-10-21 공개 실사용 완성 한국어판·한글패치 확인되지 않음**, 국내 PC 수정패치는 번역 완료 근거로 세지 않음. 후속작 《HHG 女神の終焉》은 별도 제품으로 중복 등록하지 않았으며 **Switch 활성 26→27 / 💎 7 / A 0**. 원본 26개 후보·기종별 기록·모든 Pages 바로가기 유지.
+
 
 > **2026-10-20 PSP 《백은의 칼과 창공의 여왕》 활성 B급 복귀:** [기존 2011년 PSP 상세 MD](platforms/psp/games/shirogane-no-cal-to-aoi-no-joou.md)에서 작품성 **3.5/5·한글화 B급·리뷰 6.9/10** 유지. 2026-10-04 정원 압축으로 후보군에 있던 기존 웹 리뷰의 동일 1행을 「기존 목록」으로 복구하고, [PSP 검토 목록](platforms/psp/README.md)에 B급 1행을 추가했다. [Famitsu PSP 24/40·4명](https://www.famitsu.com/game/title/22858/reviews)의 시스템 약점과 [4Gamer PSP 리뷰 1건](https://www.4gamer.net/games/135/G013575/20111213093/)의 이야기 호평을 구별했다. 2010 PC 원작 대비 2011 PSP 신규 CG·OP/ED·영상·일부 시스템 개편이 존재하고, 2026-10-20 현재 PSP·PC의 검증된 공개 완성 한국어 패치는 확인 못했다. PSP 전체 작품 평가 **128건**, 과거 리뷰 점수와 역사 순위/찜 키 변경 없음. PSP 보존 **55→56건 / 활성 34→35건 / 💎 5건 / A급 3건**, 다른 플랫폼 집계 및 기존 GitHub Pages 링크 그대로.
 
