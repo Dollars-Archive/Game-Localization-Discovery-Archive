@@ -59,7 +59,8 @@
     "platforms/ps2/games/shuffle-on-the-stage.md",
     "platforms/switch/games/mamiya-a-shared-illusion-of-the-worlds-end.md",
     "platforms/switch/games/labyrinth-of-touhou-gensokyo-and-the-heaven-piercing-tree.md",
-    "platforms/switch/games/hyper-highspeed-genius.md"
+    "platforms/switch/games/hyper-highspeed-genius.md",
+    "platforms/psp/games/sorairo-portable.md"
   ],
   "items": {
     "platforms/ps2/games/guardian-angel.md": {
@@ -296,6 +297,10 @@
     },
     "platforms/switch/games/hyper-highspeed-genius.md": {
       "added": "2026-10-21T13:24:57.537Z",
+      "note": ""
+    },
+    "platforms/psp/games/sorairo-portable.md": {
+      "added": "2026-10-21T13:25:48.292Z",
       "note": ""
     }
   }
