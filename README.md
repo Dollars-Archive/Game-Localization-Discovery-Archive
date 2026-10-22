@@ -12,14 +12,16 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
-| PlayStation 2 | 49 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 66 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
-| Nintendo DS | 6 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
+| Nintendo DS | 7 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 > **2026-10-22 PSP 《No Fate! - Only the Power of Will》 기존 B급 활성 복귀:** [PSP 상세 평가](platforms/psp/games/no-fate-only-the-power-of-will.md)는 작품성 **3.5/5·기존 6.7/10·한글화 B급**을 유지하고 2010 PSP ULJM-05610판을 [PSP 기본 목록](platforms/psp/README.md)에 한 행 복구했다. [GAME Watch 제작진 발표](https://game.watch.impress.co.jp/docs/news/325016.html)의 Hal·麓川智之 원작 및 PSP/Xbox 360 동시발매와 [2011 Xbox 360판 4루트 완주 후기](https://chulip.org/entry/20110731/1312093990)의 장단점을 구분해 검증했다. 2026-10-22 공식 한국어판·공개 완성 팬패치는 미발견이며 실제 UMD/ISO 미분석으로 기술 난이도 **미확인**. 기존 PSP 전체 작품 리뷰 1행만 후보군→기존 목록으로 전환하고 **PSP 보존 65→66 / 활성 44→45 / 💎 5 / 🔥 A 3**, 리뷰 총수 128·역사 점수·순위·찜 식별자 유지. 타 플랫폼·기존 Pages 링크·사이트 코드 변경 없음.
+
+> **2026-10-22 《꽃과 태양과 비》(Flower, Sun, and Rain) PS2·DS 기종별 신규 평가:** [2001년 PS2 원본 상세](platforms/ps2/games/flower-sun-and-rain.md) **⭐⭐⭐½☆ 3.5/5·자료 기반 7.4/10·신규 한국어화 활성 제외/🟡 패치 검증 보류**와 [2008년 DS 개작판 상세](platforms/ds/games/flower-sun-and-rain.md) **⭐⭐⭐½☆ 3.5/5·자료 기반 7.1/10·🟢 활성 B급**을 분리했다. [2026-09-01 제작자 PS2 DEV11 한글패치 공지](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=212488)와 [RetroDB](https://retrodb.info/krpatch/2602/%EA%BD%83%EA%B3%BC-%ED%83%9C%EC%96%91%EA%B3%BC-%EB%B9%84%EC%99%80)에서 PS2용 개발판 공개는 확인되지만 완역/실사용은 미검증이다. [닌텐도 공식 DS 소개](https://www.nintendo.co.jp/ds/software/yhnj/index.html)와 [Famitsu DS 29/40](https://www.famitsu.com/game/title/3308/reviews)에서 DS의 터치·재구축과 50개 이상 신규 퍼즐을 확인, PS2 패치를 DS 완역으로 추정하지 않고 구작 패치/개작판 예외를 적용했다. **PS2 보존 49→50 / 💎 9·A 6 유지 / 리뷰 74→75**, **DS 보존 6→7 / 한글화 활성 1→2·B 1→2·A 0·💎 0 / 리뷰 6→7**. 기존 타 작품·2026-10-08 역사 리뷰·찜 키·모든 Pages 후보 보기 링크 및 사이트 코드는 변경하지 않았다.
 
 
 > **2026-10-22 PS2 《W ～위시～ / 더블 위시》 기존 활성 B급 재평가:** [PS2 상세 문서](platforms/ps2/games/w-wish.md)의 **⭐⭐⭐½☆ 3.5/5·B급**, [PS2 전체 리뷰](platforms/ps2/recommendations.md)의 **7.1/10·현행 공동45위**를 유지. [2004 PS2 제품 자료](https://mediaworld.co.jp/products/10401755001)·[Joko PS2 15건](https://www.joko.jp/ps2/review/ti1206.html)·[2025 PS2 장문 감상](https://note.com/wm5makoto29/n/n94d586adfe99)을 검토했고, [2007년 휴대전화 1차](https://www.itmedia.co.jp/mobile/articles/0704/27/news163.html)·[2차](https://k-tai.watch.impress.co.jp/cda/article/news_toppage/35214.html)를 확인했다. 공개 완성 한국어 패치는 PS2·휴대전화판에서 2026-10-22 확인 못함, 동명 애니 자막은 게임 번역이 아님. 이미 활성 등록되어 **중복 없이 기존 1행만 갱신**, PS2 기록 **49 / 💎 9 / A 6**, 웹 리뷰 **74행**, 기존 점수·현행/역사 순위·찜 키와 다른 플랫폼·Pages 링크 불변.
