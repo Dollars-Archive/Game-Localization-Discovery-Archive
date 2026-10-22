@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **67개** / 활성 후보: **46개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **68개** / 활성 후보: **47개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -68,6 +68,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Eien no Aselia: Kono Daichi no Hate de (영원의 아세리아: 이 대지의 끝에서)](games/eien-no-aselia-kono-daichi-no-hate-de.md) | 2012 | 이세계 판타지 ADV·3인 역할 분담형 턴제 SRPG | ⭐⭐⭐½☆ (3.5/5) | C | Famitsu PSP 26/40·4명 / GameFAQs PSP Good·19표 / PSP 초반 실제 사용 기록·전투 도해 공략 / Steam 85%·76건은 PC판 별도 | 2026-10-12 PSP·PS2·PC 공식 한국어판·공개 적용가능 한국어 패치 확인 못함 / PC Steam 공식 영어판은 한국어 미지원 | 2003 PC 원작 → 2005 PS2 전연령판 → 2012 PSP 컷인 약 20장·OP·저장 기능 / 영어 PC판 별개 / 《新約》 기획 발표·출시 미확인 | 🟢 후보 |
 | [Rebellions: Secret Game 2nd Stage (리벨리온즈 Secret Game 2nd Stage)](games/rebellions-secret-game-2nd-stage.md) | 2013 | 서스펜스 ADV·감상형 노벨 | ⭐⭐⭐⭐☆ (4.0/5) | 보류 (기존 C) | PSP 실평5명 / GameFAQs Fair·11표 / Bangumi 7.3·233표(판본 혼합) / 작품성 4.0 유지 | 2026-08-19 PC 한국어 실행·한패출처 복구 글 발견 / PC판·완성도·독립 패치 이용 검증 보류 / PSP 패치 미확인 | CODE:Revise 시나리오 대폭 개정 / PSP A~D / PC BOOSTED Episode Z 추가 / Switch 후발 이식 / PSP 실화면 3장 미검증 | 🟡 한국어 대안 검증 보류 |
 | [Baka to Test to Shoukanjuu Portable (바보와 시험과 소환수 포터블)](games/baka-to-test-to-shoukanjuu-portable.md) | 2012 | 보드게임·어드벤처 | ⭐⭐⭐☆☆ (3.0/5) | C | Famitsu23/40·4명 / 개인완료2/5·1명 / GameFAQsGreat18표·22h6표본 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP / 팬 대화·음성 강점·운/대기 약점 / 2026-09-19 사용자 예외 유지 | 🟡 보류·사용자 예외 |
+| [Suigetsu Ni: Portable (수월 2 포터블)](games/suigetsu-ni-portable.md) | 2012 | 일본 전승·민속 신비·학원 연애 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | C | PSP 2018 전 엔딩 정성 후기 1건(반복·작은 글씨 지적) / PS3 완주 후기 1건은 다른 판본 참고 / PSP Famitsu 독립 평균 미표시 | 2026-10-22 2012 PSP ULJM-06062·2011 PS3·2012 PC 추억판 공식 한국어/완성 유저 한글패치 공개 확인 못함 / 2008 PSP 수월 1편과 별개 | 2011 PS3 수월 2 기본판 → 2012 PSP 나고미 신규 루트·사키히메 결말·CG·OP·표시 기능 → 2012 PC 추억 과거편·진상 추가 / 전작 수월 1과 별개 | 🟢 후보 |
 | [Sekai de Ichiban NG na Koi: Full House (세상에서 가장 NG인 사랑 풀하우스)](games/sekai-de-ichiban-ng-na-koi-full-house.md) | 2011 | 홈코미디형 연애 ADV | ⭐⭐⭐⭐☆·종전 평가 보존 | 보류·기존 B 참고 | PSP Play-Asia 5/5·5건·본문 1건 / GameFAQs 1.6/5·5표 / GAMEMAN 9.0·표수 미표시·본문 0건 | 2026-10-08 기준 공개적으로 확인되지 않음 | PC 원작 준한글·2026 복구 기록은 부분 번역으로 분리 / PSP 추가 시나리오·CG 약 30장 / 후발 PC 완전 대체 여부 미확인 | 🟡 재평가 보류 |
 | [Z.H.P. Unlosing Ranger vs. Darkdeath Evilman (절대 히어로 개조계획)](games/zhp-unlosing-ranger-vs-darkdeath-evilman.md) | 2010 | 로그라이크 던전 RPG | ⭐⭐⭐⭐☆ | 보류 | Metacritic PSP 81/100 (19개) / RPGFan 85/100 / RPGamer 4/5 / GameFAQs 4.13/5 (379표) | 시놀부 v1.0 배포 기록 2026-06-08 / 범위·이용 가능성 추가 확인 | 2022 Switch·PC 콜라보 삭제 / PSP 한국 정발판 일본어 | ⏸️ 한국어 대안 검증 보류 |
 | [Blue Roses: Yousei to Aoi Hitomi no Senshitachi (블루 로지스: 요정과 푸른 눈동자의 전사들)](games/blue-roses-yousei-to-aoi-hitomi-no-senshitachi.md) | 2010 | 판타지 SRPG·턴제 전술 RPG | ⭐⭐⭐☆☆ (3.0/5) | 미부여 | 실플레이 서술 8명·9편 / 가격.com 2.43/5 (2명) / GameFAQs Good (26표) / Play-Asia 4/5 (8평가·글 1건) | 2026-10-08 기준 공개 한국어 지원·완성패치 확인 못함 / 영어 시스템 부분패치 기록 | 2010 PSP UMD·DL / Vita 이용 표기는 네이티브 이식 아님 / 현대 직접 이식 미확인 | 🔴 활성 후보 제외 제안·기록 보존 |
@@ -380,3 +381,10 @@ PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/gam
 ## 2026-10-22 《Marriage Royale: Prism Story》 PSP 활성 B급 복귀
 
 [기존 PSP 상세](games/marriage-royale-prism-story.md)의 **3.5/5·B·잠정 별도 6.5/10**을 유지. [공식 PSP 발매](https://www.kadokawa.co.jp/product/game1645/)·[2012 전격SP 저가 재출시](https://www.kadokawa.co.jp/product/game1629/)·[4Gamer 컬러 루트](https://www.4gamer.net/games/104/G010467/20100202051/) 및 [Bangumi PSP 7.0/10·7표](https://bangumi.tv/subject/6964), [GAMEMAN 5.9/10·작성 리뷰0](https://www.gameman.jp/item/25316_m.html)을 대조했다. 2026-10-22 공개 한국어 완성판/팬패치를 확인하지 못했으며 비공개 작업까지 없다고 단정하지 않는다. 기존 전체 리뷰 같은 1행만 후보군→기존 목록으로 이동하고 **PSP 보존 66→67 / 활성 45→46 / 우선 5·A급 3**, 웹 리뷰 128행·기존 6.5점·원순위·현행 공동112위·찜 ID·다른 플랫폼 불변.
+
+
+## 2026-10-22 《수월 2 포터블》 PSP C급 신규 등록
+
+[2012 PSP 《水月 弐 ～Portable～》 신규 상세 평가](games/suigetsu-ni-portable.md)는 **⭐⭐⭐½☆ 3.5/5·별도 신규 편집 7.0/10(역사 순위 미산정)·활성 C급**이다. [전격온라인 공식 2012 PSP 기사](https://dengekionline.com/elem/000/000/482/482857/index-3.html)는 2011 PS3의 기본 시나리오에 없는 **나고미 공략 루트·CG·OP·편의 기능** 추가를 확인한다. [PSP 완료 후기](https://blog.livedoor.jp/sketchbook2/archives/52110306.html)는 작은 글자·루트 반복의 단점을 지적하며, 2012 PC 《追憶》의 추가 과거·진상편은 PSP판에 소급하지 않는다.
+
+2026-10-22 PSP·PS3·PC 동일 수월 2 작품에 실사용 공개 완성 한국어판·패치 미발견. 기술 난도는 게임 파일 미분석으로 **미확인**. **PSP 보존 67→68 / 활성 46→47 / 💎 5 / A 3**이며 신규 상세·[PSP 전체 평가](recommendations.md) 각각 한 행만 생성한다. 기존 [2008 《수월》 1편 PSP B급 상세](games/suigetsu-portable.md) 및 역사 10점 점수·순위·찜 ID와 다른 작품·기종은 그대로 보존.
