@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **69개** / 활성 후보: **47개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **70개** / 활성 후보: **47개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -88,6 +88,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Brave Story: New Traveler (브레이브 스토리: 새로운 여행자)](games/brave-story-new-traveler.md) | 2006 | 성장 판타지·3D 정통 턴제 JRPG | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | Metacritic PSP 76/100·30평론 / RPGFan PSP 86/100 / GameSpot PSP 6.5/10 / GameFAQs PSP 3.81/5·529명 | 2026-08-17 신선짱 PSP v0.91 공개(08-16 v0.9) / 제작자 원본 접근 제한·지원 지역판·완역·실기·엔딩 검증 미완 | 2006 일본 UCJS-10024·아시아 UCAS-40096 → 2007 북미 XSEED 공식 영어 ULUS-10279 / PS2 와타루의 모험은 다른 액션게임 | 🟡 공개 한글패치 v0.91 확인·번역 범위/호환 검증 보류 |
 | [Princess Evangile PORTABLE (프린세스 에반젤 포터블 / 프린세스 에반질 Portable)](games/princess-evangile-portable.md) | 2012 | 여학교 공학화·26화 장편 학원 연애 비주얼 노벨·4히로인 | ⭐⭐⭐½☆ 3.5/5 | 미부여 (과거 C) | PSP GF Good·18명 / PSP Gamer 2012 중반 실플레이 1인 / Play-Asia PSP 5/5·5표·서술 1건 / Steam 영어 PC 본편 92%·138명은 타 판본 참고 | 2026-10-17 PSP ULJM-06036 자체 한국어판·검증된 공개 완역 패치 미발견 / 2015-10-13 MOONSTONE 공식 한국어 Android 본편 발매 확인 / 2016 한국어 W Happiness 모바일판 / 현재 신규 판매중단 보고 | 2011 PC 4히로인 본편 → 2012 PSP CG·신규 OP·UI 추가 / 2015 일본 Android Portable에서 PSP 추가 CG 고해상도 수록 / 2015 한국어 i-play 앱과 CG 동일성 미검증 | 🟡 사용자 지정 PSP 기본 작품 평가·공식 한국어 모바일판 이력·신규 한글화 활성 제외 |
 | [Suzumiya Haruhi no Yakusoku (스즈미야 하루히의 약속)](games/suzumiya-haruhi-no-yakusoku.md) | 2007 | 북고제 문화제 전야·시간 루프·대화 ADV·미스터리 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | PSP GameFAQs 3.98/5·26명·27h/12명 / 4Gamer 독자 75/100·1명 / Famitsu 매체 점수 미집계 | 팀 한글날 PSP 한글패치 **2010-10 공개** / 한글로게임 10-09·다른 자료 10-17 / 완역·파일·적용판·현행 실기 미검증 | 2007 PSP 일반 ULJS-00124·프리미엄 ULJS-00123 / 2008 Best ULJS-19023 / PSP·PS3 2011 《추상》은 별도 게임 | 🟡 PSP 한국어 패치 공개 확인·완역/실사용 검증 보류·신규 한글화 활성 제외 |
+| [School Rumble: Anesan Jiken Desu! (스쿨럼블 언니 사건이에요!)](games/school-rumble-anesan-jiken-desu.md) | 2005 | 학원 러브코미디·다중시점 풀보이스 전자 코믹 ADV | ⭐⭐⭐½☆ (3.5/5) | 미부여 (과거 B) | GameFAQs PSP Great·24표·12h/11명 / Amazon 과거 3.4/5·11건 / GAMEMAN 6.2/10 / Famitsu 편집 리뷰 점수 미집계 | 2026-09-16 크로스벤 PSP 한글패치 v1.05 공개 / 최초 v1.0 09-11 / 원 배포처 410·완역·실기·엔딩 검증 보류 | 2005 PSP Bandai 오리지널 ULJS-00019 / 2005 PS2 ねる娘は育つ。·2006 PS2 二学期는 별도 게임 | 🟡 PSP 한글패치 v1.05 존재·완역/실사용 검증 보류·신규 한국어화 활성 제외 |
 
 ## 발굴 상태 기준
 
@@ -405,3 +406,9 @@ PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/gam
 **2026-10-22 공식 한국어판·공개 실사용 완성/부분 한국어 패치**를 PSP와 동일 작품의 다른 판본에서도 확인 못했다. [2026년 PSP 《어떤 과학의 초전자포》 영어 팬패치](https://noisypixel.net/a-certain-scientific-railgun-psp-english-fan-translation/)는 2011년 **별개 PSP 게임의 영어 번역**이므로 군주활극 한글패치로 잘못 표시하지 않는다. 실제 PSP ISO·대사·폰트·진행 플래그를 분석하지 않아 기술 난이도 **미확인**이다. [PSP 미코토·쿠로코 대화](https://www.4gamer.net/games/173/G017362/20120830050/TN/006.jpg) / [인덱스 대화](https://www.4gamer.net/games/173/G017362/20120830050/TN/007.jpg) / [카미조 토마 대화](https://www.4gamer.net/games/173/G017362/20120830050/TN/008.jpg) 3개는 실제 게임 화면.
 
 **본 작품 신규 생성·점수 변경 없음.** PSP 보존 **69개·활성 47개·💎 5개·🔥 A 3개**, PSP 전체 리뷰 **130행**과 기존 6.8/10·역사 순위·찜 ID 보존. PS2·PS3·다른 게임의 기록, GitHub Pages 진입 링크 및 웹 UI 코드를 변경하지 않았다.
+
+## 2026-10-22 《스쿨럼블 언니 사건이에요!》 PSP 한국어 패치 v1.05 공개 기록·작품성 보존
+
+[기존 PSP 상세 평가](games/school-rumble-anesan-jiken-desu.md)의 **⭐⭐⭐½☆ 3.5/5 · 별도 잠정 6.5/10** 유지. [GameFAQs PSP Great 24표·12시간/11명](https://gamefaqs.gamespot.com/psp/928060-school-rumble-anesan-jiken-desu)·[Amazon 과거 3.4/5·11건](https://retoro.g-player.com/psp/adv/index.html)·[GAMEMAN 6.2/10](https://www.gameman.jp/item/21729_m.html)과 [2005년 PSP 직접 로딩 감상](https://onuchin.hatenablog.com/archive/2005/07), [2005-10-02 국내 PSP 실제 캡처 9장](https://m.ruliweb.com/ps/board/179140/read/1913621)을 대조했다. 오리지널 사건의 풀보이스·다중 시점은 강점이나 로딩·반복·느린 템포가 4.0점 미달 이유다.
+
+**기존 한글패치 확인:** [RetroDB PSP #3485](https://retrodb.info/krpatch/3485/%EC%8A%A4%EC%BF%A8-%EB%9F%BC%EB%B8%94-%EC%96%B8%EB%8B%88-%EC%82%AC%EA%B1%B4%EC%9D%B4%EC%97%90%EC%9A%94)와 [한글로게임 PSP](https://www.hangulogame.com/platform/psp/)에 **제작자 크로스벤 v1.0·v1.01(2026-09-11), v1.03(09-15), v1.04·v1.05(09-16)** 등록 이력. 원 배포처 410 오류로 배포 파일·완역·지역판·전 엔딩/실기·에뮬 시험 불가. **🟡 한국어 대안 완성/실사용 검증 보류, 새 번역 활성 제외, 현행 한글화 A/B/C 미부여(과거 B)**로 PSP 기본 작품 평가 표에 1행 보존한다. PSP 보존 **69→70개**, 활성 **47개**, 💎 **5개**, A **3개** 유지. [전체 PSP 웹 리뷰](recommendations.md)의 기존 후보군 1행만 한국어 상태 정정, 총 130행과 점수·역사 순위·찜 키 불변. PSP 정식 발매사는 [GameFAQs ULJS-00019](https://gamefaqs.gamespot.com/psp/928060-school-rumble-anesan-jiken-desu/data)의 Bandai이며 PS2 별개의 Marvelous와 구별한다.
