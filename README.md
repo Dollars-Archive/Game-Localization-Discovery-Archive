@@ -13,13 +13,15 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 4 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 49 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 64 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 65 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 6 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
 > **2026-10-22 PSP 《학생회의 일존 Lv.2 PORTABLE》 B급 활성 복귀:** 기존 [PSP 평가 문서](platforms/psp/games/seitokai-no-ichizon-lv2-portable.md)의 **3.5/5·한글화 B급·별도 7.2/10**을 재검증하고 PSP 2013 오리지널 풀보이스 작품을 [PSP 기본 후보](platforms/psp/README.md)에 한 행 복귀시켰다. [Famitsu 29/40(4인)](https://www.famitsu.com/game/title/29154/reviews)의 만담·분기 호평과 반복·장면 스킵 약점, [GameFAQs Good·14표](https://gamefaqs.gamespot.com/psp/707417-seitokai-no-ichizon-lv-2-portable) 및 [Bangumi 6.5/10·24표](https://bangumi.tv/subject/70875)를 대조했다. [2015 중국어 간체 번역 기록](https://patch.ali213.net/hanhua/psp/)은 존재하지만 2026-10-22 공개 실사용 **한국어** 완역 패치는 확인하지 못했다. 기존 PSP 리뷰 동일 행만 후보군→기존 목록으로 이동하고 역사 점수·순위·찜 키 유지. **PSP 보존 62→63 / 활성 41→42 / 💎 5 / A 3**, 타 기종·Pages URL 유지.
+
+> **2026-10-22 PSP 《호시가리 엠푸사 포터블》 B급 활성 복귀:** 기존 [2009 PSP 상세 평가](platforms/psp/games/hoshigari-empusa-portable.md)의 **⭐⭐⭐½☆ 3.5/5·한글화 B급·잠정 리뷰 7.0/10**을 유지하고 [PSP 전체 작품 평가](platforms/psp/recommendations.md)의 한 행만 **후보군→기존 목록**으로 변경했습니다. [TAKUYO 공식 2009 PSP 발매](https://www.takuyo.co.jp/products/hoshigari/hoshigarips2/)·[유스풀 모드/PS2연동·성우 재녹음](https://mediaworld.co.jp/products/10210646001)을 검증하고, [PSP GameFAQs Good·14표](https://gamefaqs.gamespot.com/psp/924572-hoshigari-empusa-portable)와 [PS Deals 2.11/5·19표](https://psdeals.net/jp-store/game/56724/%E3%81%BB%E3%81%97%E3%81%8C%E3%82%8A%E3%82%A8%E3%83%B3%E3%83%97%E3%83%BC%E3%82%B5-portable)의 편차·장기 상세 후기가 **같은 PSP 작성자 1명**임을 구별했습니다. 2026-10-22 PSP·PC·PS2 공개 완성 한국어 대안 미발견. **PSP 보존 64→65 / 활성 43→44 / 💎 5·A 3 불변**. 리뷰 총 128행, 7.0점·공동 64위·역사 평가 원장·찜 키·다른 플랫폼·GitHub Pages 링크 보존.
 
 > **2026-10-22 PSP 《키사라기 골드★스타 -NONSTOP GO GO!!-》 활성 B급 복귀:** [기존 PSP 상세 평가](platforms/psp/games/kisaragi-gold-star-nonstop-go-go.md)의 **작품성 ⭐⭐⭐½☆ (3.5/5)·별도 7.2/10·B급** 유지, PSP 전체 작품 평가 기존 1행만 후보군→기존 목록으로 변경. [Famitsu PSP 29/40](https://www.famitsu.com/game/title/29412/reviews)과 [電撃オンライン 미카 신규 루트](https://dengekionline.com/elem/000/000/651/651409/)로 PSP 추가분 검증. 2026-10-22 PSP·PC 공개 완성 한국어판·한글패치 근거 미발견, PC Ver.1.01은 일본어 오류 수정, 2014년 중국어 간체는 한국어 대안이 아님. **PSP 보존 63→64 / 활성 42→43 / 💎 5·A급 3 불변**. 리뷰 총 128행·7.2점·원순위·찜 키 및 다른 플랫폼 기록·모든 Pages 바로가기 불변.
 
