@@ -13,12 +13,14 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 69 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 70 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-22 PSP 《스쿨럼블 언니 사건이에요!》 2026년 팬 한글패치 확인·작품 평가 보존:** [PSP 상세 평가](platforms/psp/games/school-rumble-anesan-jiken-desu.md) **⭐⭐⭐½☆ 3.5/5·별도 잠정 6.5/10** 유지. [RetroDB PSP #3485](https://retrodb.info/krpatch/3485/%EC%8A%A4%EC%BF%A8-%EB%9F%BC%EB%B8%94-%EC%96%B8%EB%8B%88-%EC%82%AC%EA%B1%B4%EC%9D%B4%EC%97%90%EC%9A%94)·[한글로게임](https://www.hangulogame.com/platform/psp/)에 제작자 **크로스벤 v1.0(2026-09-11)~v1.05(09-16) PSP 한국어 패치 5건** 확인. 배포처 410으로 완역/원파일·지원 UMD·엔딩/실행 미검증. [GameFAQs PSP 2005 KID·Bandai](https://gamefaqs.gamespot.com/psp/928060-school-rumble-anesan-jiken-desu/data), [GameFAQs 이용자 Great 24표](https://gamefaqs.gamespot.com/psp/928060-school-rumble-anesan-jiken-desu), [2005 PSP 로딩 문제 실플레이](https://onuchin.hatenablog.com/archive/2005/07)에서 판본·장단점을 검증. **🟡 새 번역 활성 제외·한국어 대안 검증 보류·현행 한글화 A/B/C 미부여(과거 B)**. PSP 기본 작품 평가에 1행 추가해 **보존 69→70 / 활성 47 / 💎 5 / A급 3**, 전체 PSP 리뷰는 기존 후보군 한 행만 한국어화 정정·130행 그대로, 6.5점·2026-10-08 역사 순위·현행 공동112위·찜 ID와 다른 기종·모든 GitHub Pages 링크 불변.
 
 > **2026-10-22 PSP 《스즈미야 하루히의 약속》 작품 평가·한글패치 이력 보존:** [2007 일본 PSP 상세 평가](platforms/psp/games/suzumiya-haruhi-no-yakusoku.md)를 **⭐⭐⭐½☆ 3.5/5·신규 자료 기반 7.3/10·역사 순위 미산정**으로 신규 보존. [GameFAQs 3.98/5·26명·27h/12명](https://gamefaqs.gamespot.com/psp/941608-suzumiya-haruhi-no-yakusoku/stats), [4Gamer PSP 독자 75/100·1명](https://m2.4gamer.net/games/066/G006629/index_userreview.html)의 표본과 실제 서술을 구별하고 S.O.S. 모션포트레이트·루프·풀보이스 장점과 장시간 로딩·선택/반복 약점을 기록했다. **팀 한글날 2010년 PSP 한글패치 배포는 [한글로게임 팀 목록](https://www.hangulogame.com/author/54/)과 [2010-10-20 게시글](https://miststreet.tistory.com/816)로 확인**, DB 배포일은 10월 9일·팀 연혁은 10월 17일로 불일치하며 완성/현행 파일·지원 ULJS·엔딩은 미검증이다. 따라서 **🟡 작품 평가만 PSP 기본 목록·전체 리뷰에 1행씩 등록, 새 번역 활성 후보 제외, 현행 A/B/C 미부여**. PSP 보존 **68→69 / 활성 47·💎 5·A 3 불변**, 리뷰 **129→130행**, 기존 모든 플랫폼 평가·찜 ID·Pages 진입 링크 유지. 2011 PSP 《추상》과 분리.
 
