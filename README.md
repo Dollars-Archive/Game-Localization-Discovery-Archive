@@ -13,12 +13,15 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 67 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 68 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-22 《수월 2 / 水月 弐》 PS3·PSP 판본별 별도 평가:** [2011 PS3 BLJM-60411](platforms/ps3/games/suigetsu-ni.md)은 **작품성 ⭐⭐⭐☆☆ 3.0/5·신규 정성 6.3/10·역사 순위 미산정**으로 시나리오 정합성·원본 완결성이 3.5 등록선 미달이어서 **PS3 [예비](platforms/ps3/reserve.md)에만 작품성 기록**했다. 반면 [2012 PSP ULJM-06062](platforms/psp/games/suigetsu-ni-portable.md)은 **⭐⭐⭐½☆ 3.5/5·별도 정성 7.0/10·활성 한글화 C급**으로 등록했다. [전격온라인 PSP 공식 추가요소](https://dengekionline.com/elem/000/000/482/482857/index-3.html)는 나고미 신규 공략 루트·CG·새 OP/편의 보강을 설명하며 [2018 PSP 완료 후기](https://blog.livedoor.jp/sketchbook2/archives/52110306.html)의 작은 글씨·반복 구간과 [2015 PS3 완료 평가](https://chulip.org/entry/2015/12/01/141708)의 예측 가능한 결말 비판을 비교했다. 후발 PC 《追憶》의 과거·진상 추가편 및 기존 **2008 PSP 《수월》 1편 활성 B급**을 본편 2편과 혼동하지 않는다. 2026-10-22 PSP·PS3·PC 동일 2편 공식 한국어/검증된 공개 완성 패치 미발견, 기술 난도 미확인. **PSP 보존 67→68 / 활성 46→47 / 💎 5·🔥 A 3**, PSP 전체 리뷰 **128→129** / **PS3 보존 61→62·예비 31→32·기본 선정 30·💎 4·A 0 유지**. 과거 리뷰 순위·찜 키·타 기종 후보·Pages 진입 URL 변동 없음.
+
 
 > **2026-10-22 PSP 《마리지 로얄 ～프리즘 스토리～》 활성 B급 복귀:** [기존 PSP 상세 평가](platforms/psp/games/marriage-royale-prism-story.md)의 **⭐⭐⭐½☆ 3.5/5·B급·잠정 별도 리뷰 6.5/10**을 유지하고 [PSP 전체 리뷰](platforms/psp/recommendations.md)의 예비 한 행만 **후보군→기존 목록**으로 갱신했다. [2010 PSP 공식](https://www.kadokawa.co.jp/product/game1645/)과 [2012 전격SP 재발매](https://www.kadokawa.co.jp/product/game1629/), [4Gamer 컬러 루트](https://www.4gamer.net/games/104/G010467/20100202051/)로 게임 구조를 확인했다. [Bangumi PSP 7.0/10·7표](https://bangumi.tv/subject/6964), [GAMEMAN 5.9/10·서술 리뷰0](https://www.gameman.jp/item/25316_m.html)의 표본 한계를 명시하고 2026-10-22 PSP 공식 한국어·완성 팬패치 공개 근거는 미발견했다. **PSP 보존 66→67 / 활성 45→46 / 💎 5·A급 3 유지**, 리뷰 128행·6.5점·역사/현행 순위·찜 키·다른 플랫폼·모든 Pages 링크 보존.
 
