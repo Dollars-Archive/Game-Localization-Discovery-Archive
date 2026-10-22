@@ -1,5 +1,7 @@
 # PS3 예비 기록
 
+> **2026-10-22 《해바라기의 교회와 긴 여름방학 -extra vacation-》 재검증:** 기존 3.5/5·PS3 개인추천 7.3/10·역사 27위 유지. [2026-07-13 PC 원작 손번역 v1.1 적용 기록](https://kone.gg/s/vndb/diWP99-tJoMPH354ElcjSb?mode=hot&p=1)은 있으나 실제 전 루트 완성도·현재 구동과 PS3 추가 루트 한국어 적용은 미확인. 🟡 한국어 대안 검증 보류, 현행 우선도 미부여(종전 B 보존). 예비 31개·PS3 기본 30개 불변.
+
 기본 화면에서 숨긴 **31개**입니다. 2026-10-08 당시 예비 25개에 2026-10-12 《WHITE ALBUM2》가 추가됐습니다. 2026-10-17 사용자 요청으로 《차륜의 나라, 해바라기의 소녀》는 **기본 선정 목록으로 이동**했고, 30개 기본 표시 한도 유지를 위해 기존 개인 34위 《XBLAZE Code: Embryo》는 본 예비로 이동했습니다. 원문 상세 문서·개인 점수·기존 역사 순위·찜 키는 모두 보존합니다.
 2026-10-17 《마브러브 photonmelodies♮》의 사용자 지정 PS3 기본 선정 요청을 반영하면서 **기존 개인 32위 《Koihime Enbu》를 예비로 이동**했습니다. 해당 작품의 점수 7.2/10·역사 순위 32위·C급 평가·상세 MD·찜 키는 그대로 보존하며, 실사용 번역 가능성을 임의로 바꾸지 않습니다.
 2026-10-17 《마브러브 얼터너티브: 토탈 이클립스》 PS3 정식판을 기본 목록으로 넣는 30개 한도 조정을 위해 개인 33위 《Dungeons & Dragons: Chronicles of Mystara》를 본 예비로 이동했습니다. 기존 작품성 4.0/5·개인 7.1/10·C급·찜 키·상세 내용은 모두 보존했습니다. 현황 총 59개 / 기본 30개 / 예비 29개.
@@ -10,7 +12,7 @@
 
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 PS3 한글패치 | 타 기종 / 다른 버전 | 상태 | 개인 추천점수 | 개인 순위 | 예비 사유 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| [Himawari no Kyoukai to Nagai Natsuyasumi: extra vacation (해바라기 교회와 긴 여름방학 -extra vacation-)](games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md) | 2013 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Fair·4명 / 원작 모에게임어워드 2013 BGM상 금상 / 장기 리뷰 4/5·80점대 | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | PC 원작 강화 이식 / 츠키코 신규 루트·시나리오 가필·신규 CG·ED / PSP 동시판 | 🟡 예비 후보 | 7.3 | 27 | 한국어 대안 범위·현행 배포 확인 보류 |
+| [Himawari no Kyoukai to Nagai Natsuyasumi: extra vacation (해바라기의 교회와 긴 여름방학 -extra vacation-)](games/himawari-no-kyoukai-to-nagai-natsuyasumi-extra-vacation.md) | 2013 | 연애 어드벤처 / 비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | 미부여 (종전 B) | GameFAQs Fair·4명 / 원작 모에게임어워드 2013 BGM상 금상 / 장기 리뷰 4/5·80점대 | 2026-07 PC 원작 손번역 v1.1 공개 기록 / PS3 완역 패치 미발견 / PC 전 루트·실행 검증 미완료 | PC 원작 강화 이식 / 츠키코 신규 루트·시나리오 가필·신규 CG·ED / PSP 동시판 | 🟡 한국어 대안 검증 보류 | 7.3 | 27 | PC 원작 한국어 패치 기록, 완역 범위·현재 이용 미검증 / 콘솔판 독자 츠키코 루트 존재 |
 | [Shutsugeki!! Otometachi no Senjou 2: Yuukoku o Kakeru Koujo no Tsubasa (출격! 소녀들의 전장 2: 우국을 나는 황녀의 날개)](games/shutsugeki-otometachi-no-senjou-2-yuukoku-o-kakeru-koujo-no-tsubasa.md) | 2012 | 미소녀 밀리터리 전략 시뮬레이션 + ADV | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 25/40 / GameFAQs Great·13명 / 플레이타임 49시간·9명 | 2026-10-07 공식 한국어판·공개 PS3 한글패치 확인 못함 / 국내 자료도 한국어 미지원 표기 | PSP판 확장·개선판 / 에스텔·영국 해방편·코스튬·파츠·맵 추가 / 예정 Vita판은 출시 취소 | 🟡 예비 후보 | 7.1 | 35 | 개인 추천 순위 경계 밖 |
 | [Touch, Shot! Love Application (터치, 하자! -Love Application-)](games/touch-shot-love-application.md) | 2012 | 연애 시뮬레이션 / 3D 연애 어드벤처 | ⭐⭐⭐½☆ 3.5/5 | B | Famitsu 29/40 / DPS 80·70·85·60 / GameFAQs Good·3명 | 2026-10-07 한국 정발 BLKS-20357도 일본어 / 공식 한국어·공개 PS3 한글패치 확인 못함 | PS3 독점 / 공식 영어판·후발 이식 확인 못함 / yPhone·Satori·3D Avatar Mode | 🟡 예비 후보 | 7.0 | 42 | 개인 추천 순위 경계 밖 |
 | [ToHeart2 DX PLUS (투하트2 DX PLUS)](games/toheart2-dx-plus.md) | 2011 | 연애 어드벤처 / 비주얼 노벨·확장 합본 | ⭐⭐⭐½☆ 3.5/5 | B | GameFAQs Great·17명 / 가격.com 4.0·1명 / 개인평 C | 2026-10-08 타 판본 한국어 패치 기록·단서의 범위/현행 배포 확인 보류 | ToHeart2+AnotherDays 합본 / PS3 전용 미오·신규 CG·리파인·MotionPortrait | 🟡 예비 후보 | 6.6 | 52 | 한국어 대안 범위·현행 배포 확인 보류 |
