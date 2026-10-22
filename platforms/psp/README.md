@@ -33,7 +33,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Bullet Butlers: Juudan no Kanata (불릿 버틀러스 ～총탄의 저편～)](games/bullet-butlers-juudan-no-kanata.md) | 2012 | 총·마법·집사 판타지 ADV | ⭐⭐⭐½☆ | B | PSP 완주 서술 1명·PC 서술 5명·판본 미명시 1명 / PSP GameFAQs Poor·10표 / VNDB 계열 통합 7.26/10·83표 (PSP만 아님) | 2026-10-17 PSP·PC·2023 합본 한국어 공식판·공개 완성 한글패치 확인 못함 / PC 2007 v1.02 업데이트는 한국어 패치 아님 | 2007 PC propeller 원작 → 2012 PSP ULJM-05941 CERO C 추가 에피소드·CG / 2012 ChronoBelt 트리플팩 / 2023 PC 원작 합본은 PSP 추가분 동일성 미확인 | 🟢 후보 |
 | [Dead End: Orchestral Manoeuvres in the Dead End (데드엔드)](games/dead-end-orchestral-manoeuvres-in-the-dead-end.md) | 2011 | 디지털 게임북·호러 ADV | ⭐⭐⭐½☆ | B | Famitsu28/40·4명 / 플레이 관련 본문7개 / Play-Asia5/5·5평가·본문0 | 2026-10-08 공개 한국어 대안 확인 못함 | PSP 원작 / 다운로드2011-12-01 / 현대 직접 이식 미확인 | 🟢 후보 |
 | [DUNAMIS15 (듀나미스15)](games/dunamis15.md) | 2012 | 서스펜스 픽션 ADV·SF 비주얼노벨 | ⭐⭐⭐½☆ | B | PSP GameFAQs 3.21/5·12표 / Bangumi 6.5/10·30표(판본 통합) / PS3 4Gamer 81/100·3건 / PSP 본문평 2명 | 2026-10-08 기준 공개적으로 확인되지 않음 | 2011 PS3·Xbox 360 원작 / 2012 PSP 추가 시나리오 2편·신규 CG / 2013 PSP DL판 / 직접 현대 이식 미확인 | 🟢 후보 |
-| [Gallery Fake (갤러리 페이크)](games/gallery-fake.md) | 2005 | 미술품 미스터리 ADV·추리 비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good·6표 / Amazon 4.4/5·9평가 / 개인 리뷰 5/10·1편 / 완주평은 이야기 호평·판정 안내 비판 | 2026-10-08 기준 공식·공개 PSP 한국어판·부분·기계번역·과거 배포 기록 확인 못함 / 중국어 완역 과거 이력 | PSP 원작·8장 중 대부분 게임 오리지널 / 직접 이식·확장·리메이크·타 기종 한국어 대안 확인 못함 | 🟢 후보 |
+| [Gallery Fake (갤러리 페이크)](games/gallery-fake.md) | 2005 | 미술품 미스터리 ADV·추리 비주얼 노벨 | ⭐⭐⭐½☆ | B | GameFAQs Good·6표 / PSP 완주 정성 1건 / 독립 장문 5/10·1건 / Amazon PSP 기존 기록 4.4/5·9표 (현행 별도 미검증) | 2026-10-22 PSP·동일 게임 다른 플랫폼 공개 완성 한국어판·팬패치 확인 안 됨 / 2009 중국어 간체 Ver.2.00과 한국어 구별 | 2005 PSP ULJS-00024 오리지널 7사건·8장 / 만화 기반 제3장 외 신규 이야기 / 직접 리마스터·후발 이식 확인 못함 | 🟢 후보 |
 | [Hoshizora Planet: One Small Step For... (호시조라 플래닛)](games/hoshizora-planet-one-small-step-for.md) | 2011 | 재회·학원 연애 ADV | ⭐⭐⭐½☆ | B | GameFAQs Fair·20표 / PSP 완료평2편·판본혼합회고1편 / Play-Asia5/5·5평가·본문1 | 2026-10-08 공개 한국어 대안 확인 못함 | PC 원작·夢箱과 PSP 수정/추가 구성 구분 / Best 기술 우월성 미검증 | 🟢 후보 |
 | [Ikki Tousen: Xross Impact (일기당천 크로스 임팩트)](games/ikki-tousen-xross-impact.md) | 2010 | 2D 벨트스크롤 액션 | ⭐⭐⭐½☆ (3.5/5) | B | GameFAQs 4.13/5·65표 / Famitsu 25/40·4인 / 4Gamer 70·글 1건 | 2026-10-08 공개적으로 확인되지 않음 | PSP Best·DL 재발매 / 직접 타 기종 이식 미확인 | 🟢 후보 유지 |
 | [L no Kisetsu: Double Pocket (L의 계절 더블 포켓)](games/l-no-kisetsu-double-pocket.md) | 2009 | 학원 판타지 노벨·연애 ADV | ⭐⭐⭐½☆ 3.5/5 | B | PSP 4Gamer 75/100 (독자 1건) / PS1 5.0/5 (3건)·PS2 4.4/5 (7건)는 원작 별도 참고 | 2026-10-22 기준 PSP·PS1·PS2 공식 한국어판·공개 완성 한글패치 미확인 / 한국어 공략은 번역 패치 아님 | PS 1편(1999)+PS2 2편(2008) 합본 / PSP 진행 편의 개선·1편 화면 상하 잘림 보고 / 현대 후발판 미확인 | 🟢 후보 |
@@ -365,3 +365,12 @@ PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/gam
 ## 2026-10-22 《L의 계절 더블 포켓》 기존 활성 후보 재검증
 
 [기존 상세 문서](games/l-no-kisetsu-double-pocket.md)의 **⭐⭐⭐½☆ 3.5/5 · B급** 및 [전체 PSP 작품 평가](recommendations.md)의 **7.1/10·현행 공동 52위**를 그대로 유지한다. [MAGES. 공식](https://game.mages.co.jp/product/283/)은 1999 PS1 1편과 2008 PS2 2편 합본임을, [4Gamer PSP 직접 이용자 평가](https://www.4gamer.net/games/097/G009741/index_userreview.html)는 75/100·1건임을 확인한다. [PSP 플레이 기록](https://kototone.blogspot.com/2010/02/?m=0)의 가독성 개선과 원작 4:3 화면 일부 잘림을 구별한다. 2026-10-22 PSP·PS1·PS2 공개 완성 한국어판·패치 미발견. 이미 활성 목록과 리뷰에 존재하므로 **중복 행 없이 동일 행의 한국어 확인일만 갱신**. PSP 보존 **65건 / 활성 44건 / 💎 5 / A급 3**, 리뷰 **128건** 및 기존 점수·순위·찜 식별자 불변.
+
+
+## 2026-10-22 《Gallery Fake》 PSP 한글화 후보 유지·외부 평가 재검증
+
+[2005년 PSP 일본 ULJS-00024 상세 평가](games/gallery-fake.md)는 기존 작품성 **⭐⭐⭐½☆ 3.5/5**·한글화 **B급 활성** 및 별도 역사 리뷰 **6.6/10**을 유지한다. PSP는 **8장 구성의 7개 사건(7~8장 전·후편)**이고 [직접 완주 PSP 후기](https://psp.raigetsuki.com/review/galleryfake/)는 3장만 원작 기반이며 다른 6개 사건이 게임 오리지널이라고 기록한다. [PSP BREAK A FAKE 공략](https://psp.raigetsuki.com/strategy/galleryfake-1/)과 [비판적 본문 5/10의 PSP 독립 장문평](https://ameblo.jp/adoventure-kenkyu/entry-10158565413.html?frm=theme)을 대조해 오답 누적·판정 안내의 불균일성·저장 편의 부족을 장점인 대화·미술 소재·진행 템포와 분리했다. **4.0점으로 상향할 근거는 없음.**
+
+**2026-10-22 현재** 공식 한국어판 및 실사용 공개 완성 한국어 패치는 PSP·동일 게임의 다른 판본에서 확인되지 않았다. [중국어 간체 Ver.2.00 작업·2009 배포 이력](https://patch.ali213.net/showpatch/116581.html)은 있지만 현재 해당 배포 페이지에서는 다운로드를 제공하지 않으며 한국어 대안이 아니다. 해당 중국어 자료로 한글 재삽입 기술 난도를 추정하지 않고 **미확인** 유지. 기존 [PSP 전체 리뷰표](recommendations.md)의 동일 게임 한 행만 최신 조사일로 갱신하되 기존 **6.6/10·역사 순위·찜 식별자** 변경 없음.
+
+**PSP 보존 65개 / 활성 44개 / 💎 5개 / A 3개 / 전체 리뷰 128행** 그대로. 타 플랫폼·기존 Pages URL·다른 작품의 상세 평가를 수정하지 않았다.
