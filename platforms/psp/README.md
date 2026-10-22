@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **68개** / 활성 후보: **47개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **69개** / 활성 후보: **47개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -87,6 +87,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Mashiroiro Symphony: *mutsu-no-hana (새하얀 색 심포니: 무츠노하나)](games/mashiroiro-symphony-mutsu-no-hana.md) | 2011 | 학원통합·겨울 첫사랑·6히로인 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PSP 7.7/10·636명 / GameFAQs PSP Good·18표·평균 21h(10명) / PSP 전 루트 후기 2명 / Famitsu·4Gamer PSP 평론 미집계 | 2026-08 PSP 한글패치 공개 이력 / RetroDB 제작자 요청 게시중단 / PPSSPP 실행 1명 제보·Vita Adrenaline 실행 오류 1명 / 6루트 완역·현행 실행 미검증 | 2009 PC 4루트 → 2011 PSP 사나·유츠키 신규 6루트 / 2023·24 FHD 본편 4루트+독립 SANA / PSP 유츠키는 후발판 미수록 | 🟡 PSP 한국어 대안 검증 보류·활성 후보 제외 |
 | [Brave Story: New Traveler (브레이브 스토리: 새로운 여행자)](games/brave-story-new-traveler.md) | 2006 | 성장 판타지·3D 정통 턴제 JRPG | ⭐⭐⭐⭐☆ 4.0/5 | 보류 | Metacritic PSP 76/100·30평론 / RPGFan PSP 86/100 / GameSpot PSP 6.5/10 / GameFAQs PSP 3.81/5·529명 | 2026-08-17 신선짱 PSP v0.91 공개(08-16 v0.9) / 제작자 원본 접근 제한·지원 지역판·완역·실기·엔딩 검증 미완 | 2006 일본 UCJS-10024·아시아 UCAS-40096 → 2007 북미 XSEED 공식 영어 ULUS-10279 / PS2 와타루의 모험은 다른 액션게임 | 🟡 공개 한글패치 v0.91 확인·번역 범위/호환 검증 보류 |
 | [Princess Evangile PORTABLE (프린세스 에반젤 포터블 / 프린세스 에반질 Portable)](games/princess-evangile-portable.md) | 2012 | 여학교 공학화·26화 장편 학원 연애 비주얼 노벨·4히로인 | ⭐⭐⭐½☆ 3.5/5 | 미부여 (과거 C) | PSP GF Good·18명 / PSP Gamer 2012 중반 실플레이 1인 / Play-Asia PSP 5/5·5표·서술 1건 / Steam 영어 PC 본편 92%·138명은 타 판본 참고 | 2026-10-17 PSP ULJM-06036 자체 한국어판·검증된 공개 완역 패치 미발견 / 2015-10-13 MOONSTONE 공식 한국어 Android 본편 발매 확인 / 2016 한국어 W Happiness 모바일판 / 현재 신규 판매중단 보고 | 2011 PC 4히로인 본편 → 2012 PSP CG·신규 OP·UI 추가 / 2015 일본 Android Portable에서 PSP 추가 CG 고해상도 수록 / 2015 한국어 i-play 앱과 CG 동일성 미검증 | 🟡 사용자 지정 PSP 기본 작품 평가·공식 한국어 모바일판 이력·신규 한글화 활성 제외 |
+| [Suzumiya Haruhi no Yakusoku (스즈미야 하루히의 약속)](games/suzumiya-haruhi-no-yakusoku.md) | 2007 | 북고제 문화제 전야·시간 루프·대화 ADV·미스터리 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | PSP GameFAQs 3.98/5·26명·27h/12명 / 4Gamer 독자 75/100·1명 / Famitsu 매체 점수 미집계 | 팀 한글날 PSP 한글패치 **2010-10 공개** / 한글로게임 10-09·다른 자료 10-17 / 완역·파일·적용판·현행 실기 미검증 | 2007 PSP 일반 ULJS-00124·프리미엄 ULJS-00123 / 2008 Best ULJS-19023 / PSP·PS3 2011 《추상》은 별도 게임 | 🟡 PSP 한국어 패치 공개 확인·완역/실사용 검증 보류·신규 한글화 활성 제외 |
 
 ## 발굴 상태 기준
 
@@ -388,3 +389,9 @@ PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/gam
 [2012 PSP 《水月 弐 ～Portable～》 신규 상세 평가](games/suigetsu-ni-portable.md)는 **⭐⭐⭐½☆ 3.5/5·별도 신규 편집 7.0/10(역사 순위 미산정)·활성 C급**이다. [전격온라인 공식 2012 PSP 기사](https://dengekionline.com/elem/000/000/482/482857/index-3.html)는 2011 PS3의 기본 시나리오에 없는 **나고미 공략 루트·CG·OP·편의 기능** 추가를 확인한다. [PSP 완료 후기](https://blog.livedoor.jp/sketchbook2/archives/52110306.html)는 작은 글자·루트 반복의 단점을 지적하며, 2012 PC 《追憶》의 추가 과거·진상편은 PSP판에 소급하지 않는다.
 
 2026-10-22 PSP·PS3·PC 동일 수월 2 작품에 실사용 공개 완성 한국어판·패치 미발견. 기술 난도는 게임 파일 미분석으로 **미확인**. **PSP 보존 67→68 / 활성 46→47 / 💎 5 / A 3**이며 신규 상세·[PSP 전체 평가](recommendations.md) 각각 한 행만 생성한다. 기존 [2008 《수월》 1편 PSP B급 상세](games/suigetsu-portable.md) 및 역사 10점 점수·순위·찜 ID와 다른 작품·기종은 그대로 보존.
+
+## 2026-10-22 《Suzumiya Haruhi no Yakusoku / 스즈미야 하루히의 약속》 PSP 한국어 패치 공개 평가 보존
+
+[2007 PSP 상세 작품 평가](games/suzumiya-haruhi-no-yakusoku.md)는 작품성 **⭐⭐⭐½☆ 3.5/5 · 새 별도 자료 기반 7.3/10(역사 순위 미산정)**으로 기록했다. [애니 공식 2007-12-27 발매일](https://www.haruhi.tv/fanclub/goods_etc_game.html), [CESA 2007 Future상·Guysware 개발](https://awards.cesa.or.jp/2007/future_04.html), [GameFAQs PSP 3.98/5·26명·27h/12명](https://gamefaqs.gamespot.com/psp/941608-suzumiya-haruhi-no-yakusoku/stats), [4Gamer PSP 독자 75/100·1명](https://m2.4gamer.net/games/066/G006629/index_userreview.html)의 호평·로딩·반복 비판을 구분했다.
+
+**2010년 팀 한글날 한글패치 공개 확인:** [한글로게임 제작자 목록](https://www.hangulogame.com/author/54/)은 PSP 작품명을 '스즈키 하루히의 약속'으로 잘못 적고 배포일 **2010-10-09**, [팀 연혁/작품 소개](https://seore.org/w/%EC%8A%A4%EC%A6%88%EB%AF%B8%EC%95%BC%20%ED%95%98%EB%A3%A8%ED%9E%88%EC%9D%98%20%EC%95%BD%EC%86%8D)는 2010-10-17이며 [2010-10-20 당시 게시글](https://miststreet.tistory.com/816)이 공개를 뒷받침한다. 정확한 첫 배포일·원본 파일·대사/미니게임·전 엔딩 번역 완성·지원 UMD 및 PPSSPP 실사용은 검증하지 못했다. 따라서 **🟡 기존 한글패치 공개·완성/실사용 검증 보류**, 새로운 한국어 번역 **활성 후보 제외/A·B·C 미부여**. 기본 PSP 작품 평가에는 1행만 추가했다. **PSP 보존 68→69, 활성 47 / 💎 5 / 🔥 A 3 유지**, 웹 PSP 리뷰 129→130행. 2011년 다른 《스즈미야 하루히의 추상》과 혼동하지 않으며 기존 역사 평가·찜 식별자 및 Pages URL 미변경.
