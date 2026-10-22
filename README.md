@@ -13,12 +13,14 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 66 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 67 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-22 PSP 《마리지 로얄 ～프리즘 스토리～》 활성 B급 복귀:** [기존 PSP 상세 평가](platforms/psp/games/marriage-royale-prism-story.md)의 **⭐⭐⭐½☆ 3.5/5·B급·잠정 별도 리뷰 6.5/10**을 유지하고 [PSP 전체 리뷰](platforms/psp/recommendations.md)의 예비 한 행만 **후보군→기존 목록**으로 갱신했다. [2010 PSP 공식](https://www.kadokawa.co.jp/product/game1645/)과 [2012 전격SP 재발매](https://www.kadokawa.co.jp/product/game1629/), [4Gamer 컬러 루트](https://www.4gamer.net/games/104/G010467/20100202051/)로 게임 구조를 확인했다. [Bangumi PSP 7.0/10·7표](https://bangumi.tv/subject/6964), [GAMEMAN 5.9/10·서술 리뷰0](https://www.gameman.jp/item/25316_m.html)의 표본 한계를 명시하고 2026-10-22 PSP 공식 한국어·완성 팬패치 공개 근거는 미발견했다. **PSP 보존 66→67 / 활성 45→46 / 💎 5·A급 3 유지**, 리뷰 128행·6.5점·역사/현행 순위·찜 키·다른 플랫폼·모든 Pages 링크 보존.
 
 > **2026-10-22 DS 《노스탤지오의 바람 / Nostalgia》 작품 평가 등록·기존 한글패치 발견:** [2008 Nintendo DS 상세 평가](platforms/ds/games/nostalgia-nostalgeo-no-kaze.md)에 **⭐⭐⭐½☆ 3.5/5·신규 별도 7.5/10(역사 순위 미산정)** 기록. [2008 Nintendo 일본판 공식](https://www.nintendo.co.jp/ds/software/cjkj/index.html), [Famitsu DS 30/40](https://www.famitsu.com/game/title/4301/reviews), [Metacritic DS 72/100·36매체](https://www.metacritic.com/game/nostalgia-2009/critic-reviews/?platform=ds), [GameFAQs 3.72/5·389표](https://gamefaqs.gamespot.com/ds/950323-nostalgia/stats)로 작품성을 평가했다. [RetroDB 한글패치 #5800](https://retrodb.info/krpatch/5800/%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%98%A4%EC%9D%98-%EB%B0%94%EB%9E%8C)에 **흐음 제작 NDS v0.8(2026-10-11)·v0.81(2026-10-14) 공개 이력**이 있다. 원 배포 링크 접근 410으로 지원 ROM·완역·실기/엔딩은 미검증. **🟡 패치 존재·완성/실사용 검증 보류, 신규 한글화 활성 제외·우선도 A/B/C 미부여**로 DS 기본 작품 평가와 전체 리뷰에 1행씩 등록. DS 실제 상세 목록은 현재 **9건**, 활성 번역 **2건 유지**. 루트의 DS 종전 **8개** 표기는 실제 DS 기본 목록과 일치하도록 **9개**로 동기화했다. 다른 기종의 수치·역사 평가/순위·찜 ID 및 Pages 링크 무변경.
 
