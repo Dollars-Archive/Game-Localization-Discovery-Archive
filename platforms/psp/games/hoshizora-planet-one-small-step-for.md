@@ -1,5 +1,16 @@
 # Hoshizora Planet: One Small Step For... (호시조라 플래닛)
 
+## 2026-10-22 판본·외부 평가·한국어 상태 재검증
+
+- **등록 상태:** 기존 PSP 활성 **B급** 기록 유지. 공식 작품성 **⭐⭐⭐½☆ 3.5/5**, 별도 **잠정 작품 리뷰 7.0/10·역사 공동 64위**를 보존한다. 다른 게임, 사용자 찜 식별자, 역사적 점수·순위는 변경하지 않는다.
+- **2011 PSP 리메이크/확장판:** 2000년 PC 원작의 작가 **山田一(야마다 하지메)**가 기존 시나리오를 리라이트하고 원작에서 미수록된 이야기를 **신규 루트**로 추가했다. 이벤트 CG 신작화, 영상·보이스 수정도 확인됨. 단순 이식이 아니라 실제 내용이 달라진 판본이다. [GAME Watch 당시 상세](https://game.watch.impress.co.jp/docs/news/412723.html) · [4Gamer 공식 발표](https://www.4gamer.net/games/125/G012551/20101208082/) · [전격온라인](https://dengekionline.com/elem/000/000/327/327279/).
+- **발매 판본:** **2011-03-10 일반판 ULJM-05845** / **2012-04-26 BEST HIT セレクション ULJM-06059**. 후자는 재판매 제품임이 확인되지만 버그 수정·스크립트/음성 차이·세이브 호환성은 비교 검증되지 않음. [일반판 제품코드](https://www.suruga-ya.jp/product/detail/177002041) · [2012 Best 제품코드](https://solarisjapan.com/en-fr/products/hoshizora-planet-one-small-step-for-best-hit-selection).
+- **실제 완료 후기의 공통점:** 2021 PSP 전 루트 완료평(약 25시간)은 가독성·재회 드라마·음악을 높이 평가하면서도 개별 루트 진입 조건을 까다롭다고 설명한다. 2019 PSP 완료평(20시간 미만)은 읽기 좋은 문장을 인정하되 이야기 설득력·캐릭터 그림·엔딩 스킵의 제약을 비판한다. 후기 2명으로 전체 플레이어 합의라고 일반화하지 않는다. [2021 PSP 후기](https://koshinori.hatenablog.com/entry/2021/09/16/202539) · [2019 PSP 후기](https://blog.livedoor.jp/sketchbook2/archives/52132990.html).
+- **외부 평점의 해석:** GameFAQs PSP **Fair·20표**, 한정판 Play-Asia **5/5·5개 평가(본문 1건)**는 판본·표본·내용의 차이를 분리한다. Famitsu PSP 제품 페이지에 평균 '-'로 표시되어 점수를 추정하지 않는다. 유통·홍보 문구의 '명작'과 직접 실플레이 독립 평가를 동일한 근거로 취급하지 않는다.
+- **2026-10-22 한국어 대안 조사:** `星空☆ぷらねっと`, `星空ぷらねっと ～夢箱～`, `one small step for...`, `호시조라 플래닛`, `호시조라☆플래닛`, `별하늘 플래닛`의 공식 한국어판·한글패치·번역 기록을 PSP 일반판·Best·PC 원작·夢箱에 걸쳐 조사했으나 **공개된 실사용 한국어 대안은 확인되지 않음**. 공개 검색의 미발견으로 비공개 프로젝트의 절대 부재를 단정하지 않는다.
+- **후발판 관계:** 원작 PC와 夢箱은 PSP의 수정/신규 루트를 자동 포함하지 않는다. PSP에서 추가된 대사를 번역 대상으로 삼는 가치가 있으며 현재 확실한 플레이 판본은 2011 PSP 일반판이다. 2012 Best 기술적 우월성은 미검증.
+- **최종 판단:** 회상·꿈·관계 묘사의 장점과 편차 있는 개별 시나리오·재진행 부담을 종합해 **3.5/5 / 한글화 B** 유지. 기술 난도는 실제 PSP 리소스의 추출·재삽입·폰트/분기 검증을 하지 않았으므로 **미확인**이다.
+
 ## 2026-10-08 리뷰 근거 기반 작품 평가
 
 - 작품 평가: **잠정 7.0/10 · 공동 60위**
@@ -8,7 +19,7 @@
 - 문장이 읽기 쉬우며 인물·설명 설득력에는 완료자 간 이견; 메시지 진행은 편하지만 선택 조건·재진행 부담. 일부 반복 연출을 건너뛰기 어려움.
 - 자료 한계: 대상 PSP판의 충분한 독립 서술 본문이 부족하거나 원작 공통 내용에 근거를 전이한 잠정 평가. 불확실성을 점수 감점으로 바꾸지 않으며 0.5점 단위만 사용.
 
-[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#hoshizora-planet-one-small-step-for). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 후보군 표시는 활성 등록으로의 복귀가 아닙니다.
+[원평점·표본 수·판본·확인일·정성 판단](../reassessments/2026-10-08-review-assessments.md#hoshizora-planet-one-small-step-for). 공개 리뷰 근거를 종합한 판단이며 완전히 객관적인 지표나 직접 플레이 평가는 아닙니다. 이 작품은 PSP 활성 B급으로 이미 등재되어 있으며 2026-10-22 재검증에서도 작품성·순위·우선도는 유지되었습니다.
 
 
 > 원제: 星空☆ぷらねっと one small step for...  
@@ -17,13 +28,13 @@
 
 ## 대표 스크린샷
 
-직접 픽셀을 확인한 실제 PSP 대화 두 장과 설정 화면 한 장이다. 모두480×272 자료이며 관계 진전 CG와 판본 불명 홍보 그림은 제외했다.
+실제 PSP판의 대화 장면 두 장(480×272)과 4Gamer에서 PSP 원본으로 식별한 개별 게임 화면 한 장이다. 첫 두 장은 원본 이미지를 연결하고, 셋째는 개별 갤러리 페이지로 연결했다. 다른 플랫폼 홍보 일러스트로 대체하지 않는다.
 
 [![교실 일상 대화](https://www.4gamer.net/games/125/G012551/20101208082/SS/011.jpg)](https://www.4gamer.net/games/125/G012551/20101208082/screenshot.html?num=011)
 
 [![학교 밖 일상 대화](https://www.4gamer.net/games/125/G012551/20101208082/SS/009.jpg)](https://www.4gamer.net/games/125/G012551/20101208082/screenshot.html?num=009)
 
-[![메시지 설정](https://cdn.mobygames.com/screenshots/2371113-hoshizora-planet-one-small-step-for-psp-game-settings.jpg)](https://www.mobygames.com/game/62830/hoshizora-planet-one-small-step-for/screenshots/psp/814004/)
+[PSP 실제 게임 화면 3: 4Gamer No.010 (개별 이미지 갤러리)](https://www.4gamer.net/games/125/G012551/20101208082/screenshot.html?num=010)
 
 
 ## 한눈에 보기
@@ -36,7 +47,7 @@
 | 플랫폼 / 발매 | PSP / 일본2011-03-10 |
 | 개발·권리 | GameFAQs 개발 표기는 Contents Traffic. 당시1차 발표에서 확정되는 역할은 원작 권리자이며 원본 개발 크레디트 미확인 |
 | 발매사 | CyberFront |
-| 제품 코드 | 일반판ULJM-05845 |
+| 제품 코드 | 2011 일반판 ULJM-05845 / 2012 Best Hit Selection ULJM-06059 (동일성·수정 여부 미분석) |
 | 시나리오 | 야마다 하지메. PSP 수정·추가 작업을 당시 발표로 확인 |
 | 장르 / 원문 | 재회·학원 연애ADV / 일본어 |
 | 등급 | CERO B·12세 이상 |
@@ -55,7 +66,7 @@
 
 주별 행동과 대화 선택지를 고르며 읽는 방식이다. [GAME Watch](https://game.watch.impress.co.jp/docs/news/412723.html)는 주별 행동 결정 구조를 명시하므로 일반 선택형 소설이라는 설명만으로는 부족하다.
 
-PSP판은 원작자가 관여한 수정·추가 구성을 포함한다. 추가 사실과 실제 품질 개선은 구분한다. 일반 메시지 진행·스킵과 반복해서 보는 연출의 스킵도 같은 기능이 아니다.
+PSP판은 원작자 야마다 하지메가 기존 각본을 수정하고 **미수록 이야기를 신규 루트로 추가**한 리메이크 성격의 강화 이식이다. 신규 이벤트 CG·영상과 음성 연출도 추가·수정됐다. 새 루트가 있다는 사실과 모든 개별 루트의 품질이 높다는 평가는 구별한다. 일반 메시지 진행·스킵과 반복해서 보는 연출의 스킵도 같은 기능이 아니다.
 
 ## 왜 발굴할 만한가
 
@@ -104,7 +115,7 @@ PSP 완료평2편과 판본 혼합 회고1편을 구분했다. PSP1편은 검색
 
 ## 한국어화 상태
 
-2026-10-08 기준 PSP 공식 한국어판·공개 완역 패치·확인 가능한 진행 프로젝트를 찾지 못했다. PC원작과夢箱, 동일 작품 후발판의 실행 가능한 한국어 대안이나 신뢰할 부분·기계번역 배포 기록도 미확인이다.
+2026-10-22 기준 PSP 일반판·Best의 공식 한국어판, 공개 완성 한글패치·실사용 가능한 진행 프로젝트를 확인하지 못했다. 2000 PC 원작과 2003 夢箱까지 같은 작품의 한국어 대안을 별도로 조사했으나 검증 가능한 공개 완성 한국어판·패치 기록을 확인하지 못했다. PC원작과夢箱, 동일 작품 후발판의 실행 가능한 한국어 대안이나 신뢰할 부분·기계번역 배포 기록도 미확인이다.
 
 일본어 원제, Hoshizora Planet, 호시조라 플래닛·별하늘 플래닛에 한글·한국어·패치·번역·Korean patch를 결합했다. 《별하늘의 메모리아》《플라네타리안》은 다른 작품이다. 공개 검색 결과이지 비공개 작업이 없다는 보장은 아니다.
 
@@ -113,7 +124,7 @@ PSP 완료평2편과 판본 혼합 회고1편을 구분했다. PSP1편은 검색
 - 2000Windows: D.O. 원작.
 - 2003Windows夢箱: 음성·그림 변경이 있는 원작 계열. [당시 개인 감상](https://lendl55.gozaru.jp/dream_main.htm)은 PSP 평가와 분리한다.
 - 2011PSP: 원작자 리라이트·추가 시나리오·새CG·음성·영상 변경을 [발표](https://dengekionline.com/elem/000/000/327/327279/)로 확인.
-- 2012PSP Best Hit Selection: 재판매 판본. 새 콘텐츠 또는 안정성 우위를 검증하지 못했다.
+- 2012-04-26 PSP Best Hit Selection (ULJM-06059): 재판매 판본. 새 콘텐츠·안정성 우위 또는 2011 일반판과의 파일 동일성은 검증하지 못했다.
 - 현대 직접 이식: 공개 조사 범위에서 미확인. PC 판매 기록만으로 PSP 추가 구성 수록을 주장하지 않는다.
 
 ## 플랫폼별 추가·삭제 콘텐츠
@@ -162,8 +173,8 @@ PC夢箱은 원작 계열 감상 대안이며 PSP의 모든 내용을 대신하�
 
 ## 최종 판정
 
-**3.5/5·B·후보 유지.** PSP 후기 일부는 검색 색인 열람이며 판본별 바이너리와 실행 검수는 미확인이다.
+**3.5/5·B·PSP 활성 후보 유지 (2026-10-22 재검증).** 2019년 후기 일부는 검색 색인으로 확인했으며 판본별 바이너리·한글화 파일·엔딩 구동 검수는 미확인이다. 상세 변경은 등재 자료와 확인일의 보강이며 기존 7.0/10·역사 순위와 찜 키는 바꾸지 않는다.
 
 ## 참고 자료
 
-[PSP 발표·권리](https://www.4gamer.net/games/125/G012551/20101208082/), [시스템](https://game.watch.impress.co.jp/docs/news/412723.html), [PSP 긍정 완료평](https://koshinori.hatenablog.com/entry/2021/09/16/202539), [비판적 완료평](https://blog.livedoor.jp/sketchbook2/archives/52132990.html), [판본 혼합 회고](https://note.com/reukansa/n/n3541292d6308), [PSP 통계](https://gamefaqs.gamespot.com/psp/615379-hoshizora-planet-one-small-step-for), [Best 상품](https://www.play-asia.com/en/hoshizora-planet-one-small-step-for-best-hit-selection/13/704ldn).
+[PSP 발표·권리](https://www.4gamer.net/games/125/G012551/20101208082/), [시스템](https://game.watch.impress.co.jp/docs/news/412723.html), [PSP 긍정 완료평](https://koshinori.hatenablog.com/entry/2021/09/16/202539), [비판적 완료평](https://blog.livedoor.jp/sketchbook2/archives/52132990.html), [판본 혼합 회고](https://note.com/reukansa/n/n3541292d6308), [PSP 통계](https://gamefaqs.gamespot.com/psp/615379-hoshizora-planet-one-small-step-for), [Best 상품](https://www.play-asia.com/en/hoshizora-planet-one-small-step-for-best-hit-selection/13/704ldn), [2012-04-26 Best ULJM-06059](https://solarisjapan.com/en-fr/products/hoshizora-planet-one-small-step-for-best-hit-selection), [PC 원작·PSP판 구별](https://www.mobygames.com/game/62830/hoshizora-planet-one-small-step-for/).
