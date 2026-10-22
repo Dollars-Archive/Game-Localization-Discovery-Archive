@@ -2,7 +2,7 @@
 
 **Nintendo DS 실발매 게임**의 작품성·한국어 접근성·판본 고유 기능을 확인하고 한글화 후보를 평가하는 아카이브입니다.
 
-> 조사 기준: **2026-10-22 KST** / 보존 기록 **8개** / 활성 한글화 후보 **2개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **2개** / C급 **0개**
+> 조사 기준: **2026-10-22 KST** / 보존 기록 **9개** / 활성 한글화 후보 **2개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **2개** / C급 **0개**
 >
 > 신규 **한글화 활성 후보** 등록 기준은 작품성 **3.5/5 이상**입니다. 웹 기본 작품 평가에는 **🔴 기준 미달 검토 기록**이나 🟡 검증 보류가 함께 표시될 수 있지만, 이는 활성 번역 후보 승인이 아닙니다. 별점·10점 리뷰 평가·우선도는 별개이며 게임 파일 미분석 시 기술 난이도는 미확인으로 유지합니다.
 
@@ -20,6 +20,7 @@
 | [Another Time Another Leaf: Kagami no Naka no Tantei (어나더 타임 어나더 리프: 거울 속의 탐정)](games/another-time-another-leaf-kagami-no-naka-no-tantei.md) | 2009 | 거울 속 또 다른 자아·시간 이동·터치 단서 추리 ADV | ⭐⭐⭐☆☆ 3.0/5 | 미부여 | Famitsu DS 29/40·4인 / Bangumi DS 5.4/10·19명 / 2009 일본 약 10h 첫 완료 1인 / 영어 2~3h 중단 평가 1인 | 2026-10-17 일본 DS NTR-CMZJ 한국어 공식판·검증된 공개 완역 패치 확인 못함 / 비공개 패치 부재 단정 불가 | 2009 Killaware 개발·Arc System Works 일본 DS 오리지널 NTR-CMZJ / 2008 LUX-PAIN은 개발팀 공통의 별개 게임 / 본작 정식 후발 이식 미확인 | 🔴 작품성 3.5 등록선 미달·DS 기본 평가 검토 기록·신규 한글화 활성 제외 |
 | [Golden Sun: Dark Dawn (황금의 태양: 칠흑의 새벽)](games/golden-sun-dark-dawn.md) | 2010 | 원소 퍼즐·진 수집/직업 조합·턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 33/40·4명 / Metacritic DS 79/100·63매체 / RPGFan 86/100·1명 / GameSpot 7.5/10 / Nintendo Life 8/10 / GameFAQs 3.95/5·2181명 | 2026-10-17 DS Dansic 팬패치 v0.8.1 RetroDB 공개 기록·v0.8 10/14 공개 / 완역·ROM 지역판·실기 검증 미확인 / 공식 한국어판 미확인 | 2010 일본 DS NTR-B05J / 북미·유럽 영어 DS 동시대 현지화 / 2001·2002 GBA 1·2편의 30년 후 정식 후속작·리메이크 아님 / DS 후발 정식 이식 미확인 | 🟡 DS 공개 유저 한국어패치 v0.8.1 존재·완역/실사용 검증 보류·신규 한글화 활성 제외 |
 | [Rondo of Swords / Itsuwari no Rondo (거짓의 윤무곡 / 이츠와리노 론도)](games/rondo-of-swords-itsuwari-no-rondo.md) | 2007 / 한국 2008 | 이동 경로 공격·고난도 분기형 판타지 턴제 SRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | DS Metacritic 69/100·13매체 / GameFAQs Good·241표·33h/62명 / NWR 8/10 / RPGamer 4/5 / WorthPlaying 6.7/10 | **2008-02-21 《거짓의 윤무곡》 국내 정식 완전 한글화 발매 확정** / 2008-01-18 유통사 번역완료 확인 / 공개 패치 신규 제작 불필요 | 2007 일본 《偽りの輪舞曲》 → 2008-02-21 한국 《거짓의 윤무곡》 정식 한국어판 → 2008-04-15 북미 《Rondo of Swords》 영어판 / 동일 DS 본편 | 🟡 공식 한국어판 존재·신규 한글화 활성 제외·작품 평가 보존 |
+| [Nostalgia / Nostalgeo no Kaze (노스탤지오의 바람)](games/nostalgia-nostalgeo-no-kaze.md) | 2008 | 19세기 비행선·세계 탐험·지상/공중 턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | DS Famitsu 30/40·4명 / Metacritic 72/100·36매체 / GameFAQs 3.72/5·389명 / Nintendo Life 9/10 / GameSpot 6/10 | 흐음 제작 NDS 한국어 v0.81 2026-10-14 배포 기록·v0.8 10-11 / 원 배포처 410·완역·지원 지역판·실기/엔딩 미검증 | 일본 DS 2008 NTR-CJKJ / 미국 DS 2009 NTR-CJKE 공식 영어판 / 현대 정식 직접 이식 미확인 | 🟡 NDS 팬 한글패치 v0.81 공개·완역/실사용 검증 보류·신규 번역 활성 제외 |
 
 ## 2026-10-17 《황금의 태양: 칠흑의 새벽》 DS 작품 평가와 유저패치 기록
 
@@ -76,3 +77,7 @@ DS **보존/기본 표시 4→5개**, **활성 한글화 후보 1·활성 💎 0
 [2008 게임동아 한국어판 실제 대화 화면](https://game.donga.com/media/gamedonga/media/images/portable_images_r/rondo080711_06_small.jpg) · [전투 화면](https://game.donga.com/media/gamedonga/media/images/portable_images_r/rondo080711_07_small.jpg) · [상태 화면](https://game.donga.com/media/gamedonga/media/images/portable_images_r/rondo080711_09_small.jpg) 세 장은 한국 정식판 원본 DS 촬영 자료이고, 게임 이미지는 GitHub에 복제하지 않았다.
 
 **한국어 접근성이 이미 존재하므로 신규 한글화 프로젝트 활성 대상 제외 · 우선도 미부여.** 작품 평가 검색·찜 기능을 위해 DS 기본 목록의 비활성 평가 1행만 추가한다. **DS 보존 7→8개 / 활성 후보 2개(B 2·A 0·C 0) / 💎 0**, 기존 DS 7건의 평가·순위·찜 식별자, 다른 플랫폼과 Pages 링크·사이트 코드는 불변이다.
+
+## 2026-10-22 《Nostalgia / 노스탤지오의 바람》 DS 한글패치 v0.81 발견·작품 평가 보존
+
+[2008년 Nintendo DS 상세 분석](games/nostalgia-nostalgeo-no-kaze.md)을 **작품성 ⭐⭐⭐½☆ 3.5/5·새 자료 기반 리뷰 7.5/10(역사 순위 미산정)**으로 등록했다. [일본 닌텐도 공식 2008-11-06](https://www.nintendo.co.jp/ds/software/cjkj/index.html), [Famitsu DS 30/40·4명](https://www.famitsu.com/game/title/4301/reviews), [Metacritic DS 72/100·36매체](https://www.metacritic.com/game/nostalgia-2009/critic-reviews/?platform=ds)와 [GameFAQs DS 3.72/5·389표](https://gamefaqs.gamespot.com/ds/950323-nostalgia/stats)를 대조해 비행선·세계 탐험·전투의 장점과 왕도 스토리·지상전 반복의 약점을 평가했다. [RetroDB #5800](https://retrodb.info/krpatch/5800/%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%98%A4%EC%9D%98-%EB%B0%94%EB%9E%8C)에서는 제작자 흐음의 **2026-10-11 v0.8·10-14 v0.81 한글패치 배포 이력**이 확인된다. 그러나 원 배포 링크는 410 Gone으로 실패했으며 실제 배포 파일·지원 ROM·번역 완성 범위·전 엔딩 구동은 미검증이다. 이에 **🟡 한국어 대안 검증 보류·신규 활성 번역 후보 제외·A/B/C 미부여**로 작품 평가를 기록. DS 보존 **8→9**, 기존 활성 **2·B 2·💎 0·A 0** 유지. 다른 DS 기존 작품과 기종별 기록·찜 및 사이트 코드는 변경하지 않았다.
