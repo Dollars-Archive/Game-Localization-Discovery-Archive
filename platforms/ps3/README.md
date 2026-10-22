@@ -3,7 +3,7 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **61개** / 기본 선정: **30개** / 예비 기록: **31개**  
+> 기록 보존: **62개** / 기본 선정: **30개** / 예비 기록: **32개**  
 > 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 16 · C 13 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
@@ -136,3 +136,11 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 [실제 PS3 일본어 대화 화면](https://cdn-ak.f.st-hatena.com/images/fotolife/a/arcright/20150319/20150319002508.jpg), [4Gamer PS3 이벤트 #024](https://www.4gamer.net/games/137/G013743/SS/024.jpg), [PS3 신규 이벤트 #030](https://www.4gamer.net/games/137/G013743/20111026002/SS/030.jpg)를 3개 개별 화면 출처로 보강했다.
 
 **이번 변경은 기존 1건 최신 자료 보강만** 한다. PS3 전체 보존 **61개·기본 선정 30개·예비 31개 / 선정 💎 4 / A 0** 유지. 해당 작품 **개인점수 7.8·역사 순위 17·별점 3.5·한글화 B**, 다른 작품 평가·사용자 찜 키·기존 Pages 진입 링크 및 루트 README 집계·PS3 예비 목록은 변경하지 않는다.
+
+## 2026-10-22 《Suigetsu Ni / 수월 2》 PS3 예비 작품 평가
+
+[2011 일본 PS3 《水月 弐》 작품성 평가](games/suigetsu-ni.md)는 **⭐⭐⭐☆☆ 3.0/5·별도 정성 6.3/10·신규 순위 미산정**으로 신규 평가를 기록했다. PS3 직접 소표본 [GameFAQs 3.2/5·5명](https://gamefaqs.gamespot.com/ps3/638378-suigetsu-ni/stats), [PS3 전 엔딩 직접 후기](https://chulip.org/entry/2015/12/01/141708)의 음악·일부 인물 호평과 짧거나 예측 가능한 결말·추가 공략 루트 부재 비판을 구분했다. **PS3 원판 3.0은 신규 활성 한글화 후보 등록선 3.5/5 미달**이므로 [PS3 예비 목록](reserve.md)에 작품성 평가 1행만 추가한다.
+
+[2012 PSP 《水月 弐 ～Portable～》](../psp/games/suigetsu-ni-portable.md)은 PS3 원본에 없던 나고미 루트·추가 엔딩·CG/OP·편의 기능을 포함하며, 2012 PC 《追憶》는 진상·과거편이 추가된 후발판이다. [2008 PSP 《水月 Portable》](../psp/games/suigetsu-portable.md)은 전작 1편으로 본 2편과 구별한다. 2026-10-22 PS3·PSP·후발 PC 2편의 실사용 공개 완역 한국어 대안은 확인하지 못했으며 파일 리소스를 실험하지 않아 기술 난도는 **미확인**이다.
+
+기존 PS3 기본 작품 목록은 **30개 그대로**, PS3 전체 상세 보존 **61→62**, 예비 **31→32**. 역사적 55작품 점수·순위·찜 키·다른 플랫폼 기록·기존 GitHub Pages 링크는 변함없다.
