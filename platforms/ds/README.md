@@ -2,7 +2,7 @@
 
 **Nintendo DS 실발매 게임**의 작품성·한국어 접근성·판본 고유 기능을 확인하고 한글화 후보를 평가하는 아카이브입니다.
 
-> 조사 기준: **2026-10-17 KST** / 보존 기록 **6개** / 활성 한글화 후보 **1개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **1개** / C급 **0개**
+> 조사 기준: **2026-10-22 KST** / 보존 기록 **7개** / 활성 한글화 후보 **2개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **2개** / C급 **0개**
 >
 > 신규 **한글화 활성 후보** 등록 기준은 작품성 **3.5/5 이상**입니다. 웹 기본 작품 평가에는 **🔴 기준 미달 검토 기록**이나 🟡 검증 보류가 함께 표시될 수 있지만, 이는 활성 번역 후보 승인이 아닙니다. 별점·10점 리뷰 평가·우선도는 별개이며 게임 파일 미분석 시 기술 난이도는 미확인으로 유지합니다.
 
@@ -13,6 +13,7 @@
 | 게임 | 발매 | 장르 | 발굴 추천도 | 한글화 우선도 | 외부 평점 참고 | 공개 DS 한글패치 | 타 기종 / 다른 버전 | 상태 |
 |---|---:|---|---:|---:|---|---|---|---|
 | [Akagawa Jirō Mystery: Tsuki no Hikari - Shizumeru Kane no Satsujin (달의 빛: 가라앉은 종의 살인)](games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md) | 2008 | 학원 미스터리·추리·터치 조사 사운드노벨 | ⭐⭐⭐½☆ 3.5/5 | B | DS GameFAQs Great·11표·11h/8명 / ANTIDOTE 완주평 B+·1명 / 가격.com 3.0/5·1건 | 2026-10-17 PS2·DS 공식 한국어·저작자/적용파일까지 검증된 공개 완성 한글패치 미확인 / 다른 赤川次郎 夜想曲 게임과 혼동 금지 | 2002 PS2 원작 SLPS-20196·원래 영상·드뷔시 달빛 OP → 2008 DS NTR-CJ6J·터치 조사·8 책갈피·타카다 번외편·추가 에필로그 / 영상 일부 삭감·HOTARU OP | 🟢 후보 |
+| [Flower, Sun, and Rain: Owaranai Rakuen (꽃과 태양과 비 · 끝나지 않는 낙원)](games/flower-sun-and-rain.md) | 2008 | 시간 반복·암호 해독·터치 퍼즐 미스터리 ADV | ⭐⭐⭐½☆ 3.5/5 | B | DS Famitsu 29/40·4명 / Metacritic 54/100·37매체 / DS GameFAQs Good·약122표 / Nintendo Life 4/10 | **2026-10-22 DS 직접 완성 한글패치 미발견** / PS2 DEV11 공개되었으나 DS에 적용 불가 추정 / DS 새 개작판 예외 | 2001 PS2 원작 DEV11 한국어 개발판 / 2008 DS 그래픽·음향·UI 재구성·50개 이상 신규 퍼즐·터치 / 유럽·북미 영어 정식판 | 🟢 DS 개작·확장판 별도 활성 B급 / PS2 구작 한글패치 예외 |
 | [Akagawa Jirō Mystery: Yasōkyoku - Hon ni Manekareta Satsujin (야상곡: 책에 초대된 살인)](games/akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.md) | 2008 | 노노미야 도서관·미스터리·사운드 노벨 1+2편 합본 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 26/40·4인 / GameFAQs DS Playable·17표·23시간(7명) / 4Gamer DS 80/100·1명 / ANTIDOTE B+·1명 | 2026-10-17 DS NTR-P-YOQJ 직접 한국어 완역 미검증 / RetroDB #5136 패치 제목은 달의 빛이나 야상곡 출시일/설명이 연결됨 / 실제 적용 ROM·범위 확인 보류 | 1998 PS1 1편 + 2001 PS1 2편 → 2008 DS 2편 합본·터치 단서·인물 관계도·책갈피 / 2008 DS 달의 빛은 별도 게임 | 🟡 사용자 지정 DS 기본 작품 평가·한국어 대안 제품명 검증 보류·신규 번역 활성 제외 |
 | [Time Hollow: Ubawareta Kako o Motomete (타임 할로우: 빼앗긴 과거를 찾아서)](games/time-hollow-ubawareta-kako-o-motomete.md) | 2008 | 시간 수정·가족 실종·터치 펜 미스터리 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 32/40·4명 / Metacritic 64/100·매체 24곳 / Nintendo Life 7/10 / GameSpot 5.5/10 / Adventure Gamers 2008 Best Story | 2020-10-02 에리어 201002 DS 팬 한글패치 등록·2021 완역 플레이 후기 / 2026-09-30 뿡빵이 1.0 별도 패치는 배포중단 / 2020판 적용·현행 파일 직접 미검증 | 일본 2008-03-19 NTR-YHLJ-JPN → 북미 2008-09-23 NTR-YHLE-USA → 유럽 2009-02-06 NTR-YHLP-EUR / 모두 Nintendo DS 동일 본편·공식 일본어·영어판 / 후발 타 기종 정식 이식 미확인 | 🟡 기존 DS 한국어 패치 확인·신규 한글화 활성 제외 / DS 기본 작품 평가 기록 |
 | [Yatsu Hakamura (팔묘촌: 여덟 개의 무덤 마을)](games/yatsu-hakamura.md) | 2009 | 요코미조 세이시 원작·긴다이치 고스케·중요어 추리·3D 동굴 탐색 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 28/40·평론가 4명 / GameFAQs DS Good·이용자 6명·19h/5명 / JIM'S ATTIC DS 완료 7/10·1명·본편 5시간 미만 / 4Gamer 독자평 0 | 2026-10-02 RetroDB #4445 Dansic v0.9 DS 공개 한글패치 확인 / 한글로게임 교차 등록 / 배포 원문 조회 410·지원 ROM·대사 완역·엔딩 검수 미확인 | 2009-04-23 일본 DS NTR-CK8J-JPN FromSoftware 원본 / 2009-01-22 《犬神家の一族》와 같은 제작사·탐정/시스템의 별도 소설 게임 2탄 / 후발 동일 작품 공식 타 기종 이식 확인 못함 | 🟡 한국어 패치 v0.9 공개·완역/실사용 검증 보류·새 한글화 활성 제외 / DS 기본 작품 평가 |
@@ -60,3 +61,7 @@
 **한국어화 판단에서 주의:** [RetroDB #4445](https://retrodb.info/krpatch/4445/%ED%8C%94%EB%AC%98%EC%B4%8C)에 **Dansic 제작 2026-10-02 Nintendo DS 한글패치 v0.9**가 공개 기록으로 확인되며 [한글로게임 콘솔 패치 목록](https://www.hangulogame.com/console/)에도 같은 작품·제작자의 등록 이력이 있습니다. 그러나 RetroDB의 배포처 열람 링크가 410 Gone 응답으로 막혀 **원 제작자 글·패치 파일·지원 ROM·완역/엔딩 검수·실사용 상태는 직접 확인하지 못했습니다**. '한글패치 없음'이 아니며 v0.9만으로 완성도도 단정할 수 없으므로 **🟡 한국어 대안 검증 보류·새 한글화 활성 후보 제외·A/B/C 미부여**. 사용자 요청 작품은 DS **기본 작품 평가(기존 목록)**에 한 행으로 추가했으며 이는 신규 번역 프로젝트 승인과 별개입니다.
 
 DS **보존/기본 표시 4→5개**, **활성 한글화 후보 1·활성 💎 0·A급 0·B급 1·C급 0** 유지. 기존 다른 DS 작품의 점수·한글화 판정·찜 식별자, 다른 플랫폼 평가·사이트 코드는 변경하지 않습니다.
+
+## 2026-10-22 《Flower, Sun, and Rain: Owaranai Rakuen》 DS 별도 개작판 B급 등록
+
+[2008년 Nintendo DS 상세 평가](games/flower-sun-and-rain.md)는 **작품성 ⭐⭐⭐½☆ (3.5/5)·편집 참고 7.1/10·한글화 B급**, 기술 난이도 미확인으로 신규 작성. [닌텐도 공식](https://www.nintendo.co.jp/ds/software/yhnj/index.html)과 [Famitsu DS 29/40·4명](https://www.famitsu.com/game/title/3308/reviews), [DS 정식 영어판](https://marvelous-usa.com/games/flower-sun-and-rain/)을 대조했다. PS2 원작과 핵심 이야기 공유하지만 DS는 화면·음향·터치 UI를 재구축하고 **50개 이상의 새 퍼즐과 Lost and Found**를 추가한 리메이크·확장 제작판이다. **PS2 2026-09-01 DEV11 한글패치 공개 이력은 확실하나** [제작자 공지](https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=212488)는 개발판 출력/렌더링 문제를 언급하고 DS 파일에 적용 가능한 완성 번역이 확인되지 않는다. 2026-10-22 DS 자체 실사용 완역 미발견으로 GitHub 리메이크 예외를 적용하여 **DS 활성 B급 후보**로 등록. 보존 **6→7개**, 활성 **1→2개**, B **1→2**, 우선/A 0 유지. 리뷰 **6→7개**, 다른 기존 6작품·기존 순위·찜 키 보존.
