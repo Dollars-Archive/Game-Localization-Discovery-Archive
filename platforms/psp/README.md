@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **66개** / 활성 후보: **45개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **67개** / 활성 후보: **46개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -60,6 +60,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Kisaragi GOLD★STAR -NONSTOP GO GO!!- (키사라기 골드★스타 -NONSTOP GO GO!!-)](games/kisaragi-gold-star-nonstop-go-go.md) | 2013 | 이웃끼리의 청춘 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | B | Famitsu 29/40·리뷰어 4명 / Bangumi PSP 7.5/10·기존 조사 6표 / GameFAQs Poor·4표 | 2026-10-22 PSP·PC 공개 완성 한국어 대안 미확인 / PC 1.01은 일본어 정정 패치 | 2010 Windows 원작 / 2013 PSP 쿠온 미카 신규 루트·기존 히로인 추가 시나리오·CG / PC DL판은 원작 계열 | 🟢 후보 |
 | [Hoshigari Empusa Portable (호시가리 엠푸사 포터블)](games/hoshigari-empusa-portable.md) | 2009 | 학원 연애 쟁탈 시뮬레이션·보드게임·연애 ADV | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Good·14표·9h/11표본 / PS Deals PlayStation 2.11/5·19표 / PSP 장기 후기 1명 / Famitsu·4Gamer 점수 없음 | 2026-10-22 PSP·2008 PS2·2004 PC의 공개 한국어 완성판·한글패치 확인 못함 | 2004 PC 원작 / 2008 PS2판 / 2009 PSP 유스풀 모드·PS2 연동·보이스 재녹음 / Vita는 PSP 하위호환 | 🟢 후보 |
 | [No Fate! - Only the Power of Will (노 페이트! -온리 더 파워 오브 윌-)](games/no-fate-only-the-power-of-will.md) | 2010 | 학원 SF 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ 3.5/5 | B | PSP mk2 기존 43점·82점 2건 / GameFAQs Fair·5표(기존 기록) / 2011 Xbox 360판 4루트 실플레이 후기 | 2026-10-22 PSP와 Xbox 360 공개 완성 한국어 패치 미확인 | PSP 2010 원작 / Xbox 360 동시판 / 현대 이식 미확인 | 🟢 후보 |
+| [Marriage Royale: Prism Story (마리지 로얄 ～프리즘 스토리～)](games/marriage-royale-prism-story.md) | 2010 | 12히로인 신부 경쟁·컬러 루트·연애 ADV·비주얼노벨 | ⭐⭐⭐½☆ (3.5/5) | B | Bangumi PSP 7.0/10·7표 / GAMEMAN 5.9/10·서술0 / GameFAQs 과거 3.89/5·현재 표본 미확인 / 4Gamer 독자0 | 2026-10-22 PSP 일반·한정·전격SP 공식 한국어판·검증된 공개 완성 한글패치 미발견 | 2010 PSP 원판 12화이트+6컬러 / 2012 전격SP 동일 본편 저가 재출시 / 만화·소설은 다른 매체 | 🟢 후보 |
 | [Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu (쾌도천사 트윈엔젤 시간과 세계의 미궁)](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md) | 2011 | 시간·다중 시점 히로인 서사·슬롯 배틀 ADV·비주얼노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP Famitsu 25/40·4인(6/6/6/7) / PSP GF Good·9표·10h/4명 / PSP 가격.com 5/5·1명·전투 밸런스/지속성 3/5 / 2025 Steam 100%·10명은 PC 후발판 | 2026-10-22 2011 PSP·2025 PC Re:light/보이스 DLC 공식 한국어·검증된 공개 완성 한패 미발견 / PC 일본어·영어·간체중문만 공식 지원 | 2011 PSP 하루카·아오이·테슬라 루트/TIPS+슬롯 배틀·코인 보상 / 2025 PC Re:light 풀HD·공식 영어/중문·슬롯 배틀 삭제 / Steam DLC Re:light+는 일본어 풀보이스 | 🟢 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 저편에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 섬 생활·신화 판타지·연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·16명 / PSP 17h·11명 / GAMEMAN 8.6·서술0 / 원작 VNDB 약7.25·84표·EGS 75점대(별도 원작) / 신 시나리오·CG 공식 확인 | 2026-10-21 PSP·2015 Vita·PC 본편의 공식 한국어·검증된 공개 완역 미발견 / 2026-09 PC Kone 복구 글은 한글패치 증거 없음 | 2010 PC 5히로인 → 2012 PSP 카호·호노리 2루트 추가/UMD 2장 → 2015 Vita 7히로인+960×544 연출·서사 리파인 / PSP 원본 기술 미분석 | 🟢 후보 |
 | [Sakura Sakura: Haru Urara (사쿠라 사쿠라 -하루 우라라-)](games/sakura-sakura-haru-urara.md) | 2010 | 학원 기숙사·이중 삼각관계 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·12표 / PSP 플레이 13h·6명 / PSP 4Gamer 독자 0건 / 2009 PC 원작 순애계 작품상 금상 / Steam 영어판 88%·35명(별개) | 2026-10-21 PSP·2009 PC·2018 PS4/Vita·Steam 공식 한국어·검증된 공개 완성 한패 확인 못함 / 2018 Steam 공식 영어·일본어 | 2009 PC 원작 / 2010 PSP 신규 에피소드·CG 약 20장 계획·16:9 조정 / 2018 PS4·Vita 리뉴얼 CG/아이템·2025 판매 종료 / 2018 Steam 공식 영어 | 🟢 후보 |
@@ -375,3 +376,7 @@ PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/gam
 **2026-10-22 현재** 공식 한국어판 및 실사용 공개 완성 한국어 패치는 PSP·동일 게임의 다른 판본에서 확인되지 않았다. [중국어 간체 Ver.2.00 작업·2009 배포 이력](https://patch.ali213.net/showpatch/116581.html)은 있지만 현재 해당 배포 페이지에서는 다운로드를 제공하지 않으며 한국어 대안이 아니다. 해당 중국어 자료로 한글 재삽입 기술 난도를 추정하지 않고 **미확인** 유지. 기존 [PSP 전체 리뷰표](recommendations.md)의 동일 게임 한 행만 최신 조사일로 갱신하되 기존 **6.6/10·역사 순위·찜 식별자** 변경 없음.
 
 **PSP 보존 65개 / 활성 44개 / 💎 5개 / A 3개 / 전체 리뷰 128행** 그대로. 타 플랫폼·기존 Pages URL·다른 작품의 상세 평가를 수정하지 않았다.
+
+## 2026-10-22 《Marriage Royale: Prism Story》 PSP 활성 B급 복귀
+
+[기존 PSP 상세](games/marriage-royale-prism-story.md)의 **3.5/5·B·잠정 별도 6.5/10**을 유지. [공식 PSP 발매](https://www.kadokawa.co.jp/product/game1645/)·[2012 전격SP 저가 재출시](https://www.kadokawa.co.jp/product/game1629/)·[4Gamer 컬러 루트](https://www.4gamer.net/games/104/G010467/20100202051/) 및 [Bangumi PSP 7.0/10·7표](https://bangumi.tv/subject/6964), [GAMEMAN 5.9/10·작성 리뷰0](https://www.gameman.jp/item/25316_m.html)을 대조했다. 2026-10-22 공개 한국어 완성판/팬패치를 확인하지 못했으며 비공개 작업까지 없다고 단정하지 않는다. 기존 전체 리뷰 같은 1행만 후보군→기존 목록으로 이동하고 **PSP 보존 66→67 / 활성 45→46 / 우선 5·A급 3**, 웹 리뷰 128행·기존 6.5점·원순위·현행 공동112위·찜 ID·다른 플랫폼 불변.
