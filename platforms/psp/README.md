@@ -6,7 +6,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-08 KST** (《스즈미야 하루히의 추상》·《AIR》 2026-10-17 추가 확인 / 《Bullet Butlers》 2026-10-17 재검증 / 《Princess Evangile》 2026-10-17 과거 정식 한국어 모바일판 재확인)  
-> 보존 항목: **62개** / 활성 후보: **41개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
+> 보존 항목: **63개** / 활성 후보: **42개** / 활성 발굴 우선 후보: **5개** / 한글화 A급 후보: **3개**
 
 > **예외 등록:** `Baka to Test to Shoukanjuu Portable`은 발굴 추천도 **3.0/5**이지만, **2026-09-19 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -56,6 +56,7 @@ PS2와 같은 평가 기준을 사용하되, PSP판 자체의 작품성·판본 
 | [Sucre Portable (슈크레 포터블)](games/sucre-portable.md) | 2012 | 카페 재건·가족·직업 드라마·연애 ADV / 선택지형 VN | ⭐⭐⭐½☆ (3.5/5) | B | PSP 전루트 개인 **70/100·1건** / PSP GAMEMAN **8.2/10·서술 리뷰 0건** / Play-Asia **5/5·5평가** / VNDB 작품 계열 **7.31/10·76표**(PSP 단독 아님) | **2026-10-21 PSP·PC·Switch 공식 한국어·공개 실사용 완성 한패 확인 못함**(비공개 작업 미단정) | **2011 GIGA PC 성인 원작 → 2012 PSP** 카이 후타바 가족 테마 신규 루트·치즈루 추가 엔딩·CG 20장+·시나리오 증보·신규 OP / **2025 Switch 단품·3작 합본 2025-09-30 공식 판매 종료**, PSP 추가분 수록 여부 미확인 | 🟢 PSP 활성 B급 후보·기존 2026-10-08 잠정 7.0점·현행 공동64위 / 후속 기종의 추가 시나리오 동일성 미확인 |
 | [Ouka Sengoku Portable (오우카 센고쿠 포터블)](games/ouka-sengoku-portable.md) | 2012 | 전생 전국무장·학원 세력전·역사 패러디·연애 선택지형 VN | ⭐⭐⭐½☆ (3.5/5) | B | **PSP Bangumi 7.5/10·4표 / PSP GameFAQs 3.36/5·투표 수 미확인 / 4Gamer 사용자 0건 / PSP 선행실플레이 1명·TGBus PSP 사용기 1명** / PC EGS 중앙값80·121표는 별도 | **2026-10-22 PSP·PC 공식 한국어판·공개 실사용 완성 한글패치 미발견** / 비공개 작업 부재 단정 안 함 | **2010 PC 정규6인 → 2012 PSP 신규 정규2+서브 노부유키1(유키무라 파생)** / 신규 丙 공통루트·기존 甲乙 가필·CG40장+·추가 SSS·16:9·신규 OP/ED / 네이티브 현대 완전판 미확인 | 🟢 PSP 활성 B급 · 작품성3.5 / 별도잠정7.0·현행 공동64위 / 신규 분기·CG 보존, 전수 QA 미확인 |
 | [Omoi no Kakera: Close to (오모이노 카케라 -Close to-)](games/omoi-no-kakera-close-to.md) | 2011 | 유령·기억상실 감정극·Room Part 연애 ADV | ⭐⭐⭐½☆ (3.5/5) | B | PSP GameFAQs Fair·6표·20시간/3명 / PSP 개인 4/5·1명(추억 보정) / PS2 Joko 7명·3~5점 / Bangumi 전체 6.99·84명은 타 판본 통합 | 2026-10-22 PSP·PS2·DC·Windows 동일 본편 한국어 정식판·검증된 공개 완성 한글패치 미발견 / Windows 중국어 정식판은 별개 | 2001 DC 원작 → 2003 PS2 신규 시나리오·CG·악령편 → 2011 PSP PS2 확장 시나리오+데이터 인스톨·쇼트컷 / 2008 PC 중국어 현지화 | 🟢 후보 |
+| [Seitokai no Ichizon Lv.2 Portable (학생회의 일존 Lv.2 포터블)](games/seitokai-no-ichizon-lv2-portable.md) | 2013 | 망상 ADV·학원 코미디 비주얼 노벨 | ⭐⭐⭐½☆ | B | Famitsu 29/40 (8·8·7·6·4명) / GameFAQs Good·14표 / Bangumi 6.5/10·24표 / Gamer PSP 직접 리뷰 | 2026-10-22 공개 완성 한국어 패치 미발견 / 2015 PSP 중국어 간체 번역 릴리스는 한국어 아님 | 2010 NDS 별개 게임 / 2013 PSP 오리지널 풀보이스·6장 분기·杉崎EYE·카드 망상 이벤트 / 직접 후발 이식 미확인 | 🟢 후보 |
 | [Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu (쾌도천사 트윈엔젤 시간과 세계의 미궁)](games/kaitou-tenshi-twin-angel-toki-to-sekai-no-meikyuu.md) | 2011 | 시간·다중 시점 히로인 서사·슬롯 배틀 ADV·비주얼노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP Famitsu 25/40·4인(6/6/6/7) / PSP GF Good·9표·10h/4명 / PSP 가격.com 5/5·1명·전투 밸런스/지속성 3/5 / 2025 Steam 100%·10명은 PC 후발판 | 2026-10-22 2011 PSP·2025 PC Re:light/보이스 DLC 공식 한국어·검증된 공개 완성 한패 미발견 / PC 일본어·영어·간체중문만 공식 지원 | 2011 PSP 하루카·아오이·테슬라 루트/TIPS+슬롯 배틀·코인 보상 / 2025 PC Re:light 풀HD·공식 영어/중문·슬롯 배틀 삭제 / Steam DLC Re:light+는 일본어 풀보이스 | 🟢 후보 |
 | [Amatsumi Sora ni! Kumo no Hatate ni (아마츠미소라니! 구름의 저편에)](games/amatsumi-sora-ni-kumo-no-hatate-ni.md) | 2012 | 섬 생활·신화 판타지·연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·16명 / PSP 17h·11명 / GAMEMAN 8.6·서술0 / 원작 VNDB 약7.25·84표·EGS 75점대(별도 원작) / 신 시나리오·CG 공식 확인 | 2026-10-21 PSP·2015 Vita·PC 본편의 공식 한국어·검증된 공개 완역 미발견 / 2026-09 PC Kone 복구 글은 한글패치 증거 없음 | 2010 PC 5히로인 → 2012 PSP 카호·호노리 2루트 추가/UMD 2장 → 2015 Vita 7히로인+960×544 연출·서사 리파인 / PSP 원본 기술 미분석 | 🟢 후보 |
 | [Sakura Sakura: Haru Urara (사쿠라 사쿠라 -하루 우라라-)](games/sakura-sakura-haru-urara.md) | 2010 | 학원 기숙사·이중 삼각관계 연애 ADV·비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | PSP GameFAQs Fair·12표 / PSP 플레이 13h·6명 / PSP 4Gamer 독자 0건 / 2009 PC 원작 순애계 작품상 금상 / Steam 영어판 88%·35명(별개) | 2026-10-21 PSP·2009 PC·2018 PS4/Vita·Steam 공식 한국어·검증된 공개 완성 한패 확인 못함 / 2018 Steam 공식 영어·일본어 | 2009 PC 원작 / 2010 PSP 신규 에피소드·CG 약 20장 계획·16:9 조정 / 2018 PS4·Vita 리뉴얼 CG/아이템·2025 판매 종료 / 2018 Steam 공식 영어 | 🟢 후보 |
@@ -341,3 +342,12 @@ PSP 후보표 **보존 61개 / 활성 40개 / 💎 5개 / 한글화 A 3개**, �
 PSP 실게임 화면: [2011 4Gamer PSP 갤러리 012](https://www.4gamer.net/games/132/G013222/screenshot.html?num=012), [PSP 발매직전 004](https://www.4gamer.net/games/132/G013222/20110817034/screenshot.html?num=004), [PSP 시스템 소개 017](https://www.4gamer.net/games/132/G013222/20110426081/screenshot.html?num=017). 2025 PC 화면으로 오인하지 않는다.
 
 **PSP 보존 61→62개 / 활성 40→41개 / 💎 5 / A 3.** PSP 전체 리뷰 원표 **128행 보존**, 같은 게임 한 행을 **후보군→기존 목록**으로만 분류 갱신한다. 다른 기종·게임의 평가·찜 키·Pages URL은 불변.
+
+
+## 2026-10-22 《Seitokai no Ichizon Lv.2 Portable》 PSP B급 활성 후보 복귀
+
+[기존 2013 PSP 상세 평가](games/seitokai-no-ichizon-lv2-portable.md)는 **작품성 3.5/5·별도 10점 기준 리뷰 7.2/10·한글화 B급**을 유지한다. 2026-10-04 선정 압축으로 예비 후보군에 남아 있던 기존 PSP 작품을 원본 기본 목록에 B급으로 복귀했다. [Famitsu PSP 리뷰](https://www.famitsu.com/game/title/29154/reviews)는 **29/40(8·8·7·6, 4인)**으로 대화의 탈선·카메라 변화는 호평했으나 반복 시 시각 변화와 장면 스킵의 부족을 지적했다. [GameFAQs PSP Good·14표](https://gamefaqs.gamespot.com/psp/707417-seitokai-no-ichizon-lv-2-portable), [Bangumi PSP 6.5/10·24표](https://bangumi.tv/subject/70875), [Gamer 직접 플레이 리포트](https://www.gamer.ne.jp/news/201309160002/)는 기존 3.5점 근거와 부합한다.
+
+2026-10-22 PSP 및 별개의 NDS 게임의 실사용 공개 완성 **한국어** 패치는 확인하지 못했다. 반면 [2015-03-11 중국어 간체 번역 기록](https://patch.ali213.net/hanhua/psp/)과 [번역팀 크레딧](https://www.rendiyu.com/view-90317-1.html)이 있어 중국어판 존재와 한국어 부재를 구분한다. 2010 NDS 《DSする生徒会》는 스토리·시스템이 다른 작품이며 2013 PSP 신작의 후발 이식은 확인되지 않았다. 실제 PSP 화면 [Gamer No.3](https://www.gamer.ne.jp/news/201309160002/image/3)·[No.8](https://www.gamer.ne.jp/news/201309160002/image/8)·[HMV 대화 화면](https://img.hmv.co.jp/image/jacket/alt/190/53/6/8/781-6.jpg) 참조. 기술 난도는 실데이터 미분석으로 **미확인**.
+
+**PSP 보존 62→63개 / 활성 41→42개 / 💎 우선 5개 / 🔥 A 3개**. PSP 전체 리뷰 128행, 역사 점수·순위와 찜 식별자·다른 플랫폼·Pages URL 불변.
