@@ -2,7 +2,7 @@
 
 PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하는 아카이브입니다.
 
-> 2026-10-17 신규 개설 / **2026-10-23 현행**: 등록·보존 **6건** · 웹 기본 화면 표시 **5건(비활성 작품 평가 3·신규 활성 번역 2)** · 활성 한글화 후보 **2건 (B 1·C 1)** · 활성 우선 후보 **0건** · 한글화 A급 **0건**
+> 2026-10-17 신규 개설 / **2026-10-23 현행**: 등록·보존 **7건** · 웹 기본 화면 표시 **6건(비활성 작품 평가 4·신규 활성 번역 2)** · 활성 한글화 후보 **2건 (B 1·C 1)** · 활성 우선 후보 **0건** · 한글화 A급 **0건**
 
 [← 전체 아카이브](../../README.md) · [PS1 사이트](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) · [PS1 리뷰 평가](recommendations.md)
 
@@ -16,6 +16,7 @@ PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하
 | [serial experiments lain (시리얼 익스페리먼츠 레인)](games/serial-experiments-lain.md) | 1998 | 심리 미스터리·비선형 상담·영상·기록 열람 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Bangumi PS1 7.8/10·68명 / GameFAQs PS1 Good·25명 / 2018 4Gamer 원 제작자 3명 회고 / 2015 HonestGamers의 조작·로딩 비판 | 2026-10-17 PS1 CD 직접 완역 한글패치 미확인 / lainTSX 웹 한국어 667 VTT vs 영문 673 VTT·주요 상담·일기·영상 분류 보유 / 전수 QA·원본 콘솔 호환 미검증 | 1998 PS1 정식 2CD SLPS-01603·01604 / 2021 팬 웹 한국어 재구현 / 2026 홈브류 Switch·PC 네이티브 코드 복원은 비공식 재현 | 🟡 사용자 지정 PS1 기본 작품 표시·한국어 웹 번역 대안 확인·신규 한글화 활성 제외 |
 | [Akagawa Jirō: Yasōkyoku (아카가와 지로 야상곡 / 1편)](games/akagawa-jirou-yasoukyoku.md) | 1998 | 도서관·사운드 노벨·추리/호러 멀티엔딩 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | PS1 Gavas 5.0/5·5개 사용자 후기 / 한정판 Gavas 5.0/5·4건·동일 작품 다른 패키지 / Famitsu PS1 직접 정량 미검증 | 2026-10-17 PS1 직접 한글패치 미확인 / DS RetroDB #5136은 패치 제목 달의 빛·연결 게임정보 야상곡 혼입 / 실제 적용 ROM ID·번역 범위 검증 보류 | 1998 PS1 첫 편 SLPS-01462 / 2001 PS1 야상곡2 별도 / 2008 DS 책에 초대된 살인 1·2편 합본·터치 키워드·인물 관계도 | 🟡 사용자 지정 PS1 기본 작품 평가·DS 한국어 패치 대상 혼입 검증 보류·신규 번역 활성 제외 |
 | [Koudelka (쿠델카)](games/koudelka.md) | 1999 | 1898년 웨일스 수도원·고딕 호러·그리드 턴제·미스터리 RPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Moby PS1 평론 65/100·36매체 / GameFAQs PS1 Good·482표·25h/224명 / GameSpot 6.7/10 / RPGFan 60/100 / RPGamer 3.5/5·후대 재평 2.5/5 | **2026-09-17 PS1 일본판 한국어 팬패치 공개 확인** / 제작자 DuckStation 0.1-11826 엔딩 완료·실기 미테스트 / 아이템명 변경 입력칸 일부 일본어 유지 / 한글로게임 교차 등재 | 1999 일본 PS1 SLPS-02460~63 4장 → 2000 북미 PS1 정식 영어판 / 2001 PS2 Shadow Hearts는 후속 게임이며 본작 이식판 아님 / 동일 본편 현대 리마스터 미발견 | 🟡 PS1 공개 한국어 패치 존재·신규 한글화 활성 제외·기본 작품 평가만 보존 |
+| [Saishuu Densha (최종전차)](games/saishuu-densha.md) | 1998 | 이상 운행 막차·밀실 공포·SF·다중분기 사운드노벨 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | PS1 Gavas 3.8/5·6건 / GameFAQs Fair·3표 / 2020 PS1 개인 완료 7.5/10·본문 재접근 불안 / Famitsu 26/40은 2차 재록 | PS1 직접 공개 완성 한패 미발견 / mkasu 제작 PS2 팬 한국어패치 2026-10-03 공개 / 원배포 410·완역/엔딩 미검증 | 1998 PS1 SLPS-01257·1999/2001 저가판 / 2002 PS2 SLPS-25081·돌비5.1·시공 추가 종장 / PS2 패치의 PS1 호환 근거 없음 | 🟡 같은 이야기 PS2 한국어 대안 완성도 검증 보류·PS1 신규 번역 활성 제외 |
 
 ## 2026-10-17 첫 PS1 조사 등록
 
@@ -76,3 +77,7 @@ PS1/PSone에 실제 발매된 작품의 게임성·한글화 상태를 구분하
 같은 PS1 게임의 실사용 공개 한국어 번역 이력이 있으므로 **새로운 한국어화 활성 후보에서는 제외, A/B/C 우선도 미부여**로 보존한다. PS1 사용자용 기본 작품 평가에는 **기존 목록 표시용 한 행**을 추가해 검색·찜이 가능하도록 하되 활성 신규 번역 2건에 포함하지 않는다. 세 실제 PS1 게임화면: [탐색](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26271/) · [턴제 전투](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26285/) · [메뉴](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26276/)로 실게임 캡처 3장을 구분한다.
 
 **PS1 보존 5→6 / 웹 기본 표시 4→5 / 신규 활성 한국어화 B 1·C 1 총 2건 유지 / 💎 0·A 0 유지**. 기존 5개 PS1 작품 역사 점수·상태·찜 ID·다른 플랫폼 목록·Pages 링크·사이트 코드를 변경하지 않는다.
+
+## 2026-10-23 《최종전차》 PS1 원작 신규 작품 평가
+
+[PS1 1998년 상세 조사](games/saishuu-densha.md)는 **⭐⭐⭐½☆ 3.5/5 · 자체 신규 7.0/10·역사 순위 미산정**. [Gavas PS1 3.8/5·6명](https://www.gavas.jp/products/detail.php?product_id=9248), [2023 GameFAQs 5개 이야기·11개 엔딩·저장 제한 공략](https://gamefaqs.gamespot.com/ps/573456-saishuu-densha/faqs/80455/introduction), [PS1/PS2 전문 비교](https://w.atwiki.jp/gcmatome/pages/65.html)를 바탕으로 막차 폐쇄공간·다장르 분기/사운드 장점과 영상 스킵·반복 읽기 약점을 분석했다. [PS2 mkasu 한국어패치 2026-10-03 등재](https://retrodb.info/krpatch/4550/%EC%B5%9C%EC%A2%85%EC%A0%84%EC%B0%A8)가 실제 있지만 현재 원본 배포처 접근 410으로 완역·실사용·PS1 호환 불명. **PS1 기본 작품성 표시 한 행만 추가**하고 새 한글화 활성 제외/우선도 미부여. PS1 보존 **6→7**, 기본 노출 **5→6**, 활성 2·B 1·C 1 / 우선 0·A 0 유지. 기존 《쿠델카》 포함 6개 항목·찜·타 플랫폼 변경 없음.
