@@ -1,5 +1,37 @@
 # XBLAZE Code: Embryo (엑스블레이즈 코드: 엠브리오)
 
+## 2026-10-23 작품성·판본·한국어화 최신 재검증
+
+**최종 판정: PS3 작품성 ⭐⭐⭐½☆ (3.5/5), 한글화 후보 C급 자격 유지, 개인 추천 7.1/10·2026-10-08 기존 55작품 역사 34위 유지.** 현재는 PS3 예비 목록의 기존 평가 기록이다. 기본 선정 30개는 꽉 차 있으며, 2026-10-17 사용자 명시 요청에 따라 《차륜의 나라, 해바라기의 소녀》를 기본으로 넣고 이 작품을 예비로 옮겼다. 단순 제목 재평가만으로 그 사용자 지정 기본 30개 구성을 임의로 뒤집거나 더 낮은 순위 작품을 제거하지 않는다.
+
+### 중요한 공식 자료: PS3·Vita 판본 동일 / 2013년 업데이트
+
+- **[Arc System Works 원개발사 FAQ](https://www.arcsystemworks.jp/support/xblaze.html)는 'PS3판과 PS Vita판에 게임 내용 차이가 없다'고 명시한다.** 양 기종의 패키지판과 다운로드판 간에도 게임 내용 차이가 없다. 한쪽에 독자 루트·신규 시나리오가 들어 있다는 추측을 배제한다. 반면 PS3·Vita 간에는 **세이브 데이터 공유가 불가능**하다.
+- **[Arc System Works 2013-10-17 공식 PS3·Vita 업데이트](https://www.arcsystemworks.jp/xblaze/sp/information/)** 는 EXTRAS 메뉴에서 이미 확인한 TOi 기사·A.O.S.를 재열람하는 기능을 추가하고, 설정값 초기화·ADV 연출 강화·2회차 이후 스태프롤 스킵을 지원했다. **세이브·로드 확인 처리 시간 단축과 자동 슬립 방지 등 일부 수정은 Vita 전용**이다. 이는 원래의 초판 출시 콘텐츠와 패치 적용 후 편의 기능을 구분해야 한다는 뜻이지 PS3 전용 스토리 차이의 증거가 아니다.
+- **실제 분기 검수 시점:** 원개발사 FAQ에는 노멀·자동·퀵 세이브 구분, 노멀/자동 각 최대 40 슬롯 및 TOi 새 기사 도착·각 화 시작 시 자동 세이브 조건이 명시된다. 기사 열람 여부와 A.O.S. 리플레이, 루트 엔딩을 확인할 때 세이브 슬롯 종류·공식 업데이트 전후 버전을 기록해야 한다. 이 정보는 개발사 문헌 확인이며 실제 파일 추출 또는 자동 엔딩 검수 실시 결과가 아니다.
+
+### 2026-10-23 한국어 대안 재검증
+
+- **한국 PS3 심의 기록:** [게임콘텐츠등급분류위원회 PS3 2013-07-31](https://www.gcrb.or.kr/Mobile_NEW/sub/game%20search_Info.aspx?app=SGM6ju1j02c%3D&type=xl%2FkTOU3dYU%3D)에 SIEK 신청·15세 등급이 있으나 **게임 언어가 나와 있지 않다**. 한국 심의·PS Store 한국 지역 출시 또는 'KO' 지역 패키지 등록은 정식 한국어 번역판의 증거가 아니다.
+- **Vita 국내 심의:** [2014-07-18 등록](https://www.gcrb.or.kr/Mobile_NEW/sub/game%20search_Info.aspx?app=5S91U1lGITI%3D&type=xl%2FkTOU3dYU%3D)은 제목에 **영문판**을 명시했다. 한국 출시와 한국어 지원은 다른 차원이다.
+- **PC Steam 공식:** [2016-03-01 PC 상품의 공식 언어표](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)에 영어 인터페이스·자막, 일본어 음성·자막만 있고 **한국어는 명시적으로 미지원**이다. 같은 페이지 2026-10-23 조회 기준 전체 이용자 평가 **69건 중 78% 긍정**은 원작 PS3판과 분리한 후발 PC판 참고치다.
+- **한국어 팬패치:** 《XBLAZE CODE：EMBRYO》 / 《XBlaze Code Embryo》 / 《엑스블레이즈 코드 엠브리오》 / 《エクスブレイズ》와 PS3·PS Vita·Steam·한글패치·Korean translation·한국어 등을 조합해 공개 자료를 재검색했으나 **대상 게임 PS3·Vita·PC에 적용 가능한 검증된 공개 완성 한국어 패치의 근거를 확보하지 못했다**. 이것이 비공개 번역까지 존재하지 않는다는 증명은 아니다. 한글화된 다른 BlazBlue 격투 게임이나 이름만 같은 DLC는 동일 게임 대안이 아니다.
+- **후속작 《XBLAZE Lost: Memories》는 다른 게임**이다. 한국어 지원 여부, 별도 루트, 언어 패치가 2013년 본작과 공유된다고 추정하지 않는다.
+
+### 2026-10-23 리뷰 교차 검증과 점수 유지
+
+- **PS3 직접:** [Famitsu 4인 8·8·8·6 합계 30/40](https://www.famitsu.com/game/title/28555/reviews), [GameFAQs PS3 Good·59명, 평균 29시간·28명](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo). Famitsu는 애니메이션형 역동적 구도와 TOi의 새로운 착상을 칭찬하면서도 기사에 따라 가지가 갈리는 조건이 불명확하다고 평했다.
+- **PS3 직접 서술 1명:** [2014-07-14 GameFAQs PS3 원문 리뷰](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo/reviews)는 **7/10**이다. 같은 GameFAQs 게임 목록에 함께 노출된 Vita 리뷰 3건은 PS3 독립 리뷰 3건으로 세지 않는다.
+- **다른 플랫폼 참고:** [Metacritic의 43/100·평론 5건은 PS Vita판](https://www.metacritic.com/game/xblaze-code-embryo/critic-reviews/), **PS3 전용 메타스코어가 아님**. PS3·Vita 게임의 이야기 내용은 개발사 FAQ에서 동일하므로 서사·TOi 장단점의 참고 평론으로 활용할 수 있으나 입력·휴대성을 포함한 판본별 평가는 구분한다.
+- **PC 후발판 이용자 평가:** [Steam 78% 긍정·69건](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)은 2026-10-23 조회 기준 PC 이용자 후기다. 전문비평이나 원본 PS3만의 정량 평균이 아니라는 점을 분리했다. [Play-Asia PS3 일본 패키지 구매자 평점](https://www.play-asia.com/ja/xblaze-code-embryo/13/706gcx)은 5/5·20건(서술 약 4건)이지만 소매점 이용자 표본으로 해석해야 한다.
+- **판정:** BlazBlue 이전 세계관과 풀보이스·움직임 있는 일러스트·편집적 애니 구도는 장점이다. 그러나 주인공의 수동성, 장황한 세계관 용어, TOi 선택의 결과 피드백 부족과 반복 진입이 이야기 몰입을 제약한다. **작품성 3.5/5를 유지**, 예전 개인 7.1/10·역사 34위는 다시 매기지 않는다. 한국어 미지원 자체는 작품성 점수의 가감 요소가 아니다.
+
+### PS3 예비 선정과 번역 우선도 결론
+
+- **기존 PS3 예비 C급 유지.** 게임 자체는 3.5 등록선을 통과했지만 PS3 기본 선정 30개는 다른 작품 30개로 운영되므로 기존 사용자 지정 화면을 바꾸지 않는다. [PS3 예비 목록](../reserve.md)에서 계속 찾을 수 있다.
+- **C급 우선도**는 해당 게임의 현행 한국어 완성 대안 미발견·PS3 원본 보존 의미는 있지만, **PS3·Vita 동일 스토리**, 2016 PC 영어 정식판까지 존재하여 PS3 독점 신규 스크립트를 위한 번역 필요성이 상대적으로 낮기 때문이다.
+- **기술적 한글화 난이도: 미확인.** 2013 공식 패치와 FAQ가 일부 UI·세이브 동작을 설명해도 PS3 게임 디스크 BLJS-10227의 텍스트 압축·폰트·이미지·EBOOT·재삽입 방식은 열어보지 않았다. 대상 본체 펌웨어/패치 2013-10-17 설치 여부·TOi/A.O.S. 재열람 경로를 기록하는 것이 첫 검수 단계다.
+
 ## 2026-10-17 현행 PS3 기본/예비 목록 변경
 
 사용자가 요청한 《차륜의 나라, 해바라기의 소녀》의 기본 30개 표시를 위해 본 작품은 [PS3 예비 목록](../reserve.md)으로 이동했습니다. **PS3 개인 추천 7.1/10·2026-10-08 역사 전체 순위 34위·작품성 3.5/5·한글화 후보 C급 판단은 변경하지 않았고 상세 평가와 찜·착수 경로도 보존합니다.** 아래 2026-10-08 당시 '선정 30개' 표기는 당시 기록입니다.
@@ -8,7 +40,7 @@
 
 - **개인 추천 7.1/10 · 전체 55개 중 34위**
 - 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
-- 목록 구분: **선정 30개**
+- 목록 구분: **선정 30개 (2026-10-08 당시 역사 판정, 현행은 예비 32건 중 하나)**
 - 여성 주요 인물의 개성과 상호작용, 적극적인 화면 연출은 취향에 비교적 잘 맞는다. 다만 이야기 분기에 대한 피드백이 흐릿하고 중심 인물의 설득력 평가가 갈려, 같은 점수대 서사 후보 중 확실한 상위작으로 단정하지 않는다.
 - 현재 한국어 확인: 한국어 지원 확인 못함; 국내 심의는 존재 / Steam 한국어 미지원 명시; Vita 한국어판 확인 못함 / PS3·Vita·PC 공개 한국어 패치 확인 못함 / 한국어 지원 BlazBlue 게임이나 XBlaze 이름의 BlazBlue 로비 DLC를 동일 작품 대안으로 오인하지 않음.
 
@@ -92,14 +124,16 @@
 
 | 출처 | 점수 | 표본 수 | 대상 판본·비고 |
 |---|---:|---:|---|
-| Famitsu | 30/40 | 공식 리뷰어 4명 | PS3판 8 / 8 / 8 / 6 |
+| [Famitsu PS3 원문](https://www.famitsu.com/game/title/28555/reviews) | 30/40 | 공식 리뷰어 4명 | PS3판 8 / 8 / 8 / 6. 역동적 장면 및 TOi 참신함 장점, 분기 조건 불명확 비판 |
 | GameFAQs | Good | 사용자 59명 | PS3 사용자 평가 |
 | GameFAQs 플레이타임 | 약 29시간 | 28명 | PS3 사용자 제출 |
-| GameFAQs 사용자 리뷰 | 7/10 | 1건 | PS3 상세 리뷰 |
-| Metacritic | 43/100 | 평론 5건 | PS Vita판 / 동일 콘텐츠 참고치 |
+| [GameFAQs PS3 리뷰](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo/reviews) | 7/10 | 기명 1건 | 2014-07-14 PS3 직접 작성. 같은 페이지의 다른 Vita 리뷰를 PS3로 중복 세지 않음 |
+| [Metacritic PS Vita](https://www.metacritic.com/game/xblaze-code-embryo/critic-reviews/) | 43/100 | 전문 평론 5건 | **Vita 전용 점수**. PS3 점수 아님 / 개발사 FAQ 상 동일 본편 서사 참고 |
 | Gaming Age | 75/100 | 1개 매체 | PS Vita판 |
 | Pocket Gamer | 6/10 | 1개 매체 | PS Vita판 |
-| Push Square | 5/10 | 1개 매체 | PS Vita판 |
+| [Push Square](https://www.pushsquare.com/reviews/psvita/xblaze_code_embryo) | 5/10 | 1개 매체 | PS Vita판, TOi와 주인공·시나리오 밀도 비판 |
+| [Steam PC](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana) | 이용자 78% 긍정 | 69건 (2026-10-23 조회) | **2016 PC 후발판**, 매체평과 PS3 직접 평가로 계산하지 않음 |
+| [4Gamer PS3](https://www.4gamer.net/games/151/G015118/) | 직접 독자 리뷰 없음 | 0건 | 공식 판본 자료·게임 이미지 있음, 별도 사용자 평점 없음 |
 
 ### 발굴 추천도 판단
 
@@ -129,10 +163,10 @@
 
 ### 공식 한국어판 / 공개 패치
 
-- 공식 PS3 한국어판: **2026-10-07 기준 공개적으로 확인되지 않음**.
-- 공식 PS Vita 한국어판: **2026-10-07 기준 공개적으로 확인되지 않음**.
+- 공식 PS3 한국어판: **2026-10-23 재확인 기준 공개적으로 확인되지 않음**. 국내 심의는 정식 한국어판의 증거가 아님.
+- 공식 PS Vita 한국어판: **2026-10-23 재확인 기준 공개적으로 확인되지 않음**. 한국에서는 영문판 별도 심의 자료가 확인됨.
 - Steam PC판: **공식 한국어 미지원**. 영어 인터페이스·자막과 일본어 음성을 지원한다.
-- 공개 유저 한국어 패치: **2026-10-07 기준 공개적으로 확인되지 않음**.
+- 공개 유저 한국어 패치: **2026-10-23 재확인 기준 PS3·Vita·Windows 전 기종에서 실사용 가능한 검증된 공개 완성 한글패치 발견 못함**. 비공개 자료가 절대 없다는 뜻은 아님.
 - 영문명·일본어명·국내 통용 제목과 한글패치, 한국어, Korean patch 조합으로 검색했지만 실사용 가능한 공개 패치를 확인하지 못했다.
 - 비공개 개인 번역이나 검색에 노출되지 않는 작업의 존재까지 부정하는 의미는 아니다.
 
@@ -150,16 +184,18 @@
 
 ## 플랫폼별 추가·삭제 콘텐츠
 
-| 판본 | 특징 |
+| 판본 | 실제 차이·근거 |
 |---|---|
-| PS3 일본판 BLJS-10227 | 원본 일본어 콘솔판 / 2013년 발매 |
-| PS Vita 일본판 | PS3와 동시 발매 / 휴대용 판본 |
-| PS3 북미판 BLUS-31367 | 정식 영어 텍스트 / 일본어 음성 기반 |
-| PS3 유럽판 BLES-02157 | 정식 영어 현지화 |
-| PS Vita 서구판 | PS3 서구판과 같은 영어 현지화 계열 |
-| Windows Steam | 2016 후발 이식 / 영어·일본어 지원 / Steam 도전과제·클라우드 |
+| 2013 일본 PS3 BLJS-10227 | 원본 일본어 콘솔판, 2013-07-25 출시. 2013-10-17 PS3 공식 편의 업데이트 대상 |
+| 2013 일본 PS Vita | **[원제작사 FAQ](https://www.arcsystemworks.jp/support/xblaze.html)에서 PS3와 게임 내용·시나리오 차이 없음**. 단, PS3와 세이브 데이터 공유 불가 |
+| PS3 / Vita 패키지·다운로드 | 양 플랫폼 각 패키지/다운로드의 게임 내용은 공식상 동일함. 바이너리·저장 용량까지 같은 뜻은 아님 |
+| 2013-10-17 PS3·Vita 공식 패치 | EXTRAS에서 체크한 TOi 기사/A.O.S. 재감상, 설정 초기화, ADV 연출 강화, 2회차 스태프롤 스킵. **Vita만 저장/로드 처리 단축 및 슬립 방지 개선**. [공식 공지](https://www.arcsystemworks.jp/xblaze/sp/information/) |
+| 2014 북미 PS3 BLUS-31367 | Aksys Games 공식 영어 현지화 본편 / 2014-06-24. 한국어 번역 아님 |
+| 2015 유럽 PS3 BLES-02157 | Funbox Media 공식 영어판 / 2015-09-18 |
+| 2016 Windows Steam | **동일 스토리 계열의 영어 정식 텍스트·일본어 음성/자막**, 2016-03-01. PC Steam 도전과제·클라우드. 한국어 미지원 |
 
-PS3와 Vita 사이에 대규모 시나리오 추가·삭제 차이는 확인되지 않았고, PC판도 같은 작품의 후발 이식으로 확인된다. 따라서 현재 일반 플레이만 놓고 보면 PC판의 접근성이 높지만, PS3판 자체를 보존·현지화하는 목적에서는 원본 콘솔판 의미가 남는다.
+**보존·실행 차이:** PS3·Vita의 원래 본편 내용은 개발사 확인상 같으나 서로 다른 하드웨어에서 실행하고 **저장 데이터는 공유되지 않는다**. PS3판만 갖춘 새 시나리오가 있다는 근거가 없다. PS3나 Vita의 공식 영어판, PC Steam은 '한국어로 플레이할 수 있는 버전'이 아니다. [원제작사 FAQ](https://www.arcsystemworks.jp/support/xblaze.html)와 [2013 공식 패치](https://www.arcsystemworks.jp/xblaze/sp/information/)를 2026-10-23 재확인했다.
+
 
 ## 현재 추천 버전
 
@@ -181,7 +217,7 @@ PS3 실기 또는 에뮬레이터 환경을 유지하면서 스토리를 영어�
 
 - 작품성 / 희소성: **중간**. 강한 호불호가 있지만 『BlazBlue』 세계관의 독립 VN으로 기록 가치가 있다.
 - 한국어 접근성: **낮음**. 한국 지역 유통 기록은 있으나 한국어판 근거가 없다.
-- 기존 한국어화 대안: **2026-10-07 기준 확인되지 않음**.
+- 기존 한국어화 대안: **2026-10-23 기준 PS3·Vita·PC 공식 한국어판 및 검증된 공개 완성 한글패치 미발견**. PC 정식 영어판은 한국어 대안이 아님.
 - 다른 언어 대안: 북미·유럽 PS3·Vita 및 Steam 영어판 존재.
 - 대상 판본 가치: **낮음~중간**. PS3만의 독자 콘텐츠는 확인되지 않고 PC판이 같은 작품을 제공한다.
 - 한글화 우선도: **C**
@@ -249,3 +285,17 @@ PC판과 영어 현지화판이 존재한다는 사실만으로 PS3판의 스크
 - [게임콘텐츠등급분류위원회 - PS Vita 영문판 국내 심의](https://www.gcrb.or.kr/Mobile_NEW/sub/game%20search_Info.aspx?app=5S91U1lGITI%3D&type=xl%2FkTOU3dYU%3D)
 - [게임메카 - 국내 통용 제목·게임 소개](https://www.gamemeca.com/game.php?gmid=g0006567&rts=gmview)
 
+## 2026-10-23 조사에 추가한 직접 근거
+
+- [Arc System Works 개발사 FAQ: PS3·Vita 내용 동일·세이브 공유 불가·자동 세이브 조건](https://www.arcsystemworks.jp/support/xblaze.html)
+- [Arc System Works 2013-10-17 PS3/PS Vita 시스템 업데이트: TOi/A.O.S. 재열람·스태프롤 스킵](https://www.arcsystemworks.jp/xblaze/sp/information/)
+- [Famitsu PS3 8/8/8/6·30/40 독립 네 편집자 리뷰](https://www.famitsu.com/game/title/28555/reviews)
+- [GameFAQs PS3 직접 이용자 Good 59명·약29h 28명](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo)
+- [GameFAQs PS3 기명 이용자 7/10 한 건 (다른 Vita 리뷰와 구분)](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo/reviews)
+- [Metacritic PS Vita 43/100·5평론, PS3판 숫자와 혼동 금지](https://www.metacritic.com/game/xblaze-code-embryo/critic-reviews/)
+- [Play-Asia 일본 PS3 이용자 평가 5/5·20건](https://www.play-asia.com/ja/xblaze-code-embryo/13/706gcx)
+- [Steam PC 공식 언어와 2026-10-23 69건 중 78% 긍정, 한국어 미지원](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)
+- [게임콘텐츠등급분류위원회 PS3 2013-07-31 국내 등급심의, 게임 언어 명시 없음](https://www.gcrb.or.kr/Mobile_NEW/sub/game%20search_Info.aspx?app=SGM6ju1j02c%3D&type=xl%2FkTOU3dYU%3D)
+- [국내 PS Vita 2014-07-18 등급심의에서 영문판 명시](https://www.gcrb.or.kr/Mobile_NEW/sub/game%20search_Info.aspx?app=5S91U1lGITI%3D&type=xl%2FkTOU3dYU%3D)
+- [PS3·Vita 종합 소개 및 PS3 실기 화면](https://www.gamer.ne.jp/news/201304250050/)
+- [PS3판 TOi 설명 및 PS3·Vita 실제 스크린샷](https://www.gamer.ne.jp/news/201307250016/)
