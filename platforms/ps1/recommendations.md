@@ -1,6 +1,6 @@
 # PlayStation 1 전체 작품 평가
 
-> PS1 기종 **2026-10-17 신설 / 2026-10-22 현행: 전체 보존 5건 · 웹 기본 표시 4건 · 신규 활성 번역 2건(B급 1·C급 1) · 비활성 평가 3건** / 순위는 기존 PS2·PSP 평가와 혼합하지 않음.
+> PS1 기종 **2026-10-17 신설 / 2026-10-23 현행: 전체 보존 6건 · 웹 기본 표시 5건 · 신규 활성 번역 2건(B급 1·C급 1) · 비활성 평가 4건** / PS1 역사 순위는 타 플랫폼·사용자 외부 장르군 순위와 섞지 않음.
 
 [PS1 목록](README.md) · [PS1 웹 기본 화면](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1)
 
@@ -11,6 +11,7 @@
 | [ToHeart (투하트) · PS1](games/toheart.md) | 1999 | 학원·청춘 연애 비주얼 노벨 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | GameFAQs PS1 3.5/5·16표 / 22.3h·13명 / 게임카탈로그 良作 | 2026-10-17 PS1 공개 완성 한글패치 미확인 / 2025 Steam 리메이크 본편 부분 유저 한글패치 공개·완성 범위 불확실 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2004 PS2 동봉판 → 2009 PSP → 2025 PC·Switch 리메이크 | 🟡 다른 판본 한국어 대안 범위 검증 보류 | 후보군 | Steam 2025 리메이크 본편 부분 팬번역·PS1 직접 완성 패치 미확인, 콘텐츠 범위 보류 | 8.2 | 미산정 | 1999 소비자판의 대본 개작·음성·CG·공략요소·3종 미니게임 우수. 일부 플래그 불친절·반복 루트·2CD/구형 UX 아쉬움. | 근거 충분 |
 | [serial experiments lain (시리얼 익스페리먼츠 레인)](games/serial-experiments-lain.md) | 1998 | 비선형 기록·영상·일기·심리 상담 미스터리 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | PS1 Bangumi 7.8/10·68명 / GameFAQs Good·25명 / 4Gamer 원 제작자 3명 인터뷰 / 2015 HonestGamers 조작·로딩 비판 | 1998 PS1 직접 한국어 패치 미발견 / 2026 lainTSX 웹 Korean 667 VTT vs English 673 VTT·주요 노드 한국어 대사 확인 / 완주·원본 PS1 디스크 구동 미검증 | 1998 Pioneer LDC PS1 2CD SLPS-01603·01604 / 2021 팬 웹 lainTSX 다국어 번역 / 2026 Switch 홈브류·Windows/Mac/Linux 네이티브 실행 코드는 비공식 | 🟡 사용자 요청 PS1 기본 화면 표시·한국어 웹 번역 대안 존재·신규 한글화 활성 제외 | 기존 목록 |  | 8.3 | 미산정 | 기록과 상담·영상 파일을 순서 없이 조립하는 서사적 독창성·심리 묘사·시청각 아카이브가 강점. PS1 본래 3D 파일 탐색·느린 반응·불친절한 UX·빈약한 게임플레이가 약점. | 근거 충분 |
 | [Akagawa Jirō: Yasōkyoku (아카가와 지로 야상곡 / PS1 원작)](games/akagawa-jirou-yasoukyoku.md) | 1998 | 책·죽음·노노미야 도서관 추리 호러 사운드 노벨 | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Gavas PS1 5.0/5·이용자 후기 5건 / 별도 한정판 5.0/5·4건은 같은 게임 / Famitsu PS1 수치 미확인 | 2026-10-17 PS1 직접 한글패치 미확인 / RetroDB #5136 제목 달의 빛·연결 정보 야상곡 충돌 / DS 한국어 실제 번역 범위 검증 전 | 1998 PS1 1편 SLPS-01462 → 2001 PS1 야상곡2 별도 → 2008 DS 책에 초대된 살인 1+2 합본·터치 추리 | 🟡 사용자 지정 PS1 기본 작품 평가·한국어 대안 판본 확인 보류·신규 한글화 활성 제외 | 기존 목록 |  | 7.6 | 미산정 | 산속 도서관의 죽음에 얽힌 서적과 책장형 멀티엔딩, 사운드·여름 호러/추리 분위기가 강점. 선택지 분기/재독/저장 편의 부족과 1편 단독 수록이 단점. | 근거 충분 |
+| [Koudelka (쿠델카)](games/koudelka.md) | 1999 | 웨일스 수도원·3인 고딕 호러 서사·그리드 턴제 RPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | MobyGames PS1 비평 65/100·36매체/유저 3.8/5·38명 / GameFAQs Good·482표 / GameSpot 6.7/10 / RPGFan 60/100 / RPGamer 원평 3.5/5·후대 2.5/5 | **2026-09-17 제작자 퍄퍄퍄퍄 PS1 일본판 4디스크 한국어 패치 공개** / DuckStation 0.1-11826 엔딩 완료·아이템명 수정 입력창 미번역·실기 미검증 / 한글로게임 2026-09-17 교차 등재 | 일본 1999 PS1 SLPS-02460~63 4장·북미 2000 PS1 SLUS-01051 등 공식 영어판 / 2001 Shadow Hearts는 시리즈 후속 RPG, 본작의 리메이크·확장 이식판 아님 | 🟡 공식 한국어판 아닌 2026 공개 팬패치 존재·신규 한글화 활성 제외·기본 작품 평가로만 표시 | 기존 목록 | 동일 PS1 게임에 DuckStation 엔딩 테스트를 마친 공개 한글패치 존재 · 실제 PS1 하드웨어 미검증 / A·B·C 우선도 미부여 | 6.5 | 미산정 | 자료에 따른 6.5/10과 사용자가 제공한 장르군 공동149위·중간신뢰(외부 평가)는 보존하며 PS1 역사 순위에 이식하지 않는다. 1898년 수도원의 3인 관계·캐릭터 연기·음악·CG가 강점, 랜덤 전투/로딩·장비 파손·그리드 병목/인벤토리 불편이 4.0/5 상향을 제한. | 중간 신뢰도 (사용자 제공·독립 출처 병기) |
 
 ## 2026-10-17 PS1 《serial experiments lain》 작품성·한국어 웹 자막 보존
 
@@ -46,3 +47,13 @@ PS1 리뷰·기본 보존 **3→4개**, 기본 화면 **2→3개**, 신규 활�
 2026-10-22 PS1 일반·초회·Best 및 PSP 합본의 **실사용 공개 완성 한국어 패치는 발견하지 못했다**. [국내 1999년 게임라인 공략](https://theroomofspiritandtime.tistory.com/1936)은 대사·분기를 설명하는 공략이지 게임 본문 한글화가 아니다. 실제 [PS1 스크린샷 No.003](https://psxdatacenter.com/images/screens/J/L/SLPS-02204/ss3.jpg)·[No.004](https://psxdatacenter.com/images/screens/J/L/SLPS-02204/ss4.jpg)·[No.005](https://psxdatacenter.com/images/screens/J/L/SLPS-02204/ss5.jpg) 3장을 원출처로 링크하고 저장소에 이미지를 복제하지 않는다.
 
 **PS1 보존 4→5 / 기본 화면 3→4 / 신규 활성 1→2(B 1·C 1) / 발굴 우선 0·한글화 A 0 유지.** 기존 4개 작품의 점수·역사 순위·찜 ID·상태는 그대로이며, 기존 표의 빈 줄 때문에 마지막 행이 파서에서 무시될 수 있는 구조도 한 표로 이어지도록 정리했다.
+
+## 2026-10-23 《쿠델카 / Koudelka》 PS1 2026 한글패치 발견·작품성 6.5점 기록
+
+[1999-12-16 PS1 일본 원작 《クーデルカ》](games/koudelka.md)에 **작품성 ⭐⭐⭐½☆ 3.5/5 / 별도 기존 사용자 점수 6.5/10**을 부여한다. **사용자가 제시한 장르군 공동 149위·중간 신뢰도**는 PS1 역사 순위가 아니라 독립 원장 메타데이터이므로 149위를 PS1 내부 순위로 잘못 기입하지 않았다. [MobyGames 36개 매체 65/100](https://www.mobygames.com/game/5387/koudelka/), [GameSpot 6.7/10](https://www.gamespot.com/reviews/koudelka-review/1900-2548050/), [RPGFan 60/100](https://www.rpgfan.com/review/koudelka/), [RPGamer 원평 3.5/5](https://archive.rpgamer.com/games/koudelka/koud/reviews/koudstrev1.html)·[후대 재평 2.5/5](https://archive.rpgamer.com/games/koudelka/koud/reviews/koudstrev2.html)의 상반된 의견을 각각 해당 **PS1 게임**의 자료로 기록했다. 고딕호러·1898 웨일스·서사/연기와 전투/무기 파손·지연/UI 약점은 작품성 판단 근거다.
+
+**이번 조사에서 한국어화 패치를 발견했다.** [2026-09-17 제작자 공개 본문](https://pyapyapya11.tistory.com/2460)은 일본 PS1 **4장 디스크 MD5**와 **DuckStation 0.1-11826에서 엔딩까지 정상 동작**을 명시하고, **아이템명 직접 수정 입력칸 미번역·PS1 실기 미시험**을 분명히 알린다. [한글로게임 콘솔 배포 목록](https://www.hangulogame.com/console/)도 **PS / 쿠델카 / 퍄퍄퍄퍄 / 2026-09-17**로 확인한다. 목록 등재는 제작자의 실기 QA를 독립 검증했다는 뜻이 아니며 직접 패치 파일 다운로드·실행·현재 폴더 접근은 시험하지 않았다. [2020 한국어 공략](https://theroomofspiritandtime.tistory.com/5547)은 게임 한국어 적용 패치와 구별한다.
+
+**신규 미번역 한국어화 활성 후보에서는 제외, 현행 A/B/C 우선도 미부여.** 작품성·서사·동시대 평가를 보존하고 사용자가 검색·찜할 수 있도록 **DS의 정식 한국어판처럼 PS1 전체 리뷰 「기존 목록」 표시**에 단 한 행만 추가한다. [PS1 원판 탐색 캡처](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26271/) · [실제 전투](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26285/) · [게임 메뉴](https://www.mobygames.com/game/5387/koudelka/screenshots/playstation/26276/) 3개도 상세 문서에서 링크한다.
+
+**PS1 보존/작품 리뷰 5→6건 · 웹 기본 표시 4→5건 · 한국어 신규 번역 활성 2건(B 1·C 1)·우선 💎 0·A 0 유지.** 기존 PS1 5개 작품 점수·역사 순위·찜 식별자, 타 플랫폼의 기록·Pages 링크/사이트 코드를 변경하지 않는다.
