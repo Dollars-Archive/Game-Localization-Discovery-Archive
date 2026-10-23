@@ -3,7 +3,7 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **62개** / 기본 선정: **30개** / 예비 기록: **32개**  
+> 기록 보존: **63개** / 기본 선정: **30개** / 예비 기록: **33개**  
 > 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 16 · C 13 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
@@ -152,3 +152,11 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 **공식 판본 확인:** [Arc System Works FAQ](https://www.arcsystemworks.jp/support/xblaze.html)에서 PS3·Vita는 내용이 같으며 패키지·다운로드 사이에도 내용 차이가 없고 세이브는 서로 공유되지 않는다고 밝혔다. [2013-10-17 PS3/Vita 업데이트](https://www.arcsystemworks.jp/xblaze/sp/information/)는 TOi 기사·A.O.S. 확인/재감상, 2회차 스태프롤 스킵 등 편의 기능을 보강한다. [Steam 2016 PC판 공식](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)은 **한국어 미지원, 영어·일본어 지원**이며 PC판 2026-10-23 사용자 **69건 중 78% 긍정**은 PS3 직접 정량 평점이 아니다. 한국 PS3 심의는 한국어 현지화 증거가 아니고 Vita 영문판 별도 심의가 확인된다.
 
 **2026-10-23 PS3·Vita·PC의 검증된 공개 완성 한글패치 및 공식 한국어판 미발견.** 한국어화 C급 자격은 유지되나 기존 30개 기본 선정에서 2026-10-17 사용자 지정 작품 교체로 **예비에 이동한 이력**을 보존한다. 다른 작품을 임의 탈락시키지 않고 **기본 선정 30·예비 32·보존 62·💎4·A0**, 2026-10-08 역사 55작품 순위·찜 키/다른 플랫폼/Pages 바로가기 모두 불변.
+
+## 2026-10-24 《Time Leap / 타임 리프》 PS3 B급 잠정 적격·예비 보존
+
+[2012년 PS3 Time Leap 상세 평가](games/time-leap.md)는 **⭐⭐⭐½☆ 3.5/5·별도 자료 기반 신규 7.0/10·역사 순위 미산정**이다. [Prototype PS3 공식](https://prot.co.jp/ps3/index.html), [4Gamer 2012](https://www.4gamer.net/games/137/G013705/20120105017/)와 [Gamer 상세](https://www.gamer.ne.jp/news/201112280009/)는 2007 PC 원작을 확장한 2009 Xbox360판에 다시 **PS3 전용 3DTV 입체시·신규 이벤트·표시 모드·춤 감상**이 추가됐음을 확인한다. GameFAQs PS3 Good·4표/7h·3표본, Play-Asia PS3 이용자 23평가(본문 5)의 3D 화면·음악 호평과 짧고 단순한 연애 구조, PS3 유 루트 완주자의 일상 반복·시간이동 이야기 활용 비판을 구별했다. 4.0점은 과하므로 작품성은 3.5점, 별도 추천은 7.0점으로 평가한다.
+
+2026-10-24 현재 PS3·2009 Xbox360·2007 Frontwing Windows 본편의 공식 한국어판 또는 배포 완료 한글패치는 공개 검색에서 확인되지 않았다. 2009 Windows 《タイムリープぱらだいす》는 **별도 팬디스크**, 2016 Steam 《Time Leap Paradise SUPER LIVE!》는 **본편 미수록 춤 스핀오프**다. 정식 PS3 추천판은 **BLJM-60390(2012-01-12)**, 2013 다운로드판 **NPJB-00339**는 SKU만 확인하고 바이너리 동일성 미검증. **작품성 3.5/5 및 한글화 B급 잠정 적격**이나 기존 사용자 확정 PS3 기본 30개를 밀어내지 않도록 [예비 리스트](reserve.md)에 **비활성 예비 한 행**만 추가했다.
+
+PS3 기본 30개·기본 선정 작품성 4.0 이상 4개·선정 한글화 A 0/B16/C13/평가만1개 **전부 유지**, PS3 전체 보존 **62→63** / 예비 **32→33**. 기존 55개 작품 원장 순위·점수·찜 ID·타 플랫폼과 Pages 링크 및 사이트 스크립트는 변경하지 않음.
