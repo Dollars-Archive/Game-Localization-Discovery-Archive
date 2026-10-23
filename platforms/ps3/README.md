@@ -144,3 +144,11 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 [2012 PSP 《水月 弐 ～Portable～》](../psp/games/suigetsu-ni-portable.md)은 PS3 원본에 없던 나고미 루트·추가 엔딩·CG/OP·편의 기능을 포함하며, 2012 PC 《追憶》는 진상·과거편이 추가된 후발판이다. [2008 PSP 《水月 Portable》](../psp/games/suigetsu-portable.md)은 전작 1편으로 본 2편과 구별한다. 2026-10-22 PS3·PSP·후발 PC 2편의 실사용 공개 완역 한국어 대안은 확인하지 못했으며 파일 리소스를 실험하지 않아 기술 난도는 **미확인**이다.
 
 기존 PS3 기본 작품 목록은 **30개 그대로**, PS3 전체 상세 보존 **61→62**, 예비 **31→32**. 역사적 55작품 점수·순위·찜 키·다른 플랫폼 기록·기존 GitHub Pages 링크는 변함없다.
+
+## 2026-10-23 《XBLAZE CODE：EMBRYO》 기존 PS3 예비 C급 재평가
+
+[기존 PS3 상세 분석](games/xblaze-code-embryo.md)과 [PS3 예비 목록](reserve.md)의 **⭐⭐⭐½☆ 3.5/5·한글화 C급·개인 추천 7.1/10·2026-10-08 당시 전체 34위**를 유지한다. [Famitsu PS3 네 평론가 30/40](https://www.famitsu.com/game/title/28555/reviews)는 대화·애니메이션식 연출 및 TOi의 참신함을 긍정하면서 분기 조건의 불투명함을 지적했다. [GameFAQs PS3 Good·59명, 29시간·28명](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo)과 별도 [Vita Metacritic 43/100·5평론](https://www.metacritic.com/game/xblaze-code-embryo/critic-reviews/)을 섞어 평균하지 않는다.
+
+**공식 판본 확인:** [Arc System Works FAQ](https://www.arcsystemworks.jp/support/xblaze.html)에서 PS3·Vita는 내용이 같으며 패키지·다운로드 사이에도 내용 차이가 없고 세이브는 서로 공유되지 않는다고 밝혔다. [2013-10-17 PS3/Vita 업데이트](https://www.arcsystemworks.jp/xblaze/sp/information/)는 TOi 기사·A.O.S. 확인/재감상, 2회차 스태프롤 스킵 등 편의 기능을 보강한다. [Steam 2016 PC판 공식](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)은 **한국어 미지원, 영어·일본어 지원**이며 PC판 2026-10-23 사용자 **69건 중 78% 긍정**은 PS3 직접 정량 평점이 아니다. 한국 PS3 심의는 한국어 현지화 증거가 아니고 Vita 영문판 별도 심의가 확인된다.
+
+**2026-10-23 PS3·Vita·PC의 검증된 공개 완성 한글패치 및 공식 한국어판 미발견.** 한국어화 C급 자격은 유지되나 기존 30개 기본 선정에서 2026-10-17 사용자 지정 작품 교체로 **예비에 이동한 이력**을 보존한다. 다른 작품을 임의 탈락시키지 않고 **기본 선정 30·예비 32·보존 62·💎4·A0**, 2026-10-08 역사 55작품 순위·찜 키/다른 플랫폼/Pages 바로가기 모두 불변.
