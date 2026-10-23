@@ -1,12 +1,38 @@
 # Touch, Shot! Love Application (터치, 하자! -Love Application-)
 
+## 2026-10-24 PS3 원작·한국어화·평론 재검증
+
+**현행 판정: 작품성 ⭐⭐⭐½☆ 3.5/5·한글화 B급 후보 자격 유지·개인 추천 7.0/10·2026-10-08 역사 55작품 중 42위 유지.** 현재는 PS3 기본 선정 30개 바깥의 **기존 예비 후보**다. 기존 사용자 지정 기본 30개 화면을 임의로 변경하거나 다른 작품을 탈락시키지 않는다.
+
+### 공식 국내 정발이었지만 실제 게임은 일본어
+
+- **[2012-02-01 CFK의 직접 발매 관련 설명](https://www.gamemeca.com/view.php?gid=6539):** 사이버프론트코리아가 **한국어화 발매를 추진했으나 당시 여건으로 성사되지 않아 일본어판을 한일 동시 발매**했다고 밝힌 기사. 출시 후 한국어판을 재협의할 수 있다는 말은 **실제 추가 한국어판 출시 확인이 아니다**.
+- [GameFAQs 제품 코드/출시일](https://gamefaqs.gamespot.com/ps3/644811-touch-shot-love-application/data): 한국 정식 패키지 **BLKS-20357**, 일본 일반 **BLJM-60444**, 일본 한정 **BLJM-60443** 모두 2012-02-23. [제작사 Compile Heart 제품 기록](https://www.compileheart.com/spec/?hard=ps3&title=touchshot)은 2013-06-27 **CH Selection** 저가 재출시까지 확인한다.
+- [국내 작품 데이터](https://namu.moe/w/%ED%84%B0%EC%B9%98%2C%20%ED%95%98%EC%9E%90%21%20-Love%20Application-)도 한국 정발판의 **한국어 미지원**을 명시한다. 한국 정발과 한국어 로컬라이징은 별개의 사실이다.
+- **2026-10-24 기준** 본 게임 제목의 일본어·영어·한국어 변형과 한국어/한글패치/Korean translation/PS3/BLKS를 조합하여 재검색했으나 **공식 한국어판의 후발 출시·실사용 가능한 공개 완성 한글패치의 검증된 근거를 찾지 못했다**. 개인 비공개 작업 부재를 단정하지 않는다.
+
+### 본편 4히로인과 2012년 별도 DLC
+
+- [제작사 공식 스토리](https://www.compileheart.com/spec/?hard=ps3&title=touchshot)의 yPhone에는 **기본 4명의 운명 상대**가 나오고, Satori 속마음 읽기·Imagine 상상 장면·Mind Bind·3D 아바타, 전화·메일·BBS 및 지도/데이트가 연결된다. [Dengeki 시스템 소개](https://dengekionline.com/elem/000/000/452/452591/)에서는 Satori가 생각/단어/감정 탐지 기능으로 확장되고 특정 상황에서 Mind Bind 이벤트가 발생한다고 소개했다.
+- 2012년 당시 [DLC 이용자 조사 기록](https://blog.livedoor.jp/togurotogenkai/archives/67429077.html)에서 **하리무라 나츠(播村奈津) 추가 공략 시나리오 700엔**과 **Satori 사용 무제한 300엔**이 별도 상품으로 언급된다. [2012-03-19 독립 PS3 플레이어](https://otakunokouta.seesaa.net/article/201203article_20.html)도 나츠 유료 시나리오와 Satori 제한을 지적했다. 당시 가격이며 현재 PSN 판매/다운로드 가능 여부 및 DLC 내용 전수는 미확인이다.
+- [한정판 MobyGames 자료](https://www.mobygames.com/game/85011/touch-shiyo-love-application-genteiban/)의 특전은 yPhone 미니 참, 마스코트 피규어, 컬러 일러스트 카드 등 **물리 구성품**이다. 본편 추가 공략 루트가 한정판/2013 CH Selection에 무료로 포함되었다고 추정하지 않는다. DLC 시나리오를 한국어화하려면 해당 DLC의 현재 접근/소유/데이터 추출·UI/대사·모든 엔딩까지 별도 확인해야 한다.
+
+### 실제 PS3판 작품성 평가
+
+- [Famitsu PS3 직접 리뷰](https://www.famitsu.com/game/title/24883/reviews)는 **7·7·7·8 = 29/40점, 리뷰어 4명**. yPhone과 독특한 심리 이벤트·3D 캐릭터 연출을 인정하면서도 Satori 배터리 감소·시간대와 대사 불일치, 이벤트 중복, 메일 답장 부재, Avatar 반응 부족을 지적했다.
+- [2012-03-19 개인 PS3 실플레이 1명](https://otakunokouta.seesaa.net/article/201203article_20.html)은 히로인을 알기 전에 지나치게 빨리 선택하는 도입, BBS 확인에 비해 부족한 인물 이벤트, Satori 키워드·가동 시점에 따른 엔딩 분기 불명확과 재주행 부담을 상세히 비판했다. **첫 번째 히로인 중심 후기이지 전 루트 완주 표본은 아니다.**
+- [Dengeki 2012-02 체험기](https://dengekionline.com/elem/000/000/452/452591/)는 출시 전 홍보·샘플 ROM 소개여서 독립적인 최종 완주 전문평으로 세지 않는다. [Dengeki PlayStation 513호 80/70/85/60](https://hokanko-alt.ldblog.jp/archives/67327523.html)은 2차 재록, Famitsu 리뷰와 다른 지표다. [4Gamer 본 작품](https://www.4gamer.net/games/141/G014199/)은 이용자 리뷰 **0건**이고 GameFAQs Good·3명 및 12시간·1명은 **과거 조사 표본**으로 현행 재확인 실패했다.
+- **3.5/5 유지:** 마음읽기와 실시간 3D 히로인은 명확한 개성이지만 루트 진입과 일정·대사 로직 및 반복 이벤트 구현이 거칠어 4점에는 부족하다. 한국 미한글 정발·PS3 독점성은 게임성 점수 가산 근거가 아니며, 번역 자격 및 7.0점·42위는 서로 별개다.
+
+**2026-10-24 등록 결론:** PS3 원판의 한국어 대안 제외 사유를 찾지 못해 **예비 한글화 B급 후보 자격 유지**, 원본 PS3 일본/한국 지역 파일·DLC·폰트·3D UI·엔딩 검수를 직접 수행하지 않아 **기술 난이도 미확인**. 기존 PS3 기본 30·예비 33·전체 보존 63개와 역사 점수/찜 식별자를 유지한다.
+
 ## 2026-10-08 개인 추천과 선정 결과
 
 - **개인 추천 7.0/10 · 전체 55개 중 42위**
 - 현재 작품성 **3.5/5** / 이전 기록 **3.5/5**
 - 목록 구분: **예비 기록** — 개인 추천 순위 경계 밖
 - 대화 주제 선택과 스마트폰식 장치를 쓰는 독특한 상호작용은 매력. 반복 이벤트·일정 흐름·규칙의 불일치 지적 때문에 이야기와 플레이 양쪽을 강하게 기대하는 취향에서는 후순위다.
-- 현재 한국어 확인: PS3 공식 한국어: 공식 한국어판을 확인하지 못함 / PS3 공개 패치: 공개 PS3 한글패치를 확인하지 못함 / 다른 판본: 한국 유통판 존재와 한국어 지원은 별개. PS3 공식 한국어·공개 패치 미발견. / 조사 한계: 공개 검색·판본 자료 기준의 미발견이며 부존재 증명이나 직접 실행 검증이 아님
+- 2026-10-08 당시 한국어 확인: 공식 한국어판·공개 패치 미발견 / 2026-10-24 갱신: **2012 CFK 한국어화 추진 실패·일본어판 국내 동시발매 직접 발언 확인** / 이후 공개 완성 한국어판·패치는 검색에서 미발견, 비공개 부재 단정 금지
 
 [동일 기준의 55작품 비교·출처·선정 사유](../reassessments/2026-10-08-personal-top-30.md). 개인점수는 자료 기반의 주관적 추천이며 직접 플레이 평점이나 작품성 별점의 환산이 아닙니다. 아래 기존 조사 본문은 최신 정정과 함께 보존합니다.
 
@@ -51,6 +77,7 @@ yPhone에는 운명의 상대를 찾는 기능, 상대의 마음을 읽는 **Sat
 - 3D 캐릭터를 감상하고 의상·배경·BGM을 바꾸거나 반응을 확인하는 **Avatar Mode**가 있다.
 - 호감도만 높이는 것이 아니라 일부 보상 이벤트는 오히려 나쁜 반응을 끌어내야 하는 등, 히로인의 숨겨진 취향을 파악하는 구조가 있다.
 - 주요 캐릭터는 풀보이스이며 3D 모델을 적극적으로 사용한다.
+- **2012년 유료 추가 DLC**로 하리무라 나츠 공략 시나리오(당시 700엔)와 Satori 사용 무제한 기능(당시 300엔)이 기록돼 있다. 기본 4명을 기본 5명으로 세지 않고 DLC 구매·현재 이용 가능 여부는 미확인으로 남긴다. [2012 DLC 기록](https://blog.livedoor.jp/togurotogenkai/archives/67429077.html).
 
 ## 왜 발굴할 만한가
 
@@ -87,12 +114,13 @@ yPhone에는 운명의 상대를 찾는 기능, 상대의 마음을 읽는 **Sat
 
 | 출처 | 점수 | 표본 수 | 대상 판본·비고 |
 |---|---:|---:|---|
-| Famitsu | 29/40 | 공식 리뷰어 4명 | 7 / 7 / 7 / 8 |
+| [Famitsu PS3 직접 원문](https://www.famitsu.com/game/title/24883/reviews) | **29/40** | 공식 리뷰어 **4명** | 7·7·7·8, 마음읽기·3D 연출 호평과 반복/메일/시스템 불편 지적 |
 | Dengeki PlayStation | 80 / 70 / 85 / 60 | 리뷰어 4명 | 당시 DPS 513 리뷰 점수 기록 |
-| GameFAQs | Good | 사용자 3명 | PS3 사용자 평가 / 표본 매우 적음 |
+| [GameFAQs PS3](https://gamefaqs.gamespot.com/ps3/644811-touch-shot-love-application) | 과거 **Good** | 과거 **3명**, 현행 재조회 불가 | 최초 PSP 아닌 PS3 사용자 평가 기록. 현재 표본을 추정하지 않음 |
 | GameFAQs 플레이타임 | 12시간 | 1명 | 참고만 가능 |
-| Dengeki Online | 정성 호평 | 특집 플레이 인상 | 대화 시스템·3D 모델·Satori 구성 긍정 |
-| 일본 개인 플레이 기록 | 정성 혼합평 | 1명 | 초반 공략 구조·불친절한 설계 비판 |
+| [Dengeki Online 2012](https://dengekionline.com/elem/000/000/452/452591/) | 정성 호평 | **출시 전 샘플ROM 체험 특집** | 대화 시스템·3D 모델·Satori 긍정. 전루트 완료 후 비평 아님 |
+| [2012-03-19 PS3 개인 플레이](https://otakunokouta.seesaa.net/article/201203article_20.html) | 정성 혼합평 | 1명 | 첫 히로인 플레이·굿엔딩, 초기 공략 대상 선택·BBS·Satori 타이밍 불투명 비판 |
+| [4Gamer PS3](https://www.4gamer.net/games/141/G014199/) | 이용자 리뷰 없음 | 0건 | 게임 기사·영상과 이용자 평가를 구분 |
 
 ### 발굴 추천도 판단
 
@@ -110,15 +138,15 @@ Satori로 상대의 마음을 읽고 화제를 고르는 대화, 스마트폰을
 
 ### PS3판
 
-- 공식 한국어판: **없음**.
+- 공식 한국어판: **2012년 국내 출시판은 일본어판으로 확정**. [CFK 2012-02-01 당시 직접 발언](https://www.gamemeca.com/view.php?gid=6539)은 한국어화 추진이 성사되지 않았음을 명시. 2026-10-24까지 별도 공식 한국어 후발판 미발견.
 - 한국 유통판: **BLKS-20357**, 2012-02-23 발매. 국내 통용 제목은 『터치, 하자! -Love Application-』.
 - 한국판은 정식 유통됐으나 **게임 본문은 일본어**로 알려져 있다.
-- 공개 PS3 유저 한국어 패치: **2026-10-07 기준 공개적으로 확인되지 않음**.
+- 공개 PS3 유저 한국어 패치: **2026-10-24 기준 실사용 가능한 공개 완성 패치 배포 증거 미발견** (PS3 일본 BLJM 및 한국 BLKS 통칭 검색; 개인/비공개 부재 단정 불가).
 - 공식 영어판: 확인되지 않음.
 
 ### 다른 플랫폼
 
-- PS Vita·PS4·PC·Switch 등 후발 이식판: **2026-10-07 기준 확인되지 않음**.
+- PS Vita·PS4·PC·Switch 등 후발 정식 이식판: **2026-10-24 기준 확인되지 않음**. 유사 제목 모바일 앱·후일담 소설/아트북은 동일 본편 게임 이식으로 간주하지 않는다.
 - MobyGames 역시 본작을 PlayStation 3 세대 독점 타이틀로 분류한다.
 - 동일 작품을 한국어로 플레이할 수 있는 다른 플랫폼의 공식판·공개 패치도 확인하지 못했다.
 
@@ -187,9 +215,11 @@ Satori로 상대의 마음을 읽고 화제를 고르는 대화, 스마트폰을
 
 ## 대표 스크린샷
 
-1. [Compile Heart 공식 제품 페이지 / 실제 게임 화면](https://www.compileheart.com/spec/?hard=ps3&title=touchshot)
-2. [Dengeki Online 게임 시스템 특집 / 실제 대화·yPhone 화면](https://dengekionline.com/elem/000/000/452/452591/)
-3. [Dengeki Online 퍼스트 인프레션 / 실제 플레이 화면](https://dengekionline.com/elem/000/000/459/459081/index-2.html)
+1. [**4Gamer PS3 인게임 직접 캡처 ①** (일정표·3D 히로인·일본어 대화)](https://www.4gamer.net/games/141/G014199/SS/017.jpg)
+2. [**4Gamer PS3 인게임 직접 캡처 ②** (선택에 따른 인물 반응·일본어 대화)](https://www.4gamer.net/games/141/G014199/SS/015.jpg)
+3. [**IGDB 수록 PS3 인게임 화면 ③** (보건실 대화·yPhone 인터페이스)](https://images.igdb.com/igdb/image/upload/t_1080p/scei0t.png)
+
+[4Gamer PS3 실제 화면 갤러리](https://www.4gamer.net/games/141/G014199/screenshot.html)에서 추가 캡처를 확인할 수 있다. 타 플랫폼/애니메이션 이미지가 아닌 PS3 실제 일본어 UI다. 이미지 데이터는 저장소에 복제하지 않았다.
 
 ## 한줄평
 
@@ -224,3 +254,13 @@ Satori로 상대의 마음을 읽고 화제를 고르는 대화, 스마트폰을
 - [국내 통용 제목·한국 정발 비한글 기록](https://tcatmon.com/wiki/%ED%84%B0%EC%B9%98%2C_%ED%95%98%EC%9E%90%21_-Love_Application-)
 - [일본 개인 플레이 기록 - 시스템 불친절 지적](https://otakunokouta.seesaa.net/article/201203article_20.html)
 
+## 2026-10-24 새로 확인한 출처
+
+- [CFK 2012 국내 동시발매와 한국어화 실패 및 향후 협의 발언](https://www.gamemeca.com/view.php?gid=6539)
+- [Compile Heart 공식 PS3 2012 원판·2013 CH Selection 제품](https://www.compileheart.com/spec/?hard=ps3&title=touchshot)
+- [GameFAQs PS3 일본 BLJM 2종·한국 BLKS-20357·CH Selection 코드](https://gamefaqs.gamespot.com/ps3/644811-touch-shot-love-application/data)
+- [Famitsu PSP 아닌 PS3 2012 4인 실제 리뷰 합계 29/40](https://www.famitsu.com/game/title/24883/reviews)
+- [2012 일본 PS3 직접 첫 히로인 진행 후기·Satori 엔딩 분기/배터리](https://otakunokouta.seesaa.net/article/201203article_20.html)
+- [2012 DLC 당시 700엔 나츠 추가 루트·300엔 Satori 제한 해제 정보](https://blog.livedoor.jp/togurotogenkai/archives/67429077.html)
+- [한정판은 일러스트 카드/미니 참/피규어 물리 특전](https://www.mobygames.com/game/85011/touch-shiyo-love-application-genteiban/)
+- [4Gamer PS3 스크린샷 갤러리/사용자 서술 평가 0](https://www.4gamer.net/games/141/G014199/)
