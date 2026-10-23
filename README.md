@@ -11,7 +11,7 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
+| PlayStation 1 | 6 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 71 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
@@ -19,6 +19,9 @@
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-23 PS1 《Koudelka / 쿠델카》 1999 작품성 평가와 2026 공개 한국어 패치 확인:** [PS1 상세](platforms/ps1/games/koudelka.md)를 **⭐⭐⭐½☆ 3.5/5·사용자 제공 6.5/10·장르군 공동 149위/중간 신뢰도(PS1 역사 순위 아님)**로 기록했다. [MobyGames PS1 전문매체 65/100·36개 리뷰](https://www.mobygames.com/game/5387/koudelka/), [GameSpot 6.7/10](https://www.gamespot.com/reviews/koudelka-review/1900-2548050/), [RPGFan 60/100](https://www.rpgfan.com/review/koudelka/)와 [RPGamer 3.5/5](https://archive.rpgamer.com/games/koudelka/koud/reviews/koudstrev1.html)를 대조해 성숙한 고딕/성우·서사와 느린 랜덤 그리드 전투/무기 파손·저장/장비 UI의 장단점을 평가했다. **[2026-09-17 제작자 공개 PS1 일본판 한글패치](https://pyapyapya11.tistory.com/2460)**는 **DuckStation 0.1-11826에서 엔딩까지 구동**했다는 기록과 일본판 CD 4장 MD5가 있다. 아이템 이름 수정 입력 UI는 일부 미번역이고 원 PS1 실기는 미검증. [한글로게임 9/17 PS / 쿠델카 / 퍄퍄퍄퍄](https://www.hangulogame.com/console/)도 대조했다. 따라서 **신규 한글화 활성 제외 · 우선도 미부여**로 [PS1 기본 작품 평가](platforms/ps1/README.md)에 한 행만 추가하고 [전체 PS1 평가](platforms/ps1/recommendations.md)에 6.5/10·역사 순위 미산정으로 연결했다. **PS1 보존 5→6 / 기본 작품 표시 4→5 / 실제 신규 번역 활성 2건(B 1·C 1) · 우선 💎 0·A 0 유지**. 기존 PS1 5작품의 점수·순위·찜 ID와 타 플랫폼·Pages 원래 진입 링크·사이트 스크립트 무변경.
+
 
 > **2026-10-23 PSP 《오니곳코! 포터블 / 술래잡기!》 기존 활성 B급 복귀:** [2013 일본 PSP 게임 상세](platforms/psp/games/onigokko-portable.md) 작품성 **⭐⭐⭐½☆ 3.5/5·리뷰 6.8/10·과거 공동 101위**를 보존하고 2026-10-04 기본 후보 정원 압축으로 예비에 있던 동일 게임을 [PSP B급 기본 목록](platforms/psp/README.md)에 복귀시켰다. [Famitsu PSP 25/40·4인](https://www.famitsu.com/game/title/28731/reviews), [Bangumi PSP 6.7/10·6명](https://bangumi.tv/subject/141859), [2013-08-01 제작사 공식 v1.01 2회차 진행 버그 수정·선택지 점프](https://www.gamer.ne.jp/news/201308010082/)를 직접 확인했다. PSP에서 추가된 나즈나 루트·원작 감수 기존 시나리오 가필·CG·새 OP를 구작 PC 영어판과 구분한다. **2026-10-23 PSP·2011 PC 원작·2021 공식 영어 PC판에서 검증된 공개 한국어 완성판 미발견**, 제목만 일치하는 번역 게시물은 ALcot 동일 게임 여부 미확인으로 오인하지 않는다. 새 작품 파일이나 리뷰 행은 만들지 않고 기존 한 행을 후보군→기존 목록으로 옮겨 **PSP 보존 70→71 / 활성 47→48 / 우선 💎 5·한글화 A 3·전체 리뷰 130건 유지**. 역사 순위·찜 ID, 타 플랫폼·Pages URL·사이트 코드 불변.
 
