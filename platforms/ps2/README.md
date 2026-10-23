@@ -6,7 +6,7 @@
 
 > 현재 등록 기준: 발굴 추천도 **3.5/5 이상** 중 후보로 남긴 작품  
 > 한글패치 확인 기준일: **2026-10-12** (마나케미아 2·Soul Nomad·AIR·달의 빛은 **2026-10-17** 별도 검증 / 《Sacred Blaze》 **2026-10-17** 재확인 / 《Final Approach》 **2026-10-17** 재검증)  
-> 등록·보존 기록: **51개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
+> 등록·보존 기록: **52개** / 활성 발굴 우선 후보: **9개** / 한글화 A급 후보: **6개**
 >
 > **예외 등록:** `Jewels Ocean: Star of Sierra Leone`은 발굴 추천도 **3.0/5**이지만, **2026-09-15 사용자 승인**에 따라 🟡 보류 항목으로 기록합니다. 일반 등록 하한을 통과한 작품으로 간주하지 않습니다.
 
@@ -66,6 +66,7 @@
 | [MISSINGPARTS sideB the TANTEI stories (미싱 파츠 sideB 더 탐정 스토리즈)](games/missingparts-sideb-the-tantei-stories.md) | 2004 | 탐정·추리 커맨드 ADV | ⭐⭐⭐⭐☆ | C | Joko 44건·5페이지 / PS2 기명·개인 비평 5편 / GameFAQs Outstanding 2표 | 2026-10-07 sideB 공개 확인 못함 | DC 재편 4–6화 / PSP 전6화+신규편 / DC1 한글 기록은 범위 미검증 | 💎 우선 후보 |
 | [Akagawa Jirō: Tsuki no Hikari - Shizumeru Kane no Satsujin (달의 빛: 가라앉은 종의 살인)](games/tsuki-no-hikari-shizumeru-kane-no-satsujin.md) | 2002 | 폐쇄 학원 미스터리 사운드노벨·다중 엔딩 | ⭐⭐⭐½☆ 3.5/5 | C | Famitsu PS2 28/40 (일본 2차 자료·공식 세부 열람 미확인) / Joko PS2 후기 2페이지 3~5점·호불호 / PS2 장문 실평 1편 | 2026-10-17 PS2·DS 공식 한국어·저작자/적용파일까지 검증된 공개 완성 한글패치 미확인 / 다른 赤川次郎 夜想曲 게임과 혼동 금지 | 2002 PS2 원작 SLPS-20196·원래 영상·드뷔시 달빛 OP → 2008 DS NTR-CJ6J·터치 조사·8 책갈피·타카다 번외편·추가 에필로그 / 영상 일부 삭감·HOTARU OP | 🟢 후보 |
 | [SHUFFLE! On the Stage (셔플! 온 더 스테이지)](games/shuffle-on-the-stage.md) | 2005 | 학원·판타지 러브코미디 연애 비주얼 노벨 | ⭐⭐⭐½☆ (3.5/5) | C | Joko PS2 공개 20건·약 2.90/5 / Gavas PS2 일반 4.4/5·7건·Best 4.8/5·6건 / GF Great·7표 / PS2 개인8/10·1명 | 2026-10-21 PS2 공식 한국어·완성패치 미확인 / 2020 PC Essence+ LE 1.01용 준한국어 베타 v1.2 공개·일부 루트만 번역·미번역 5명·제작 중단 | 2004 PC 원작 → 2005 PS2 카레하·마유미 신규 루트·츠보미 → 2009 Essence+ 대폭 확장(부분 준한글) → 2016 PC 전연령 영어·2021 판매 종료 | 🟢 후보 |
+| [Sorairo no Organ: Remix (하늘색 풍금 ～Remix～)](games/sorairo-no-organ-remix.md) | 2005 | 사촌 찾기·이세계 여행·힐링 판타지 연애 비주얼노벨 | ⭐⭐⭐½☆ 3.5/5 | C | Joko PS2 4·4·4·3·4·3·4/5·7명(20~40h 자가보고) / Gavas 통상 3.8/5·6글(경험3·소개2·기대1) / PS2 장문 1.5/5·1명(중도 읽기 포기·프리징 보고) / Famitsu 점수 미표시 | 2026-10-24 PS2 SLPM-65848·2004 Windows PC 원작 공식 한국어판·실사용 가능한 공개 완성 한패 미발견 / 비공개·미색인 부재 단정 불가 | PC 2004 성인 원작·무보이스 → PS2 2005 Remix 신규 CG·스토리 가필·주요인물 음성·CERO C / 통상 SLPM-65848·음악CD 초회 SLPM-65847 / 25장·단일 엔딩 직접 후기 1명 | 🟢 PSP 아닌 PS2 활성 C급·2026-10-24 품질 평가보류 해제 |
 | [AIR (에어)](games/air.md) | 2002 | 여름·가족·전기 VN·나키게 | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | Gavas PS2 4.9/5·7명 / Joko PS2 직접 후기 다수 / 작품 통합 MobyGames 85%·평론 2건 | 2026-10-17 ANIS v1.2.0 PS2 SLPS-25127 베타 / 78 스크립트 번역·Play! 초반 확인 / 엔딩·실기 미검수 / PC SE·ME 기존 패치 | 2000 PC → 2001 DC → 2002 PS2 주인공 보이스 → 2007 PSP → 2016 Vita First Sky → 2021 Switch·2025 Steam HD | 🟡 기존 PC·콘솔 공개 한글패치 확인·신규 한글화 활성 제외 |
 | [ToHeart (투하트) · PS2 1편 한정판](games/toheart.md) | 2004 | 학원 일상·청춘 연애 ADV | ⭐⭐⭐⭐☆ 4.0/5 | 미부여 | PS1 GameFAQs 3.5/5·16명·22.3h/13명 (계보 참고) / 일본 게임카탈로그 良作 / PS2 독립 정량평 부족 | 2026-10-17 PS1·PS2·PSP 완성 유저패치 미확인 / 2025 Steam 리메이크 '본편 부분' 공개 한국어 팬패치·콘솔 호환성·전 루트 완역 미검증 | 1997 PC 원작 → 1999 PS1 전연령 개작 → 2003 PSE → 2004 PS2 1편 디럭스팩 → 2009 PSP W팩·2011 단품 → 2025 Steam·Switch 리메이크 | 🟡 타 판본 한국어 대안 범위 검증 보류·작품성 평가 보존 |
 | [Flower, Sun, and Rain (꽃과 태양과 비)](games/flower-sun-and-rain.md) | 2001 | 초현실 시간 루프·숫자 퍼즐·미스터리 탐색 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | PS2 GameFAQs Great·6표·12h/4명 / Joko 다수 호불호 후기 / DS Metacritic 54/100·37매체는 **DS 별도** | **2026-09-01 PS2 DEV11 한글패치 공개** / 가이드북 번역·그래픽 렌더링 주의 / 완역·전 엔딩·현행 실사용 미검증 | 2001 PS2 원본 SLPS-25034 / 2008 DS 재구축·터치·50개 이상 추가 퍼즐 / DS 공식 영어판 있음 | 🟡 PS2 한글패치 DEV11 존재·완성/실사용 검증 보류·신규 한글화 활성 제외 |
@@ -271,3 +272,13 @@ PS2 원판 실제 사진 [인게임 대화](https://www.gavas.jp/upload/save_ima
 ## 2026-10-23 《최종전차》 2002 PS2 판본 작품성 미달·공개 패치 보존
 
 [2002 PS2 상세 평가](games/saishuu-densha.md)는 **⭐⭐⭐☆☆ 3.0/5·자체 편집 6.5/10·순위 미산정**. [PS2 Joko 11건](https://www.joko.jp/ps2/review/ti229.html)의 단순평균 3.45/5·[PS1/PS2 버전 전문 비교](https://w.atwiki.jp/gcmatome/pages/65.html)는 돌비5.1·작은 새 시공 종장과 함께 본문 고속 넘기기·영상 스킵 미개선·CG/BGM 편차를 기록한다. [PS2 mkasu 2026-10-03 국내 팬 한글패치](https://retrodb.info/krpatch/4550/%EC%B5%9C%EC%A2%85%EC%A0%84%EC%B0%A8) 공개 이력은 확인되지만 원본 링크 410으로 지원 디스크·대사/추가 종장 완역·PCSX2/실기·엔딩 미검증. **3.5 작품성 기준 미달·기존 팬패치 존재**로 신규 번역 활성 제외 및 우선도 미부여. PS2 보존 **50→51**·💎 9·A 6 유지, 웹 평가 75→76, 기존 게임 점수·찜·역사 순위 보존.
+
+## 2026-10-24 《Sorairo no Organ: Remix / 하늘색 풍금》 PS2 C급 활성 평가·출처 재검증
+
+[기존 PS2 2005 작품 상세](games/sorairo-no-organ-remix.md)의 **7.0/10·현행 리뷰 공동 56위·기존 희망 우선도 C**를 보존하고, 예전 '작품성 미확정(자료 보류)'을 새 **⭐⭐⭐½☆ 3.5/5**로 재판정해 동일 게임을 한글화 **C급 활성 기존 목록**으로 복귀했다. [Joko PS2 실제 리뷰 7명](https://www.joko.jp/ps2/review/ti1563.html)의 독립 점수는 4·4·4·3·4·3·4점(평균 26/7 ≈ 3.71/5), [Gavas PS2 통상 3.8/5·6글](https://www.gavas.jp/products/detail.php?product_id=14090)은 실경험3·제품 소개2·발매 기대1로 구별했다. [PS2 직접 장문 1.5/5](https://120en.net/soraironoorugan.html)는 **전 25장·기본 엔딩 1개 / 중도 독서 중단·프리징 경험**을 밝혔고, 실제 Joko 후기도 결말 하나뿐인 선형 이야기를 반복 지적한다. **편안한 세계/배경음악·주요 캐릭터 성우** 호평과 독립 엔딩·반복 변화 부족/프리징 제보의 약점을 함께 반영해 작품성 3.5점으로 확정했으며 4.0점 상향 근거는 부족하다.
+
+[2004 THE LOTUS PC 원작](https://www.mobygames.com/game/65106/sorairo-no-organ-remix/)에서 [2005-07-07 Princess Soft PS2 Remix](https://mediaworld.co.jp/products/10402215001)로 이식하면서 **새 CG·시나리오 보강·성인 요소 조정·주요 등장인물 보이스 추가**가 있었다. PS2 일반 **SLPM-65848**, 초회 한정 **SLPM-65847**은 음악 Remix CD라는 패키지 특전으로 구별한다. 게임 자체는 히로인별 정식 멀티 엔딩이라는 검증 근거가 없고 실플레이에서는 **단일 결말**로 지적됐다. [Famitsu PSP 아닌 PS2 본편](https://www.famitsu.com/game/title/10887/page/1)의 평균 '-': 전문 채점이 미표시로 확인되어 임의 점수를 만들지 않았다.
+
+2026-10-24 PC 원작·PS2 강화 이식의 **공식 한국어판·실사용 완료 한국어 팬패치는 공개 검색에서 확인되지 않았다**. 미공개·미색인 패치의 부재까지 증명하지 않으며, 다른 Sorairo 타이틀의 한국어 콘텐츠를 혼동하지 않는다. 실제 DVD 아카이브/폰트/이벤트·세이브 동작을 직접 분석하지 않아 기술 난도 **미확인**. 실제 PS2 화면 3개는 [대화·인물](https://www.mobygames.com/game/65106/sorairo-no-organ-remix/screenshots/ps2/708224/) / [장면](https://www.mobygames.com/game/65106/sorairo-no-organ-remix/screenshots/ps2/708254/) / [설정 UI](https://www.mobygames.com/game/65106/sorairo-no-organ-remix/screenshots/ps2/708220/)에 각각 연결했고 그림 원본은 GitHub에 복제하지 않았다.
+
+**PS2 등록 보존 51→52 / 기존 우선 💎 9·🔥 A 6 유지.** PS2 전체 리뷰의 동일 1행만 후보군→기존 목록으로 이동하고 7.0점·역사 공동 56위·찜 키는 유지한다. 다른 PS2 게임·기종/집계·원본 Pages URL·사이트 스크립트 불변.
