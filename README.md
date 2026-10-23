@@ -13,12 +13,15 @@
 |---|---:|---:|---:|---|
 | PlayStation 1 | 5 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
 | PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
-| PlayStation Portable | 70 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
+| PlayStation Portable | 71 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-23 PSP 《오니곳코! 포터블 / 술래잡기!》 기존 활성 B급 복귀:** [2013 일본 PSP 게임 상세](platforms/psp/games/onigokko-portable.md) 작품성 **⭐⭐⭐½☆ 3.5/5·리뷰 6.8/10·과거 공동 101위**를 보존하고 2026-10-04 기본 후보 정원 압축으로 예비에 있던 동일 게임을 [PSP B급 기본 목록](platforms/psp/README.md)에 복귀시켰다. [Famitsu PSP 25/40·4인](https://www.famitsu.com/game/title/28731/reviews), [Bangumi PSP 6.7/10·6명](https://bangumi.tv/subject/141859), [2013-08-01 제작사 공식 v1.01 2회차 진행 버그 수정·선택지 점프](https://www.gamer.ne.jp/news/201308010082/)를 직접 확인했다. PSP에서 추가된 나즈나 루트·원작 감수 기존 시나리오 가필·CG·새 OP를 구작 PC 영어판과 구분한다. **2026-10-23 PSP·2011 PC 원작·2021 공식 영어 PC판에서 검증된 공개 한국어 완성판 미발견**, 제목만 일치하는 번역 게시물은 ALcot 동일 게임 여부 미확인으로 오인하지 않는다. 새 작품 파일이나 리뷰 행은 만들지 않고 기존 한 행을 후보군→기존 목록으로 옮겨 **PSP 보존 70→71 / 활성 47→48 / 우선 💎 5·한글화 A 3·전체 리뷰 130건 유지**. 역사 순위·찜 ID, 타 플랫폼·Pages URL·사이트 코드 불변.
+
 
 > **2026-10-23 《엑스블레이즈 코드: 엠브리오》 PS3 예비 C급 판정 재검증:** 이미 등록된 [2013년 PS3 상세 평가](platforms/ps3/games/xblaze-code-embryo.md) **작품성 ⭐⭐⭐½☆ 3.5/5·한글화 C급·개인 7.1/10·2026-10-08 기존 전체 34위**를 유지했다. [Arc System Works FAQ](https://www.arcsystemworks.jp/support/xblaze.html)에서 PS3·Vita의 게임 내용 동일·세이브 공유 불가를, [2013-10-17 공식 업데이트](https://www.arcsystemworks.jp/xblaze/sp/information/)에서 TOi/A.O.S. 재열람·스태프롤 스킵 등을 확인했다. [Famitsu PS3 30/40](https://www.famitsu.com/game/title/28555/reviews)·[GameFAQs PS3 Good·59명](https://gamefaqs.gamespot.com/ps3/712278-xblaze-code-embryo)과 [Vita 메타크리틱 43/100](https://www.metacritic.com/game/xblaze-code-embryo/critic-reviews/)은 별도로 평가했다. [Steam PC 공식](https://store.steampowered.com/app/421610/XBlaze_Code_Embryo/?l=koreana)은 한국어를 지원하지 않고, 2026-10-23 PS3·Vita·PC의 공식 한국어판 및 공개 완성 팬패치 미발견. 기존 [PS3 예비](platforms/ps3/reserve.md) 동일 1행과 상세 문서만 최신화했으며 **PS3 기본 30·예비 32·전체 62·💎 4·A급 0**, 역사 55개 리뷰 원장·찜 식별자·다른 플랫폼 집계·모든 Pages 진입 링크를 보존했다.
 
