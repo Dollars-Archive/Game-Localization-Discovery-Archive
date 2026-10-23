@@ -12,13 +12,16 @@
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
 | PlayStation 1 | 7 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
-| PlayStation 2 | 51 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 2 | 52 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 71 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-24 PS2 《하늘색 풍금 ～Remix～》 3.5점 판정 확정·C급 활성 복귀:** [2005 PrincessSoft SLPM-65848 상세 평가](platforms/ps2/games/sorairo-no-organ-remix.md)는 기존 10점 리뷰 **7.0/10·현행 역사 공동 56위**를 보존하고 **⭐⭐⭐½☆ 3.5/5·한글화 C급**으로 재평가했다. [Joko PS2 이용자 7명(4·4·4·3·4·3·4/5)](https://www.joko.jp/ps2/review/ti1563.html)은 이세계/음악/감성적 여정·주요 캐릭터 보이스를 호평하면서도 **결말 하나와 선택지 영향 부족**을 반복 비판했다. [Gavas 일반판 3.8/5·6글](https://www.gavas.jp/products/detail.php?product_id=14090)은 직접 경험3·제품설명2·출시기대1을 구분하고, [PS2 장문 1.5/5·한 명](https://120en.net/soraironoorugan.html)은 25장·단일 결말·중간 독서 포기 및 프리징 제보로 독립 비판 자료로 반영했다. 2004 PC 원작과 2005 PS2 증보판의 새로운 CG·서사·주요인물 신규 녹음 및 [초회 한정 음악CD](https://www.mobygames.com/game/65108/sorairo-no-organ-remix-shokai-genteiban/)를 구분했다. 2026-10-24 **PS2·PC 동일 본편 공식 한국어판 또는 실사용 검증 완료 한국어 패치 공개 근거 미발견**, 기술 난도 미분석. 기존 PS2 전체 리뷰의 같은 한 행만 **후보군→기존 목록**으로 이동시켰고 **PS2 등록 51→52 · 💎 9 · A 6 / 작품 리뷰 76행 유지**. 다른 게임의 점수·찜키·역사 순위·다른 플랫폼 및 Pages URL·사이트 코드는 보존했다.
+
 
 > **2026-10-24 PS3 《터치, 하자! -Love Application-》 예비 B급 재검증:** [기존 2012 PS3 상세 평가](platforms/ps3/games/touch-shot-love-application.md) **⭐⭐⭐½☆ 3.5/5·한글화 B급·개인 7.0/10·역사 42위** 모두 유지. [2012-02-01 CFK 한글화 추진 불발·일본어판 국내 발매 직접 설명](https://www.gamemeca.com/view.php?gid=6539)을 통해 한국 정발판 **BLKS-20357은 비한글**임을 확인했다. [게임 코드와 일본 한정판·2013 CH Selection](https://gamefaqs.gamespot.com/ps3/644811-touch-shot-love-application/data), [Famitsu PS3 29/40](https://www.famitsu.com/game/title/24883/reviews), [2012 일본 PS3 직접 플레이](https://otakunokouta.seesaa.net/article/201203article_20.html)를 대조하고 [나츠 700엔 유료 시나리오·Satori 무제한 300엔 당시 DLC](https://blog.livedoor.jp/togurotogenkai/archives/67429077.html)를 별도 검수 대상으로 보강했다. 2026-10-24 공식 한국어 후발판 및 검증된 공개 완성 한글패치는 미발견. **기존 예비 동일 1행만 갱신**, PS3 기본 **30개·예비 33개·총 63개·💎 4·A 0**, 개인 7.0/42위·다른 게임 점수·찜 ID·모든 Pages URL 불변.
 
