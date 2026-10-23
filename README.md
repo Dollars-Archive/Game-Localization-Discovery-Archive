@@ -11,14 +11,16 @@
 
 | 플랫폼 | 등록 후보 | 발굴 우선 후보 | 한글화 A급 후보 | 바로가기 |
 |---|---:|---:|---:|---|
-| PlayStation 1 | 6 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
-| PlayStation 2 | 50 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
+| PlayStation 1 | 7 | 0 | 0 | [PS1 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps1) |
+| PlayStation 2 | 51 | 9 | 6 | [PS2 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps2) |
 | PlayStation Portable | 71 | 5 | 3 | [PSP 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psp) |
 | PlayStation Vita | 38 | 7 | 3 | [PS Vita 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=psvita) |
 | PlayStation 3 | 30 | 4 | 0 | [PS3 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) |
 | Dreamcast | 33 | 2 | 1 | [Dreamcast 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=dreamcast) |
 | Nintendo DS | 9 | 0 | 0 | [DS 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ds) |
 | Nintendo Switch | 28 | 7 | 0 | [Switch 후보 보기](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=switch) |
+
+> **2026-10-23 《최종전차》(最終電車) PS1·PS2 기종별 조사:** [1998 PS1 상세](platforms/ps1/games/saishuu-densha.md) **⭐⭐⭐½☆ 3.5/5·별도 신규 7.0/10**과 [2002 PS2 상세](platforms/ps2/games/saishuu-densha.md) **⭐⭐⭐☆☆ 3.0/5·별도 신규 6.5/10**을 각각 평가했다(기존 역사 순위 미산정). [PS1 Gavas 3.8/5·6건](https://www.gavas.jp/products/detail.php?product_id=9248), [PS2 Joko 11건](https://www.joko.jp/ps2/review/ti229.html), [PS1·PS2 추가 종장·음향/영상 이식 품질](https://w.atwiki.jp/gcmatome/pages/65.html)을 비교. [mkasu 2026-10-03 PS2 한글패치](https://retrodb.info/krpatch/4550/%EC%B5%9C%EC%A2%85%EC%A0%84%EC%B0%A8)는 공개 기록이 있으나 배포 원본 410으로 완역·대상 디스크·전 엔딩·PS1 실행 호환 미검증. PS1은 PS2 동일 시나리오 한국어 대안 검증 보류, PS2는 3.0점 등록선 미달 및 자체 한국어 패치 기록으로 **신규 번역 활성 제외, 두 판본 A/B/C 미부여**. PS1 **보존 6→7 / 기본 평가 5→6 / 활성 번역 2 유지 / 리뷰 6→7**, PS2 **보존 50→51·💎 9·A 6 유지 / 리뷰 75→76**. 사용자가 제시한 장르군 **6.5점·공동216위·중간 신뢰도**는 플랫폼별 기존 역사 순위로 옮기지 않았다. 기존 《쿠델카》 등 타 작품의 평가·찜 및 8개 GitHub Pages 진입 URL을 보존했다.
 
 > **2026-10-23 PS1 《Koudelka / 쿠델카》 1999 작품성 평가와 2026 공개 한국어 패치 확인:** [PS1 상세](platforms/ps1/games/koudelka.md)를 **⭐⭐⭐½☆ 3.5/5·사용자 제공 6.5/10·장르군 공동 149위/중간 신뢰도(PS1 역사 순위 아님)**로 기록했다. [MobyGames PS1 전문매체 65/100·36개 리뷰](https://www.mobygames.com/game/5387/koudelka/), [GameSpot 6.7/10](https://www.gamespot.com/reviews/koudelka-review/1900-2548050/), [RPGFan 60/100](https://www.rpgfan.com/review/koudelka/)와 [RPGamer 3.5/5](https://archive.rpgamer.com/games/koudelka/koud/reviews/koudstrev1.html)를 대조해 성숙한 고딕/성우·서사와 느린 랜덤 그리드 전투/무기 파손·저장/장비 UI의 장단점을 평가했다. **[2026-09-17 제작자 공개 PS1 일본판 한글패치](https://pyapyapya11.tistory.com/2460)**는 **DuckStation 0.1-11826에서 엔딩까지 구동**했다는 기록과 일본판 CD 4장 MD5가 있다. 아이템 이름 수정 입력 UI는 일부 미번역이고 원 PS1 실기는 미검증. [한글로게임 9/17 PS / 쿠델카 / 퍄퍄퍄퍄](https://www.hangulogame.com/console/)도 대조했다. 따라서 **신규 한글화 활성 제외 · 우선도 미부여**로 [PS1 기본 작품 평가](platforms/ps1/README.md)에 한 행만 추가하고 [전체 PS1 평가](platforms/ps1/recommendations.md)에 6.5/10·역사 순위 미산정으로 연결했다. **PS1 보존 5→6 / 기본 작품 표시 4→5 / 실제 신규 번역 활성 2건(B 1·C 1) · 우선 💎 0·A 0 유지**. 기존 PS1 5작품의 점수·순위·찜 ID와 타 플랫폼·Pages 원래 진입 링크·사이트 스크립트 무변경.
 
