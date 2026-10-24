@@ -3,7 +3,7 @@
 PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토하고, 별도의 개인 추천점수로 비교합니다.
 
 > 조사 기준일: **2026-10-17** (기존 개인 점수 55작품 재평가는 10-08 원본 유지)  
-> 기록 보존: **63개** / 기본 선정: **30개** / 예비 기록: **33개**  
+> 기록 보존: **64개** / 기본 선정: **30개** / 예비 기록: **34개**  
 > 선정 작품성 4.0 이상: **4개** / 선정 우선도 A 0 · B 16 · C 13 · 작품 평가만 표시(우선도 미부여) 1개
 
 [← 전체 아카이브](../../README.md) · [PS3 선정 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3) · [예비 목록](https://dollars-archive.github.io/Game-Localization-Discovery-Archive/?platform=ps3&view=reserve) · [55작품 점수와 조사 근거](reassessments/2026-10-08-personal-top-30.md)
@@ -77,9 +77,9 @@ PS3 한글화 후보를 작품성·한국어 접근성·판본 가치로 검토�
 
 | 항목 | 현재 |
 |---|---:|
-| 보존 기록 | 60 |
+| 보존 기록 | 64 |
 | 기본 선정 후보 | 30 |
-| 예비 기록 | 30 |
+| 예비 기록 | 34 |
 | 선정 작품성 4.0 이상 | 4 |
 | 선정 한글화 우선도 A | 0 |
 | 선정 한글화 우선도 B | 16 |
@@ -164,3 +164,9 @@ PS3 기본 30개·기본 선정 작품성 4.0 이상 4개·선정 한글화 A 0/
 ## 2026-10-24 《Touch, Shot! Love Application》 PS3 기존 예비 B급 한국어화 재검증
 
 [PS3 2012년 상세 평가](games/touch-shot-love-application.md)·[기존 예비 한 행](reserve.md)의 **3.5/5·한글화 B·개인 7.0/10·역사 42위**는 모두 유지했다. [2012년 한국 CFK 담당자 직접 설명](https://www.gamemeca.com/view.php?gid=6539)에서 한국어 번역을 추진하다 성사되지 않아 **한국판 BLKS-20357을 일본어 그대로 동시 발매**했음을 확인했다. [2012 국내 출시/일본 제품 코드](https://gamefaqs.gamespot.com/ps3/644811-touch-shot-love-application/data), [Compile Heart PS3 독점·2013 CH Selection](https://www.compileheart.com/spec/?hard=ps3&title=touchshot)도 교차 검증. 2026-10-24 동일 본편 공식 한국어 후발판·공개 완성 유저 패치 미발견. [Famitsu PS3 29/40 네 편집자](https://www.famitsu.com/game/title/24883/reviews)와 [2012 PS3 직접 플레이 후기](https://otakunokouta.seesaa.net/article/201203article_20.html)에서 3D·Satori 장점과 반복/엔딩 조건 단점을 분리했다. 기본 4명 외 [당시 유료 나츠 공략 DLC·Satori 사용 제한 해제](https://blog.livedoor.jp/togurotogenkai/archives/67429077.html)는 별도 QA 대상이며 현행 구매 가능 여부 미확인. **PS3 기본 선정 30개 유지 / 예비 33·총 63·💎4·A급0 불변**, 2026-10-08 55작품 점수·찜·다른 플랫폼 평가와 Pages 바로가기 보호.
+
+## 2026-10-24 《Harem Tengoku da to Omottara Yandere Jigoku Datta.》 PS3 작품성 3.0/5 예비 신규 기록
+
+[2014년 PS3 게임 상세 조사](games/harem-tengoku-da-to-omottara-yandere-jigoku-datta.md)는 **작품성 ⭐⭐⭐☆☆ 3.0/5·자료 기반 잠정 6.2/10·기존 2026-10-08 PS3 역사 점수/순위 미산정**으로 보존하였다. [일본 원본 GameFAQs](https://gamefaqs.gamespot.com/ps3/777562-harem-tengoku-da-to-omottara-yandere-jigoku-datta/data)는 2014-04-24·**BLJS-10266 패키지/NPJB-00576 PSN·CERO D** 발매를 확인한다. [Famitsu PS3 4명 27/40](https://www.famitsu.com/game/title/30251/reviews)의 두드러진 장르 전환 칭찬과 선택·루트 결말 아쉬움, [2014 PSP 아닌 PS3 직접 전엔딩 비평 2.6/5](https://chulip.org/entry/2014/04/27/204633), [2015 3루트·27트로피 7h41](https://ameblo.jp/junkjunkgame/entry-12110593906.html)의 비판, [2021 전엔딩 직접 극찬](https://note.com/yamaoyamanobe/n/n4cd08bfa9bdb)의 오컬트 공포 매력을 분리 평가했다. [GameFAQs Fair 7명·32h/5명](https://gamefaqs.gamespot.com/ps3/777562-harem-tengoku-da-to-omottara-yandere-jigoku-datta)의 극소 표본도 자료의 한계로 명시했다. 2026-10-24 PS3·후발 직접 이식의 공식 한국어 및 공개 검증 가능한 완성 한글패치 미발견, 다른 이름·일반 한국어 소개를 번역판으로 오인하지 않았다.
+
+**PS3 작품성 3.5점 등록선 미달로 신규 한글화 활성 A/B/C를 부여하지 않는다.** [PS3 예비](reserve.md)에 비활성 평가 1행을 추가해 동일 게임 점수를 검색·찜할 수 있게 했고, **현재 선정 30개·기존 💎 4·A 0 변동 없이 보존 63→64, 예비 33→34**로 조정한다. 보존 집계의 오래된 현재 상태표도 최신 실제 행 수와 동기화했다. 기존 55작품 역사 점수·순위 원장, 30개 기본 목록, 다른 게임 찜 키, 다른 기종 및 Pages 링크·코드 불변.
