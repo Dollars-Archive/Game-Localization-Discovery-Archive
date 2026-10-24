@@ -2,7 +2,7 @@
 
 **Nintendo DS 실발매 게임**의 작품성·한국어 접근성·판본 고유 기능을 확인하고 한글화 후보를 평가하는 아카이브입니다.
 
-> 조사 기준: **2026-10-22 KST** / 보존 기록 **9개** / 활성 한글화 후보 **2개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **2개** / C급 **0개**
+> 조사 기준: **2026-10-24 KST** / 보존 기록 **10개** / 활성 한글화 후보 **2개** / 활성 💎 우선 후보 **0개** / 🔥 A급 **0개** / B급 **2개** / C급 **0개**
 >
 > 신규 **한글화 활성 후보** 등록 기준은 작품성 **3.5/5 이상**입니다. 웹 기본 작품 평가에는 **🔴 기준 미달 검토 기록**이나 🟡 검증 보류가 함께 표시될 수 있지만, 이는 활성 번역 후보 승인이 아닙니다. 별점·10점 리뷰 평가·우선도는 별개이며 게임 파일 미분석 시 기술 난이도는 미확인으로 유지합니다.
 
@@ -21,6 +21,7 @@
 | [Golden Sun: Dark Dawn (황금의 태양: 칠흑의 새벽)](games/golden-sun-dark-dawn.md) | 2010 | 원소 퍼즐·진 수집/직업 조합·턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | Famitsu DS 33/40·4명 / Metacritic DS 79/100·63매체 / RPGFan 86/100·1명 / GameSpot 7.5/10 / Nintendo Life 8/10 / GameFAQs 3.95/5·2181명 | 2026-10-17 DS Dansic 팬패치 v0.8.1 RetroDB 공개 기록·v0.8 10/14 공개 / 완역·ROM 지역판·실기 검증 미확인 / 공식 한국어판 미확인 | 2010 일본 DS NTR-B05J / 북미·유럽 영어 DS 동시대 현지화 / 2001·2002 GBA 1·2편의 30년 후 정식 후속작·리메이크 아님 / DS 후발 정식 이식 미확인 | 🟡 DS 공개 유저 한국어패치 v0.8.1 존재·완역/실사용 검증 보류·신규 한글화 활성 제외 |
 | [Rondo of Swords / Itsuwari no Rondo (거짓의 윤무곡 / 이츠와리노 론도)](games/rondo-of-swords-itsuwari-no-rondo.md) | 2007 / 한국 2008 | 이동 경로 공격·고난도 분기형 판타지 턴제 SRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | DS Metacritic 69/100·13매체 / GameFAQs Good·241표·33h/62명 / NWR 8/10 / RPGamer 4/5 / WorthPlaying 6.7/10 | **2008-02-21 《거짓의 윤무곡》 국내 정식 완전 한글화 발매 확정** / 2008-01-18 유통사 번역완료 확인 / 공개 패치 신규 제작 불필요 | 2007 일본 《偽りの輪舞曲》 → 2008-02-21 한국 《거짓의 윤무곡》 정식 한국어판 → 2008-04-15 북미 《Rondo of Swords》 영어판 / 동일 DS 본편 | 🟡 공식 한국어판 존재·신규 한글화 활성 제외·작품 평가 보존 |
 | [Nostalgia / Nostalgeo no Kaze (노스탤지오의 바람)](games/nostalgia-nostalgeo-no-kaze.md) | 2008 | 19세기 비행선·세계 탐험·지상/공중 턴제 JRPG | ⭐⭐⭐½☆ 3.5/5 | 미부여 | DS Famitsu 30/40·4명 / Metacritic 72/100·36매체 / GameFAQs 3.72/5·389명 / Nintendo Life 9/10 / GameSpot 6/10 | 흐음 제작 NDS 한국어 v0.81 2026-10-14 배포 기록·v0.8 10-11 / 원 배포처 410·완역·지원 지역판·실기/엔딩 미검증 | 일본 DS 2008 NTR-CJKJ / 미국 DS 2009 NTR-CJKE 공식 영어판 / 현대 정식 직접 이식 미확인 | 🟡 NDS 팬 한글패치 v0.81 공개·완역/실사용 검증 보류·신규 번역 활성 제외 |
+| [Keiji J.B. Harold no Jikenbo: Murder Club (형사 J.B. 해롤드의 사건부: 머더 클럽)](games/keiji-jb-harold-no-jikenbo-murder-club.md) | 2008 | 고전 하드보일드·대화 탐문·증거 감식 미스터리 ADV | ⭐⭐⭐½☆ 3.5/5 | 미부여 | DS Bangumi 6.5/10·19표 / 4Gamer 독자 60/100·1명 / GameFAQs Great·13표·36시간/6명 | 2015-03-21 천재짱천재 DS v1.0 공개·대사 100%·그래픽 90%·수정 후 Sequel까지 제작자 시험 / 적용 ROM·현재 패치 파일 직접 미검증 | 1986 PC-9801 원작 → 2008 DS 재작화·터치 지도·인물 관계도·힌트·후일담 Sequel 추가 / 2008 DS 다른 사건 합본은 별도 제품 | 🟡 동일 DS 한국어 패치 존재·새 번역 활성 제외·기본 작품 평가 보존 |
 
 ## 2026-10-17 《황금의 태양: 칠흑의 새벽》 DS 작품 평가와 유저패치 기록
 
@@ -81,3 +82,8 @@ DS **보존/기본 표시 4→5개**, **활성 한글화 후보 1·활성 💎 0
 ## 2026-10-22 《Nostalgia / 노스탤지오의 바람》 DS 한글패치 v0.81 발견·작품 평가 보존
 
 [2008년 Nintendo DS 상세 분석](games/nostalgia-nostalgeo-no-kaze.md)을 **작품성 ⭐⭐⭐½☆ 3.5/5·새 자료 기반 리뷰 7.5/10(역사 순위 미산정)**으로 등록했다. [일본 닌텐도 공식 2008-11-06](https://www.nintendo.co.jp/ds/software/cjkj/index.html), [Famitsu DS 30/40·4명](https://www.famitsu.com/game/title/4301/reviews), [Metacritic DS 72/100·36매체](https://www.metacritic.com/game/nostalgia-2009/critic-reviews/?platform=ds)와 [GameFAQs DS 3.72/5·389표](https://gamefaqs.gamespot.com/ds/950323-nostalgia/stats)를 대조해 비행선·세계 탐험·전투의 장점과 왕도 스토리·지상전 반복의 약점을 평가했다. [RetroDB #5800](https://retrodb.info/krpatch/5800/%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%98%A4%EC%9D%98-%EB%B0%94%EB%9E%8C)에서는 제작자 흐음의 **2026-10-11 v0.8·10-14 v0.81 한글패치 배포 이력**이 확인된다. 그러나 원 배포 링크는 410 Gone으로 실패했으며 실제 배포 파일·지원 ROM·번역 완성 범위·전 엔딩 구동은 미검증이다. 이에 **🟡 한국어 대안 검증 보류·신규 활성 번역 후보 제외·A/B/C 미부여**로 작품 평가를 기록. DS 보존 **8→9**, 기존 활성 **2·B 2·💎 0·A 0** 유지. 다른 DS 기존 작품과 기종별 기록·찜 및 사이트 코드는 변경하지 않았다.
+
+
+## 2026-10-24 《형사 J.B. 해롤드의 사건부: 머더 클럽》 DS 기본 작품 평가
+
+[2008 Nintendo DS 《殺人倶楽部》 상세 작품 평가](games/keiji-jb-harold-no-jikenbo-murder-club.md)를 **⭐⭐⭐½☆ 3.5/5·신규 편집 리뷰 7.0/10·역사 순위 미산정**으로 기록했다. [닌텐도 공식 2008-02-21 출시](https://www.nintendo.co.jp/ds/software/yvhj/index.html), [4Gamer DS 리메이크 및 후일담 Sequel 소개](https://www.4gamer.net/games/045/G004538/20080226029/), [Bangumi DS 6.5/10·19표](https://bangumi.tv/subject/362)와 [4Gamer 이용자 60/100·1명](https://m2.4gamer.net/games/045/G004538/index_userreview.html)을 판본별로 구분해 평가했다. [2015-03-21 한글패치 원 제작자 천재짱천재 v1.0 게시글](https://tjddms11.tistory.com/1)에 **대사 번역 100%, 그래픽 약 90%, 수정 후 Sequel까지 정상 플레이** 기록이 있다. 번역 오역 가능성·남은 그래픽과 현재 파일 호환성은 직접 미검증이다. 한국어 패치가 존재하므로 **🟡 신규 번역 활성 후보에서 제외·A/B/C 우선도 미부여**, 기본 작품 평가 **9→10건**, 활성 **2건(B급 2)·💎 0·A급 0** 유지. 기존 9작품·타 플랫폼·찜 식별자·Pages 진입 링크 및 사이트 코드는 보존했다.
